@@ -1,7 +1,7 @@
 ﻿747={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 748={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 755={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 756={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 757={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 916={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 917={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 918={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 2400={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 2401={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 2420={ #
 	terrain="forest"
 	culture="acadien"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2421={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 2893={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2894={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2895={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3051={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3052={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 3647={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3648={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3649={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3916={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3917={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3918={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3919={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 4196={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 4197={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 4198={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4266={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4267={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4268={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4368={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4369={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4370={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4887={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 4888={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4889={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5470={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 5471={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 5472={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 5633={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="gothic"
+	religion="ursuline"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 5634={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5635={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5636={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="gothic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5798={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 5799={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 7047={ #
 	terrain="forest"
 	culture="innu"
-	religion="mayan_pantheon"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 7048={ #
 	terrain="forest"
 	culture="innu"
-	religion="mayan_pantheon"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 7639={ #
 	terrain="farmland"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7640={ #
 	terrain="plains"
 	culture="montrealais"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 7641={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 7642={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 7816={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 7817={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 7818={ #
 	terrain="forest"
 	culture="innu"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 7979={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 7980={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 7981={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 8587={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 8588={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 8589={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 8904={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 8905={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 8906={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8907={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 9462={ #
 	terrain="hills"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 9463={ #
 	terrain="plains"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 9464={ #
 	terrain="farmland"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 9465={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

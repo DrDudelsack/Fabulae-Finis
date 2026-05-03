@@ -78,7 +78,7 @@
 
 2789={ #
 	terrain="hills"
-	culture="buckeye"
+	culture="upstater"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 2790={ #Attica
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 2791={ #Wellsville
 	terrain="hills"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 4983={ #
 	terrain="forest"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 6593={ #Pomfret
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 6594={ #Gowanda
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="maple"
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 6595={ #Hamburg
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 8590={ #Clarence
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 8591={ #Lockport
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 8592={ #Buffalo
 	terrain="farmland"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="iron"
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 8593={ #
 	terrain="hills"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="stone"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 11644={ #
 	terrain="forest"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

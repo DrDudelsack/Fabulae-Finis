@@ -509,7 +509,7 @@
 	terrain="farmland"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

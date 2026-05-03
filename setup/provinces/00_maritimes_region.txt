@@ -1,7 +1,7 @@
 ﻿48={ #
 	terrain="hills"
 	culture="acadien"
-	religion="mervivant"
+	religion="gothic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 7367={ #
 	terrain="hills"
 	culture="acadien"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

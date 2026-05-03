@@ -1,7 +1,7 @@
 ﻿203={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="americanist"
+	religion="ursuline"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 204={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -26,9 +26,9 @@
 
 612={ #
 	terrain="plains"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -39,9 +39,9 @@
 
 613={ #
 	terrain="plains"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -52,7 +52,7 @@
 
 614={ #
 	terrain="forest"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
 	trade_goods="wood"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 615={ #
 	terrain="forest"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -92,8 +92,8 @@
 1099={ #
 	terrain="mountain"
 	culture="vermonter"
-	religion="catholic"
-	trade_goods="wood"
+	religion="americanist"
+	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -105,8 +105,8 @@
 1100={ #
 	terrain="mountain"
 	culture="vermonter"
-	religion="catholic"
-	trade_goods=""
+	religion="ursuline"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -118,7 +118,7 @@
 1101={ #
 	terrain="plains"
 	culture="vermonter"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -130,7 +130,7 @@
 
 1690={ #
 	terrain="hills"
-	culture="upstater"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods="fur"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 1691={ #
 	terrain="hills"
-	culture="pocono"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 1692={ #
 	terrain="plains"
-	culture="pocono"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
@@ -169,8 +169,8 @@
 
 1758={ #
 	terrain="plains"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1759={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
@@ -195,8 +195,8 @@
 
 1760={ #
 	terrain="plains"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -208,8 +208,8 @@
 
 1761={ #
 	terrain="plains"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -221,8 +221,8 @@
 
 1762={ #
 	terrain="plains"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 1768={ #
 	terrain="mountain"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1769={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 1770={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 2312={ #
 	terrain="mountain"
 	culture="hudsonian"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 2313={ #
 	terrain="mountain"
 	culture="hudsonian"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -299,8 +299,8 @@
 
 2314={ #
 	terrain="mountain"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -365,8 +365,8 @@
 3103={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
-	trade_goods=""
+	religion="promethean"
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -378,7 +378,7 @@
 3104={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,8 +391,8 @@
 3105={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
-	trade_goods=""
+	religion="clairvoyant"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="hills"
 	culture="pocono"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="hills"
 	culture="pocono"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -430,7 +430,7 @@
 3469={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 3470={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 3471={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5191={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,8 +521,8 @@
 5192={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
-	trade_goods=""
+	religion="clairvoyant"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -534,7 +534,7 @@
 5193={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
@@ -574,7 +574,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -586,8 +586,8 @@
 5712={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
-	trade_goods=""
+	religion="ursuline"
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -599,7 +599,7 @@
 5713={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -611,7 +611,7 @@
 
 5776={ #
 	terrain="hills"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
 	trade_goods="wood"
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 5777={ #
 	terrain="hills"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -652,7 +652,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="gothic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -729,7 +729,7 @@
 6678={ #
 	terrain="farmland"
 	culture="hudsonian"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -742,8 +742,8 @@
 6679={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
+	religion="ursuline"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -755,8 +755,8 @@
 6680={ #
 	terrain="farmland"
 	culture="hudsonian"
-	religion="catholic"
-	trade_goods=""
+	religion="ursuline"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -781,8 +781,8 @@
 6850={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
-	trade_goods=""
+	religion="promethean"
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -794,7 +794,7 @@
 6851={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 6852={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 6853={ #
 	terrain="farmland"
 	culture="upstater"
-	religion="catholic"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -834,7 +834,7 @@
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -858,7 +858,7 @@
 
 7053={ #
 	terrain="hills"
-	culture="upstater"
+	culture="haudenosaunee"
 	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10
@@ -873,7 +873,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods="wood"
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -885,7 +885,7 @@
 7825={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 7826={ #
 	terrain="plains"
 	culture="vermonter"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -910,7 +910,7 @@
 
 7968={ #
 	terrain="plains"
-	culture="pocono"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -962,8 +962,8 @@
 
 8565={ #
 	terrain="plains"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -975,9 +975,9 @@
 
 8566={ #
 	terrain="plains"
-	culture="upstater"
-	religion="americanist"
-	trade_goods=""
+	culture="hudsonian"
+	religion="clairvoyant"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -989,7 +989,7 @@
 9360={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1053,8 +1053,8 @@
 
 9488={ #
 	terrain="plains"
-	culture="upstater"
-	religion="catholic"
+	culture="hudsonian"
+	religion="clairvoyant"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1068,7 +1068,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1079,9 +1079,9 @@
 
 9490={ #
 	terrain="hills"
-	culture="upstater"
-	religion="catholic"
-	trade_goods=""
+	culture="hudsonian"
+	religion="clairvoyant"
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

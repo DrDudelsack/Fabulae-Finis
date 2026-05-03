@@ -4,17 +4,15 @@ NYC = { #New York
 	color1 = "offwhite"
 	color2 = "offwhite"
 	
-	#colored_emblem = {
-	#	texture = "ce_beaver.dds"
-	#	color1 = "blue"
-	#	color2 = "blue"
-	#	instance = { position = { 0.5 0.225 } scale = { 0.3 0.3 }  }
-	#	instance = { position = { 0.5 0.775 } scale = { 0.3 0.3 }  }
-	#}
+	colored_emblem = {
+		texture = "ce_beaver.dds"
+		color1 = rgb { 28 94 164 }
+		instance = { position = { 0.5 0.225 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.775 } scale = { 0.3 0.3 }  }
+	}
 	colored_emblem = {
 		texture = "ce_barrel.dds"
 		color1 = rgb { 28 94 164 }
-		color2 = rgb { 28 94 164 }
 		instance = { position = { 0.225 0.5 } scale = { 0.2 0.2 }  }
 		instance = { position = { 0.775 0.5 } scale = { 0.2 0.2 }  }
 	}
@@ -996,5 +994,40 @@ TUC = { #Tucson
 		texture = "ce_star_05.dds"
 		color1 = "offwhite"
 		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
+	}
+}
+
+HUD = { #Hudson Valey
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 145 30 49 }
+	color2 = rgb { 28 94 164 }
+	colored_emblem = {
+		texture = "ce_grain_pair.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_border_simple_square_thick.dds"
+		color1 = "light_blue"
+	}
+}
+
+SRY = { #Syracuse flag from vanilla
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = rgb { 72 130 129 }
+	color2 = "spartan_rust"
+	color3 = "pink_skin"
+
+	#colored_emblem = {
+	#	texture = "ce_syracuse.dds"
+	#	color1 = "offwhite"
+	#	color2 = "offwhite"
+	#}
+
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "offwhite"
+		color2 = "roman_gold"
+		instance = { scale = { 0.7 0.7 } }
 	}
 }

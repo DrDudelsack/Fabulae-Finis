@@ -299,7 +299,7 @@
 
 5310={ #Fort Wayne
 	terrain="plains"
-	culture="buckeye"
+	culture="hoosier"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -431,7 +431,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

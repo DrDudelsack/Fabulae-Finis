@@ -63,3 +63,16 @@ frontieran_heritage = {
         country_culture_group = frontieran
 	}
 }
+yankee_heritage = {
+   	modifier = {
+        #good
+        global_citizen_output = 0.10
+        global_pop_promotion_speed_modifier = 0.10  
+       #bad
+        improve_relation_cost_modifier = 0.25
+   }
+
+   trigger = {
+        country_culture_group = new_englander
+	}
+}

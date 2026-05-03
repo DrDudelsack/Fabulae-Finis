@@ -12,29 +12,169 @@
 	flank_navy = liburnian
 
 	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
+		Aaron Adawakhon Adewan_i_act_yo Ah_a_act_haras Ahyonwaeghs Akwiraron Akwirat_e_act_kha Akwirente Alwyn Amos Andrew Ani_col_tas Ano_col_kien Ano_col_wara Ar_i_act_sawe Arnold Aronhiateni Aroniawenrate Arthur Aten_a_act__col_ti Ati_col_ron
+		Charles Clifford
+		Dekanawida Delby Desagondensta Deskaheh Donald Donehogawa Douglas
+		Elwood Ely
+		Floyd Frederick
+		George Gilbert Gordon Graham Guwahtenjut
+		Harry Hasanoanda Hayonhwonhish Henry Hutgohsodoneh
+		Iakohs_o_act_nti_col_io
+		K_o_act__col_r Kahehtiio Kahenrahtiio Kaientaronkwen Kaiiontwa_pst_kon Kanenhariyo Kanentakeron Kanento_col_kon Kanatase Kanerhaken_col_iate Kaniahten Kaniehtanoron Kariwase Karonghyontye Karonhyawake Karoniakeshon Karontakeron Karontase Kayahsota Ken_col_reks Koyengquahtah
+		Lationhahele Leander Leland Levi Lorne Louis Luke
+		Merrick Murray
+		Neil Norton
+		Odeserundiye Ohkwa_col_ri Ohserase Okwaho Onondeyoh Onwanonsyshon Oronhyatekha Orville Otetiani
+		Philip
+		R_a_act_dos Rahonwinetha Rahrakwasere Ratonhnhak_e_act__col_ton Rohahes Rohkw_a_act_ho Rohskenhrakehte Ronehtawaks
+		S_o_act__col_se Sa_col_k Sagoyewatha Sakawennenhawe Sakayengwaraton Samuel Satehoronies Sayenqueraghta Seth Sganyad_a_act_i_col_yo Shakoi_e_act_htha Shakohahiiostha Shatekarahkwi_pst_io Shaw_a_act_tis Sho_pst_enr_i_act__col_se Sidney Simon Skahonhi_col_io Skaionwatsion Skanionhsa Sohenrise Stafford Stanley
+		T_a_act__col_wit T_a_act_nier Tahaiashe Tahariwenhawih Tahothoratie Taiaiake Taiakowens Tanacharison Ta_pst_wineonawira Tehoka Tehonrerons Tehonwakenerehn Tehwehron Teiow_i_act__col_sonte Tekaronhi_o_act__col_ken Teyoninhokarawen Thaonawyuthe Thayendanegea Thomas Tier Timothy Tiorahkw_a_act_the Tsiani_col_to Tsio_col_kwaris
+		Wahiake_col_ron W_i_act_she Wanoronk Warren Watio William Winston
 	}
 	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
+		A_act_kat A_act__col_nen Adath_o_act_nte Adeweniyostha Alice
+		Carol
+		Dawn Degonwadonti Denise Deyodawenye Diane
+		Elizabeth Emily Esther
+		Gloria
+		Harriet
+		Iakonie_col_ien Ieiakohtehr_o_act_hon Iohawinon Iostha
+		Kahawin_o_act_nkie Kahentan_o_act__col_ron Kahentin_e_act_htha Kahentoktha Kahentor_e_act_htha Kahnekenhawi Kahsenn_e_act_nhawe Kahsennonkwas Kahstarohkwanoron Kahstoserakwathe Kahtehr_o_act_n_col_ni Kahwihta Kai_a_grv__col_khons Kaia_pst_tit_a_act_hkhe Kaiennenhawi Kaiente_col_ri Kakaionstha Kakwit_e_act__col_ne Kan_a_act_hstatsi Kanerahtenh_a_act__col_wi Kaniehtenh_a_act__col_wi Kanien_pst_tahawi Kaniehtiio Kanionwarishon Kanontienentha Kara_pst_titahkhe Karahkwinehtha Karihw_e_act_nhawe Karonhiaronkwas Karonhiokohe Kase_col_waien Kateri Kathleen Katsi_pst_tsiakwas Katsitsienhawi Katsi_pst_tsohr_o_act_nkwas Kawenn_a_act_here Kawennaro_col_roks Kawennitake Kawennontie Kawisenhawe Konwahaw_e_act_n_col_se Konw_a_act_keri Konwaronhia_col_wi Konwatsi_col_tsai_e_act_n_col_ni Kuwayatakenhas Kwaronhiawi Kwati_e_act_n_col_se Kwawenn_a_act__col_wi Kwe_pst_tshito
+		Laura Leona Louise
+		Molly
+		Nancy Nikawenna_col_a Nimkii
+		Ojistah Onerahontsokon Otsi_pst_tsa Otsihsto Otstoch Owis_o_grv__col_kon
+		Patricia Pauline
+		Roberta Rose Ruth
+		Sarah Skahs_e_act_n_col_nati Skarahkot_a_grv__col_ne Skaw_e_act_n_col_nati
+		Takwenhawi Tayohserontye Teiakotsinar_e_grv_n_col_tonte Teionswatheton Teioshontathe Tekahentakwa Tekahionwake Tekonwenaharake Tekwatonti Ter_e_act_s Tewa_pst_kerahkhwa Tewatawen_col_ron Tsis_pst_swakeras Tsohah_i_act__col_io
+		W_a_act_hiakatste Wahienha_col_wi Wahsontiiostha W_a_act__col_ri Wariso_col_se Wathahi_col_ne Waneek
+		Yakotennikonhrare
 	}
 	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+		Akiwenzie.Akiwenzie.Akiwenzie.Akiwenzie
+		Albany
+		Arquette
+		Beauvais
+		Beaver
+		Bomberry
+		Boncore
+		Bonspille
+		Bordeau
+		Brant
+		Bucktooth
+		Burnham
+		Burning
+		Calvert
+		Cayuga
+		Chrisjohn
+		Claus
+		Commandant
+		Cornelius
+		Cornplanter
+		Cross
+		Curleyhead
+		Curotte
+		Decaire
+		Deer
+		DeLaRonde
+		Deleary
+		Delisle
+		Delormier
+		Detlor
+		Diabo
+		Diome
+		Doctor
+		Doolittle
+		Doreen
+		Doxtator
+		Etienne
+		Farmer
+		Franks
+		Gabriel
+		General
+		Giasson
+		Gibson
+		Gilbert
+		Goodleaf
+		Green
+		Hemlock
+		Henhawk
+		Hess
+		Hill
+		Horne
+		Jacobs
+		Jamieson
+		Johnson
+		Kechego
+		Key
+		Kirby
+		Kwaronhiotako
+		Labillois
+		Laforme
+		Lafrance
+		Lahache
+		Larocque
+		Lazare
+		Leaf
+		LeBorgne
+		Leclair
+		Leween
+		Loft
+		Longboat
+		Longfish
+		Maracle
+		Marquis
+		Martin
+		McComber
+		McDonald
+		McGregor
+		Merry
+		Miller
+		Monique
+		Montour
+		Morris
+		Mountpleasant
+		Myiow
+		Nanticoke
+		Neepin
+		Nicholas
+		Oakes
+		Parker
+		Patton
+		Peters
+		Phillips
+		Powless
+		Printup
+		Rice
+		Rickard
+		Robertson
+		Sahanatien
+		Sero
+		Shenandoah
+		Simon
+		Skye
+		Smith
+		Smoke
+		Snow
+		Squire
+		Staats
+		Stacey
+		Standup
+		Stanley
+		Stock
+		Stonefish
+		Strength
+		Styres
+		Tarbell
+		Thompson
+		Two-Axe
+		Two-Guns
+		Two-Rivers
+		Vyse
+		Wheelock
+		White
+		Zachary
 	}
 	culture = {
 		haudenosaunee = {}

@@ -118,7 +118,7 @@
 2181={ #
 	terrain="plains"
 	culture="okanaganer"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

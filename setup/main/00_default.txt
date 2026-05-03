@@ -27,9 +27,9 @@ country = {
 		}
 
 		NYC = {
-			government = plutocratic_republic
+			government = league_republic
 			primary_culture = gothamite
-			religion = guruist
+			religion = americanist
 			capital = 4381 
 
 			technology={
@@ -276,7 +276,7 @@ country = {
 			own_control_core = {
 				6535 1467 6536 6534 1465 1466 7224 5186
 				2171 2170 2169 2178 2179 8883 1904
-				7222 7223 3485 2905 1073 3486 
+				7222 7223 3485 3486 
 				5185 5184 5296 5293 5295 4295 4294 5294 4296 1408 2742
 				3447 7764 7763 7767 7766 7765 6124 6125 2384 2383 3377 3446
 				4627 6223 6224 6225
@@ -321,7 +321,7 @@ country = {
 				2954 2955 3462 11643 3463 6584 11657 3465 2956 11642
 				4275 9170 8970 8969 6585 3348 6583 6586
 				8613 8615 8616 8611 793 7840 8614 8612
-				1522 1521 1523 8971 9169 9171 9168
+				1522 1521 1523 8971 9169 9171 9168 5311
 			}
 		}
 		ALG = {
@@ -341,7 +341,7 @@ country = {
 				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
 				3776 3774 3773 3775 4013 4012 8967 8968 794
 				11652 11644 11646 4983 4984 3746 3745 5463 5460 5462
-				8592 8590 8591 8593 6595 2790 2479 2478 2477 6593 6594 2791 2789
+				8592 8590 8591 8593 6595 2790 6593 6594 2791 2789
 			}
 		}
 		STL = {
@@ -359,7 +359,7 @@ country = {
 
 			own_control_core = {
 				4206 4207 4208 3651 3650 3652 6338 2957 6430 6431 2733 9203
-				6429 4000 2959 9205 9204 
+				6429 4000 2959 9205 9204
 
 			}
 		}
@@ -734,6 +734,188 @@ country = {
 
 			own_control_core = {
 				4939 461 460 4940 1423 9407 4941 459
+			}
+		}
+
+		NWL = { #New London
+			government = democratic_republic
+			primary_culture = bayfolk
+			religion = americanist
+			capital = 6114 
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6114 6113 6112 6222
+			}
+		}
+
+		HAD = { #Haudenosaunee
+			government = league_republic
+			primary_culture = haudenosaunee
+			religion = catholic
+			capital = 612
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				612 2480 613 615 7053 7054 5776 614 5777 6054 2477 2479 2478
+				7052 6055 6056 6057 3373 9489 3372
+			}
+		}
+
+		HUD = { #Hudson Valley
+			government = aristocratic_monarchy
+			primary_culture = hudsonian
+			religion = ursuline
+			capital = 6678
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6678 6680 6679 6681 9421 9420 7971 3469 6539 6537 2697 2698 2699 4921 7971 4923 4922
+				7968 1692 204 203 7032 7031
+			}
+		}
+
+		SRY = { #Syracuse
+			government = titanate
+			primary_culture = upstater
+			religion = promethean
+			capital = 6853
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6853 3104 3105 1759 6852 6850 6851 3103 5618 5191 5193
+			}
+		}
+		
+		OTG = { #Otsego
+			government = despotic_monarchy
+			primary_culture = hudsonian
+			religion = clairvoyant
+			capital = 8565
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8565 9488 9490 1690 8566 1691
+			}
+		}
+
+		HFT = { #Hartford
+			government = despotic_monarchy
+			primary_culture = vermonter
+			religion = americanist
+			capital = 5239
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5239 5240 3425 3426 2907 
+			}
+		}
+
+		PCN = { #Poconia
+			government = tribal_federation
+			primary_culture = pocono
+			religion = catholic
+			capital = 8565
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6214 5495 3371 5496 6215 6213 9589 9587 5493 5494 3796 3795
+			}
+		}
+
+		UTC = { #Utica
+			government = despotic_monarchy
+			primary_culture = hudsonian
+			religion = clairvoyant
+			capital = 1762
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1762 1760 1758 1761
+			}
+		}
+
+		MAS = { #Massachusets
+			government = tribal_kingdom
+			primary_culture = vermonter
+			religion = gothic
+			capital = 2905
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2905 1072 1071 2906 1073
+			}
+		}
+
+		TIN = { # Ticonderoga
+			government = aristocratic_republic
+			primary_culture = vermonter
+			religion = americanist
+			capital = 1099
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1099
 			}
 		}
 	}
