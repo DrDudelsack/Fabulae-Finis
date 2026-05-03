@@ -46,6 +46,9 @@
  baja_california_region:0 "Baja California"
  arixo_region:0 "Arixo"
  dine_bikeyah_region:0 "Dine Bikeyah"
+ utah_region:0 "Utah"
+ bas_quebec_region:0 "Bas Quebec"
+ haut_quebec_region:0 "Haut Quebec"
 
  ## AREAS ##
  philadelphia_area:0 "Delaware Valley"

@@ -292,3 +292,9 @@ dine_bikeyah_region = { #5
 		hopi_area dine_bikeyah_area kinteel_area durango_area apacheria_area
 	}
 }
+utah_region = { #7
+	color = rgb { 116 170 252 }
+	areas = {
+		washington_utah_area green_river_area wasatch_area uintah_area cache_area sweetwater_area sevier_area
+	}
+}
