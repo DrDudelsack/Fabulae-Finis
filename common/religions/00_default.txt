@@ -165,6 +165,17 @@ arsenalist = { # Arsenalist
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+galvanist = { # Galvanist
+	color = rgb { 178 89 51 }
+	modifier = {
+		omen_power = 0.10
+		global_tax_modifier = 0.05
+		global_pop_promotion_speed_modifier = -0.25
+	}
+	religion_category = sages
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Afro-Diasporic ##
 vodou = { # Vodou - Louisiana
 	color = rgb { 159 98 22 }

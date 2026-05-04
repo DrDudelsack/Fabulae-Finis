@@ -248,7 +248,7 @@
 6585={ #
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="galvanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 8969={ #
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="galvanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

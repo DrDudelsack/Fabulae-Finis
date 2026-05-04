@@ -417,7 +417,7 @@
 8806={ #Gary
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="galvanist"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 8807={ #Portage
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="galvanist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 8808={ #Michigan City
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="galvanist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0

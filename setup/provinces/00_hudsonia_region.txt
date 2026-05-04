@@ -781,7 +781,7 @@
 6850={ #
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="galvanist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
