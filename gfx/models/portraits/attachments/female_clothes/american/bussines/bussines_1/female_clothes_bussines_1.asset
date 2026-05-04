@@ -1,9 +1,9 @@
 pdxmesh = {
-	name = "male_clothes_bussines_1_mesh"
-	file = "male_clothes_bussines_1.mesh"
+	name = "female_clothes_bussines_1_mesh"
+	file = "female_clothes_bussines_1.mesh"
 
 	meshsettings = {
-		name = "bussines_suitShape"
+		name = "bussines_suit_femaleShape"
 		index = 0
 		texture_diffuse = "male_clothes_bussines_1_diffuse.dds"
 		texture_normal = "male_clothes_bussines_1_normal.dds"
@@ -14,15 +14,15 @@ pdxmesh = {
 }
 
 entity = {
-	name = "male_clothes_bussines_1_entity"
-	pdxmesh = "male_clothes_bussines_1_mesh"
+	name = "female_clothes_bussines_1_entity"
+	pdxmesh = "female_clothes_bussines_1_mesh"
 }
 
 entity = {
-	name = "male_clothes_bussines_1_color2_entity"
-	pdxmesh = "male_clothes_bussines_1_mesh"
+	name = "female_clothes_bussines_1_color2_entity"
+	pdxmesh = "female_clothes_bussines_1_mesh"
 	meshsettings = {
-		name = "bussines_suitShape"
+		name = "bussines_suit_femaleShape"
 		index = 0
 		texture_diffuse = "male_clothes_bussines_1_color2_diffuse.dds"	
 		texture_normal = "male_clothes_bussines_1_normal.dds"
@@ -31,10 +31,10 @@ entity = {
 }
 
 entity = {
-	name = "male_clothes_bussines_1_color3_entity"
-	pdxmesh = "male_clothes_bussines_1_mesh"
+	name = "female_clothes_bussines_1_color3_entity"
+	pdxmesh = "female_clothes_bussines_1_mesh"
 	meshsettings = {
-		name = "bussines_suitShape"
+		name = "bussines_suit_femaleShape"
 		index = 0
 		texture_diffuse = "male_clothes_bussines_1_color3_diffuse.dds"	
 		texture_normal = "male_clothes_bussines_1_normal.dds"
