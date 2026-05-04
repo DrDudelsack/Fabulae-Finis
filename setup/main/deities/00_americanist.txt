@@ -1,0 +1,40 @@
+deity_manager = {
+    deities_database = { ### KEYS 300 - 399 ###
+		300 = {
+			key = omen_washington
+			deity = deity_washington
+		}
+		301 = {
+			key = omen_roosevelt
+			deity = deity_roosevelt
+		}
+		302 = {
+			key = omen_providence
+			deity = deity_providence
+		}
+		303 = {
+			key = omen_usa_dream
+			deity = deity_usa_dream
+		}
+		304 = {
+			key = omen_founders
+			deity = deity_founders
+		}
+		305 = {
+			key = omen_revere
+			deity = deity_revere
+		}
+		306 = {
+			key = omen_ironsides
+			deity = deity_ironsides
+		}
+		307 = {
+			key = omen_lady_liberty
+			deity = deity_lady_liberty
+		}
+		308 = {
+			key = omen_lincoln
+			deity = deity_lincoln
+		}
+	}
+}

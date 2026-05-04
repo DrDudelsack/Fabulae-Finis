@@ -725,6 +725,7 @@
 		amount=7
 	}
 	port_building=1
+	holy_site = omen_lady_liberty
 }
 
 4490={ #Cherry Hill

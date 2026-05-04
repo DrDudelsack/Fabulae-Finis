@@ -1,0 +1,41 @@
+﻿l_english:
+ ## Default ##
+ deity_washington:0 "$omen_washington$"
+ omen_washington:0 "Washington"
+ omen_washington_desc:0 "#Y Americanist President and Founder#!\n\nFirst the Commander-in-Chief of the Continental Army, Washington led to the victory of Patriot forces over the perfidious Redcoats. He famously crossed the Delaware River in the middle of winter, launching a suprise attack on the Hessians. This changed the course of the war, leading to a complete turnaround of Patriot morale. By 1780, Colonial and French forces had the Redcoats on the retreat, trapping them at Yorktown, and leading to the end of the Revolutionary War. It was for these acts of heroism, and Washington's unrivalled chivalry and good character, that he ascended into godhood, and by Providence alone, he became America's first president. After his second term, Washington laid down his divine power, setting the precedent for how a President should act and govern."
+
+ deity_roosevelt:0 "$omen_roosevelt$"
+ omen_roosevelt:0 "Roosevelt"
+ omen_roosevelt_desc:0 "#Y Americanist President#!\n\nRoosevelt, the strongest of the Presidents, renowned for his endurance and vigor. He led America through some of her darkest times. When America was under assault from foreign forces across the sea, Roosevelt organized his Rough Riders- elite cavalrymen, and personally took the fight to Cuba, storming up Kettle Hill, and then San Juan Hill, ending the war. Later in his presidency, one of the greatest enemies to America and her people threatened to end everything the Founders had worked towards - that of the Fascists. For six long years, Roosevelt and his soldiers defended America from the bayonet of the Fascists. In the end, the American Dream was protected, and America's people saved, but at a great cost - Roosevelt had perished during single combat with the leader of the Fascists, Adolph Mussolini. With his dying breath, he raised his Colt, blasting the head off of that foul and obscene monster."
+ 
+ deity_usa_father:0 "$omen_usa_father$"
+ omen_usa_father:0 "The Father of The Nation"
+ omen_usa_father_desc:0 "#Y Americanist God#!\n\n"
+
+ deity_providence:0 "$omen_providence$"
+ omen_providence:0 "Providence"
+ omen_providence_desc:0 "#Y Americanist God#!\n\nProvidence is the unseen but ever-present god who shapes America's rise through chance, struggle, and fate, guiding events without fully revealing his will. It is by Providence's will that The Founders and Presidents were allowed to ascend into godhood."
+
+ deity_usa_dream:0 "$omen_providence$"
+ omen_usa_dream:0 "The American Dream"
+ omen_usa_dream_desc:0 "#Y Americanist God#!\n\nThe American Drean is the god who promises abundance, prosperity, and upward ascent to those who labor faithfully, though his favor is fickle and unevenly bestowed."
+ 
+ deity_founders:0 "$omen_founders$"
+ omen_founders:0 "The Founders"
+ omen_founders_desc:0 "#Y Americanist Gods#!\n\nThe Founders were divine council of lesser gods who shaped America's laws and institutions, crucial to the formation of the early Republic. Their teachings are still studied today, helping to shape a more perfect Union. Although some worship these Founders individually, such as Founder Jefferson or Founder Franklin, it is common practice to group them all together, as with a nation, the whole is greater than the sum of the parts."
+
+ deity_revere:0 "$omen_revere$"
+ omen_revere:0 "Revere"
+ omen_revere_desc:0 "#Y Americanist God#!\n\nRevere is the tireless god of vigilance and warning, who rides unseen through the darkness to alert the faithful of approaching danger. Revere warned the Founders of the incoming Redcoats, shouting 'The British are coming, the British are coming!', saving those great men from capture at the hands of the wicket Redcoats. He is popular amongst soldiers and hunters, and they pray to him in the hopes that he will protect them during the dark hours of the night."
+
+ deity_ironsides:0 "$omen_ironsides$"
+ omen_ironsides:0 "Ol' Ironsides"
+ omen_ironsides_desc:0 "#Y Americanist God#!\n\nOl' Ironsides, also known as the 'Old Man of the Sea' is as ancient as America herself. He keeps watch over the many coasts and shorelines of the Nation, perhaps not always seen, but always enduring, always watching. It is said that if one goes deep enough into the sea, you can find him, resting at the bottom of the sea."
+
+ deity_lady_liberty:0 "$omen_lady_liberty$"
+ omen_lady_liberty:0 "Lady Liberty"
+ omen_lady_liberty_desc:0 "#Y Americanist Goddess#!\n\nGive me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore Send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door!. Thus spoke Lady Liberty, the luminous goddess who guides America's destiny, holding aloft the promise of freedom while quietly judging who is worthy of it."
+
+ deity_lincoln:0 "$omen_lincoln$"
+ omen_lincoln:0 "Lincoln"
+ omen_lincoln_desc:0 "#Y Americanist President#!\n\nA humble man, Lincoln was born to a poor family in Illinois. In his early years, he was a lawyer, boxer, and for a short time, a hunter of the supernatural. Showing much promise as a leader, Lincoln was elected President. He is worshipped as the somber god of unity, sacrifice, and the national family, who binds households together through shared suffering."

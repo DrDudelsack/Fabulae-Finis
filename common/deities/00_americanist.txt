@@ -1,0 +1,228 @@
+﻿deity_washington = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_washington = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { land_morale_modifier = deity_land_morale_modifier_svalue }
+	omen = { war_score_cost = omen_war_score_cost_svalue }
+	religion = americanist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
+deity_roosevelt = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_roosevelt = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed }
+	religion = americanist
+	deity_category = fertility #This Deity uses a Fertility slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_providence = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_providence = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { monthly_political_influence_modifier = deity_monthly_political_influence_modifier_svalue }
+	religion = americanist
+	deity_category = culture #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	#on_activate = {
+	#	economy_apotheosis_province_improvement_effect = yes
+	#}
+}
+deity_usa_dream = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_usa_dream = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
+	omen = { global_pop_promotion_speed_modifier = 0.20 }
+	religion = americanist
+	deity_category = economy #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	#on_activate = {
+	#	economy_apotheosis_province_improvement_effect = yes
+	#}
+}
+deity_founders = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_founders = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { research_points_modifier = deity_research_points_modifier_svalue }
+	omen = { global_citizen_output = omen_global_citizen_output_svalue } #Bonus from Omen
+	religion = americanist
+	deity_category = culture #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	#on_activate = {
+	#	economy_apotheosis_province_improvement_effect = yes
+	#}
+}
+deity_ironsides = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_ironsides = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
+	omen = { naval_damage_taken = omen_naval_damage_taken_svalue } #Bonus from Omen
+	religion = americanist
+	deity_category = war #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		naval_apotheosis_effect = yes
+		storm_of_the_century_effect = {
+			REGION = mediterranean_region
+		}
+	}
+}
+deity_revere = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_revere = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { army_movement_speed = 0.05 }
+	omen = { light_cavalry_morale = 0.07 }
+	religion = americanist
+	deity_category = war #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_military_experience_effect = yes
+    }
+}
+deity_lady_liberty = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_lady_liberty = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_culture
+	passive_modifier = { happiness_for_same_religion_modifier = deity_happiness_for_same_religion_modifier }
+	omen = { global_pop_assimilation_speed_modifier = omen_global_pop_assimilation_speed_modifier_svalue }
+	religion = americanist
+	deity_category = culture #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_lincoln = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = americanist
+			}
+			deity:omen_lincoln = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { stability_monthly_change = deity_stability_monthly_change }
+	omen = { general_loyalty = 5 } #Bonus from Omen
+	religion = americanist
+	deity_category = economy #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
