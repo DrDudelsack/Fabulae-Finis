@@ -7193,6 +7193,18 @@ accessory_genes = {
             boy = male
             girl = female
         }
+
+            top_hat_hairstyles = {
+            index = 20
+            male = {
+                1 = top_hat
+            }
+            female = {
+               1 = top_hat_female
+            }
+            boy = male
+            girl = female
+        }
     }
 
     
@@ -9291,7 +9303,18 @@ accessory_genes = {
                 1 = goblin_crown
             }
         }
-        
+
+        monocle_top_layer = {
+            index = 15
+            male = {
+                1 = male_monocles_1
+            }
+            female = {
+                1 = female_monocles_1
+            }
+        }
+
+
         no_top_layer = {
             index = 30
             male = {

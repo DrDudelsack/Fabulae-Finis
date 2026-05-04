@@ -350,6 +350,12 @@ male_hair_american_2 = {
 	
 }
 
+## INDUSTRIALIST ##
+top_hat = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_headgear_top_hat_1_entity }
+}
+
 #####################################
 #									#
 # 			Female Hair			#
@@ -527,6 +533,11 @@ female_hair_american_1 = {
 
 female_hair_american_2 = {
 	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_american_2_entity"  }
+}
+
+## INDUSTRIALIST##
+top_hat_female = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_headgear_top_hat_1_entity }
 }
 
 #####################################
