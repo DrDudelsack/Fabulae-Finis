@@ -1387,6 +1387,11 @@ male_clothes_american_2 = {
 	set_tags = "full_bust"
 }
 
+male_clothes_bussines_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_bussines_1_entity }
+	set_tags = "full_bust"
+}
+
 #####################################
 #									#
 # 			Boy Clothes				#

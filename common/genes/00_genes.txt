@@ -9003,7 +9003,17 @@ accessory_genes = {
                 1 = female_clothes_american_1
                 1 = female_clothes_american_1_color2
             }
-        }  
+        } 
+        
+        industrial_clothes = {
+            index = 57
+            male = {
+                1 = male_clothes_bussines_1
+            }
+            female = {
+                1 = female_clothes_american_1
+            }
+        } 
     }       
  
 
