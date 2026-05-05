@@ -365,7 +365,7 @@
 2908={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="promethean"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 2909={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="midewiwin"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 2911={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

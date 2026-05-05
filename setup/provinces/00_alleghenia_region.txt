@@ -1,6 +1,6 @@
 ﻿794={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 795={ #Steubenville
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 4011={ #Beaver Falls
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 4012={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 4013={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 11646={ #
 	terrain="forest"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

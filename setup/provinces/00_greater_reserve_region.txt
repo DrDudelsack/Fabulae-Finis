@@ -1,6 +1,6 @@
 ﻿793={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 7840={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 8611={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 8612={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 8613={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 8614={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 8615={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 8616={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

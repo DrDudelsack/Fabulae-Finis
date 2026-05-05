@@ -40,7 +40,7 @@
 739={ #
 	terrain="hills"
 	culture="sixer"
-	religion="united_church"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 740={ #
 	terrain="farmland"
 	culture="sixer"
-	religion="united_church"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 7875={ #
 	terrain="hills"
 	culture="sixer"
-	religion="united_church"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1171,7 +1171,7 @@
 8926={ #
 	terrain="farmland"
 	culture="sixer"
-	religion="united_church"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1314,7 +1314,7 @@
 11619={ #
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="united_church"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

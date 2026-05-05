@@ -305,6 +305,8 @@
 		religion="lutheran"
 		amount=4
 	}
+	port_building = 2
+	holy_site = omen_annheuser_busch
 }
 
 4207={ #Wildwood

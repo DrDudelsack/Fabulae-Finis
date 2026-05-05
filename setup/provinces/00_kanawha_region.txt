@@ -429,7 +429,7 @@
 
 9250={ #
 	terrain="hills"
-	culture="appalachian"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

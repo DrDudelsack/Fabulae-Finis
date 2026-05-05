@@ -546,7 +546,7 @@
 
 7838={ #
 	terrain="forest"
-	culture="butternutter"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 7839={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 9549={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 9550={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 9551={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10

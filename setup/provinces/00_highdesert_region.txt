@@ -89,6 +89,19 @@
 	}
 }
 
+428={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 429={ #
 	terrain="hills"
 	culture="juniperian"

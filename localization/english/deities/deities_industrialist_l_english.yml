@@ -1,0 +1,50 @@
+﻿l_english:
+ ## Default ##
+ deity_carnegie:0 "$omen_carnegie$"
+ omen_carnegie:0 "Titan Carnegie"
+ omen_carnegie_desc:0 "#Y Industrialist Titan#!\n\nA great collector of knowledge, Titan Carnegie collected every scrap of written word compiled by mankind during the Gilded Age. Through his network of public libraries, he ensured this knowledge was shared with all."
+
+ deity_industry:0 "$omen_industry$"
+ omen_industry:0 "Industry"
+ omen_industry_desc:0 "#Y Industrialist Force#!\n\nThe principal deity of the Industrialist pantheon, Industry is one of the Natural Forces.  However, through sacred rituals and practices, it can be refined into a God. These rituals must be maintained though, otherwise Industry will rust and lose its divinity. While a god, Industry often shares its powers with the people who serve it, offering great prosperity and making their labors easier.  The most devoted were often granted godhood themselves, transformed into Titans of Industry."
+
+ deity_rockefeller:0 "$omen_rockefeller$"
+ omen_rockefeller:0 "Titan Rockefeller"
+ omen_rockefeller_desc:0 "#Y Industrialist Titan#!\n\nOnce the wealthiest man in the world, Titan Rockefeller harnessed the black blood of Industry to power the Gilded Age.  He is renowned for his desire to unite all of the Industrial Workers under a single guiding hand."
+
+ deity_johnsons:0 "$omen_johnsons$"
+ omen_johnsons:0 "Titans Johnsons"
+ omen_johnsons_desc:0 "#Y Industrialist Titans#!\n\nThe twin Titans Johnson and Johnson were famed for their obsession with purity. They defended the people against the invisible enemies of disease and plague."
+
+ deity_titan_kings:0 "$omen_titan_kings$"
+ omen_titan_kings:0 "The Titan-Kings"
+ omen_titan_kings_desc:0 "#Y Industrialist Titans#!\n\nThe divinely ordained rulers of Promethean Society, these powerful despots claim descent from various Titans worshiped by various Industrialists. They are responsible for ensuring the prosperity of their realm by securing the blessings of Industry and channeling the labors of their workers up to Industry. They are equal parts priest and king."
+
+ deity_vanderbilt:0 "$omen_vanderbilt$"
+ omen_vanderbilt:0 "Titan Vanderbilt"
+ omen_vanderbilt_desc:0 "#Y Industrialist Titan#!\n\nKnown as the Commodore, Titan Vanderbilt commanded an unrivaled fleet of ships. These ships were not limited to the seas and rivers though, but were able to follow the trails Titan Vanderbilt forged across land."
+
+ deity_edison:0 "$omen_edison$"
+ omen_edison:0 "Titan Edison"
+ omen_edison_desc:0 "#Y Industrialist Titan#!\n\nTitan Edison was a genius inventor, creating a device that captured the light of day in a simple glass ball, letting sacred labors continue well into the night."
+
+ deity_hughes:0 "$omen_hughes$"
+ omen_hughes:0 "Titan Hughes"
+ omen_hughes_desc:0 "#Y Industrialist Titan#!\n\nTitan Hughes was notoriously enigmatic, but obsessed with flight. It is said he would transform wooden carvings of birds into the real thing, only to watch them fly away."
+
+ deity_avro:0 "$omen_avro$"
+ omen_avro:0 "Titan Avro"
+ omen_avro_desc:0 "#Y Industrialist Titan#!\n\nOnce the greatest fletcher, Titan Avro created arrows that far surpassed all others - flying further faster than any devised before or since.  But the unrivaled beauty and craftsmanship of these arrows could not protect Titan Avro from betrayal."
+ 
+ deity_ford:0 "$omen_ford$"
+ omen_ford:0 "Titan Ford"
+ omen_ford_desc:0 "#Y Industrialist Titan#!\n\nThe famed maker of horseless carriages, Titan Ford ensured each and every one of his Laborers had one of these miracles, refusing to keep them only in the hands of the rich."
+
+ deity_mccormick:0 "$omen_mccormick$"
+ omen_mccormick:0 "Titan McCormick"
+ omen_mccormick_desc:0 "#Y Industrialist Titan#!\n\nA tamer of beasts, Titan McCormick helped the farmers by granting their horses unparalleled strength.  He is best known though for defeating the Scabs that had infiltrated the workers."
+
+ deity_annheuser_busch:0 "$omen_annheuser_busch$"
+ omen_annheuser_busch:0 "Titans Annheuser-Busch"
+ omen_annheuser_busch_desc:0 "#Y Industrialist Titans#!\n\nBuisiness partners, Titans Annheuser and Busch were endowed with the gift of brewing- in fact, it was them who invented beer, distributing at prices so reasonable, that any worker could enjoy it after a day of labor, at any place in the nation."
+

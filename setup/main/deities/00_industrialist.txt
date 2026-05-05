@@ -1,0 +1,52 @@
+deity_manager = {
+    deities_database = { ### KEYS 400 - 499 ###
+		400 = {
+			key = omen_carnegie
+			deity = deity_carnegie
+		}
+		401 = {
+			key = omen_industry
+			deity = deity_industry
+		}
+		402 = {
+			key = omen_rockefeller
+			deity = deity_rockefeller
+		}
+		403 = {
+			key = omen_johnsons
+			deity = deity_johnsons
+		}
+		404 = {
+			key = omen_titan_kings
+			deity = deity_titan_kings
+		}
+		405 = {
+			key = omen_vanderbilt
+			deity = deity_vanderbilt
+		}
+		406 = {
+			key = omen_edison
+			deity = deity_edison
+		}
+		407 = {
+			key = omen_hughes
+			deity = deity_hughes
+		}
+		408 = {
+			key = omen_avro
+			deity = deity_avro
+		}
+		409 = {
+			key = omen_ford
+			deity = deity_ford
+		}
+		410 = {
+			key = omen_mccormick
+			deity = deity_mccormick
+		}
+		411 = {
+			key = omen_annheuser_busch
+			deity = deity_annheuser_busch
+		}
+	}
+}
