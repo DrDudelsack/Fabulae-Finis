@@ -356,6 +356,22 @@ top_hat = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = male_headgear_top_hat_1_entity }
 }
 
+## MODERN ##
+male_hair_modern_1 = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_1_entity }
+}
+
+male_hair_modern_2 = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_2_entity }
+}
+
+male_hair_modern_3 = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_3_entity }
+}
+
 #####################################
 #									#
 # 			Female Hair			#

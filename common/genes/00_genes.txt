@@ -7205,6 +7205,21 @@ accessory_genes = {
             boy = male
             girl = female
         }
+
+        modern_hairstyles = {
+            index = 21
+            male = {
+                5 = empty
+                20 = male_hair_modern_1
+                20 = male_hair_modern_2
+                20 = male_hair_modern_3
+           }
+            female = {
+               1 = female_hair_persian_1
+            }
+            boy = male
+            girl = female
+        }
     }
 
     
