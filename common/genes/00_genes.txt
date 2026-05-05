@@ -7493,7 +7493,22 @@ accessory_genes = {
             female = {
                 1 = empty
             }
-        } 
+        }
+        
+        all_moustaches = {
+            index = 10
+
+            male = {
+                60 = empty
+                25 = male_moustache_1
+                25 = male_moustache_2
+                
+            }
+
+            female = {
+                1 = empty
+            }
+        }
 
     }
 
