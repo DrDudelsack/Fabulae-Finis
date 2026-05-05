@@ -7213,6 +7213,9 @@ accessory_genes = {
                 20 = male_hair_modern_1
                 20 = male_hair_modern_2
                 20 = male_hair_modern_3
+                20 = male_hair_modern_4
+                20 = male_hair_modern_5
+                20 = male_hair_modern_6
            }
             female = {
                1 = female_hair_persian_1

@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "male_hair_modern_5_mesh"
+	file = "male_hair_modern_5.mesh"
+
+	meshsettings = {
+		name = "male_hair_modern_5Shape"
+		index = 0
+		texture_diffuse = "male_hair_modern_5_diffuse.dds"
+		texture_normal = "male_hair_modern_5_normal.dds"
+		texture_specular = "noproperties.dds"
+		shader = "portrait_hair"
+		shader_file = "gfx/FX/portrait.shader"
+	}
+}
+
+entity = {
+	name = "male_hair_modern_5_entity"
+	pdxmesh = "male_hair_modern_5_mesh"
+}
