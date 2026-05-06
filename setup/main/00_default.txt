@@ -1081,6 +1081,60 @@ country = {
 				8808 11635
 			}
 		}
+
+		VEG = { # Las Vegas
+			government = plutocratic_republic
+			primary_culture = mojavean
+			religion = capitalist
+			capital = 5557
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5557 1245 4413 5556 5558 5555
+			}
+		}
+
+		MPL = { #Twin Cities
+			government = titanate
+			primary_culture = minnesotan
+			religion = promethean
+			capital = 8025
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8025 8024 8026 3993 327 8405 8406 8407 8150 7077 7075 7076 
+			}
+		}
+
+		MIW = { #Milwaukee
+			government = despotic_monarchy
+			primary_culture = cheesehead
+			religion = catholic
+			capital = 1125
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1125 1127
+			}
+		}
 	}
 }
 

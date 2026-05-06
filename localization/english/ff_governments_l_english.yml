@@ -48,10 +48,17 @@
  stratocratic_monarchy_ruler_galvanist:0 "Tycoon"
  theocratic_monarchy_ruler_galvanist:0 "Tycoon"
 
+ despotic_monarchy_ruler_romano_humanist:0 "Basileus"
+ aristocratic_monarchy_ruler_romano_humanist:0 "Basileus"
+ plutocratic_monarchy_ruler_romano_humanist:0 "Basileus"
+ stratocratic_monarchy_ruler_romano_humanist:0 "Basileus"
+ theocratic_monarchy_ruler_romano_humanist:0 "Basileus"
+
  plutocratic_republic_ruler_galvanist:0 "Foreman"
  democratic_republic_ruler_galvanist:0 "Foreman"
  aristocratic_republic_galvanist:0 "Foreman"
  oligarchic_republic_ruler_galvanist:0 "Foreman"
 
- imperium_ruler_caesarist:0 "First Citizen" #Or Caesar or Augustus?
+ imperium_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?
  federal_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?
+ 

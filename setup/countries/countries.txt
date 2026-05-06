@@ -47,6 +47,8 @@ FWN = "setup/countries/midwest/fort_wayne.txt"
 GYY = "setup/countries/midwest/gary.txt"
 PRT = "setup/countries/midwest/portage.txt"
 MCN = "setup/countries/midwest/michigan_city.txt"
+MPL = "setup/countries/midwest/twin_cities.txt"
+MIW = "setup/countries/midwest/milwaukee.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
@@ -63,6 +65,7 @@ NCR = "setup/countries/west_coast/san_diego.txt"
 REN = "setup/countries/west_coast/reno.txt"
 PUG = "setup/countries/west_coast/puget.txt"
 TUC = "setup/countries/west_coast/tucson.txt"
+VEG = "setup/countries/west_coast/vegas.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

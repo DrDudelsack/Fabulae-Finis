@@ -574,3 +574,17 @@ twainist = { # Twainist
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+
+## Capitalist ##
+capitalist = { # Capitalist
+	color = rgb { 12 127 12 }
+	modifier = { 
+		global_tax_modifier = 0.05
+		global_nobles_happyness = 0.08
+		monthly_corruption = 0.05
+
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}

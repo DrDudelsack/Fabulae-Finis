@@ -211,11 +211,18 @@
 	culture="mojavean"
 	religion="atomicist"
 	trade_goods="cacti"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="atomicist"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -224,11 +231,14 @@
 	culture="mojavean"
 	religion="atomicist"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -237,24 +247,43 @@
 	culture="mojavean"
 	religion="atomicist"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
 5557={ #Vegas
 	terrain="oasis"
 	culture="mojavean"
-	religion="atomicist"
+	religion="capitalist"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="atomicist"
+		amount=4
+	}
+	slaves={
+		amount=6
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -263,11 +292,14 @@
 	culture="mojavean"
 	religion="atomicist"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 

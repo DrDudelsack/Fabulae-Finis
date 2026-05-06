@@ -263,17 +263,17 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="earthware"
-	civilization_value=30
+	civilization_value=35
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount=3
 	}
 	citizen={
 		amount=2
 	}
 	citizen={
-		religion="americanist"
+		religion="heartful"
 		amount=2
 	}
 	citizen={
@@ -281,10 +281,14 @@
 		amount=2
 	}
 	freemen={
-		amount=4
+		amount=5
 	}
 	freemen={
 		culture="heartlander"
+		amount=2
+	}
+	freemen={
+		religion="twainist"
 		amount=2
 	}
 	freemen={
@@ -302,6 +306,9 @@
 		amount=1
 	}
 	slaves={
+		amount=2
+	}
+	slaves={
 		religion="lutheran"
 		amount=4
 	}
@@ -313,12 +320,23 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="grain"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
 		amount=1
+	}
+	freemen={
+		religion="twainist"
+		amount=1
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -326,12 +344,23 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
 		amount=1
+	}
+	freemen={
+		religion="twainist"
+		amount=1
+	}
+	slaves={
+		amount=3
 	}
 }
 

@@ -96,7 +96,11 @@
  PRT_ADJ:0 "Portagean"
  MCN:0 "Michigan City"
  MCN_ADJ:0 "Chicagoan"
- 
+ MPL:0 "Twin Cities"
+ MPL_ADJ:0 "Minnesotan"
+ MIW:0 "Milwaukee"
+ MIW_ADJ:0 "Milwaukee"
+
  ## South ##
  NOL:0 "New Orleans"
  NOL_ADJ:0 "Nolan"
@@ -124,6 +128,8 @@
  PUG_ADJ:0 "Pugite"
  TUC:0 "District of Tucson"
  TUC_ADJ:0 "Tucsonian"
+ VEG:0 "The Strip"
+ VEG_ADJ:0 "Vegasite"
 
  ## East Canada ##
  FRO:0 "Francontario"
