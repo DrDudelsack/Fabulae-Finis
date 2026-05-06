@@ -102,10 +102,10 @@
 	}
 }
 
-2957={ #
+2957={ #Farmington
 	terrain="forest"
 	culture="gatewayan"
-	religion="promethean"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -128,10 +128,10 @@
 	}
 }
 
-2959={ #
+2959={ #Fredericktown
 	terrain="forest"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 3650={ #Troy
 	terrain="farmland"
 	culture="gatewayan"
-	religion="promethean"
+	religion="twainist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -219,10 +219,10 @@
 	}
 }
 
-4000={ #
+4000={ #Cape Giradeau
 	terrain="plains"
 	culture="gatewayan"
-	religion="egyptology"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -305,8 +305,8 @@
 		religion="lutheran"
 		amount=4
 	}
-	port_building = 2
-	holy_site = omen_annheuser_busch
+	holy_site=omen_annheuser_busch
+	port_building=2
 }
 
 4207={ #Wildwood
@@ -417,7 +417,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -624,7 +624,7 @@
 6799={ #Hannibal
 	terrain="plains"
 	culture="gatewayan"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -637,7 +637,7 @@
 6800={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

@@ -50,7 +50,7 @@
 	}
 }
 
-1245={ #
+1245={ #Rachel
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
@@ -206,7 +206,7 @@
 	}
 }
 
-4413={ #
+4413={ #Mesquite
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
@@ -219,7 +219,7 @@
 	}
 }
 
-5555={ #
+5555={ #Nelson
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
@@ -232,7 +232,7 @@
 	}
 }
 
-5556={ #
+5556={ #Henderson
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
@@ -245,7 +245,7 @@
 	}
 }
 
-5557={ #
+5557={ #Vegas
 	terrain="oasis"
 	culture="mojavean"
 	religion="atomicist"
@@ -258,7 +258,7 @@
 	}
 }
 
-5558={ #
+5558={ #Goodsprings
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"

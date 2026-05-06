@@ -316,7 +316,7 @@
 6427={ #Hiromaha Nige
 	terrain="hills"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -329,7 +329,7 @@
 6428={ #
 	terrain="hills"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -342,7 +342,7 @@
 7557={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -368,7 +368,7 @@
 7559={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -407,7 +407,7 @@
 8167={ #Hižukmąk'e
 	terrain="farmland"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -459,7 +459,7 @@
 8218={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -472,7 +472,7 @@
 8219={ #Moo'uic
 	terrain="farmland"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -485,7 +485,7 @@
 8220={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0

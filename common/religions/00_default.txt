@@ -560,3 +560,17 @@ clairvoyant = { # Clairvoyant
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+
+## Midwestern ##
+twainist = { # Twainist
+	color = rgb { 68 130 119 }
+	modifier = { 
+		research_points_modifier = 0.10
+		global_population_capacity_modifier = 0.05
+		build_cost = 0.10
+
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}

@@ -658,7 +658,7 @@ country = {
 			own_control_core = {
 				640 639 6649 1037 1036 3032 5111 6648 6647 638 5109 5110 
 				3031 6608 6607 6606 6108 6109 6110 8739 6111 8736 8738
-				217 218 6477 6476 2911 2908 219 6475 2909 8737 7871 7873 2910 
+				217 218 6477 6476 219 6475 8737 7873
 				6288
 			}
 		}
@@ -916,6 +916,169 @@ country = {
 
 			own_control_core = {
 				1099
+			}
+		}
+
+		GYY = { #Gary
+			government = oligarchic_republic
+			primary_culture = chicagoan
+			religion = galvanist
+			capital = 8806
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8806
+			}
+		}
+
+		SUD = { #Sudbury
+			government = titanate
+			primary_culture = shieldshorer
+			religion = promethean
+			capital = 2909
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2909 2911 2908 2910 7871 957 958 955 956
+			}
+		}
+
+		HAM = { #Hamilton
+			government = titanate
+			primary_culture = sixer
+			religion = promethean
+			capital = 739
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				739 740 7875 7874 2147 8926
+			}
+		}
+
+		WIN = { #Windsor
+			government = titanate
+			primary_culture = ontarian
+			religion = promethean
+			capital = 7375
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7375 7374 7376 7377 9023 9024 1106 1107
+			}
+		}
+
+		MMP = { #Memphis
+			government = egyptian_dynasty
+			primary_culture = deltaic
+			religion = egyptology
+			capital = 335
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				335 334 5406 5404 5405 2460 677 676 8488 5336 6151 5337 6154 4002 4001 1013
+				6152 5337 8486 675 1853 1854 6262 6260 6261 5538 5537 5536 337 336 2461 2459
+			}
+		}
+
+		TAL = { #Tallahassee
+			government = aristocratic_republic
+			primary_culture = gulfard
+			religion = americanist
+			capital = 7000
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7000 6999 6998 6997 381 379 380 1667
+			}
+		}
+
+		OUT = { #Outer Banks
+			government = pirate_republic
+			primary_culture = hoi_toider
+			religion = evangelical
+			capital = 2064
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8601 2064 4522 2728
+			}
+		}
+
+		PRT = { #Portage
+			government = oligarchic_republic
+			primary_culture = chicagoan
+			religion = galvanist
+			capital = 8807
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8807
+			}
+		}
+
+		MCN = { #Michigan City
+			government = oligarchic_republic
+			primary_culture = chicagoan
+			religion = galvanist
+			capital = 8808
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8808 11635
 			}
 		}
 	}

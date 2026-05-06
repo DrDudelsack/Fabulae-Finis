@@ -5,6 +5,9 @@
 			common_deity_trigger = {
 				RELIGION = promethean
 			}
+			common_deity_trigger = {
+				RELIGION = galvanist
+			}
 			deity:omen_carnegie = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -29,6 +32,9 @@ deity_industry = {
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
+			}
+			common_deity_trigger = {
+				RELIGION = galvanist
 			}
 			deity:omen_industry = {
 				holy_site_deity_check_trigger = yes
@@ -55,6 +61,9 @@ deity_rockefeller = {
 			common_deity_trigger = {
 				RELIGION = promethean
 			}
+			common_deity_trigger = {
+				RELIGION = galvanist
+			}
 			deity:omen_rockefeller = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -79,6 +88,9 @@ deity_johnsons = {
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
 			}
 			deity:omen_johnsons = {
 				holy_site_deity_check_trigger = yes
@@ -133,6 +145,9 @@ deity_vanderbilt = {
 			deity:omen_vanderbilt = {
 				holy_site_deity_check_trigger = yes
 			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
 		}
 	}
 	icon = deity_war
@@ -157,6 +172,9 @@ deity_edison = {
 			}
 			deity:omen_edison = {
 				holy_site_deity_check_trigger = yes
+			}
+			common_deity_trigger = {
+				RELIGION = galvanist
 			}
 		}
 	}
@@ -183,6 +201,9 @@ deity_hughes = {
 			deity:omen_hughes = {
 				holy_site_deity_check_trigger = yes
 			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
 		}
 	}
 	icon = deity_culture
@@ -202,8 +223,13 @@ deity_avro = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			rare_deity_culture_group_trigger = {
 				RELIGION = promethean
+				CULTURE_GROUP = laurentian
+			}
+			rare_deity_culture_group_trigger = {
+				RELIGION = galvanist
+				CULTURE_GROUP = laurentian
 			}
 			deity:omen_avro = {
 				holy_site_deity_check_trigger = yes
@@ -232,6 +258,9 @@ deity_ford = {
 			}
 			deity:omen_ford = {
 				holy_site_deity_check_trigger = yes
+			}
+			common_deity_trigger = {
+			RELIGION = galvanist
 			}
 		}
 	}
@@ -281,6 +310,10 @@ deity_annheuser_busch = {
 				RELIGION = promethean
 				CULTURE = gatewayan
 			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = gatewayan
+			}
 			deity:omen_annheuser_busch = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -297,5 +330,119 @@ deity_annheuser_busch = {
 
 	on_activate = {
 		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_sears = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = promethean
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_sears = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
+	omen = { global_commerce_modifier = omen_global_commerce_modifier_svalue }
+	religion = promethean
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_margarac = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = promethean
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_magarac = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { monthly_military_experience = deity_monthly_military_experience_modifier_svalue }
+	omen = { heavy_infantry_morale = 0.075 }
+	religion = promethean
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_guardian_titans = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = promethean
+				CULTURE = buckeye
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = buckeye
+			}
+			deity:omen_guardian_titans = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_defensive = omen_global_defensive_svalue }
+	omen = { hostile_attrition = omen_hostile_attrition_svalue }
+	religion = promethean
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_deere = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = promethean
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_deere = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
+	religion = promethean
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
 	}
 }

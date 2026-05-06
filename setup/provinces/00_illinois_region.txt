@@ -15,7 +15,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -102,7 +102,7 @@
 	}
 }
 
-2733={ #
+2733={ #Upper Alton
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
@@ -115,7 +115,7 @@
 	}
 }
 
-2734={ #
+2734={ #Carlinville
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -128,7 +128,7 @@
 	}
 }
 
-2735={ #
+2735={ #Jacksonville
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
@@ -430,7 +430,7 @@
 6034={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 6035={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -453,10 +453,10 @@
 	}
 }
 
-6429={ #
+6429={ #Chester
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -466,10 +466,10 @@
 	}
 }
 
-6430={ #
+6430={ #Waterloo
 	terrain="farmland"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -479,10 +479,10 @@
 	}
 }
 
-6431={ #
+6431={ #Belleville
 	terrain="farmland"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -492,7 +492,7 @@
 	}
 }
 
-6432={ #
+6432={ #Pinckneyville
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
@@ -505,7 +505,7 @@
 	}
 }
 
-6433={ #
+6433={ #Highland
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -522,7 +522,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -573,7 +573,7 @@
 7923={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 7925={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 9203={ #Pittsfield
 	terrain="farmland"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

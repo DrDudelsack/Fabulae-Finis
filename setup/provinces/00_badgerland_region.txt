@@ -196,7 +196,7 @@
 2082={ #Huuksac
 	terrain="hills"
 	culture="cheesehead"
-	religion="viking"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -678,7 +678,7 @@
 	terrain="plains"
 	culture="cheesehead"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

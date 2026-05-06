@@ -80,7 +80,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

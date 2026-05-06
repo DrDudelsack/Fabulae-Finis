@@ -271,7 +271,7 @@
 	}
 }
 
-1904={ #
+1904={ #Oak Bluffs
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
@@ -310,7 +310,7 @@
 	}
 }
 
-2169={ #
+2169={ #New Bedford
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
@@ -323,7 +323,7 @@
 	}
 }
 
-2170={ #
+2170={ #Taunton
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
@@ -336,7 +336,7 @@
 	}
 }
 
-2171={ #
+2171={ #Plymouth Rock
 	terrain="farmland"
 	culture="bayfolk"
 	religion="fathomless"
@@ -349,7 +349,7 @@
 	}
 }
 
-2178={ #
+2178={ #Barnstable Town
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
@@ -362,7 +362,7 @@
 	}
 }
 
-2179={ #
+2179={ #Barnstable
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
@@ -847,7 +847,7 @@
 	terrain="plains"
 	culture="bayfolk"
 	religion="catholic"
-	trade_goods="tubers"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-8883={ #
+8883={ #Nantucket
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"

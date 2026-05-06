@@ -44,12 +44,18 @@ HRM = "setup/countries/midwest/cole_camp.txt"
 KCA = "setup/countries/midwest/kansas_city.txt"
 CIN = "setup/countries/midwest/cincinatti.txt"
 FWN = "setup/countries/midwest/fort_wayne.txt"
+GYY = "setup/countries/midwest/gary.txt"
+PRT = "setup/countries/midwest/portage.txt"
+MCN = "setup/countries/midwest/michigan_city.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
 KNY = "setup/countries/south/kentucky.txt"
 LAF = "setup/countries/south/lafayette.txt"
 ATL = "setup/countries/south/atlanta.txt"
+MMP = "setup/countries/south/memphis.txt"
+TAL = "setup/countries/south/tallahassee.txt"
+OUT = "setup/countries/south/outer_banks.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
@@ -60,3 +66,6 @@ TUC = "setup/countries/west_coast/tucson.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"
+HAM = "setup/countries/east_canada/hamilton.txt"
+SUD = "setup/countries/east_canada/sudbury.txt"
+WIN = "setup/countries/east_canada/windsor.txt"

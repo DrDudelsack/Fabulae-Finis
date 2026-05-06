@@ -262,7 +262,7 @@
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="plains"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

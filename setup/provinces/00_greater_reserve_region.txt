@@ -362,7 +362,7 @@
 	}
 }
 
-7498={ #
+7498={ #Cleveland
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
@@ -431,7 +431,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="galvanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

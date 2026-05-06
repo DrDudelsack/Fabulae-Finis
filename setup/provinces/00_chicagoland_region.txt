@@ -54,7 +54,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -482,7 +482,7 @@
 9511={ #Galena
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 9513={ #Sterling
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0

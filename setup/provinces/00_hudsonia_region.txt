@@ -89,7 +89,7 @@
 	}
 }
 
-1099={ #
+1099={ #Ticonderoga
 	terrain="mountain"
 	culture="vermonter"
 	religion="americanist"
@@ -180,7 +180,7 @@
 	}
 }
 
-1759={ #
+1759={ #Rome
 	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
@@ -193,7 +193,7 @@
 	}
 }
 
-1760={ #
+1760={ #Marcy
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -206,7 +206,7 @@
 	}
 }
 
-1761={ #
+1761={ #German Flatts
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -219,7 +219,7 @@
 	}
 }
 
-1762={ #
+1762={ #Utica
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -327,7 +327,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -362,7 +362,7 @@
 	}
 }
 
-3103={ #
+3103={ #Lysander
 	terrain="plains"
 	culture="upstater"
 	religion="promethean"
@@ -375,7 +375,7 @@
 	}
 }
 
-3104={ #
+3104={ #Hastings
 	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
@@ -388,7 +388,7 @@
 	}
 }
 
-3105={ #
+3105={ #Albion
 	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
@@ -440,7 +440,7 @@
 	}
 }
 
-3470={ #
+3470={ #Gloversville
 	terrain="plains"
 	culture="hudsonian"
 	religion="ursuline"
@@ -453,7 +453,7 @@
 	}
 }
 
-3471={ #
+3471={ #Saratoga Springs
 	terrain="plains"
 	culture="hudsonian"
 	religion="ursuline"
@@ -678,7 +678,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -726,7 +726,7 @@
 	}
 }
 
-6678={ #
+6678={ #Albany
 	terrain="farmland"
 	culture="hudsonian"
 	religion="ursuline"
@@ -739,7 +739,7 @@
 	}
 }
 
-6679={ #
+6679={ #Coeymans
 	terrain="plains"
 	culture="hudsonian"
 	religion="ursuline"
@@ -752,7 +752,7 @@
 	}
 }
 
-6680={ #
+6680={ #Schenectady
 	terrain="farmland"
 	culture="hudsonian"
 	religion="ursuline"
@@ -778,7 +778,7 @@
 	}
 }
 
-6850={ #
+6850={ #Pompey
 	terrain="plains"
 	culture="upstater"
 	religion="galvanist"
@@ -791,7 +791,7 @@
 	}
 }
 
-6851={ #
+6851={ #Camillus
 	terrain="plains"
 	culture="upstater"
 	religion="promethean"
@@ -804,7 +804,7 @@
 	}
 }
 
-6852={ #
+6852={ #Sullivan
 	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
@@ -817,7 +817,7 @@
 	}
 }
 
-6853={ #
+6853={ #Syracuse
 	terrain="farmland"
 	culture="upstater"
 	religion="promethean"
@@ -977,7 +977,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
-	trade_goods="clay"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="clairvoyant"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

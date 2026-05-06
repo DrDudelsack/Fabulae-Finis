@@ -131,7 +131,7 @@
 1183={ #Winuna
 	terrain="hills"
 	culture="minnesotan"
-	religion="viking"
+	religion="twainist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0

@@ -1031,3 +1031,24 @@ SRY = { #Syracuse flag from vanilla
 		instance = { scale = { 0.7 0.7 } }
 	}
 }
+
+MMP = { #Memphis
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 58 51 7 }
+	color2 = rgb { 58 51 7 }
+
+	colored_emblem = {
+		texture = "ce_egypt_udjat_eye.dds"
+		color1 = "roman_gold"
+		color2 = rgb { 58 51 7 }
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_ancient_egyptian_pattern_01.dds"
+		color1 = "roman_gold"
+		color2 = rgb { 58 51 7 }
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+

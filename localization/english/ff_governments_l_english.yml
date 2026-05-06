@@ -29,8 +29,29 @@
  democratic_republic_ruler:0 "Speaker"
  aristocratic_republic_ruler:0 "Speaker"
  oligarchic_republic_ruler:0 "Speaker"
+ theocratic_republic_ruler:0 "Speaker"
 
  league_republic_ruler_longhouse:0 "Royaner"
  league_republic_ruler_female_longhouse:0 "Royaner"
  league_republic_ruler_gothamite:0 "Mayor"
  league_republic_ruler_female_gothamite:0 "Mayor"
+
+ despotic_monarchy_ruler_americanist:0 "Governor"
+ aristocratic_monarchy_ruler_americanist:0 "Governor"
+ plutocratic_monarchy_ruler_americanist:0 "Governor"
+ stratocratic_monarchy_ruler_americanist:0 "Governor"
+ theocratic_monarchy_ruler_americanist:0 "Governor"
+
+ despotic_monarchy_ruler_galvanist:0 "Tycoon"
+ aristocratic_monarchy_ruler_galvanist:0 "Tycoon"
+ plutocratic_monarchy_ruler_galvanist:0 "Tycoon"
+ stratocratic_monarchy_ruler_galvanist:0 "Tycoon"
+ theocratic_monarchy_ruler_galvanist:0 "Tycoon"
+
+ plutocratic_republic_ruler_galvanist:0 "Foreman"
+ democratic_republic_ruler_galvanist:0 "Foreman"
+ aristocratic_republic_galvanist:0 "Foreman"
+ oligarchic_republic_ruler_galvanist:0 "Foreman"
+
+ imperium_ruler_caesarist:0 "First Citizen" #Or Caesar or Augustus?
+ federal_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?

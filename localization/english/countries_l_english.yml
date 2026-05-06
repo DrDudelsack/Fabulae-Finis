@@ -90,6 +90,12 @@
  CIN_ADJ:0 "Cincinattian"
  FWN:0 "Fort Wayne"
  FWN_ADJ:0 "Waynesian"
+ GYY:0 "Gary"
+ GYY_ADJ:0 "Garyite"
+ PRT:0 "Portage"
+ PRT_ADJ:0 "Portagean"
+ MCN:0 "Michigan City"
+ MCN_ADJ:0 "Chicagoan"
  
  ## South ##
  NOL:0 "New Orleans"
@@ -100,6 +106,12 @@
  LAF_ADJ:0 "Acadian"
  ATL:0 "Atlanta"
  ATL_ADJ:0 "Atlantean"
+ MMP:0 "Memphis"
+ MMP_ADJ:0 "Memphite"
+ TAL:0 "Panhandle Republic"
+ TAL_ADJ:0 "Panhandler"
+ OUT:0 "Outer Banks"
+ OUT_ADJ:0 "Hoi Toider"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
@@ -116,6 +128,12 @@
  ## East Canada ##
  FRO:0 "Francontario"
  FRO_ADJ:0 "Francontarien"
+ SUD:0 "Nickel Belt"
+ SUD_ADJ:0 "Sudburyian"
+ HAM:0 "Hamilton"
+ HAM_ADJ:0 "Hamiltonian"
+ WIN:0 "Windsor"
+ WIN_ADJ:0 "Windsorite"
 
 # Gaelic #
  AUTINI:0 "Autinia"
