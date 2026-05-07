@@ -1272,6 +1272,51 @@ country = {
 				1909
 			}
 		}
+		TEN = { #Tennessee
+			government = tribal_federation
+			primary_culture = riverlander
+			religion = revelationist
+			capital = 642
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1012 1014 9042 9043 6153
+				9044 9045 
+				642 3249 4620 5667 3251 7027 7030 644 641 643 3250
+				5668 5330 5669 7028 5331 5329 5332 7029 1850 9580 
+				5886 1851 5885 5887 1852 9578 9579 2072 2074 2073 
+				1732 1730 1731 1729
+			}
+		}
+		ALB = { #Alabama
+			government = despotic_monarchy
+			primary_culture = dixie
+			religion = revelationist
+			capital = 2718
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2718 6724 6725 6292 6291 6290 585 583 584 2719
+				4715 11629 4716 8935 8936 7743 7742 7741 11630 2717
+				4952 4953 8365 4497 4495 4496 4954
+				7469 4643 4642 7471 4644 11628 6462 6464 6463 5345
+				7952 6726 7950 1551 11627 1549 1550 821 819 7470 820 7951 
+				5001 5002 5004 7387 7388 8348 7113 7386 7385 5344 5343 5003
+				4955 1668 1669 6171 6172 6170
+			}
+		}
 	}
 }
 

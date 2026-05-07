@@ -40,5 +40,17 @@ deity_manager = {
 			key = omen_heikki_lunta
 			deity = deity_heikki_lunta
 		}
+		510 = {
+			key = omen_polaris
+			deity = deity_polaris
+		}
+		511 = {
+			key = omen_father_twain
+			deity = deity_father_twain
+		}
+		512 = {
+			key = omen_mother_mississippi
+			deity = deity_mother_mississippi
+		}
 	}
 }

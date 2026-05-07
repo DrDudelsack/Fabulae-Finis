@@ -115,7 +115,11 @@
  BRN:0 "Brainerd"
  BRN_ADJ:0 "Brainerder"
  NEU:0 "New Ulm"
- NEU_ADJ:0 "Ulmian"
+ NEU_ADJ:0 "Ulmian" 
+ TEN:0 "Tennessee"
+ TEN_ADJ:0 "Tenessean"
+ ALB:0 "Alabama"
+ ALB_ADJ:0 "Alabaman"
 
  ## South ##
  NOL:0 "New Orleans"

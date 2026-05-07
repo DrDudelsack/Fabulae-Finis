@@ -66,6 +66,8 @@ ATL = "setup/countries/south/atlanta.txt"
 MMP = "setup/countries/south/memphis.txt"
 TAL = "setup/countries/south/tallahassee.txt"
 OUT = "setup/countries/south/outer_banks.txt"
+TEN = "setup/countries/south/tennessee.txt"
+ALB = "setup/countries/south/alabama.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

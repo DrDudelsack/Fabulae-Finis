@@ -315,3 +315,81 @@ deity_heikki_lunta= {
 		}
 	}
 }
+deity_polaris = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			rare_deity_trigger = {
+				RELIGION = viking
+			}
+			deity:omen_polaris = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_fertility
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_tribesmen_output = global_tribesmen_output_svalue }  #Bonus from Omen
+	religion = lakeshore
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_father_twain= { # Tall-Taler interpretation of Mark Twain
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = viking
+			}
+			deity:omen_father_twain = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_kemetic_eloquence
+	passive_modifier = { diplomatic_relations = deity_diplomatic_relations_svalue }
+	omen = { oratory_tech_investment = omen_oratory_tech_investment } #Bonus from Omen
+	religion = viking
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_oratory_tech_effect = yes
+	}
+}
+deity_mother_mississippi = { # Tall-Taler personification of the river Mississipi - consort of Father Twain (like greek River gods)
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = viking
+			}
+			deity:omen_mother_mississippi = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_kemetic_fertility
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { global_population_happiness = omen_global_population_happiness } #Bonus f
+	religion = viking
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        fertility_apotheosis_capital_effect = yes
+    }
+}

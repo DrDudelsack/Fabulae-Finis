@@ -42,3 +42,15 @@
  deity_heikki_lunta:0 "$omen_heikki_lunta$"
  omen_heikki_lunta:0 "Heikki Lunta"
  omen_heikki_lunta_desc:0 "#Y Lakeshore Spirit#!\n\nEqually a blessing and a curse, Heikki Lunta is the god of snow. It is common to perform a chant to the god, in the hopes that he brings down abundant snowfall. But, too much of anything can be a bad thing. If he brings too much snowfall, you would chant 'Heikki Lunta go away', in the hopes that this primordial deity will abate his wrath."
+
+ deity_polaris:0 "$omen_polaris$"
+ omen_polaris:0 "Polaris"
+ omen_polaris_desc:0 "#Y Lakeshore Spirit#!\n\nPolaris, the guiding star, will shine their light upon our people, as they go throughout the great cycle of life."
+
+ deity_father_twain:0 "$omen_father_twain$"
+ omen_father_twain:0 "Father Twain"
+ omen_father_twain_desc:0 "#Y Tall-Taler Teacher#!\n\nThe wisest and most ancient of men, Father Twain and his wife, Mother Mississippi, parented 10 children. Each of these children went their own way, settling along the Mississippi. Father Twain was also a prolific writer, creating many of the texts that are still around today."
+
+ deity_mother_mississippi:0 "$omen_mother_mississippi$"
+ omen_mother_mississippi:0 "Mother Mississippi"
+ omen_mother_mississippi_desc:0 "#Y Tall-Taler Spirit#!\n\nThe personification of the Mississippi, Mother Mississippi is the great life giver, the deity that makes life itself possible. The healing waters of the Mississippi are considered sacred by many for this reason."
