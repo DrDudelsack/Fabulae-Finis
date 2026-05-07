@@ -449,3 +449,189 @@ deity_deere = {
 		military_apotheosis_manpower_effect = yes
 	}
 }
+deity_longshoreman = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			rare_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_longshoreman = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
+	omen = { ship_cost = -0.10 } #Bonus from Omen
+	religion = galvanist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_sinclair = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_sinclair = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_food_capacity = deity_global_food_capacity_svalue }
+	omen = { global_population_growth = omen_global_population_growth }
+	religion = galvanist
+	deity_category = fertility 
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+deity_osha = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_osha = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { monthly_political_influence_modifier = deity_monthly_political_influence_modifier_svalue }
+	religion = galvanist
+	deity_category = fertility 
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+deity_reuther = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = michigander
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = motowner
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = upnorther
+			}
+			deity:omen_reuther = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_culture
+	passive_modifier = { global_freemen_output = deity_global_freemen_output_svalue }
+	omen = { happiness_for_wrong_culture_group_modifier = omen_happiness_for_wrong_culture_group_modifier_svalue } #Bonus from Omen
+	religion = galvanist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_oratory_tech_effect = yes
+	}
+}
+deity_rosie = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_rosie = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { manpower_recovery_speed = deity_global_manpower_recovery_speed_svalue }
+	omen = { monthly_military_experience_modifier = deity_monthly_military_experience_modifier_svalue } #Bonus from Omen
+	religion = galvanist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_kellogg = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = promethean
+				CULTURE = michigander
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = promethean
+				CULTURE = motowner
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = promethean
+				CULTURE = upnorther
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = michigander
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = motowner
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = upnorther
+			}
+			deity:omen_kellog = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_slaves_happyness = deity_global_slaves_happiness_svalue }
+	omen = { build_cost = omen_build_cost_svalue }
+	religion = promethean
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}

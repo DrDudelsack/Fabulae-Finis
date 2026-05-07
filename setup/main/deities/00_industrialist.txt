@@ -64,5 +64,29 @@ deity_manager = {
 			key = omen_deere
 			deity = deity_deere
 		}
+		416 = {
+			key = omen_longshoreman
+			deity = deity_longshoreman
+		}
+		417 = {
+			key = omen_sinclair
+			deity = deity_sinclair
+		}
+		418 = {
+			key = omen_rosie
+			deity = deity_rosie
+		}
+		419 = {
+			key = omen_reuther
+			deity = deity_reuther
+		}
+		420 = {
+			key = omen_osha
+			deity = deity_osha
+		}
+		421 = {
+			key = omen_kellogg
+			deity = deity_kellogg
+		}
 	}
 }

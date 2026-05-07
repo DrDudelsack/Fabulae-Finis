@@ -35,7 +35,11 @@ deity_hermann= {
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = viking
-				culture = minnesotan
+				CULTURE = minnesotan
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = viking
+				CULTURE = northlander
 			}
 			deity:omen_hermann = {
 				holy_site_deity_check_trigger = yes
@@ -139,11 +143,11 @@ deity_gustavus= { # Gustavus Adolphus College in St. Peter, Minnesota
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = viking
-				culture = minnesotan
+				CULTURE = minnesotan
 			}
 			rare_deity_culture_trigger = {
 				RELIGION = viking
-				culture = northlander
+				CULTURE = northlander
 			}
 			deity:omen_gustavus = {
 				holy_site_deity_check_trigger = yes
@@ -194,11 +198,7 @@ deity_the_twins= { # Based on the merger of the Minneaplis Millers and the St. P
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = viking
-				culture = minnesotan
-			}
-			rare_deity_culture_trigger = {
-				RELIGION = viking
-				culture = northlander
+				CULTURE = minnesotan
 			}
 			deity:omen_the_twins = {
 				holy_site_deity_check_trigger = yes

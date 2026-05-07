@@ -1,3 +1,6 @@
 ### KEYS USED FOR DIFFERENT RELIGIONS
 # Maya 1 - 199
 # Guruist 200-299
+# Americanist 300-399
+# Industrialist 400-499
+# Lacustrine 500-599
