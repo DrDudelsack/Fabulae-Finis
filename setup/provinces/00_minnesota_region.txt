@@ -39,7 +39,7 @@
 
 237={ #
 	terrain="forest"
-	culture="minnesotan"
+	culture="northlander"
 	religion="caesarist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 239={ #
 	terrain="farmland"
-	culture="minnesotan"
+	culture="northlander"
 	religion="viking"
 	trade_goods="horses"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 1476={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 1477={ #Chandhayapi
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 1478={ #Pezhihutazi
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="hallucinogenics"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 1755={ #Tin'ta
 	terrain="plains"
-	culture="minnesotan"
+	culture="northlander"
 	religion="viking"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 1907={ #Washecha
 	terrain="farmland"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="honey"
 	civilization_value=10
@@ -271,9 +271,9 @@
 	}
 }
 
-1908={ #Makato Osa Watapa
+1908={ #Mankato
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10
@@ -284,22 +284,41 @@
 	}
 }
 
-1909={ #Wagacha
+1909={ #New Ulm
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
+	trade_goods="marble"
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	citizen={
+		religion="catholic"
+		amount=3
+	}
+	freemen={
+		religion="viking"
+		amount=3
+	}
+	freemen={
+		culture="heartlander"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
-1910={ #Watanwan
+1910={ #Fairmont
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="tubers"
 	civilization_value=10
@@ -312,7 +331,7 @@
 
 3555={ #
 	terrain="forest"
-	culture="minnesotan"
+	culture="northlander"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -557,7 +576,7 @@
 	}
 }
 
-8024={ #Bdoté
+8024={ #St. Paul
 	terrain="farmland"
 	culture="minnesotan"
 	religion="promethean"
@@ -570,7 +589,7 @@
 	}
 }
 
-8025={ #Mníhaha
+8025={ #Minneapolis
 	terrain="farmland"
 	culture="minnesotan"
 	religion="promethean"
@@ -583,7 +602,7 @@
 	}
 }
 
-8026={ #
+8026={ #Bloomington
 	terrain="farmland"
 	culture="minnesotan"
 	religion="promethean"
@@ -689,7 +708,7 @@
 
 8373={ #
 	terrain="forest"
-	culture="ojibwe"
+	culture="northlander"
 	religion="midewiwin"
 	trade_goods="wood"
 	civilization_value=10
@@ -702,7 +721,7 @@
 
 8374={ #
 	terrain="farmland"
-	culture="minnesotan"
+	culture="northlander"
 	religion="viking"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -754,7 +773,7 @@
 
 8647={ #Ite ska
 	terrain="plains"
-	culture="minnesotan"
+	culture="northlander"
 	religion="viking"
 	trade_goods="horses"
 	civilization_value=10
@@ -765,7 +784,7 @@
 	}
 }
 
-8648={ #Mní Wašte
+8648={ #Alec
 	terrain="farmland"
 	culture="minnesotan"
 	religion="viking"
@@ -780,7 +799,7 @@
 
 8649={ #
 	terrain="plains"
-	culture="minnesotan"
+	culture="northlander"
 	religion="viking"
 	trade_goods="grain"
 	civilization_value=10
@@ -794,7 +813,7 @@
 9518={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0

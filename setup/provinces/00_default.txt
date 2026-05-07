@@ -110696,7 +110696,7 @@
 11541={ #
 	terrain="impassable_terrain"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

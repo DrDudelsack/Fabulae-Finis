@@ -482,7 +482,7 @@
 3562={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 4670={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 8719={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="united_church"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 8720={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="united_church"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1236,7 +1236,7 @@
 9406={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="united_church"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

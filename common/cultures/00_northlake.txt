@@ -10,37 +10,65 @@
 	primary_navy = tetrere
 	secondary_navy = octere
 	flank_navy = liburnian
-
-	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
-	}
-	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
-	}
-	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
-	}
+	#minnesotan names + family names
+	male_names = { Aaby Abdulkadir Abdi Abdirahman Abdirashid Abdirizak Abdullahi Able Abner Ahmed Aiden Alexander Alfred Algar Anthony Anwar Arty Asher Austin Barkhad Barnabas Benny Benadict Bernard Bjorn Blake Blong Bryan Blitz Balthazar Billy Cai Cambridge Capra Carter Cedric Cilian Chad Chester Charles Cherzong Chip Chue Connor Corbin Cy Danny David Deshawn Douglas Duane Drake Dylan Englebert Eddie Edge Elijah Ellsworth Eric Ethan Ezra Faysal Fred Ferdinand Foung Fuechy Gabriel Gibson Grayson Grant Greg Hang Hart Ho Herman Henri Idris Indiana Isiah Isaac Jace James Jameson Jarl Jaxon Jayden Jefferson Jimmy Joe Johnny Jonas Jordan Jorge Joshua Josiah Jorgen Jules Karl Ke Kristopher Kong Kris Kyle Lambert Leo Levi Levon Levardis Lia Liam Lincoln Lindy Linus Logan Lonny Lou Lukas Lung Macabee Mahamed Mason Martyn Mateo Matty Maverick Maximillian Miles Milo Mikey Mitch Mo Monty Mortimer Morton Milford Mehmet Mulla Nacho Nee Nikolai Noah Norman Norbert Obie Oliver Owain Oscar Pierce Po Sammy Sauk Simeon Sonam Sven Terry Theodore Timothy Tiny Topper Tou Walter Wendell Will Wyatt Xuseen Xong Yang Zachariah Zeb }
+    female_names = { Aasild Aisha Abby Absan Addy Amelia Adison Alicia Alma Anna Angela Aria Aurora Ava Avery Bethany Billy Camila Charlotte Chee Chloe Cho Cloquet Cua Dagmar Dawn Denver Deb Delores Dorothy Ember Emerald Emma Emilia Ella Ellie Elizabeth Eve Everly Fadumo Falis Florence Francis Frieda Giana Ginny Godiva Grace Gwen Halimo Hannah Harper Havanah Hawo Hazel Henrietta Hilda Hli Hnuci Huston Ida Ilhan Irene Isabella Isla Jane Jina Jolene Julia Kassandra Katelyn Kendra Kris Kyla Laura Laurel Layla Lawson Leah Lea Lia Lee Lem Leslie Lily Lilian Linda Lindelle Lo Lottie Lu Luna Lyla Lynn Oleanna Mahala Mai Maria Mee Mia Mila Mimi Natalie Nee Nora Nova Noxa Olivia Paisley Penelope Peggy Piper Poppy Quinn Rachel Ruth Sansa Sara Sarah Selma Sofia Stella Sunisa Susanah Tarah Teresa Terry Thilda Twyla Victoria Violet Ursa Wanda Winona Zea Zoey Zoua Zuhur }
+	family = { Aabi Aamodt Aarsvold Aasen Abdi Abdirahman Abdul Abdullah Abdullahi Abdulle Abfalter Abrahamson Adams Adewale Adhikari Admundson Afolabi Ahmed Ahrenholz Aiken Akinola Akinpelu Alexander Ali Allen Alonso Alsleban Almquist Ammermann Anderson Anfisnson Antonson Apfelbacher Aretz Armstrong Arnachellum Arvidson Ashbeck Ashling Askelson Asmus Atwood Backowski Baggenstoss Bailey Baillargeon Baker Baltazar Balthazor Baltus Banavige Banovetz Barkhad Barmann Bartko Batbayar Batsaikhan Bauer Bauman Bautch Beard Becker Beckman Bedward Behr Beinborn Benassi Bendtsen Beneke Bengtson Bennett Benson Berg Bergren Bergman Bergstrom Berkner Berrisford Bibeau Bicanich Biebighauser Binsfeld Birkeland Bishop Bjorkquist Blanchard Blaschko Blodgett Blom Bloom Blumenschein Bock Boe Boegeman Boelter Boettcher Bohnsack Boldsukh Bolson Bomersine Bonine Boogren Borchardt Borgeson Bork Bosch Bottolfson Bourbeau Boyum Bozivich Brambilla Brandt Brandvold Breegeemann Breimhorst Brenke Brenna Brenner Bridell Brinkman Brockelstein Brockman Broman Bromenschenkel Brown Bruestle Budde Buhr Bui Bulthuis Burdeski Burns Buss Butler Caalin Caballero Campbell Capistrant Carlson Caron Carroll Carstenen Casey Caulfield Cejka Cernohous Chang Chapdelaine Chapman Charpentier Chen Chenoweth Cheung Chevaillier Chinquist Chock Choe Christen Christensen Christianson Cichocki Ciminski Cincotta Clark Clasen Clementson Cocchiarella Cole Collias Collins Cook Cooper Corwin Costello Cranbrook Cruikshank Cruz Cusick Dadi Dahl Dalbec Damhof Danielson Danovsky Danzeisen Darling Darsow Dauwalter Davis DiBrito Decker Delbow Delgado Dellwo Demars Desmarais Deutsch Dickey Dimond Dinh Dirie Dirnberger Ditty Dockendorf Doering Dokkabakken Doll Dollerschell Dolma Domaille Domke Dressler Dreyling Drinkman Ducharme Dueholm Duinick Dunn Durant Duwenhogger Dvorak Dymoke Eaton Echtenkamp Eckdahl Ecklund Edwards Egge Eggersgluess Eggerth Ehlert Eide Eilers Eischens Eisenschenk Eisinger Ek Eklund Ekstrand Eldeeb Ellefson Ellingboe Ellingson Elliott Elsbernd Ende Englund Erdahl Erdmanczyk Erickson Erkens Erlandson Erpelding Ertl Ewald Exsted Falk Farah Fazendin Finch Fineboy Fink Fischbach Fischer Fitzenberger Fitzgerald Fjerstad Flaschenriem Fleetham Fleischhacker Flom Flomo Floyd Forsberg Foster Fostervold Fraenkel Frana Francomb Frank Frankfurth Fransen Frauendienst Fredericksen Freiendshuh Frisch Frost Fuchs Gabrielson Gadbaw Gadbois Gagner Galatowisch Gales Gallagher Gammelgaard Gamroth Garcia Gardner Garrity Gaustad Gauthier Geislinger Gelgelu Genereux Gennow Gerding Germscheid Getachew Ghassemi Gierok Giese Gilbertson Gilkes Gillitzer Glaser Glennfunk Glimsdale Glimsdale Goettl Goldenstein Gonzalez Goodmanson Goodrich Gordon Graham Granlund Graves Gravley Gray Greeninger Griffin Groettum Gronfield Gronli Gross Grossinger Gruber Gruenhagen Grussendorf Grussing Gryniewski Guggisberg Gulachek Gulbrandson Gullickson Gunderson Gurung Gustafson Haag Habteyes Hadrich Hadziomerovic Hafermann Hagen Haggenmiller Halama Hall Halloran Halverson Halvorson Hammes Hang Hansen Hanson Hardy Harmel Harms Harris Hartung Hasenohrl Hassan Hassan Hasse Hatterschide Hauer Haugen Haus Hauschildt Havlicek Hawj Hawkins Hayes Hedberg Hedlund Heichert Heiling Heitzman Hendrickson Henning Henrich Henry Hepokoski Her Hergott Hernandez Hesse Hildebrandt Hilden Hillesheim Hilowle Hilpisch Himmerich Hinderscheid Hirsi Hjelle Hlivka Hoekstra Hoernemann Hoffman Hollenbeck Holmes Holmgren Holmquist Hoseck Hoogeveen Houle Hoversten Howard Hoy Huber Hultgren Humbled Humpal Hunter Huppert Hurley Huttner Huynh Hwang Iacarella Iaquinto Ibrahim Ide Ihde Imholte Isenberg Iverson Iwen Jabane Jackels Jackson Jacobson Jallah Jama Jendro Jenkins Jensen Jesperson Jeurissen Jewison Jibrell Johansen Johannes Johnson Johnston Jokinen Jones Jopp Jorgensen Joswiak Juaire Juen Jungclaus Kadelbach Kadinger Kaehler Kalahar Kalkbrenner Kamara Kampa Kane Kaping Karjalahti Karpenko Kaupa Kazmierkoski Kebede Keller Kelly Kelnhofer Kelzer Kempenich Kemper Kenyon Keogh Kerkow Khan Khang Kiecker Killian Kim King Kinghorn Kistner Kivi Klatt Klein Kleinberger Kleinhuizen Klingberg Klocke Kloster Kluzak Knapp Knight Knowlton Knox Knutson Knutson Koch Koehler Koenig Kofiro Kohlmann Kolles Kollie Komisarchik Kommerstad Kongsiharath Konichek Konietzko Kopp Kopylov Kosek Koski Kostenk Koterba Kothlow Kragenbring Kragness Kramer Krantkemer Krause Krech Krekelberg Krenik Krenz Kruckeberg Kruckman Krueger Kubesh Kubisiak Kubiszewski Kubitschek Kuehl Kuehn Kulig Kunjummen Kunz Kurilov Kurkowski Kushneryk Kuykendall Kvale Kylander Kyollnen LaBissoniere Lachinski Laduke Landwehr Lang Langer Langness Langness Langworthy Lanhart Larrabee Larson Lawrance Le Lee Leighton Leininger Lemke Lenz Lenzen Lessard Lesteberg Levang Levinski Lewandowski Lewis Liang Lien Lindberg Lindbloom Linder Lindholm Lindquist Lindstrom Link Linnihan Lipinski Lisowski Litzau Liu Loch Lochen Lofgren Logelin Lohmann Lohse Long Lopez Lor Lor Lubega Lubenow Lucking Ludvik Lueck Luhmann Lund Lundberg Lundebrek Lundeen Lundgren Lundin Lundquist Lutz Ly Maas Mackedanz Mackenthun Madsen Magaling Magnuson Mahamud Mahoney Mahowald Majewski Maki Malikowski Mallinger Malwitz Mammo Manning Marchino Marinaro Markoe Marquardt Marquette Marsolek Martin Martinez Marx Mason Massaquoi Masterman Mattila Mattson Matzek Mau Maung Maus Maxa Maxamed May Maybrey McAthie McAvey McCarthy McCrackin McCullick McCulloch McCurdy McDonough McGinnis McGinty McGraw McGuire McKenzie McKusick McLellan McManus McNamara McNeilus Megarry Mejia Mellgren Melquist Mendoza Menendez Metsen Meuwissen Meyer Mezera Mickelson Mickolichek Middendorf Mielke Miller Millmann Mitchell Moberg Moe Mohamed Mohammad Mohamoud Mohmud Molenaar Molinari Mondale Monson Moosbrugger Moquist Morales Moravetz Morgan Morris Motzko Moua Muckenhirn Muehlberg Muelhauser Mueller Mulreen Munoz Munsterteiger Murakami Murphy Murray Musgjerd Musolf Mussman Muze Mwangi Myers Nalepinski Nash Nechanicky Negen Nelson Nemitz Neudauer Neuenfeldt Neumann Neururer Newberg Newman Neyers Nguyen Nhia Nichols Niederkorn Nierengarten Nightengale Nightshadow Nikolai Nistler Nordberg Nordstrom Noreen Norling Norton Notermann Novak Nur Nygaard Nygren O_pst_Keefe Oakvik Oare Obembe Obrien Odegaard Oelfcke Oftedahl Okerstrom Olberding Olmscheid Olsen Olson Olsson Oman Omar Omundson Opdahl Opheim Opsahl Ortiz Ortloff Osgood Osland Oslund Osman Ostlie Otieno Otterbein Otto Overby Oxborough Paclik Palkowski Palmer Palmersheim Palson Panka Pankratz Panning Pansch Pantages Parentau Park Patel Patterson Patraw Paulson Paynter Pearson Pechacek Pederson Perbix Peremislov Perez Perillat Persaud Persons Peters Petersen Peterson Petrangelo Petsche Pettengill Pfeifer Pham Phan Phetsomphou Philippi Phimister Piehl Pientok Pierce Pietzrak Pineault Plekkenpol Pogalz Poganski Pohlmann Popelka Poppitz Porter Porwoll Pomerleau Posusta Potapenko Potting Proell Pronschinske Prudlick Pryzbilla Puklich Puram Putzier Quam Quandahl Quarberg Quicksell Quilling Quimby Raisanen Ramberg Rambow Ramirez Randle Ranheim Rannow Rasmussen Rassbach Rau Rausch Reak Reed Reichel Reichenberger Reichert Reigstad Reinke Rettke Reuter Reynolds Rice Richert Richter Ripka Rivera Robinson Rodriguez Roemhildt Roettger Rolf Romanoff Root Rose Rosenberg Rosenow Rosenquist Ross Rossbach Rossow Ruchti Rucinski Rudolph Rueckert Ruegg Rumpza Runnells Ruprecht Russell Ryan Salmela Samatar Sanchez Sandgren Sandwick Sao Schachenmeyer Schaefer Schank Schepers Scheunemann Schewe Schiung Schlangen Schlichting Schlieman Schmidt Schmitz Schneewind Schneider Schnobrich Schober Schock Scholfield Schommer Schrempp Schroeder Schrupp Schuefftan Schueller Schultz Schumeister Schuster Schwalbe Schwartz Schwarzrock Schweiger Scmitt Scrimgeour Seehafer Selander Senescall Serbus Severson Shabele Shackle Shaefer Shafi Shahani Shankey Shapiro Sharma Sharmake Shaw Sheehan Sheikh Shoemaker Shoutz Shrestha Shukri Sigsworth Silloway Simanstad Simnioniw Simon Simonson Singh Sjoberg Skarsten Skillings Skindelien Skistad Skroch Slaby Slagter Smazal Smith Smude Sneen Sobiech Soderberg Soderholm Sogge Solberg Solheid Solovko Sommerfeld Sondrol Sorensen Sorenson Sowieja Splittstoesser Stampfle Stanchfield Steinkraus Stewart Stevensen Sticha Stone Stortz Stradtmann Stram Strand Strandberg Stratton Strauss Streed Strobush Strom Stromberg Stuckey Stuewe Stussy Stutz Stynsberg Suchy Suckow Suldan Sumo Sutton Swanson Swedberg Swenson Sylla Sylwester Tadesse Tangen Tebben Tesfaye Teymouri Thaemert Thao Thayer Theis Theisen Theisfeld Thiel Thielman Thiemann Thieschafer Thissen Thor Threinen Thury Tikalsky Tilbury Tischbirek Tjornhom Tollefson Tomsche Torkelson Totall Tousignant Townsend Tradewell Trahms Tran Trautsch Traxler Trevis Trombley Troska Truax Truckenbrod Truong Tschida Tschudi Tsering  Tuchtenhagen Tuma Turner Tuschl Uecker Umanzor Underbakke Undersander Unkee Unverzagt Upthall Urness Vadnais Valiant Van Vanburen Vanderlinde Vang Vanoverbeke Vega Vergara Vesselee Viebrock Vierling Vinkemeier Vohnoutka Volk Vollmer Vongpeth Vongpheth Vosinek Vruwink Vu Vue Wachholz Wachter Wackerfuss Wadsworth Wagner Wahl Wahlberg Wainberg Waldorf Walji Walker Wallace Walsh Walton Walz Wandrei Ward Wardere Warfa Warnemunde Warsame Washington Wasilowski Waterston Wattenhofer Waxlax Weber Weckman Weckwerth Wegscheider Wehle Weidendorf Weigel Weingartz Weinstein Weinzierl Weisbecker Wells Welna Welter Wendlandt Wendroth Wentzlaff Wermerskirchen Werner West Westeren Westerlund Westlund Westphal Wetterling Wheeler Wheeling White Whiteoak Widmark Wiese Wilkening Wilkinson Willems Willging Williams Winkelman Wippler Witebsky Witry Wobschall Wohlers Wohnoutka Wojciak Wolf Wolff Wolfgram Woltjer Wong Woog Woolhouse Worden Wozniak Wroblewski Wunrow Wurm Wurschen Wykstra Wyss Wyttenbach Xaaji Xassan Xiong Xuseen Xyooj Yam Yang Yankowiak Yassin Yelich Yeomans Yerks Yin Ylitalo Yohnke Young Yussuf Zachman Zahhos Zakashefski Zakharenko Zakreva Zelinske Zellner Zeman Zenzen Zhang Zieba Ziebarth Ziegler Ziermann Zimmer Zimmerman Zumbusch } 
 	culture = {
 		minnesotan = {}
 		cheesehead = {}
 		yooper = {}
-		northlander = {}
+		northlander = {
+			male_names = {
+				Aage Aall Aaron Adolphus Albert Alf Alvaren Alvin Ancher Anders Anton Archie Arild Arlan Arne Arnold Arnulf Arthur Arvid Aslag Asle Atle August Austin Axel
+				Baxter Belmar Ben Bent Bernhard Bertil Bjarne Bjorn Bjornstjerne Bill Bookh Brent Bruce Brian
+				Calvin Carl Carlton Casper Cass Chaska Chisago Clarence Clark Cleng Cliff Clint Clyde Connor Conrad Corwin Cub Cyrus
+				Dalby Dale Dane Daniel Dave Dittmer Dodge Donald Dorilus Dorvan Duane
+				Earl Eckman Ed Edgar Edmore Edmund Edroy Edwin Elvin Einar Elgar Elling Elmer Elof Elsford Elwood Emil Emmon Erik Erling Ernfrid Ernest Everett Ezra
+				Finn Floyd Frank Fredrik Fritjof Frode
+				Garfield Gary George Gerhard Gilman Gilmore Glen Godahl Gotfred Greger Grim Grover Gunder Gunnar Gustavus
+				Haakon Haldor Halver Hans Harald Harvey Henrik Henning Herbert Herman Hjalmar Holm Horatio Hormel Howard Hugo
+				Ingebrik Ingerval Inghart Ingolf Ingomar Isaac Iver
+				Jacob James Jarle Jon Jon-Erik Jordan Jorn
+				Kemper Kermit Kjell Knute Konrad Koltyn Kris Kurt
+				Lars Lars-Erik Leif Leif-Erik Lem Leon Leonard Leroy Lester Linus Lockie Lonnie Lonny Loren Ludvig Luther
+				Magnus Mark Martin Marvin Matt Melius Melvin Merrell Michael Milton Morris Morton Myron
+				Nelson Nils Norman
+				Obert Odd Odin Olaf Ole Olger Orm Orville Orvin Osakis Oscar Oswald Otto Ove
+				Paul Peer
+				Quentin
+				Ragnar Ragnvald Ralph Randolph Randall Randy Rasmus Razi Realf Rich Rick Robert Roland Rudolf Rune Ryan
+				Selmer Shep Sigdal Sigfred Sigurd Sigvard Simon Skip Sky Solvie Sondre Soren Stanisleif Stavanger Stearn Stefan Stein Stuart Suban Svend Sven Sveinbjorn Swan
+				Tahgeyt Theo Thomas Thor Thorstein Thriem Tobias Torger Torkel Torval Trygve Ty
+				Ulen Ulrik
+				Valerian Verner Viktor Vladisleif Vyas
+				Waldemar Wally Walter Warren Watonwan Wayne Wendell Weston Wheaty Wilbur Willard William Winthrop
+			}
+			female_names = {
+				Aagot Aasild Abigail Absan Ada Agnes Alice Alma Anna
+				Barb Bergetta Bertha Britta Brynhild
+				Carreboo Carol Carrie Charlene Cheryl Clara Cloquet Connie Crystal
+				Dagmar Dagny Darlene Dawn Debbie Delores Diane Doreen
+				Edina Edwina Elgie Elizabeth Ella Ellerine Ember Embla Emily Emoay Erika Erin Esther Ethel Excelle
+				Flora Florence Frances Freya Frida
+				Gertrude Grenna Greta Gretchen Gunda Gwen
+				Hannah Heidi Herbjorn Herborg Hilda Holly
+				Ida Idelle Inga Ingebjorg Ingrid Ingvild Isanti
+				Jane Johanna Jolene Julie
+				Karen Karla Kirsten Kris Kristen Kyla
+				Laurie Lavonne Lena Lettie Linda Louise Luanne Lynda Lynn
+				Mae Magnhild Mahala Malene Mardelle Marge Marion Marlene Martha Mary Medora Mee Meyran Mildred Minnie Myrna Myrtle
+				Nellie Nicole Nicolina Nora Noreen Norma
+				Oleanna Olivia
+				Paula Peggy Phyllis Piper
+				Rachel Ragna Ragnhild Rebecca Renee Riga Ruth
+				Sally Sarah Selma Shannon Signe Sigrid Sigurda Sissel Siv Sonja Sophie Stephanie Susan Svea
+				Tara Teresa Thilda Tillie Twyla
+				Velva Vendela Voghild
+				Wanda Winona
+				Zea
+			}
+		}
 		upnorther = {}
 	}
 	

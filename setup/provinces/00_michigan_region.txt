@@ -144,7 +144,7 @@
 849={ #
 	terrain="plains"
 	culture="michigander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 850={ #
 	terrain="plains"
 	culture="motowner"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 851={ #
 	terrain="forest"
 	culture="michigander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 9412={ #
 	terrain="plains"
 	culture="michigander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

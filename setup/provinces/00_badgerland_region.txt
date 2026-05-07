@@ -105,7 +105,7 @@
 1125={ #Maenaewah
 	terrain="farmland"
 	culture="cheesehead"
-	religion="viking"
+	religion="catholic"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1127={ #Wākohsaeh
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3829={ #Apaesiqtekow
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3830={ #Es-Wāpanoh
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3831={ #Pūcīhkit
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -362,7 +362,7 @@
 	}
 }
 
-3993={ #
+3993={ #River Falls
 	terrain="plains"
 	culture="minnesotan"
 	religion="viking"
@@ -401,7 +401,7 @@
 	}
 }
 
-3996={ #
+3996={ #New Richmond
 	terrain="plains"
 	culture="cheesehead"
 	religion="viking"
@@ -430,7 +430,7 @@
 4015={ #Omīnīw
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4016={ #Sāpīwaehekaneh
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

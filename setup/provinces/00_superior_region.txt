@@ -118,7 +118,7 @@
 1037={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 1317={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1318={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2713={ #
 	terrain="hills"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5905={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5906={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5907={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 6116={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 6649={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 6728={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 7455={ #
 	terrain="marsh"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 9390={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 9392={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 9394={ #
 	terrain="forest"
 	culture="shieldshorer"
-	religion="veteranic"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 9517={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0

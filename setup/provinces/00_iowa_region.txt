@@ -65,7 +65,7 @@
 
 1182={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10
@@ -328,7 +328,7 @@
 
 6428={ #
 	terrain="hills"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="twainist"
 	trade_goods="wood"
 	civilization_value=10
@@ -562,7 +562,7 @@
 
 8568={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="tubers"
 	civilization_value=10

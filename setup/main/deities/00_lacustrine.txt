@@ -1,0 +1,44 @@
+deity_manager = {
+    deities_database = { ### KEYS 500 - 599 ###
+		500 = {
+			key = omen_paul_bunyan
+			deity = deity_paul_bunyan
+		}
+		501 = {
+			key = omen_hermann
+			deity = deity_hermann
+		}
+		502 = {
+			key = omen_green_giant
+			deity = deity_green_giant
+		}
+		503 = {
+			key = omen_urho
+			deity = deity_urho
+		}
+		504 = {
+			key = omen_febold
+			deity = deity_febold
+		}
+		505 = {
+			key = omen_gustavus
+			deity = deity_gustavus
+		}
+		506 = {
+			key = omen_antoine
+			deity = deity_antoine
+		}
+		507 = {
+			key = omen_the_twins
+			deity = deity_the_twins
+		}
+		508 = {
+			key = omen_mufferaw
+			deity = deity_mufferaw
+		}
+		509 = {
+			key = omen_heikki_lunta
+			deity = deity_heikki_lunta
+		}
+	}
+}

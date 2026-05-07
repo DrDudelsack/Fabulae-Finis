@@ -1,4 +1,4 @@
-﻿334={ #
+﻿334={ #Arlington
 	terrain="plains"
 	culture="riverlander"
 	religion="egyptology"
@@ -11,7 +11,7 @@
 	}
 }
 
-335={ #
+335={ #Memphis
 	terrain="farmland"
 	culture="deltaic"
 	religion="egyptology"

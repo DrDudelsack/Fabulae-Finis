@@ -637,7 +637,7 @@
 
 5363={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10

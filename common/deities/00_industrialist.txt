@@ -370,6 +370,9 @@ deity_margarac = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
 			}
+			rare_deity_trigger = {
+				RELIGION = viking
+			}
 			deity:omen_magarac = {
 				holy_site_deity_check_trigger = yes
 			}

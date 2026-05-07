@@ -1,0 +1,44 @@
+﻿l_english:
+ ## Lacustrine ##
+
+ ## Pantheon is composed of Heroes, Teachers, and ( ? ) ##
+
+ deity_paul_bunyan:0 "$omen_paul_bunyan$"
+ omen_paul_bunyan:0 "Paul Bunyan"
+ omen_paul_bunyan_desc:0 "#Y Tall-Taler Hero#!\n\nThe greatest hero of the Tall-Talers, Paul Bunyan is the Tall-Taler Hero of creation, travellers, and loggers. He was a man of immense strength and size, able to move mountains with only himself, his axe, and his pet ox, Babe. It is said that for every step he took, a lake was made in its place, thus making Minnesota the land of 10,000 lakes. He was responsible for the creation of many other geographical features, such as Puget Sound and the Grand Canyon. Although this great hero seems to have moved on from this world, enterprising folk often follow his footsteps throughout America, hoping to gain some of the strength that he had."
+ 
+ deity_hermann:0 "$omen_hermann$"
+ omen_hermann:0 "Hermann the German"
+ omen_hermann_desc:0 "#Y Tall-Taler Hero#!\n\nA national hero of the Germans, Hermann the German defeated the perifidious Romans, savage, cruel men who sought to subjugate all of Germania. His statue was built in New Ulm to commemorate this victory, and now the mighty Hermann protects the people of Minnesota from those who wish harm upon them."
+
+ deity_green_giant:0 "$omen_green_giant$"
+ omen_green_giant:0 "The Green Giant"
+ omen_green_giant_desc:0 "#Y Tall-Taler Hero#!\n\nA towering, green skinned man standing at over fifty feet, the Green Giant is a gentle giant. Long ago, when people first came to America, the Green Giant taught them the skills of agriculture and animal husbandry. His lumbering steps leaves fields of ripe green vegetables in his wake, providing food for all."
+
+ deity_urho:0 "$omen_urho$"
+ omen_urho:0 "Urho"
+ omen_urho_desc:0 "#Y Tall-Taler Hero#!\n\nUrho was renowed for his loud voice, which he got from drinking fish soup and sour whole milk. At the time, the whole of America and Canada was infested by grasshoppers. One could hardly walk outside before being assaulted by a swarm of hungry grasshoppers, as thick as pine needles. Urho, sensing the urgency of the situation, shouted 'Grasshopper, Grasshopper, go to Hell!', thus sending the grasshoppers southward, and saving the farmer's crops from being devoured. His day is celebrated on May 16th, and a great feast is held in memory of this event."
+
+ deity_febold:0 "$omen_febold$"
+ omen_febold:0 "Febold Feboldson"
+ omen_febold_desc:0 "#Y Tall-Taler Hero#!\n\nFebold Feboldson is a god of the winds. He is regarded as the wrangler of storms, twisters, and winds. Febold turns these normally destructive forces in abundant rainfall, and gentle breezes. "
+
+ deity_gustavus:0 "$omen_gustavus$"
+ omen_gustavus:0 "King Gustavus Adolphus"
+ omen_gustavus_desc:0 "#Y Tall-Taler Teacher#!\n\nGustavus Adolphus, the legendary first king of Minnesota was renowned for his skills in maths, the arts, and the sciences. Under his reign, Minnesota became a state of great learning and prosperity. The college he founded in St. Peter still stands today."
+
+ deity_antoine:0 "$omen_antoine$"
+ omen_antoine:0 "Toine"
+ omen_antoine_desc:0 "#Y Tall-Taler Hero#!\n\nToine Barada was a man of prodigious strength. He traveled all over the Midwest, lending assistance by raising entire barns with one hand, and other impressive feats of strength. When he was in St. Louis, Toine lifted an impossibly heavy stone- it weighed over 1,700 pounds. The bystanders were so impressed, that Toine's lifitng of the stone was inscribed on it, so that future generations could learn of him."
+
+ deity_the_twins:0 "$omen_the_twins$"
+ omen_the_twins:0 "The Twins"
+ omen_the_twins_desc:0 "#Y Tall-Taler Heroes#!\n\nMiller Minneapolis and Saint Paul were two twins. They each founded a city on the banks of the Mississippi, Miller Minneapolis founded Minneapolis, and Saint Paul founded St. Paul. From then on, the two cities have been known as 'the Twin Cities', on account of their founders."
+
+ deity_mufferaw:0 "$omen_mufferaw$"
+ omen_mufferaw:0 "Big Joe Mufferaw"
+ omen_mufferaw_desc:0 "#Y Tall-Taler Hero#!\n\nThe best man in Ottawa, Big Joe Mufferaw, known the to French-Canadians as Joe Montferrand, was a skilled boxer, especially popular with the ladies, and a hero of the people. They say Ol Joe had a big pet frog, bigger than a horse and he'd bark like a dog! Some of exploits include singlehandedly holding off a mob of 150 Shiners, a local group of ruffians who wanted to rob Mufferaw and his friends, putting out a forest fire with his spit, and accidentially creating the Rideau canal by just walking on a path so many times. "
+
+ deity_heikki_lunta:0 "$omen_heikki_lunta$"
+ omen_heikki_lunta:0 "Heikki Lunta"
+ omen_heikki_lunta_desc:0 "#Y Lakeshore Spirit#!\n\nEqually a blessing and a curse, Heikki Lunta is the god of snow. It is common to perform a chant to the god, in the hopes that he brings down abundant snowfall. But, too much of anything can be a bad thing. If he brings too much snowfall, you would chant 'Heikki Lunta go away', in the hopes that this primordial deity will abate his wrath."

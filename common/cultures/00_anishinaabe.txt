@@ -11,30 +11,233 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 
-	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
+	male_names = { #Ojibwe names + family names
+		Akideh Allan Anakwato Animikapo Anakwesens Anapi Animikii Apitasank Apitakishik_hash Apitasike Atiakwat Apitawanakwat Asiniiwin
+		Bagonegiizhig Bawdwaywidun Bayaaswaa Bemise Binesiinh Binaaswi Bizhiki Bizhiki_pst_anakwat
+		Charles Chibenashi Clyde
+		Dagwagaane Dibishkoobenesi Dibishkoogiizhig
+		Edaw Esens Eshkibagikoonzhe
+		Floyd Francis
+		Gaadawaabide Gaagigebenesi Gaagigeabi Gaanandawaawinzo Gabenoodin Gakiiwegwanebi Gebe_pst_aash Gekek Gekekoons Giniwaanakwad Giniwbine Gichianimikii_pst_inini Gichibinesi Gichiogidebon Gichiaanakwad Gichiwaaboozo Giiwedinaanakwadinini Giizhig_Wekigiizhig
+		Harvey
+		Kaakewakwonabi Kachkinnindji Kagagi Kezhegowinninne
+		Maangozid Madwegwaneyaash Makadegiizhigwe Makoons Makwa Mamaangeezide Medweganoonind Migizi Misaabe Miskokwanep Miskwaaki Miskomakwa Miskwa_pst_aanakwad Miskwaabik_pst_animikii Miskwakose Miskwaopwaganinni Muskowekwan
+		Naawakamig Naawigiizhigweyaasha Nanakonagos Namid Nigonwiweweedun Niiosagii Niigaanibinesi Nenaa_pst_angebi Noodin Norval
+		Ozaawashkogaad Ozaawindib Ogimaans Ozhaawashkobinesi
+		Robert Rodney
+		Shagasokiki Stanley
+		Thayendanegea
+		Vernon
+		Waabanakwad Waabanose Waabi_pst_makwa Waabishkigookooko_pst_oo Waabianimiikii Waabikomikot Waabojiig Waabuninini Waawaate Waawaategnibawii Waubgeshig Wayne Wenzhimadub Wegiizhigomi Wiishkobak William
+		Zagataagan Zhaawan Zhaawanigiizhig Zhaawanaanakwad Zhaawanibenesi Zhaashaawanibiisi Zhingaabewasin Zhingwaak Zhingwaakwakiwenzhiinh Zhingwaakoons
 	}
 	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
+		Aki_pst_ikwe Aazhawigiizhigokwe Anangwaabikikwe Anong Anangokaa Ashwiyaa Azhekwe
+		Bamewawagezhikakwe Bemigiizhigookwe Boshkine Boodookwe
+		Daphne
+		Edaw Enasha Enos Ekwawate Espipan Eshkweghiizhigwikwe Eshkwegiizhig Etoukasahwee
+		Gabegaabaikwe Gabeowse Gaagegiizhig Giiwitaagiizhig Giiwitaajiwanikwe Giiwedinikwe Giizhigikwe Giziiweweyaasin Gwekijiwanikwe
+		Kayatontee
+		Madwegiizhigwikwe Makadegiizhigwikwe Makadewizikwe Miigwanikwe Misaabe_pst_ikwe Miskoanangoikwe
+		Naadigizhigwikwe Naawakamigookwe Naawakwegiizhigikwe Naaniibawikwe Nitamigiigido
+		Obabaamwewegiizhigokwe Ogimaabinesiikwe Ogimaawaatigookwe Okimaskew Ozhaawashkodewekwe
+		Saawayabunok
+		Tubenaanikwe
+		Waabikwe Waabune Waaseyaa
+		Zhoomin
 	}
 	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+		Aan_pst_aawenh
+		Abotossaway
+		Adik
+		Airns
+		Ajijaakwe
+		Akiwenzie
+		Alain
+		Amiwaa
+		Angeconeb
+		Anoquot
+		Ansance
+		Ashkewe
+		Assiginack
+		Assikinack
+		Assinewai
+		Atlookan
+		Auclair
+		Audette
+		Bananish
+		Bannon
+		Batisse
+		Beauvilliers
+		Bebamash
+		Bedwash
+		Belec
+		Benesi
+		Benoit
+		Bizhiw
+		Bobiwash
+		Boyer
+		Bressette
+		Cheechee
+		Clearsky
+		Copegog
+		Copway
+		Corbiere
+		Courbet
+		Courchene
+		Cuvier
+		Davieux
+		Debakouang
+		Debassige
+		Dumas
+		Endanawas
+		Enosse
+		Eshkawkogan
+		Eshkibok
+		Esiban
+		Esquega
+		Fobister
+		Gaagaagishiinh
+		Gayaashk
+		Gekek
+		George
+		Ginebig
+		Grosbeck
+		Hardy
+		Hookimaw
+		Ishkwegaa
+		Jiwiiskwiiskiwe
+		Kachenooting
+		Kagige
+		Keeshig
+		Kejick
+		Kewageshig
+		Kimewon
+		Kokopenace
+		Kowtiash
+		Kwandibens
+		Kwissiwa
+		Ladouceur
+		Lavalee
+		Maang
+		Machendagoos
+		Machimity
+		Maggotte
+		Mahdabee
+		Makoshtigwaan
+		Makwa
+		Malingan
+		Mandamin
+		Mandawoub
+		Manitowabi
+		Mataswagon
+		Matoush
+		Meekis
+		Memegos
+		Mendowegan
+		Meshake
+		Metansinine
+		Metigwob
+		Michano
+		Mikinaak
+		Mishewe
+		Mishiikenh
+		Mishimakwa
+		Miskwaadesi
+		Monague
+		Moozoons
+		Moozwaanowe
+		Morrisseau
+		Nabigon
+		Nahmabin
+		Nahwegahbow
+		Name
+		Namebinaa
+		Nanakonagos
+		Naokwegijig
+		Naponse
+		Nayanookeesic
+		Necan
+		Niganobe
+		Nigig
+		Nika
+		Noganosh
+		Nookezid
+		Nootchtai
+		Nowegejick
+		Odjig
+		Ogemah
+		Ogiishkimanisii
+		Okeese
+		Omigiziwe
+		Omooshka_pst_oozi
+		Oombash
+		Osawabine
+		Owewe
+		Pahpasay
+		Pamajewon
+		Panamick
+		Pegahmagabow
+		Peltier
+		Penassie
+		Pervais
+		Peshabo
+		Petahtegoose
+		Pheasant
+		Picody
+		Pitawanakwat
+		Pressault
+		Prince
+		Quachegan
+		Quewezance
+		Reardreau
+		Recollet
+		Ritchie
+		Roulette
+		Sapay
+		Sasines
+		Shakakeesic
+		Shawanda
+		Shawkence
+		Shawnoo
+		Shebagabow
+		Shingoose
+		Shonias
+		Sinclair
+		Stephens
+		Strang
+		Sugarhead
+		Syrette
+		Tabobondung
+		Tegosh
+		Toulouse
+		Towedo
+		Towegishig
+		Traverse
+		Waabhizheshi
+		Waabishkimakwa
+		Waaboozoo
+		Waboose
+		Wagamese
+		Wakegijig
+		Wanakamik
+		Wassaykeesic
+		Wassegijig
+		Wassengeso
+		Waswa
+		Wawaazisii
+		Wazhashk
+		Webobikesige
+		Wemigwans
+		Wenjack
+		Wente
+		Williams
+		Wiwaikeejick
+		Yahba
+		Yandeau
+		Yesno
+		Youngfox
+		Zhedeg
 	}
 	culture = {
 		algonquin = {}
