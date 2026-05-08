@@ -9062,7 +9062,7 @@ accessory_genes = {
             }
         } 
         
-        industrial_clothes = {
+        bussines_clothes = {
             index = 57
             male = {
                 1 = male_clothes_bussines_1
@@ -9104,7 +9104,21 @@ accessory_genes = {
                 1 = female_clothes_flannel_2_color3
                 1 = female_clothes_flannel_2_color4
             }
-        } 
+        }
+
+        industrial_clothes = {
+            index = 59
+            male = {
+                1 = male_clothes_industrial_1
+                1 = male_clothes_industrial_1_color2
+                1 = male_clothes_industrial_1_color3
+            }
+            female = {
+                1 = female_clothes_industrial_1
+                1 = female_clothes_industrial_1_color2
+                1 = female_clothes_industrial_1_color3
+            }
+        }
     }       
  
 
