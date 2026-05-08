@@ -557,6 +557,38 @@ female_clothes_bussines_2_color3 = {
 	set_tags = "full_bust"
 }
 
+female_clothes_flannel_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_1_entity }
+}
+
+female_clothes_flannel_1_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_1_color2_entity }
+}
+
+female_clothes_flannel_1_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_1_color3_entity }
+}
+
+female_clothes_flannel_1_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_1_color4_entity }
+}
+
+female_clothes_flannel_2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_2_entity }
+}
+
+female_clothes_flannel_2_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_2_color2_entity }
+}
+
+female_clothes_flannel_2_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_2_color3_entity }
+}
+
+female_clothes_flannel_2_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_flannel_2_color4_entity }
+}
+
 #####################################
 #									#
 # 			Male Clothes			#
@@ -1445,6 +1477,38 @@ male_clothes_bussines_2_color2 = {
 male_clothes_bussines_2_color3 = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_bussines_2_color3_entity }
 	set_tags = "full_bust"
+}
+
+male_clothes_flannel_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_1_entity }
+}
+
+male_clothes_flannel_1_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_1_color2_entity }
+}
+
+male_clothes_flannel_1_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_1_color3_entity }
+}
+
+male_clothes_flannel_1_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_1_color4_entity }
+}
+
+male_clothes_flannel_2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_2_entity }
+}
+
+male_clothes_flannel_2_color2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_2_color2_entity }
+}
+
+male_clothes_flannel_2_color3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_2_color3_entity }
+}
+
+male_clothes_flannel_2_color4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_2_color4_entity }
 }
 
 #####################################

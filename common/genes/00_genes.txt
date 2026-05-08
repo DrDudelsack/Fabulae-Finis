@@ -7194,7 +7194,7 @@ accessory_genes = {
             girl = female
         }
 
-            top_hat_hairstyles = {
+        top_hat_hairstyles = {
             index = 20
             male = {
                 1 = top_hat
@@ -7219,6 +7219,18 @@ accessory_genes = {
            }
             female = {
                1 = female_hair_persian_1
+            }
+            boy = male
+            girl = female
+        }
+
+        cowboy_hat_hairstyles = {
+            index = 22
+            male = {
+                1 = cowboy_hat
+            }
+            female = {
+               1 = cowboy_hat_female
             }
             boy = male
             girl = female
@@ -9068,6 +9080,30 @@ accessory_genes = {
                 1 = female_clothes_bussines_1_color3
                 1 = female_clothes_bussines_2_color3
             }
+        }
+
+        praire_clothes = {
+            index = 58
+            male = {
+                1 = male_clothes_flannel_1
+                1 = male_clothes_flannel_1_color2
+                1 = male_clothes_flannel_1_color3
+                1 = male_clothes_flannel_1_color4
+                1 = male_clothes_flannel_2
+                1 = male_clothes_flannel_2_color2
+                1 = male_clothes_flannel_2_color3
+                1 = male_clothes_flannel_2_color4
+            }
+            female = {
+                1 = female_clothes_flannel_1
+                1 = female_clothes_flannel_1_color2
+                1 = female_clothes_flannel_1_color3
+                1 = female_clothes_flannel_1_color4
+                1 = female_clothes_flannel_2
+                1 = female_clothes_flannel_2_color2
+                1 = female_clothes_flannel_2_color3
+                1 = female_clothes_flannel_2_color4
+            }
         } 
     }       
  
@@ -9346,7 +9382,6 @@ accessory_genes = {
                 1 = female_monocles_1
             }
         }
-
 
         no_top_layer = {
             index = 30

@@ -356,6 +356,12 @@ top_hat = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = male_headgear_top_hat_1_entity }
 }
 
+## COWBOY ##
+cowboy_hat = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = cowboy_hat_1_entity }
+}
+
 ## MODERN ##
 male_hair_modern_1 = {
 	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
@@ -570,6 +576,13 @@ female_hair_american_2 = {
 top_hat_female = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = female_headgear_top_hat_1_entity }
 }
+
+## COWBOY ##
+cowboy_hat_female = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "female_cowboy_hat_1_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = cowboy_hat_1_entity }
+}
+
 
 #####################################
 #									#
