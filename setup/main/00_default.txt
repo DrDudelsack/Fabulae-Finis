@@ -626,7 +626,7 @@ country = {
 		}
 
 		GRY = { #Camp Grayling
-			government = aristocratic_monarchy
+			government = aristocratic_republic
 			primary_culture = michigander
 			religion = arsenalist
 			capital = 840
@@ -1255,7 +1255,7 @@ country = {
 				1646 1644 1645 6946 6944 5676 5677 6945
 			}
 		}
-		NEU = { #Fargo
+		NEU = { #New Ulm
 			government = democratic_republic
 			primary_culture = minnesotan
 			religion = lutheran
@@ -1315,6 +1315,109 @@ country = {
 				7952 6726 7950 1551 11627 1549 1550 821 819 7470 820 7951 
 				5001 5002 5004 7387 7388 8348 7113 7386 7385 5344 5343 5003
 				4955 1668 1669 6171 6172 6170
+			}
+		}
+		WNO = { #Winona
+			government = democratic_republic
+			primary_culture = minnesotan
+			religion = catholic
+			capital = 1183
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1183 1184 6428
+			}
+		}
+		BDG = { #Badgerland
+			government = tribal_federation
+			primary_culture = cheesehead
+			religion = unitarian_universialism
+			capital = 4946
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4946 4947 4949 4948 7521 2568 2567 7522
+				7523 7520 
+			}
+		}
+		QDC = { #Quad Cities
+			government = democratic_republic
+			primary_culture = heartlander
+			religion = catholic
+			capital = 8219
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8219 8220 6034 6035 8218
+			}
+		}
+		DBQ = { #Dubuque
+			government = democratic_republic
+			primary_culture = heartlander
+			religion = twainist
+			capital = 8167
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8167 6427
+			}
+		}
+		CDR = { #Cedar Rapids
+			government = despotic_monarchy
+			primary_culture = heartlander
+			religion = lutheran
+			capital = 8166
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8165 4520 4521 8166 4519 7558
+			}
+		}
+		BUR = { #Burlington
+			government = democratic_republic
+			primary_culture = heartlander
+			religion = twainist
+			capital = 7557
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7557 7559 6800
 			}
 		}
 	}

@@ -204,6 +204,9 @@ deity_hughes = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
 			}
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
 		}
 	}
 	icon = deity_culture
@@ -568,7 +571,7 @@ deity_rosie = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
 			}
-			rare_deity_trigger = {
+			common_deity_trigger = {
 				RELIGION = arsenalist
 			}
 			deity:omen_rosie = {
@@ -579,7 +582,7 @@ deity_rosie = {
 	icon = deity_war
 	passive_modifier = { manpower_recovery_speed = deity_global_manpower_recovery_speed_svalue }
 	omen = { monthly_military_experience_modifier = deity_monthly_military_experience_modifier_svalue } #Bonus from Omen
-	religion = galvanist
+	religion = arsenalist
 	deity_category = war
 	deification_trigger = {
 		can_deify_trigger = yes

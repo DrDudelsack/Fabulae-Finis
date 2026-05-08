@@ -57,6 +57,12 @@ MOH = "setup/countries/midwest/moorhead.txt"
 FRG = "setup/countries/midwest/fargo.txt"
 BRN = "setup/countries/midwest/brainerd.txt"
 NEU = "setup/countries/midwest/new_ulm.txt"
+WNO = "setup/countries/midwest/winona.txt"
+BDG = "setup/countries/midwest/badgerland.txt"
+QDC = "setup/countries/midwest/quad_cities.txt"
+DBQ = "setup/countries/midwest/dubuque.txt"
+CDR = "setup/countries/midwest/cedar_rapids.txt"
+BUR = "setup/countries/midwest/burlington.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

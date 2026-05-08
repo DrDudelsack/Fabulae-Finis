@@ -393,3 +393,33 @@ deity_mother_mississippi = { # Tall-Taler personification of the river Mississip
         fertility_apotheosis_capital_effect = yes
     }
 }
+deity_ole_olson = { # Paul Bunyan's blacksmith
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = viking
+				CULTURE = cheesehead
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = viking
+				CULTURE = minnesotan
+			}
+			deity:omen_ol_olson = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { military_tech_investment = deity_military_tech_investment_svalue }
+	omen = { fort_maintenance_cost = omen_fort_maintenance_cost_svalue } #Bonus from Omen
+	religion = viking
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
