@@ -154,7 +154,7 @@
 	}
 }
 
-1304={ #
+1304={ #Grand Marais
 	terrain="hills"
 	culture="northlander"
 	religion="lakeshore"
@@ -167,7 +167,7 @@
 	}
 }
 
-1305={ #
+1305={ #Lutsen
 	terrain="hills"
 	culture="northlander"
 	religion="lakeshore"
@@ -180,7 +180,7 @@
 	}
 }
 
-1306={ #Misaabe
+1306={ #Silver Bay
 	terrain="hills"
 	culture="northlander"
 	religion="lakeshore"
@@ -310,7 +310,7 @@
 	}
 }
 
-2710={ #
+2710={ #Superior
 	terrain="forest"
 	culture="northlander"
 	religion="lakeshore"
@@ -344,7 +344,7 @@
 	}
 }
 
-2711={ #Onigamiinsing
+2711={ #Duluth
 	terrain="hills"
 	culture="northlander"
 	religion="lakeshore"
@@ -878,7 +878,7 @@
 	}
 }
 
-7452={ #
+7452={ #Ashlandd
 	terrain="forest"
 	culture="odawa"
 	religion="lakeshore"
@@ -891,7 +891,7 @@
 	}
 }
 
-7453={ #
+7453={ #Washburn
 	terrain="forest"
 	culture="odawa"
 	religion="lakeshore"
@@ -904,7 +904,7 @@
 	}
 }
 
-7455={ #
+7455={ #Virginia
 	terrain="marsh"
 	culture="northlander"
 	religion="lakeshore"

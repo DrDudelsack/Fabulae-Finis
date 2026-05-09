@@ -88,5 +88,37 @@ deity_manager = {
 			key = omen_kellogg
 			deity = deity_kellogg
 		}
+		422 = {
+			key = omen_pinkerton
+			deity = deity_pinkerton
+		}
+		423 = {
+			key = omen_haymarket_martyrs
+			deity = deity_haymarket_martyrs
+		}
+		424 = {
+			key = omen_uso
+			deity = deity_uso
+		}
+		425 = {
+			key = omen_usda
+			deity = deity_usda
+		}
+		426 = {
+			key = omen_titan_roosevelt
+			deity = deity_titan_roosevelt
+		}
+		427 = {
+			key = omen_kaiser
+			deity = deity_kaiser
+		}
+		428 = {
+			key = omen_titan_oppenheimer
+			deity = deity_titan_oppenheimer
+		}
+		429 = {
+			key = omen_titan_eisenhower
+			deity = deity_titan_eisenhower
+		}
 	}
 }

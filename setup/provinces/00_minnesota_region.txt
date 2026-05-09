@@ -37,7 +37,7 @@
 	}
 }
 
-237={ #
+237={ #Brainerd
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
@@ -82,7 +82,7 @@
 	}
 }
 
-239={ #
+239={ #Long Prairie
 	terrain="farmland"
 	culture="northlander"
 	religion="viking"
@@ -156,7 +156,7 @@
 	}
 }
 
-1183={ #Winuna
+1183={ #Winona
 	terrain="hills"
 	culture="minnesotan"
 	religion="twainist"
@@ -169,7 +169,7 @@
 	}
 }
 
-1184={ #Iyótan
+1184={ #Stewartville
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
@@ -182,7 +182,7 @@
 	}
 }
 
-1476={ #
+1476={ #Marshall
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
@@ -727,7 +727,7 @@
 	}
 }
 
-8149={ #
+8149={ #Litchfield
 	terrain="plains"
 	culture="minnesotan"
 	religion="viking"

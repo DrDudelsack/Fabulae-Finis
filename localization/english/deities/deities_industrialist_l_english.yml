@@ -82,8 +82,40 @@
 
  deity_rosie:0 "$omen_rosie$"
  omen_rosie:0 "Titan Rosie"
- omen_rosie_desc:0 "#Y Galvanist Titan#!\n\nWhen her husband, sons, and brothers went off to war, Titan Rosie stayed behind to perform the sacred labors.  She had to do the work of many men, but through her devotion and labor, she ensured Industry was not weakened when thousands of Laborers were lost to war."
+ omen_rosie_desc:0 "#Y Arsenalist Titan#!\n\nWhen her husband, sons, and brothers went off to war, Titan Rosie stayed behind to perform the sacred labors.  She had to do the work of many men, but through her devotion and labor, she ensured Industry was not weakened when thousands of Laborers were lost to war."
 
  deity_kellogg:0 "$omen_kellogg$"
  omen_kellogg:0 "Titan Kellogg"
  omen_kellogg_desc:0 "#Y Industrialist Titan#!\n\nKnown as the General of the Mills, Titan Kellogg sacrificed his own fertility for that of the land. Under his guidance, the fields flourished and the millstones always turned."
+
+ deity_pinkerton:0 "$omen_pinkerton$"
+ omen_pinkerton:0 "Titan Pinkerton"
+ omen_pinkerton_desc:0 "#Y Promethean Titan#!\n\nTitan Pinkerton was an important lawman, and whenever the Rusted Strikers lashed out at the Titans, Industry knew it could call upon Titan Pinkerton to restore order and keep the great machine running."
+
+ deity_haymarket_martyrs:0 "$omen_haymarket_martyrs$"
+ omen_haymarket_martyrs:0 "The Haymarket Martyrs"
+ omen_haymarket_martyrs_desc:0 "Members of the Knights of Labor, these eight brave men perished during their crusade against the Robber Barons. Their sacrifice was not in vain, as the Robber Barons were eventually defeated, and the Eight-Hour workday was established in memory of them; one hour for each of the martyrs."
+
+ deity_uso:0 "$omen_uso$"
+ omen_uso:0 "Titan Uso"
+ omen_uso_desc:0 "#Y Arsenalist Titan#!\n\nWhile Titan Rosie stayed behind to work the Home Front, Titan Uso went with the soldiers bringing home to them.  By supplying the comforts of home in distant corners of the globe, Titan Uso kept the soldiers in fighting shape."
+
+ deity_usda:0 "$omen_usda$"
+ omen_usda:0 "Titan Usda"
+ omen_usda_desc:0 "#Y Arsenalist Titan#!\n\nWhen Titan Usda's husband went to war, she devoted herself completely to her garden.  As long as it was in bloom, he would be victorious."
+
+ deity_titan_roosevelt:0 "$omen_titan_roosevelt$"
+ omen_titan_roosevelt:0 "Titan Roosevelt"
+ omen_titan_roosevelt_desc:0 "#Y Arsenalist Titan#!\n\nEven the divine office of President is susceptible to the failings of mankind. For years, the President had been led Astray by Robber Barons and the Scab. But Titan Roosevelt usurped the rusted President and restored America's prosperity. It was with his skillful guidance, America won the Great War of the Gilded Age."
+
+ deity_titan_oppenheimer:0 "$omen_titan_oppenheimer$"
+ omen_titan_oppenheimer:0 "Titan Oppenheimer"
+ omen_titan_oppenheimer_desc:0 "#Y Arsenalist Titan#!\n\nThough Industry is ultimately a force of creation, war necessitates destruction. Titan Oppenheimer managed to harness the powers of Rust and Industry the both, creating a weapon of unparalleled destruction."
+ 
+ deity_titan_eisenhower:0 "$omen_titan_eisenhower$"
+ omen_titan_eisenhower:0 "Titan Eisenhower"
+ omen_titan_eisenhower_desc:0 "#Y Arsenalist Titan#!\n\nAn accomplished general, Titan Eisenhower led the allied forces of America to victory in the Great War of the Gilded Age.  He was known for his foresight, predicting that mankind would become complacent in its prosperity and forgo the hard work necessary to maintain Industry."
+
+ deity_kaiser:0 "$omen_kaiser$"
+ omen_kaiser:0 "Titan Kaiser"
+ omen_kaiser_desc:0 "#Y Arsenalist Titan#!\n\nTitan Kaiser was a famed shipwright of the Gilded Age. Under his leadership and the blessing of Industry, a massive ship could be built faster than an enemy could sink it."

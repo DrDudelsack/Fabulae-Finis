@@ -27,6 +27,8 @@
  deity_revere:0 "$omen_revere$"
  omen_revere:0 "Revere"
  omen_revere_desc:0 "#Y Americanist God#!\n\nRevere is the tireless god of vigilance and warning, who rides unseen through the darkness to alert the faithful of approaching danger. Revere warned the Founders of the incoming Redcoats, shouting 'The British are coming, the British are coming!', saving those great men from capture at the hands of the wicket Redcoats. He is popular amongst soldiers and hunters, and they pray to him in the hopes that he will protect them during the dark hours of the night."
+ omen_revere_arsenalist:0 "Titan Revere"
+ omen_revere_desc_arsenalist:0 "#Y Americanist Titan#!\n\nAn ancient silversmith, Titan Revere crafted silver charms to warn the people of coming dangers, watching over them at night."
 
  deity_ironsides:0 "$omen_ironsides$"
  omen_ironsides:0 "Ol' Ironsides"

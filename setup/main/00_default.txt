@@ -23,6 +23,7 @@ country = {
 				5485 5483 5486 5484 5765 5767 8448 5279 5281 1943 1944
 				9524 4491 4490 2361 9525 9523 1845 7760 6168 6167 482 480
 				82 84 3506 3507 3505 5237 
+				3668 3669 8449 8450 5280
 			}
 		}
 
@@ -460,7 +461,7 @@ country = {
 		}
 
 		LAF = { #Acadiana
-			government = tribal_kingdom
+			government = tribal_federation
 			primary_culture = louisianais
 			religion = vodou
 			capital = 9500
@@ -1418,6 +1419,108 @@ country = {
 
 			own_control_core = {
 				7557 7559 6800
+			}
+		}
+		HRS = { #Harrisburg
+			government = tribal_federation
+			primary_culture = deitsch
+			religion = old_order
+			capital = 7723
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7723 7721 1062 2094 2096 2095 2097 7722
+			}
+		}
+		HSY = { #Hershey
+			government = tribal_federation
+			primary_culture = deitsch
+			religion = old_order
+			capital = 3240
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3240 3239 3285 3286 8637
+			}
+		}
+		WMS = { #Williamsport
+			government = tribal_federation
+			primary_culture = deitsch
+			religion = old_order
+			capital = 9332
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9332 3287 9333 5459 9331
+			}
+		}
+		WHR = { #Wheelersburg
+			government = tribal_federation
+			primary_culture = yinzic
+			religion = hearthtender
+			capital = 9549
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9549 9550 7839 7838 9551
+			}
+		}
+		WHY = { #Wheeling
+			government = tribal_federation
+			primary_culture = yinzic
+			religion = promethean
+			capital = 2005
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2005 2006 11663 6148 6147 6150 6149
+			}
+		}
+		NAZ = { #Natchez
+			government = despotic_monarchy
+			primary_culture = deltaic
+			religion = revelationist
+			capital = 2695
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2695 2694 9121 9120 7303 5212 5210 5211
 			}
 		}
 	}

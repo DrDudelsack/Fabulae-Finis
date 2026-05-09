@@ -716,7 +716,7 @@
 3670={ #Airville
 	terrain="plains"
 	culture="beltway"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0

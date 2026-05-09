@@ -118,7 +118,7 @@
 2717={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 2718={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 2719={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 4715={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4952={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="vodou"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 4953={ #
 	terrain="forest"
 	culture="gulfard"
-	religion="vodou"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 6724={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 6726={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 8365={ #
 	terrain="forest"
 	culture="dixie"
-	religion="vodou"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

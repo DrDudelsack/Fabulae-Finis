@@ -113,6 +113,10 @@ deity_johnsons = {
 deity_titan_kings = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOT = { religion = galvanist }
+		OR = {
+			NOT = { religion = arsenalist } 
+		}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
@@ -283,6 +287,10 @@ deity_ford = {
 deity_mccormick = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOT = { religion = galvanist }
+		OR = {
+			NOT = { religion = arsenalist } 
+		}
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -483,6 +491,7 @@ deity_longshoreman = {
 deity_sinclair = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
@@ -508,6 +517,7 @@ deity_sinclair = {
 deity_osha = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
@@ -533,6 +543,7 @@ deity_osha = {
 deity_reuther = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = galvanist
@@ -567,6 +578,7 @@ deity_reuther = {
 deity_rosie = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
@@ -636,5 +648,224 @@ deity_kellogg = {
 
 	on_activate = {
 		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+deity_pinkerton = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { religion = galvanist }
+		OR = {
+			NOT = { religion = arsenalist } 
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = promethean
+			}
+			deity:omen_pinkerton = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { discipline = deity_discipline_svalue }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty }
+	religion = promethean
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_haymarket_martyrs = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_haymarket_martyrs = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_defensive = omen_global_defensive_svalue }
+	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = galvanist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_uso = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
+		OR = {
+			NOT = { religion = galvanist } 
+		}
+		OR = {
+			common_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_uso = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_manpower_modifier = deity_global_manpower_modifier_svalue}
+	religion = arsenalist
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_usda = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
+		OR = {
+			NOT = { religion = galvanist } 
+		}
+		OR = {
+			common_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_usda = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+    omen = { global_citizen_output = omen_global_citizen_output_svalue } #Bonus from Omen
+	religion = arsenalist
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_titan_roosevelt = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_titan_roosevelt = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
+    omen = { monthly_corruption = omen_monthly_corruption } #Bonus from Omen
+	religion = arsenalist
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        economy_apotheosis_province_improvement_effect = yes
+    }
+}
+deity_kaiser = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_kaiser = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { naval_morale_modifier = deity_naval_morale_modifier_svalue }
+    omen = {  global_ship_recruit_speed = 0.20   }
+	religion = arsenalist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		naval_apotheosis_effect = yes
+	}
+}
+deity_titan_oppenheimer = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_titan_oppenheimer = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { research_points_modifier = deity_research_points_modifier_svalue }
+     omen = { agressive_expansion_monthly_change = omen_aggressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = arsenalist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_noble_effect = yes
+	}
+}
+deity_titan_eisenhower = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_kaiser = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { land_morale_modifier = deity_land_morale_modifier_svalue }
+    omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
+	religion = arsenalist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
 	}
 }

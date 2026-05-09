@@ -25,6 +25,9 @@ HFT = "setup/countries/east_coast/hartford.txt"
 UTC = "setup/countries/east_coast/utica.txt"
 MAS = "setup/countries/east_coast/massachusets.txt"
 TIN = "setup/countries/east_coast/ticonderoga.txt"
+WMS = "setup/countries/east_coast/williamsport.txt"
+HSY = "setup/countries/east_coast/hershey.txt"
+HRS = "setup/countries/east_coast/harrisburg.txt"
 
 #Midwest
 IWA = "setup/countries/midwest/iowa.txt"
@@ -63,6 +66,8 @@ QDC = "setup/countries/midwest/quad_cities.txt"
 DBQ = "setup/countries/midwest/dubuque.txt"
 CDR = "setup/countries/midwest/cedar_rapids.txt"
 BUR = "setup/countries/midwest/burlington.txt"
+WHY = "setup/countries/midwest/wheeling.txt"
+WHR = "setup/countries/midwest/wheelersburg.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
@@ -74,6 +79,7 @@ TAL = "setup/countries/south/tallahassee.txt"
 OUT = "setup/countries/south/outer_banks.txt"
 TEN = "setup/countries/south/tennessee.txt"
 ALB = "setup/countries/south/alabama.txt"
+NAZ = "setup/countries/south/natchez.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

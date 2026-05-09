@@ -158,6 +158,9 @@ deity_revere = {
 			rare_deity_trigger = {
 				RELIGION = americanist
 			}
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
 			deity:omen_revere = {
 				holy_site_deity_check_trigger = yes
 			}

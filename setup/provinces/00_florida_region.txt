@@ -40,7 +40,7 @@
 244={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 4814={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 4815={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4816={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4817={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4818={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5457={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 11935={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 11936={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -950,7 +950,7 @@
 11937={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 11938={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 11939={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

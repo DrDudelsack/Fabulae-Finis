@@ -92,7 +92,7 @@
 3241={ #Lancaster
 	terrain="plains"
 	culture="youser"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 3668={ #York
 	terrain="plains"
 	culture="beltway"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 3669={ #New Freedom
 	terrain="plains"
 	culture="beltway"
-	religion="old_order"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 3795={ #
 	terrain="plains"
 	culture="pocono"
-	religion="catholic"
+	religion="americanist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 6213={ #
 	terrain="plains"
 	culture="pocono"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 6214={ #
 	terrain="plains"
 	culture="pocono"
-	religion="catholic"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 6215={ #
 	terrain="plains"
 	culture="pocono"
-	religion="old_order"
+	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 8637={ #
 	terrain="hills"
 	culture="deitsch"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 9587={ #
 	terrain="hills"
 	culture="pocono"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 9589={ #
 	terrain="plains"
 	culture="pocono"
-	religion="old_order"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

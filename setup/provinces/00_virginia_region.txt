@@ -534,7 +534,7 @@
 6523={ #Lexington
 	terrain="mountain"
 	culture="appalachian"
-	religion="omenteller"
+	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
