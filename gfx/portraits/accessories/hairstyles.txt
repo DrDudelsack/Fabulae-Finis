@@ -393,6 +393,11 @@ male_hair_modern_6 = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_6_entity }
 }
 
+male_hair_modern_7 = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_7_entity }
+}
+
 #####################################
 #									#
 # 			Female Hair			#
