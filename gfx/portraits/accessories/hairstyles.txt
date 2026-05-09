@@ -385,7 +385,7 @@ male_hair_modern_4 = {
 
 male_hair_modern_5 = {
 	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
-	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_4_entity }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_hair_modern_5_entity }
 }
 
 male_hair_modern_6 = {
@@ -577,10 +577,34 @@ top_hat_female = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = female_headgear_top_hat_1_entity }
 }
 
+## MODERN ##
+female_hair_modern_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_hair_modern_1_entity }
+}
+
+female_hair_modern_2 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_hair_modern_2_entity }
+}
+
+female_hair_modern_3 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_hair_modern_3_entity }
+}
+
+female_hair_modern_4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_hair_modern_4_entity }
+}
+
+female_hair_modern_5 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_hair_modern_5_entity }
+}
+
+female_hair_modern_6 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_hair_modern_6_entity }
+}
+
 ## COWBOY ##
 cowboy_hat_female = {
-	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "female_cowboy_hat_1_entity" }
-	entity = { required_tags = ""		node = shared_pose_entity		entity = cowboy_hat_1_entity }
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_cowboy_hat_1_entity }
 }
 
 
