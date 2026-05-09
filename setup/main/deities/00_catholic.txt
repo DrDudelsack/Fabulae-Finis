@@ -1,0 +1,12 @@
+deity_manager = {
+    deities_database = { ### KEYS 600 - 699 ###
+		600 = {
+			key = omen_god
+			deity = deity_god
+		}
+		601 = {
+			key = omen_jesus
+			deity = deity_jesus
+		}
+	}
+}

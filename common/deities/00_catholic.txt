@@ -1,0 +1,92 @@
+﻿deity_god = {
+	trigger = {
+		OR = {
+			common_deity_trigger = {
+				RELIGION = catholic
+			}
+			deity:omen_god = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { ruler_popularity_gain = deity_ruler_popularity_gain_svalue }
+	omen = { agressive_expansion_monthly_change = omen_aggressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = catholic
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+deity_jesus = {
+	trigger = {
+		OR = {
+			common_deity_trigger = {
+				RELIGION = catholic
+			}
+			deity:omen_jesus = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_growth = omen_global_population_growth }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed }
+	religion = catholic
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		if = {
+			limit = {
+				exists = scope:deified_ruler
+				any_owned_province = {
+					any_pops_in_province = {
+						NOT = {
+							pop_religion = scope:deified_ruler.religion
+						}
+					}
+				}
+			}
+			custom_tooltip = convert_pops_omen
+		}
+		hidden_effect = {
+			while = {
+				count = 5
+				limit = {
+					exists = scope:deified_ruler
+					any_owned_province = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = scope:deified_ruler.religion
+							}
+						}
+					}
+				}
+				random_owned_province = {
+					limit = {
+						any_pops_in_province = {
+							NOT = {
+								pop_religion = scope:deified_ruler.religion
+							}
+						}
+					}
+					random_pops_in_province = {
+						limit = {
+							NOT = {
+								pop_religion = scope:deified_ruler.religion
+							}
+						}
+						set_pop_religion = scope:deified_ruler.religion
+					}
+				}
+			}
+		}
+	}
+}

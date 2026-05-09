@@ -125,7 +125,7 @@ catholic = { # Catholic- All catholic derived faiths for now
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_conclavian
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
