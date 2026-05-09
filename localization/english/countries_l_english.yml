@@ -154,6 +154,12 @@
  YUP_ADJ:0 "Yooplander" 
  PTS:0 "Upnorth"
  PTS_ADJ:0 "Upnorther"
+ CMB:0 "Chambana"
+ CMB_ADJ:0 "Chambanan"
+ CNT:0 "Centralia"
+ CNT_ADJ:0 "Centralian"
+ VNI:0 "Little Egypt"
+ VNI_ADJ:0 "Little Egyptian"
  
 
  ## South ##
@@ -179,6 +185,24 @@
  NAZ_ADJ:0 "Natchezer"
  INR:0 "Inner Banks"
  INR_ADJ:0 "Bankesian"
+ GAS:0 "Galveston"
+ GAS_ADJ:0 "Galvestonian"
+ HOS:0 "Greater Houston"
+ HOS_ADJ:0 "Houstonian"
+ OUA:0 "Ouachita"
+ OUA_ADj:0 "Ouachitan"
+ VKS:0 "Vicksburg"
+ VKS_ADJ:0 "Vicksburger"
+ JKS:0 "Jackson"
+ JKS_ADJ:0 "Jacksonian"
+ BXS:0 "Biloxi"
+ BXS_ADJ:0 "Biloxian"
+ TUP:0 "Tupelo"
+ TUP_ADJ:0 "Tupelonian"
+ BRI:0 "Bristol"
+ BRI_ADJ:0 "Bristolian"
+ BLE:0 "Blue Ridge"
+ BLE_ADJ:0 "Appalachian"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

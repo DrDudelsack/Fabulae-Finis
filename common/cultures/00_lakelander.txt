@@ -2715,6 +2715,62 @@
 				Zeola
 			}
 		}
+		yinzic = {
+			male_names = {
+				Abram Adam Albert Alexander Alfred Anthony Armstrong
+				Benjamin Bentley Berick Bernard Bessemer Boris Borromeo Brendan Bruce Bryson Bucyrus Burrill
+				Carl Casimir Cass Chad Chaffee Chase Clark Clingan Clinton Cole Conrad
+				Daniel David Dean Delmont Delphos Deltin Derrick Dettmar Dexter Dominick Donald Durbin
+				Edgar Edward Edmund Elijah Ellsworth Elwood Emerick Emerson Emil Emmett Erick Ettore Eugene Evan
+				Filip Ford Frank Franklin
+				Galion George Gerald Gerard Germano Gilbert Glenn Gregor
+				Hal Harlan Harley Hannibal Hayes Henry Homer Honus Howard Hudson Hugo
+				Irwin Isaac Ivan
+				Jackson Jacob Jerome John Josef Julian
+				Kalman Keith Kenner Kermit Kirk
+				Ladislaus Larry Laszlo Leander Ledyard Leonard Lewis Lofton Lorin Lucius Luman Luther
+				Macon Marcus Mariano Mario Marklin Marshall Martin Mason Maxim Maxwell Maynard Michael Monroe Morris Munson
+				Nathan Neil Nelson Nicklaus Niles Noah Norman
+				Oliver Orville Otto
+				Paul Payton Peter Phillip Prentiss Preston
+				Quincy
+				Ralph Randy Ransom Reader Reynold Rickard Robert Roger Roldo Ron Roosevelt Ross Rudolph Russell
+				Samuel Schuyler Scotyt Seger Sherod Smokey Solon Sparky Stanford Stanislaus Stanley Steppen Steuben Stewart
+				Terry Theo Thomas Titus Todhunter Turpin
+				Uhrich Union
+				Vanburen Vance Verne Victor Virgil Vitus
+				Walter Warren Wayne Whitelaw Wilbur Wilgus William Wilmer Winfield Wolf Woodward Wyndol
+				Yaroslav
+				Zachary Zane Zoltan
+			}
+			female_names = {
+				Ada Adela Alexandra Allison Alyssa Amanda Amelia Amity Angelica Ann Antonia Ashley Aurelia Aurora Avis
+				Bethel Betty Bonnie
+				Cara Carmella Castalia Cecilia Celia Celina Chelsea Cheryl Chloe Clair Claudia Columbiana Corvette Courtney Cynthia
+				Daniela Dawn Debby Diane Donora Dorothy
+				Edith Eileen Eleanor Elida Eliza Ellen Elyria Emma Erika Eris Esther Eugenia Eva Evelyn
+				Flavia Fostoria Fredonia
+				Gabriella Gemma Gertrude Gilda Gladys Glenda Gretchen
+				Hailey Hannah Hazel Heather Helen Henrietta Hertha
+				Isabella Ivanna
+				Jacquelyn Janet Jetta Joan Juliana
+				Kalida Karen Karianne Kate Kathleen Kira Kristina
+				Larissa Laura Lenore Lianna Libbie Lilianne Lisbet Lois Lorelei Lorinda Lyndora
+				Madge Mafalda Margaret Marge Marianna Marsha Martha Mary Masuria Maxine Meg Melissa Michelle Minerva Monica
+				Nancy Natalie Nicole Norma
+				Odilia Olena
+				Pamela Pandora Paula Philomena Platea Priscilla
+				Rachel Rebecca Regina Rita Riva Ronna Rosa Rosanne Roxy Ruth
+				Sara Saratha Sharon Simone Sofia Steffi Susan
+				Tamara Tammy Teresa
+				Urbana
+				Viktoria Violet Virginia
+				Wendy Willa Wilma
+				Xenia
+				Yvette
+				Zelia Zilla
+			}
+		}
 	}
 	
 	barbarian_names = { 

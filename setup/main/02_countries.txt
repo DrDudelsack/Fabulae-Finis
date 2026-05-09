@@ -1315,6 +1315,7 @@ country = {
 				7952 6726 7950 1551 11627 1549 1550 821 819 7470 820 7951 
 				5001 5002 5004 7387 7388 8348 7113 7386 7385 5344 5343 5003
 				4955 1668 1669 6171 6172 6170
+				1616 1614 5988
 			}
 		}
 		WNO = { #Winona
@@ -1668,6 +1669,198 @@ country = {
 
 			own_control_core = {
 				3072 3069 3071 839 903 3070
+			}
+		}
+		HOS = { #Houston
+			government = oligarchic_republic
+			primary_culture = texan
+			religion = americanist
+			capital = 5059
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5059 6286 6287 9219 9221 9218 9220 6285 6284
+			}
+		}
+		GAS = { #Galveston
+			government = league_republic
+			primary_culture = texan
+			religion = americanist
+			capital = 11947
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				11947 5029 5027 11610
+			}
+		}
+		OUA = { #Ouachita
+			government = tribal_kingdom
+			primary_culture = arkalatexan
+			religion = catholic
+			capital = 8803
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8803 8802 8212 8213 8211 8801 6325 5711 5709
+			}
+		}
+		VKS = { #Vicksburg
+			government = despotic_monarchy
+			primary_culture = deltaic
+			religion = revelationist
+			capital = 594
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				594 595 6203 6206 6205 8487 6204
+				2009 7637 7638 2010 2008 7635 2011 
+			}
+		}
+		BXS = { #Biloxi
+			government = plutocratic_republic
+			primary_culture = gulfard
+			religion = revelationist
+			capital = 886
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				886 11626 885
+			}
+		}
+		JKS = { #Jackson
+			government = despotic_monarchy
+			primary_culture = dixie
+			religion = revelationist
+			capital = 9122
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9122 7304 1261 1260 1262 4663 4664 9123 1176 1178 4665 5860 5861 8366 8364 5859
+				1177 1615 5989
+			}
+		}
+		TUP = { #Tupelo
+			government = tribal_federation
+			primary_culture = dixie
+			religion = revelationist
+			capital = 4809
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4809 4810 1079 1078 1077 7636 7822 7824 7823 5987
+			}
+		}
+		CMB = { #Chambana
+			government = tribal_kingdom
+			primary_culture = hoosier
+			religion = promethean
+			capital = 432
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				432 9483 434 431 433 8334 8338 5125 5128 11649
+			}
+		}
+		CNT = { #Centralia
+			government = tribal_kingdom
+			primary_culture = hoosier
+			religion = catholic
+			capital = 4048
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4048 4049 4046 6432
+			}
+		}
+		VNI = { #Vienna
+			government = tribal_kingdom
+			primary_culture = gatewayan
+			religion = egyptology
+			capital = 321
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				321 323 322 4050 320 5127 5126
+			}
+		}
+		BRI = { #Bristol
+			government = tribal_kingdom
+			primary_culture = appalachian
+			religion = omenteller
+			capital = 7353
+
+			own_control_core = {
+				7353 7355 7354 7352 6378 6379 935
+			}
+		}
+		BLE = { #Blue Ridge
+			government = tribal_chiefdom
+			primary_culture = appalachian
+			religion = omenteller
+			capital = 6118
+
+			own_control_core = {
+				6118 5695 5692 5694 5693 2167 2168 6119 6120
 			}
 		}
 	}

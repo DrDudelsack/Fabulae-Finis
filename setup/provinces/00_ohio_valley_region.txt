@@ -313,7 +313,7 @@
 4432={ #
 	terrain="plains"
 	culture="hoosier"
-	religion="hearthtender"
+	religion="promethean"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 6589={ #
 	terrain="plains"
 	culture="hoosier"
-	religion="catholic"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
