@@ -1134,7 +1134,7 @@ country = {
 			}
 
 			own_control_core = {
-				1125 1127
+				1125 1127 1126 1124
 			}
 		}
 		STC = { #Saint Cloud
@@ -1486,7 +1486,7 @@ country = {
 			}
 
 			own_control_core = {
-				9549 9550 7839 7838 9551
+				9549 9550 7839 7838d 9551
 			}
 		}
 		WHY = { #Wheeling
@@ -1521,6 +1521,24 @@ country = {
 
 			own_control_core = {
 				2695 2694 9121 9120 7303 5212 5210 5211
+			}
+		}
+		PAP = { #Papacy
+			government = papacy
+			primary_culture = chicagoan
+			religion = catholic
+			capital = 7317
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7317 2233 2234 226 2232 2231 8758 2512 1514 2229 2513 8755 8756 2230 223 225 224
+				2514
 			}
 		}
 	}

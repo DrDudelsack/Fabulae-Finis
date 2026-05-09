@@ -106,12 +106,23 @@
 	terrain="forest"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	citizen={
+		religion="heartful"
+		amount=1
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -146,11 +157,21 @@
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	citizen={
+		religion="heartful"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -159,11 +180,21 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	citizen={
+		religion="heartful"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -172,11 +203,21 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	citizen={
+		religion="heartful"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -590,11 +631,21 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	citizen={
+		religion="heartful"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 

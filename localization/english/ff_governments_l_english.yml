@@ -23,6 +23,11 @@
  military_district_desc:0 "Claiming legitmacy from the now long defunct Commands, various Military Districts dot the Western United States, ruling zones under martial law, of course all for the betterment of the local populous and eventual restoration of the Nation."
  military_district_ruler:0 "District Commander"
  military_district_ruler_female:0 "District Commander"
+
+ papacy:0 "Papacy"
+ papacy_desc:0 "Claiming legitimacy due to losing contact with the old Papacy in Rome, the American Papacy is ran in a similar fashion. The Pope is seen as the head of faith for all Catholic faiths in the new world, although not all choose to heed the power of this upstart."
+ papacy_ruler:0 "Pope"
+ papacy_ruler_female:0 "Pope"
  
  
  plutocratic_republic_ruler:0 "Speaker"

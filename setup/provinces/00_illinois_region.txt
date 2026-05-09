@@ -483,12 +483,28 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="clay"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	citizen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="heartful"
+		culture="paw_paw"
 		amount=1
+	}
+	slaves={
+		religion="lutheran"
+		amount=3
 	}
 }
 

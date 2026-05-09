@@ -68,6 +68,7 @@ CDR = "setup/countries/midwest/cedar_rapids.txt"
 BUR = "setup/countries/midwest/burlington.txt"
 WHY = "setup/countries/midwest/wheeling.txt"
 WHR = "setup/countries/midwest/wheelersburg.txt"
+PAP = "setup/countries/midwest/papacy.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

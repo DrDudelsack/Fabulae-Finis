@@ -188,11 +188,20 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="honey"
-	civilization_value=10
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	civilization_value=25
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -214,11 +223,20 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -305,11 +323,20 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -744,11 +771,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -757,11 +790,20 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -770,20 +812,20 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=30
+	civilization_value=38
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
-	}
-	citizen={
 		amount=4
 	}
+	citizen={
+		amount=5
+	}
 	freemen={
-		amount=10
+		amount=13
 	}
 	slaves={
-		amount=5
+		amount=7
 	}
 }
 
@@ -824,11 +866,20 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1175,11 +1226,20 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="spices"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 

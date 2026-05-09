@@ -1,11 +1,11 @@
 ﻿midwestern = {
 	color = rgb { 168 77 109 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_midwestern
 	
 	primary = light_infantry
-	second = heavy_cavalry
-	flank = horse_archers
+	second = heavy_infantry
+	flank = light_cavalry
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -2627,6 +2627,7 @@
 	}
 	culture = {
 		gatewayan = {
+			levy_template = levy_gatewayan
 			male_names = {
 				Adam Adelard Adin Admir Adolphus Ahmed Ajdin Alban Albert Alexander Alija Allen Alton Andre Armistead Asher Augustus
 				Balthasar Ban Bashir Basil Ben Bennet Benton Bing Brian Brock Burdette

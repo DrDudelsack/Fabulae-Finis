@@ -1,7 +1,7 @@
 ﻿yankee = {
 	color = rgb { 101 164 199 }
 
-	levy_template = levy_general_greek
+	levy_template = levy_mid_atlantic
 	
 	primary = spearmen
 	second = heavy_infantry
@@ -1959,8 +1959,11 @@
 		Zurinsky
 	}
 	culture = {
-		youser = {}
+		youser = {
+			levy_template = levy_youser
+		}
 		gothamite = {
+			levy_template = levy_new_york
 			male_names = {
 			Aaron Abdullah Abner Abraham Aboubacar Achilles Agnew Al Albert Alec Alexander Alfonso Algernon Ali Alessandro Alonso Amado Andrew Andrzej Angelo Anselmo Anthony Anton Antonio Arcangelo Ardolph Ari Arnold Artie Arturo Ashton Astor Aurelio Averell Aziz Azorady
 			Balwinder Benedict Benicio Benito Bernard Bhupinder Bienvenido Bill Bob Bogdan Boris Bruce Bruno

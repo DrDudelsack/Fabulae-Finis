@@ -1,11 +1,11 @@
 ﻿northlake = {
 	color = { 77 65 135 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_northlake
 	
-	primary = light_infantry
-	second = heavy_cavalry
-	flank = horse_archers
+	primary = spearmen
+	second = light_infantry
+	flank = spearmen
 
 	primary_navy = tetrere
 	secondary_navy = octere
