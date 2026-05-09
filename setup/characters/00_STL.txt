@@ -1,0 +1,25 @@
+﻿"STL"={
+	country="STL"
+	0={
+		first_name="August"
+		family = c:STL.fam:Busch
+		birth_date=2269.6.15
+		culture="gatewayan"
+		religion="promethean"
+		no_stats=yes
+		add_martial=8
+		add_charisma=4
+		add_finesse=6
+		add_zeal=4
+		no_traits=yes
+		add_trait="drunkard"
+		add_trait="crafty"
+		add_trait="reckless"
+		add_gold=500
+		add_popularity=40
+		c:STL={
+			set_as_ruler=char:0
+		}
+		dna = "mrFbOYBbgFvgfBV6ApMCkwKRApECfgJ+AmkCaQJ9An0CmQKZAowCjAKWApYCkgKSAnUCdQJ6AnoChAKEAoICggKQApACcAJwApACkAKHAocChgKGAnACcAJrAmsCgwKDAn8CfwJ2AnYBXwFfAnECcQOmA6YDsAOwApUClQKIAmkCaAJoAVEBUQKZApkANgA2Ao0CjQJ2AnYCaQJpAnECcQKBAoECfgJ+AVABUAJnAmcCcwJzAmoCagKLAosCbgJuAnQCdAKIAogCggKCApQClAKaAoUCggKEApkCmQI7AmsClQKVAncCdwQAAscATwDEAPEA8QK8ArwBXQFdABMAEwB1AHUAOAA4AVcBVwA0ADQCQwJDADAAMAB/AH8A2wDbAGUAZQB2AHYABQAFAB0AHQBnAGcAhwL9ADIAMgB/AH8ALwAvABYAFgCVAJUAWwBbAI4AjgBiAGIBMgFxA0QBBgA9AD0BEQANBF8E0wMQAxABpAGkAH8AfwIvAi8UbgdoAAgAGwrhBEc5OwVQD38NfwAAAAAAAAAAAAAAAA=="
+	}
+}

@@ -261,7 +261,7 @@
 964={ #
 	terrain="forest"
 	culture="michigander"
-	religion="promethean"
+	religion="arsenalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3472={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="lakeshore"
+	religion="arsenalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 3473={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="lakeshore"
+	religion="arsenalist"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 3474={ #
 	terrain="forest"
 	culture="michigander"
-	religion="promethean"
+	religion="arsenalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

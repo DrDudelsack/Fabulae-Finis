@@ -140,6 +140,20 @@
  WHY_ADJ:0 "Wheelinger"
  PAP:0 "The Papacy"
  PAP_ADJ:0 "Papist"
+ HAB:0 "Hannibal"
+ HAB_ADJ:0 "Hannibalian" 
+ SPR:0 "Springfield"
+ SPR_ADJ:0 "Springfielder"
+ PER:0 "Peoria"
+ PER_ADJ:0 "Peorian"
+ GAL:0 "Galena"
+ GAL_ADJ:0 "Galenan"
+ GBY:0 "Green Bay"
+ GBY_ADJ:0 "Green Bayer"
+ YUP:0 "Yoopland"
+ YUP_ADJ:0 "Yooplander" 
+ PTS:0 "Upnorth"
+ PTS_ADJ:0 "Upnorther"
  
 
  ## South ##
@@ -163,6 +177,8 @@
  ALB_ADJ:0 "Alabaman"
  NAZ:0 "Natchez"
  NAZ_ADJ:0 "Natchezer"
+ INR:0 "Inner Banks"
+ INR_ADJ:0 "Bankesian"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

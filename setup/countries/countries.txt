@@ -69,6 +69,13 @@ BUR = "setup/countries/midwest/burlington.txt"
 WHY = "setup/countries/midwest/wheeling.txt"
 WHR = "setup/countries/midwest/wheelersburg.txt"
 PAP = "setup/countries/midwest/papacy.txt"
+HAB = "setup/countries/midwest/hannibal.txt"
+PER = "setup/countries/midwest/peoria.txt"
+SPR = "setup/countries/midwest/springfield.txt"
+GAL = "setup/countries/midwest/galena.txt"
+GBY = "setup/countries/midwest/green_bay.txt"
+YUP = "setup/countries/midwest/yoopland.txt"
+PTS = "setup/countries/midwest/petoskey.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
@@ -81,6 +88,7 @@ OUT = "setup/countries/south/outer_banks.txt"
 TEN = "setup/countries/south/tennessee.txt"
 ALB = "setup/countries/south/alabama.txt"
 NAZ = "setup/countries/south/natchez.txt"
+INR = "setup/countries/south/inner_banks.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

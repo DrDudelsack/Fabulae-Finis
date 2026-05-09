@@ -1,5 +1,13 @@
 family={
 	families={
 		#Numbers do not have to appear in numerical order but do have to be unique:
+		#Next available family number: 1
+		0 = {
+			key="Busch"
+			owner=STL
+			culture=gatewayan
+			prestige=350
+			color = 0
+		}
 	}
 }
