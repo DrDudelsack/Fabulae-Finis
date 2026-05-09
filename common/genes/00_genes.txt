@@ -9071,6 +9071,8 @@ accessory_genes = {
                 1 = male_clothes_bussines_2_color2
                 1 = male_clothes_bussines_1_color3
                 1 = male_clothes_bussines_2_color3
+                1 = male_clothes_bussines_3
+                1 = male_clothes_bussines_3_color2
             }
             female = {
                 1 = female_clothes_bussines_1
@@ -9079,6 +9081,8 @@ accessory_genes = {
                 1 = female_clothes_bussines_2_color2
                 1 = female_clothes_bussines_1_color3
                 1 = female_clothes_bussines_2_color3
+                1 = female_clothes_bussines_3
+                1 = female_clothes_bussines_3_color2
             }
         }
 

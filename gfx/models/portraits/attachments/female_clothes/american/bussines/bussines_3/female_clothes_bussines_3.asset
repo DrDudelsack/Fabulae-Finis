@@ -1,0 +1,31 @@
+pdxmesh = {
+	name = "female_clothes_bussines_3_mesh"
+	file = "female_clothes_bussines_3.mesh"
+
+	meshsettings = {
+		name = "female_clothes_bussines_3Shape"
+		index = 0
+		texture_diffuse = "male_clothes_bussines_3_diffuse.dds"
+		texture_normal = "male_clothes_bussines_3_normal.dds"
+		texture_specular = "male_clothes_bussines_3_properties.dds"
+		shader = "portrait_attachment"
+		shader_file = "gfx/FX/portrait.shader"
+	}
+}
+
+entity = {
+	name = "female_clothes_bussines_3_entity"
+	pdxmesh = "female_clothes_bussines_3_mesh"
+}
+
+entity = {
+	name = "female_clothes_bussines_3_color2_entity"
+	pdxmesh = "female_clothes_bussines_3_mesh"
+	meshsettings = {
+		name = "female_clothes_bussines_3Shape"
+		index = 0
+		texture_diffuse = "male_clothes_bussines_3_color2_diffuse.dds"	
+		texture_normal = "male_clothes_bussines_3_normal.dds"
+		texture_specular = "male_clothes_bussines_3_properties.dds"
+	}
+}
