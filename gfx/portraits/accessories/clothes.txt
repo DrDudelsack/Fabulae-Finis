@@ -1541,6 +1541,11 @@ male_clothes_bussines_3_color2 = {
 	set_tags = "full_bust"
 }
 
+male_clothes_bussines_4 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_bussines_4_entity }
+	set_tags = "full_bust"
+}
+
 male_clothes_flannel_1 = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_flannel_1_entity }
 }
