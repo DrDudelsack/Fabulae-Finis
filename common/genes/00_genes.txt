@@ -9128,6 +9128,18 @@ accessory_genes = {
                 1 = female_clothes_industrial_1_color3
             }
         }
+
+        knight_soldier_clothes_template = {
+            index = 60
+            male = {
+                1 = male_clothes_american_3
+                1 = male_clothes_american_3_color2
+                1 = male_clothes_american_3_color3
+                1 = male_clothes_american_3_color4
+                1 = male_clothes_american_3_color5
+                1 = male_clothes_american_3_color6
+            }
+        }
     }       
  
 
