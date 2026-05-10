@@ -220,7 +220,7 @@
 }
 
 3978={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 3979={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -311,7 +311,7 @@
 }
 
 4881={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 4882={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -337,7 +337,7 @@
 }
 
 4883={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -415,7 +415,7 @@
 }
 
 7802={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 7805={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 9174={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="caesarist"
 	trade_goods=""

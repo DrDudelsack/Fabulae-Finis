@@ -480,7 +480,7 @@
 }
 
 2905={ #Springfield
-	terrain="forest"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="cattle"
@@ -857,7 +857,7 @@
 }
 
 6224={ #Providence
-	terrain="plains"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="fish"

@@ -64,7 +64,7 @@
 }
 
 2042={ #
-	terrain="forest"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="honey"
@@ -90,7 +90,7 @@
 }
 
 2044={ #
-	terrain="forest"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="cloth"
@@ -675,7 +675,7 @@
 }
 
 6979={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
@@ -948,7 +948,7 @@
 }
 
 8891={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""

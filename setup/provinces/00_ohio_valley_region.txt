@@ -285,7 +285,7 @@
 }
 
 4276={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="galvanist"
 	trade_goods="base_metals"
@@ -428,7 +428,7 @@
 }
 
 6588={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="hoosier"
 	religion="promethean"
 	trade_goods=""
@@ -506,7 +506,7 @@
 }
 
 7749={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="hoosier"
 	religion="promethean"
 	trade_goods=""

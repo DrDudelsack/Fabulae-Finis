@@ -12,7 +12,7 @@
 }
 
 1060={ #Martinsburg
-	terrain="hills"
+	terrain="farmland"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="cattle"
@@ -38,7 +38,7 @@
 }
 
 1063={ #Augusta
-	terrain="hills"
+	terrain="farmland"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wild_game"

@@ -1,5 +1,5 @@
 ﻿262={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="buddhism"
 	trade_goods=""
@@ -12,7 +12,7 @@
 }
 
 263={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="buddhism"
 	trade_goods=""
@@ -25,7 +25,7 @@
 }
 
 315={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 316={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""
@@ -51,7 +51,7 @@
 }
 
 390={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 391={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="theosophy"
 	trade_goods=""
@@ -116,7 +116,7 @@
 }
 
 1630={ #
-	terrain="plains"
+	terrain="hills"
 	culture="jeffersonian"
 	religion="gaian"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 4075={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 4501={ #
-	terrain="plains"
+	terrain="hills"
 	culture="jeffersonian"
 	religion="gaian"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 4587={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="theosophy"
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 6041={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 6043={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -480,7 +480,7 @@
 }
 
 6345={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 6346={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="buddhism"
 	trade_goods=""
@@ -506,7 +506,7 @@
 }
 
 6347={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 6348={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 6721={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -584,7 +584,7 @@
 }
 
 6722={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -597,7 +597,7 @@
 }
 
 6723={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -688,7 +688,7 @@
 }
 
 9172={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""
@@ -701,7 +701,7 @@
 }
 
 9173={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""

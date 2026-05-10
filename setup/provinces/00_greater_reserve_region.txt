@@ -51,7 +51,7 @@
 }
 
 2954={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -246,7 +246,7 @@
 }
 
 6585={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="galvanist"
 	trade_goods=""

@@ -1260,7 +1260,7 @@
 }
 
 9234={ #
-	terrain="marsh"
+	terrain="flood_plain"
 	culture="texan"
 	religion="americanist"
 	trade_goods="cotton"
@@ -1273,7 +1273,7 @@
 }
 
 9235={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="texan"
 	religion="americanist"
 	trade_goods=""
@@ -1312,7 +1312,7 @@
 }
 
 9238={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="texan"
 	religion="americanist"
 	trade_goods=""
@@ -1429,7 +1429,7 @@
 }
 
 11947={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="texan"
 	religion="americanist"
 	trade_goods=""

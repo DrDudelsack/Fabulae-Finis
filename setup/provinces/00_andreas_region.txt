@@ -90,7 +90,7 @@
 }
 
 2338={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 2996={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 2997={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 4286={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 4288={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 5926={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 6835={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 8091={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="catholic"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 8093={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="catholic"
 	trade_goods=""
@@ -415,7 +415,7 @@
 }
 
 8094={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="catholic"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 8830={ #
-	terrain="plains"
+	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 9254={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="catholic"
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 9276={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="romano_humanism"
 	trade_goods=""

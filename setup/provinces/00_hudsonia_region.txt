@@ -90,7 +90,7 @@
 }
 
 1099={ #Ticonderoga
-	terrain="mountain"
+	terrain="hills"
 	culture="vermonter"
 	religion="americanist"
 	trade_goods="gunpowder"
@@ -116,7 +116,7 @@
 }
 
 1101={ #
-	terrain="plains"
+	terrain="hills"
 	culture="vermonter"
 	religion="ursuline"
 	trade_goods=""
@@ -584,7 +584,7 @@
 }
 
 5712={ #
-	terrain="plains"
+	terrain="hills"
 	culture="hudsonian"
 	religion="ursuline"
 	trade_goods="leather"
@@ -597,7 +597,7 @@
 }
 
 5713={ #
-	terrain="plains"
+	terrain="hills"
 	culture="hudsonian"
 	religion="ursuline"
 	trade_goods="clay"
@@ -896,7 +896,7 @@
 }
 
 7826={ #
-	terrain="plains"
+	terrain="hills"
 	culture="vermonter"
 	religion="ursuline"
 	trade_goods=""

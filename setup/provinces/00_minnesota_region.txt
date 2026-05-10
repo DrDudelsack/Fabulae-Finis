@@ -83,7 +83,7 @@
 }
 
 239={ #Long Prairie
-	terrain="farmland"
+	terrain="plains"
 	culture="northlander"
 	religion="viking"
 	trade_goods="horses"

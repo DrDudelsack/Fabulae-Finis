@@ -129,7 +129,7 @@
 }
 
 2718={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="tuskegean"
 	religion="revelationist"
 	trade_goods=""

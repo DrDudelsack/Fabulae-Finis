@@ -90,7 +90,7 @@
 }
 
 428={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""

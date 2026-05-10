@@ -532,7 +532,7 @@
 }
 
 9038={ #Pittsburgh
-	terrain="plains"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="iron"

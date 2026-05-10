@@ -45421,7 +45421,7 @@
 }
 
 5022={ #
-	terrain="plains"
+	terrain="hills"
 	culture="texaner"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45499,7 +45499,7 @@
 }
 
 5030={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45512,7 +45512,7 @@
 }
 
 5031={ #
-	terrain="plains"
+	terrain="hills"
 	culture="texaner"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45525,7 +45525,7 @@
 }
 
 5032={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45629,7 +45629,7 @@
 }
 
 5042={ #
-	terrain="plains"
+	terrain="hills"
 	culture="texaner"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45733,7 +45733,7 @@
 }
 
 5055={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="americanist"
 	trade_goods=""
@@ -45746,7 +45746,7 @@
 }
 
 5056={ #
-	terrain="plains"
+	terrain="hills"
 	culture="texaner"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45759,7 +45759,7 @@
 }
 
 5057={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="americanist"
 	trade_goods=""
@@ -45954,7 +45954,7 @@
 }
 
 5088={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45980,7 +45980,7 @@
 }
 
 5090={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45993,7 +45993,7 @@
 }
 
 5091={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46006,7 +46006,7 @@
 }
 
 5092={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46058,7 +46058,7 @@
 }
 
 5096={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46071,7 +46071,7 @@
 }
 
 5097={ #
-	terrain="plains"
+	terrain="hills"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -58720,7 +58720,7 @@
 }
 
 6569={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods="fish"
@@ -58746,7 +58746,7 @@
 }
 
 6572={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -58772,7 +58772,7 @@
 }
 
 6574={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -58785,7 +58785,7 @@
 }
 
 6575={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods="fish"
@@ -58798,7 +58798,7 @@
 }
 
 6576={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -102166,7 +102166,7 @@
 }
 
 10885={ #
-	terrain="plains"
+	terrain="impassable_terrain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -103674,7 +103674,7 @@
 }
 
 11001={ #
-	terrain="plains"
+	terrain="impassable_terrain"
 	culture="valleyan"
 	religion="buddhism"
 	trade_goods=""
@@ -105884,7 +105884,7 @@
 }
 
 11171={ #
-	terrain="plains"
+	terrain="hills"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="vegetables"

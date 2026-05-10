@@ -38,7 +38,7 @@
 }
 
 1750={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -51,7 +51,7 @@
 }
 
 1751={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 4122={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 4123={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -246,7 +246,7 @@
 }
 
 4124={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 4781={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 5580={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 5581={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 6078={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -506,7 +506,7 @@
 }
 
 9438={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
@@ -532,7 +532,7 @@
 }
 
 9440={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods=""

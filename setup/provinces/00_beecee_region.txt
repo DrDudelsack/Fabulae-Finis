@@ -194,7 +194,7 @@
 }
 
 3488={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 6395={ #
-	terrain="plains"
+	terrain="hills"
 	culture="canuck"
 	religion="sikhism"
 	trade_goods=""

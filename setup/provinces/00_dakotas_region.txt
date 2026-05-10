@@ -779,7 +779,7 @@
 }
 
 6366={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
 	trade_goods=""

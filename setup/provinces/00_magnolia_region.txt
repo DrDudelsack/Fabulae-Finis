@@ -779,7 +779,7 @@
 }
 
 9122={ #
-	terrain="forest"
+	terrain="farmland"
 	culture="dixie"
 	religion="revelationist"
 	trade_goods=""

@@ -766,7 +766,7 @@
 }
 
 7205={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="tuskegean"
 	religion="evangelical"
 	trade_goods=""

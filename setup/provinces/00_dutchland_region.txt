@@ -1,5 +1,5 @@
 ﻿1062={ #Hagerstown
-	terrain="hills"
+	terrain="farmland"
 	culture="deitsch"
 	religion="omenteller"
 	trade_goods="cattle"
@@ -12,7 +12,7 @@
 }
 
 2094={ #Bedford
-	terrain="hills"
+	terrain="farmland"
 	culture="deitsch"
 	religion="omenteller"
 	trade_goods="grain"
@@ -90,7 +90,7 @@
 }
 
 3241={ #Lancaster
-	terrain="plains"
+	terrain="farmland"
 	culture="youser"
 	religion="americanist"
 	trade_goods="grain"
@@ -350,7 +350,7 @@
 }
 
 7723={ #Harrisburg
-	terrain="farmland"
+	terrain="hills"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="cattle"

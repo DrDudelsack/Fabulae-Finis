@@ -12,7 +12,7 @@
 }
 
 290={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 292={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 3526={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 3527={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 3528={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 3529={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -246,7 +246,7 @@
 }
 
 3530={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 3531={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -272,7 +272,7 @@
 }
 
 3532={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 3533={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 5730={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 8560={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="caesarist"
 	trade_goods=""
@@ -584,7 +584,7 @@
 }
 
 8562={ #
-	terrain="plains"
+	terrain="hills"
 	culture="montereyan"
 	religion="catholic"
 	trade_goods=""
@@ -623,7 +623,7 @@
 }
 
 8691={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""
@@ -636,7 +636,7 @@
 }
 
 8692={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods=""

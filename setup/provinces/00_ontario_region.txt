@@ -116,7 +116,7 @@
 }
 
 1104={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""

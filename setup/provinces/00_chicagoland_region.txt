@@ -482,7 +482,7 @@
 }
 
 5310={ #Fort Wayne
-	terrain="plains"
+	terrain="farmland"
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="glass"

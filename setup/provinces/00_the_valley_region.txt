@@ -1,5 +1,5 @@
 ﻿1771={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="romano_humanism"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 3064={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="caesarist"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 4302={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 4908={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""
@@ -337,7 +337,7 @@
 }
 
 4911={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 4912={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="loneranger"
 	trade_goods=""
@@ -363,7 +363,7 @@
 }
 
 5366={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 5367={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 5368={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 5927={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -428,7 +428,7 @@
 }
 
 5929={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 5977={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -636,7 +636,7 @@
 }
 
 9144={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""
@@ -675,7 +675,7 @@
 }
 
 9147={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods=""

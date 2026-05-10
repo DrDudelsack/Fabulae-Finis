@@ -1,5 +1,5 @@
 ﻿1091={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
@@ -25,7 +25,7 @@
 }
 
 1093={ #
-	terrain="forest"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 5454={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
@@ -545,7 +545,7 @@
 }
 
 8986={ #
-	terrain="forest"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 8987={ #
-	terrain="hills"
+	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""

@@ -702,7 +702,7 @@
 }
 
 6799={ #Hannibal
-	terrain="plains"
+	terrain="farmland"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods=""

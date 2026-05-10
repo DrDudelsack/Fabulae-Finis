@@ -181,7 +181,7 @@
 }
 
 3573={ #
-	terrain="forest"
+	terrain="jungle"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 5955={ #
-	terrain="farmland"
+	terrain="jungle"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -779,7 +779,7 @@
 }
 
 9499={ #
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -805,7 +805,7 @@
 }
 
 9501={ #
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods="rice"
