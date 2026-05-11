@@ -87647,11 +87647,11 @@
 9768={ #
 	terrain="coastal_terrain"
 	culture=""
-	religion="mayan_pantheon"
+	religion=""
 	trade_goods=""
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank=""
 	tribesmen={
 		amount=1
 	}
@@ -87660,11 +87660,11 @@
 9769={ #
 	terrain="coastal_terrain"
 	culture=""
-	religion="mayan_pantheon"
+	religion=""
 	trade_goods=""
-	civilization_value=10
+	civilization_value=0
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank=""
 	tribesmen={
 		amount=1
 	}
@@ -87673,7 +87673,7 @@
 9770={ #
 	terrain="ocean"
 	culture=""
-	religion="mayan_pantheon"
+	religion=""
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -87686,7 +87686,7 @@
 9771={ #
 	terrain="ocean"
 	culture=""
-	religion="mayan_pantheon"
+	religion=""
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

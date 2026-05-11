@@ -28,6 +28,8 @@ TIN = "setup/countries/east_coast/ticonderoga.txt"
 WMS = "setup/countries/east_coast/williamsport.txt"
 HSY = "setup/countries/east_coast/hershey.txt"
 HRS = "setup/countries/east_coast/harrisburg.txt"
+VMT = "setup/countries/east_coast/vermont.txt"
+NHM = "setup/countries/east_coast/new_hampshire.txt"
 
 #Midwest
 IWA = "setup/countries/midwest/iowa.txt"

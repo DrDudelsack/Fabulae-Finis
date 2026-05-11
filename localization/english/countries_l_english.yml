@@ -60,6 +60,11 @@
  HSY_ADJ:0 "Hersheyan"
  HRS:0 "Harrisburg"
  HRS_ADJ:0 "Harrisburger"
+ VMT:0 "Vermont"
+ VMT_ADJ:0 "Vermonter"
+ NHM:0 "Concord"
+ NHM_ADJ:0 "Concordian"
+ 
 
  ## Midwest ##
  IWA:0 "Des Moines"
