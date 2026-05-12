@@ -1,0 +1,24 @@
+deity_manager = {
+    deities_database = { ### KEYS 700 - 799 ###
+		700 = {
+			key = omen_twain
+			deity = deity_twain
+		}
+		701 = {
+			key = omen_muir
+			deity = deity_muir
+		}
+		702 = {
+			key = omen_columbia
+			deity = deity_columbia
+		}
+		703 = {
+			key = omen_mississippi
+			deity = deity_mississippi
+		}
+		704 = {
+			key = omen_whitman
+			deity = deity_whitman
+		}
+	}
+}

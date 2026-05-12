@@ -55,6 +55,9 @@ deity_providence = {
 			rare_deity_trigger = {
 				RELIGION = americanist
 			}
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
 			deity:omen_providence = {
 				holy_site_deity_check_trigger = yes
 			}

@@ -81,6 +81,7 @@ PTS = "setup/countries/midwest/petoskey.txt"
 CMB = "setup/countries/south/chambana.txt"
 CNT = "setup/countries/south/centralia.txt"
 VNI = "setup/countries/south/vienna.txt"
+CHS = "setup/countries/south/charleston.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

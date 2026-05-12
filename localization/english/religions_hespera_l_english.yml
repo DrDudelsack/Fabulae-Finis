@@ -45,6 +45,9 @@
  galvanist:0 "Galvanist"
  desc_galvanist:0 "For the Galvanists, the best way to restore Industry and usher in a new Gilded Age is by strictly adhering to the rituals and regulations passed down from the Titans. The Engineers of the Galvanizing Assembly have scoured through ancient texts to figure out these rituals and have spent the ensuing centuries debating exactly how to uphold them. All of this has been recorded in the Codex of Regulations, leaving the Galvanists with an expansive legalistic code covering every aspect of life and instructions for countless sacred rituals."
 
+ sustainablist:0 "Sustainablist"
+ desc_sustainablist:0 "The theologians from the School of Sustainment reject the idea that Industry is a force purely of creation, rather its refinement into a god will always require some equivalent exchange, often one made at the expense of humanity and the other Natural Forces. In fact, the Event itself was the predictable conclusion to the reckless pursuit of Industrial power. Instead the Sustainablists revere the positive and helpful Forces of nature, such as Dignity, Life, and Community, as their refinement only destroys negative aspects of reality, while Industry itself is almost completely ignored. This process of elevating the other Forces involves joy and celebration, something the faithful view as a source of pride and symbol of their humanity."
+
  ## Afro-Diasporic Faiths ##
  vodou:0 "Vodou"
  desc_vodou:0 "Vodou originated in Haiti, and is a mixture of ancient West African beliefs and Catholicism. Vodouists are distinguished by their lack of formal organization and slightly closer relationship to mainstream Christianity. Vodouists also place less of an emphasis on communication with the dead, focusing instead on worship of the loas."
@@ -171,7 +174,7 @@
 
  ## Midwestern ##
  twainist:0 "Twainist"
- desc_twainist:0 "The Twainists view the Mississippi as the soul and lifeblood of America, and to a greater extent the world. Twain and other Authors were guided with divine knowledge that allowed them to ascertain the nature of the Great River, granting them divine power. Twainists say that The Event was the result of pollution and neglecting the Mississipi, thus destroying Columbia."
+ desc_twainist:0 "The Twainists view the Mississippi as the soul and lifeblood of America, and to a greater extent the world. Twain, Muir, Whitman and other Authors were guided with knowledge that allowed them to ascertain the nature of the Great River, granting them divine insight. Twainists dedicate their life to discovering the Great Truth that all Authors seemed to understand. It is commonly understood that the only way to do this is to further one's relationship with the Great River - Mississippi, and the coexistence between Man and Nature."
 
  ## Capitalist ##
  capitalist:0 "Capitalist"

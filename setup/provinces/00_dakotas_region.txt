@@ -222,7 +222,7 @@
 1475={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 3514={ #
 	terrain="plains"
 	culture="dakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 3515={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5297={ #
 	terrain="steppes"
 	culture="lakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 5783={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 7679={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 7680={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 7681={ #
 	terrain="steppes"
 	culture="lakota"
-	religion="peyotist"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

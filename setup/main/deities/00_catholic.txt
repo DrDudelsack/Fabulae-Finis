@@ -8,13 +8,9 @@ deity_manager = {
 			key = omen_jesus
 			deity = deity_jesus
 		}
-		#602 = {
-		#	key = omen_mary
-		#	deity = deity_mary
-		#}
-		#603 = {
-		#	key = omen_bosco
-		#	deity = deity_bosco
-		#}
+		602 = {
+			key = omen_joan_of_arc
+			deity = deity_joan_of_arc
+		}
 	}
 }

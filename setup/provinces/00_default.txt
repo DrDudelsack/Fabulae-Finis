@@ -18344,7 +18344,7 @@
 2065={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="viking"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -18370,7 +18370,7 @@
 2067={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -18435,7 +18435,7 @@
 2075={ #
 	terrain="forest"
 	culture="anisininew"
-	religion="midewiwin"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -52937,7 +52937,7 @@
 5904={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -84670,7 +84670,7 @@
 9461={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="viking"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -110696,7 +110696,7 @@
 11541={ #
 	terrain="impassable_terrain"
 	culture="shieldshorer"
-	religion="lakeshore"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

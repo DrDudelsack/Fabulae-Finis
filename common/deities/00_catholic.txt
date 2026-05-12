@@ -90,3 +90,43 @@ deity_jesus = {
 		}
 	}
 }
+deity_joan_of_arc = {
+	trigger = {
+		OR = {
+			common_deity_culture_trigger = {
+				CULTURE = paw_paw 
+				RELIGION = catholic
+			}
+			common_deity_culture_trigger = {
+				RELIGION = catholic
+				CULTURE = louisianais
+			}
+			common_deity_culture_trigger = {
+				RELIGION = catholic
+				CULTURE = nolan
+			}
+			common_deity_culture_trigger = {
+				CULTURE = paw_paw 
+				RELIGION = twainist
+			}
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_joan_of_arc = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_defensive = omen_global_defensive_svalue }
+	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = catholic
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}

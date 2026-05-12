@@ -432,24 +432,68 @@
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="heartful"
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	slaves={
+		religion="twainist"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
 6035={ #
 	terrain="farmland"
 	culture="heartlander"
-	religion="twainist"
+	religion="catholic"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=3
+	}
+	citizen={
+		culture="minnesotan"
+		religion="viking"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="heartful"
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
+		amount=3
+	}
+	slaves={
+		religion="twainist"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 

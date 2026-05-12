@@ -1,7 +1,7 @@
 ﻿2547={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 2548={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 2824={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 2825={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 3065={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 3066={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 3067={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 3068={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 4079={ #Somerset
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="ophiolatry"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 4958={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 4959={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4960={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 7686={ #
 	terrain="plains"
 	culture="riverlander"
-	religion="omenteller"
+	religion="ophiolatry"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 7689={ #
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="ophiolatry"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 7772={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 7774={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="omenteller"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 7811={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 7812={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 7813={ #
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="ophiolatry"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

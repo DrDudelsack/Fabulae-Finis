@@ -462,7 +462,7 @@ country = {
 		LAF = { #Acadiana
 			government = tribal_federation
 			primary_culture = louisianais
-			religion = vodou
+			religion = catholic
 			capital = 9500
 
 			technology={
@@ -1007,7 +1007,7 @@ country = {
 
 			own_control_core = {
 				335 334 5406 5404 5405 2460 677 676 8488 5336 6151 6154 4002 4001 1013
-				6152 8486 675 1853 1854 6262 6260 6261 5538 5537 337 336 2461 2459
+				6152 8486 675 1853 1854 6262 6260 6261 5538 5537 337 336 2461 2459 5536
 			}
 		}
 
@@ -1026,6 +1026,7 @@ country = {
 
 			own_control_core = {
 				7000 6999 6998 6997 381 379 380 1667
+				6996 1713 1715 1714
 			}
 		}
 
@@ -1487,13 +1488,13 @@ country = {
 			}
 
 			own_control_core = {
-				9549 9550 7839 7838d 9551
+				9549 9550 7839 7838 9551
 			}
 		}
 		WHY = { #Wheeling
 			government = tribal_federation
 			primary_culture = yinzic
-			religion = promethean
+			religion = sustainablist
 			capital = 2005
 
 			technology={
@@ -1882,6 +1883,16 @@ country = {
 
 			own_control_core = {
 				7767 6125 6124 3446 3447 7765 7764
+			}
+		}
+		CHS = { #Charleston 
+			government = tribal_kingdom
+			primary_culture = riverlander
+			religion = omenteller
+			capital = 2550
+
+			own_control_core = {
+				2550 2551 2633 2549 6507 6380 6506 2865 2632 2634 2864 2863 2866 6508
 			}
 		}
 	}

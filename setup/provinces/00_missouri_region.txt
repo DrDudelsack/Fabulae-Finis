@@ -706,12 +706,34 @@
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="heartful"
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	slaves={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	holy_site=omen_twain
 }
 
 6800={ #

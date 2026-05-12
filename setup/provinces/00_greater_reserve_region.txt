@@ -79,7 +79,7 @@
 2956={ #
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 7840={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 8611={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 8612={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 8613={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 8614={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 8615={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 8616={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

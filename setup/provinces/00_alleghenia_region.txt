@@ -118,7 +118,7 @@
 3745={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 3746={ #
 	terrain="forest"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 4983={ #
 	terrain="forest"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 4984={ #
 	terrain="forest"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 5460={ #
 	terrain="forest"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 5461={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 5462={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="catholic"
+	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 5463={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="catholic"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 5912={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 5913={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 8769={ #Indiana
 	terrain="hills"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 11644={ #
 	terrain="forest"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 11652={ #
 	terrain="forest"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 11656={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="promethean"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

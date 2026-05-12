@@ -925,7 +925,7 @@
 9518={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="viking"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0

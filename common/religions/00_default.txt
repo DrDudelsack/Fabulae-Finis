@@ -176,6 +176,17 @@ galvanist = { # Galvanist
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+sustainablist = { # Sustainablist
+	color = rgb { 173 63 46 }
+	modifier = {
+		global_population_growth = 0.03
+		global_population_happiness = 0.03
+		country_civilization_value = -5
+	}
+	religion_category = sages
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Afro-Diasporic ##
 vodou = { # Vodou - Louisiana
 	color = rgb { 159 98 22 }
@@ -559,7 +570,7 @@ twainist = { # Twainist
 		build_cost = 0.10
 
 	}
-	religion_category = pantheon
+	religion_category = sages
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
