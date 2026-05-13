@@ -82,6 +82,8 @@ CMB = "setup/countries/south/chambana.txt"
 CNT = "setup/countries/south/centralia.txt"
 VNI = "setup/countries/south/vienna.txt"
 CHS = "setup/countries/south/charleston.txt"
+DEC = "setup/countries/south/decorah.txt"
+EMD = "setup/countries/south/emerald_kingdom.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
@@ -104,6 +106,7 @@ BXS = "setup/countries/south/biloxi.txt"
 TUP = "setup/countries/south/tupelo.txt"
 BRI = "setup/countries/south/bristol.txt"
 BLE = "setup/countries/south/blue_ridge.txt"
+CNH = "setup/countries/south/conch_republic.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
@@ -118,3 +121,6 @@ FRO = "setup/countries/east_canada/francontario.txt"
 HAM = "setup/countries/east_canada/hamilton.txt"
 SUD = "setup/countries/east_canada/sudbury.txt"
 WIN = "setup/countries/east_canada/windsor.txt"
+ONT = "setup/countries/east_canada/ontario.txt"
+MTC = "setup/countries/east_canada/montreal.txt"
+QBC = "setup/countries/east_canada/quebec_city.txt"

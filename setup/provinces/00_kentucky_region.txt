@@ -1,6 +1,6 @@
 ﻿2547={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods="limestone"
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 2548={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 2824={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods="cattle"
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 2825={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods="horses"
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 3065={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 3066={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 3067={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 3068={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 4958={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 4959={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 4960={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 7772={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 7774={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods="limestone"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 7811={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 7812={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 7813={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="ophiolatry"
 	trade_goods="fish"
 	civilization_value=10

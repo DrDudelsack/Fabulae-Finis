@@ -377,7 +377,7 @@
 
 7840={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10

@@ -341,7 +341,7 @@
 
 7557={ #
 	terrain="farmland"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="twainist"
 	trade_goods="stone"
 	civilization_value=22
@@ -388,7 +388,7 @@
 
 7559={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="twainist"
 	trade_goods="iron"
 	civilization_value=10
@@ -500,7 +500,7 @@
 
 8218={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="twainist"
 	trade_goods="stone"
 	civilization_value=20
@@ -531,7 +531,7 @@
 
 8219={ #Moo'uic
 	terrain="farmland"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="catholic"
 	trade_goods="stone"
 	civilization_value=22
@@ -570,7 +570,7 @@
 
 8220={ #
 	terrain="farmland"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="twainist"
 	trade_goods="grain"
 	civilization_value=20

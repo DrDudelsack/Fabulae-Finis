@@ -167,6 +167,9 @@
  VNI_ADJ:0 "Little Egyptian"
  CHS:0 "Kanawha"
  CHS_ADJ:0 "Kanawhan"
+ DEC:0 "Decorah"
+ DEC_ADJ:0 "Decorahn"
+ EMD:0 "The Emerald Kingdom"
  
 
  ## South ##
@@ -180,7 +183,7 @@
  ATL_ADJ:0 "Atlantean"
  MMP:0 "Memphis"
  MMP_ADJ:0 "Memphite"
- TAL:0 "Panhandle Republic"
+ TAL:0 "Panhandle"
  TAL_ADJ:0 "Panhandler"
  OUT:0 "Outer Banks"
  OUT_ADJ:0 "Hoi Toider"
@@ -210,6 +213,8 @@
  BRI_ADJ:0 "Bristolian"
  BLE:0 "Blue Ridge"
  BLE_ADJ:0 "Appalachian"
+ CNH:0 "Conch"
+ CNH_ADJ:0 "Conchano"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
@@ -234,6 +239,12 @@
  HAM_ADJ:0 "Hamiltonian"
  WIN:0 "Windsor"
  WIN_ADJ:0 "Windsorite"
+ ONT:0 "Ontario"
+ ONT_ADJ:0 "Ontarian"
+ MTC:0 "Montreal"
+ MTC_ADJ:0 "Montrealais"
+ QBC:0 "Quebec"
+ QBC_ADJ:0 "Quebecois"
 
 # Gaelic #
  AUTINI:0 "Autinia"

@@ -128,7 +128,7 @@
 
 2958={ #
 	terrain="hills"
-	culture="ozark"
+	culture="gatewayan"
 	religion="catholic"
 	trade_goods="iron"
 	civilization_value=10
@@ -485,7 +485,7 @@
 
 5536={ #
 	terrain="plains"
-	culture="ozark"
+	culture="gatewayan"
 	religion="egyptology"
 	trade_goods="clay"
 	civilization_value=10
@@ -498,7 +498,7 @@
 
 5537={ #
 	terrain="plains"
-	culture="ozark"
+	culture="gatewayan"
 	religion="egyptology"
 	trade_goods=""
 	civilization_value=10
@@ -511,7 +511,7 @@
 
 5538={ #
 	terrain="forest"
-	culture="ozark"
+	culture="gatewayan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -615,7 +615,7 @@
 
 6337={ #Rolla
 	terrain="forest"
-	culture="ozark"
+	culture="gatewayan"
 	religion="promethean"
 	trade_goods="base_metals"
 	civilization_value=10
@@ -894,7 +894,7 @@
 
 8646={ #Moberly
 	terrain="plains"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -985,7 +985,7 @@
 
 9509={ #
 	terrain="forest"
-	culture="ozark"
+	culture="gatewayan"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10

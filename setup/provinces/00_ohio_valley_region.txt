@@ -91,7 +91,7 @@
 
 415={ #
 	terrain="farmland"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="honey"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 2404={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 2405={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 2406={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 4273={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 4274={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 4276={ #
 	terrain="farmland"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="base_metals"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 4433={ #
 	terrain="plains"
-	culture="hoosier"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 5698={ #
 	terrain="plains"
-	culture="buckeye"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 7838={ #
 	terrain="forest"
-	culture="yinzic"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 7839={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 9549={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="clay"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 9550={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 9551={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10

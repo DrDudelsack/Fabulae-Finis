@@ -26,7 +26,7 @@
 
 834={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 2549={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 2550={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 2551={ #
 	terrain="plains"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 2863={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 2864={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 2865={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2866={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 6148={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods="maple"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 6150={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 6378={ #Buchanan
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 6507={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 9250={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10

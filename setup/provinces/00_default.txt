@@ -105950,7 +105950,7 @@
 
 11176={ #
 	terrain="impassable_terrain"
-	culture="yinzic"
+	culture="appalachian"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -106483,7 +106483,7 @@
 
 11217={ #
 	terrain="impassable_terrain"
-	culture="yinzic"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10

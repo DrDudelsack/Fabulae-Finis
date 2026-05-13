@@ -195,7 +195,7 @@
 
 4642={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 4643={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 4644={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 5345={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 6462={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 6463={ #
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 6464={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 7469={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 11628={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
