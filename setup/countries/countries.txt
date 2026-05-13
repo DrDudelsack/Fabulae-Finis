@@ -84,6 +84,9 @@ VNI = "setup/countries/south/vienna.txt"
 CHS = "setup/countries/south/charleston.txt"
 DEC = "setup/countries/south/decorah.txt"
 EMD = "setup/countries/south/emerald_kingdom.txt"
+WTH = "setup/countries/south/worthington.txt"
+EAU = "setup/countries/south/eau_claire.txt"
+HAY = "setup/countries/south/hayward.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

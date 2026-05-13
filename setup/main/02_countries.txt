@@ -1852,7 +1852,7 @@ country = {
 			capital = 7353
 
 			own_control_core = {
-				7353 7355 7354 7352 6378 6379 935
+				7353 7355 7354 7352 6378 6379 935 936
 			}
 		}
 		BLE = { #Blue Ridge
@@ -1984,7 +1984,7 @@ country = {
 			}
 
 			own_control_core = {
-				4376 4375 1947 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967 2254 3599
+				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967 2254 3599
 			}
 		}
 		QBC = { # Quebec City
@@ -2002,6 +2002,50 @@ country = {
 
 			own_control_core = {
 				757 7640 755 756 7641 7642 7639 4198 4197 2401 2400 4196
+			}
+		}
+		WTH = { #Worthington
+			government = tribal_kingdom
+			primary_culture = heartlander
+			religion = lutheran
+			capital = 1479
+
+			own_control_core = {
+				1479 5627 5364 1476 1479 1477 6398
+			}
+		}
+		EAU = { #Eau Claire
+			government = tribal_kingdom
+			primary_culture = cheesehead
+			religion = viking
+			capital = 2024 
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2024 2083 2085 2025 2084 2082 11734
+			}
+		}
+		HAY = { #Hayward
+			government = tribal_kingdom
+			primary_culture = odawa
+			religion = lakeshore
+			capital = 1097
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1097 7452 1095 1098 7451 1096 3995 3994 3996
 			}
 		}
 	}

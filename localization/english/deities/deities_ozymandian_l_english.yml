@@ -1,0 +1,16 @@
+﻿l_english:
+ ## Ozymandian ##
+ deity_oz:0 "$omen_oz$"
+ omen_oz:0 "Oz"
+ omen_oz_desc:0 ""
+ deity_cosmopolitan:0 "$omen_cosmopolitan$"
+ omen_cosmopolitan:0 "Cosmopolitan"
+ omen_cosmopolitan_desc:0 "" 
+ deity_civilization:0 "$omen_civilization$"
+ omen_civilization:0 "Civilization"
+ omen_civilization_desc:0 ""
+ deity_altruria:0 "$omen_altruria$"
+ omen_altruria:0 "Altruria"
+ omen_altruria_desc:0 ""
+
+

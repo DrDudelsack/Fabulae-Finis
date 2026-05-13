@@ -58,3 +58,11 @@
  deity_ole_olson:0 "$omen_ole_olson$"
  omen_ole_olson:0 "Ole Olson"
  omen_ole_olson_desc:0 "#Y Tall-Taler Teacher#!\n\nPaul Bunyan's blacksmith, Ole Olson possessed a skill with the hammer and anvil like no other. He created a mighty horn that, when blown, could knock down 40 acres of pine trees flat, or create a hurricane out of thin air. Regarded as the greatest blacksmith of all time, Ole Olson taught our people metalworking."
+
+ deity_dylan:0 "$omen_dylan$"
+ omen_dylan:0 "Bob Dylan"
+ omen_dylan_desc:0 "#Y Tall-Taler Teacher#!\n\nA traveling bard from Duluth, Bob Dylan traveled the country singing songs of the North Country. He was an outspoken champion of the people, and he was kicked out of many a city for being a rabble-rouser."
+
+ deity_prince:0 "$omen_prince$"
+ omen_prince:0 "Prince"
+ omen_prince_desc:0 "#Y Tall-Taler Teacher#!\n\nAn enigmatic figure, Prince was an early ruler of Minneapolis. He was renowned throughout the land for his musical talent, but one day Prince disappeared, leaving behind only his songs. The residents of Minneapolis say that when Prince vanished, it rained purple that day."

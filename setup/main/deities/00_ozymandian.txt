@@ -1,0 +1,20 @@
+deity_manager = {
+    deities_database = { ### KEYS 800 - 899 ###
+		800 = {
+			key = omen_oz
+			deity = deity_oz
+		}
+		801 = {
+			key = omen_civilization
+			deity = deity_civilization
+		}
+		802 = {
+			key = omen_cosmopolitan
+			deity = deity_cosmopolitan
+		}
+		803 = {
+			key = omen_altruria
+			deity = deity_altruria
+		}
+	}
+}

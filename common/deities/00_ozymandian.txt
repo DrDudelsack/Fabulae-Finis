@@ -1,0 +1,96 @@
+﻿deity_oz = {
+	trigger = {
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_oz = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { agressive_expansion_impact = deity_aggressive_expansion_impact_svalue }
+	omen = { stability_monthly_change = omen_stability_monthly_change_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+deity_civilization = {
+	trigger = {
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_civilization = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_monthly_civilization = omen_global_monthly_civilization_svalue }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_cosmopolitan = {
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_civilization = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { price_found_metropolis_cost_modifier = -0.25 } #Bonus from Omen
+	religion = ozymandism
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+        fertility_apotheosis_capital_slaves_effect = yes
+    }
+}
+deity_altruria = {
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_altruria = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
+	omen = { global_freemen_happyness = omen_global_freemen_happiness_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
