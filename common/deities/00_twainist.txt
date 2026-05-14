@@ -39,7 +39,7 @@ deity_muir = {
 	religion = twainist
 	deity_category = fertility #This Deity uses a War slot.
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -63,7 +63,7 @@ deity_columbia = {
 	religion = twainist
 	deity_category = culture #This Deity uses a War slot.
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -116,5 +116,125 @@ deity_whitman = {
 
 	on_activate = {
 		culture_apotheosis_oratory_tech_effect = yes
+	}
+}
+deity_the_comet = { # Inspired by Halley's Coment and Mark Twain's birth and death on the passing of that comet, + general notions about comets as omens
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_the_comet = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_love
+	passive_modifier = { global_population_growth = omen_global_population_growth }
+	omen = { monthly_political_influence_modifier = deity_monthly_political_influence_modifier_svalue } #Bonus from Omen
+	deity_category = fertility #This Deity uses a War slot.
+	religion = twainist
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_the_pilot = {
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_the_pilot = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
+	omen = { naval_morale_modifier = omen_naval_morale_modifier_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_the_king = {
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_the_king = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_culture
+	passive_modifier = { ruler_popularity_gain = deity_ruler_popularity_gain_svalue }
+	omen = { global_slaves_output = omen_global_slaves_output_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+deity_the_yankee = { #based off of the character Hank Morgan from “A Connecticut Yankee in King Arthur’s Court” by Mark Twain
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_the_yankee = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { land_morale_modifier = deity_land_morale_modifier_svalue }
+	omen = { civic_tech_investment = omen_civic_tech_investment_svalue }  #Bonus from Omen
+	religion = twainist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_sawyer = { # Tom Sawyer and Huckleberry Finn
+	trigger = {
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_sawyer = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { land_unit_attrition = -0.10 }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed } #Bonus from Omen
+	religion = twainist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
 	}
 }

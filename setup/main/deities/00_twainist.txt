@@ -20,5 +20,25 @@ deity_manager = {
 			key = omen_whitman
 			deity = deity_whitman
 		}
+		705 = {
+			key = omen_the_comet
+			deity = deity_the_comet
+		}
+		706 = {
+			key = omen_the_king
+			deity = deity_the_king
+		}
+		707 = {
+			key = omen_the_yankee
+			deity = deity_the_yankee
+		}
+		708 = {
+			key = omen_sawyer
+			deity = deity_sawyer
+		}
+		709 = {
+			key = omen_the_pilot
+			deity = deity_the_pilot
+		}
 	}
 }
