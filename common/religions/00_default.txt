@@ -36,7 +36,7 @@ heartful = { # Heartful
 	color = rgb { 97 113 164 }
 	modifier = {
 		global_manpower_modifier = 0.10
-		global_monthly_food_modifier = 0.05
+		build_time = -0.20
 		war_score_cost = 0.10
 	}
 	religion_category = sages

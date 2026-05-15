@@ -1927,6 +1927,7 @@ country = {
 
 			own_control_core = {
 				5880 961 959 659 960 657 658 5883 5881 5882 7311 7312 7313
+				1460 1458 1459 7467 7466 7650 7649 7648
 			}
 		}
 		CNH = { # Conch Republic
@@ -2046,6 +2047,24 @@ country = {
 
 			own_control_core = {
 				1097 7452 1095 1098 7451 1096 3995 3994 3996
+			}
+		}
+		KAS = { # Kansas
+			government = theocratic_monarchy
+			primary_culture = grangelander
+			religion = heartful
+			capital = 6896
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6896 6898 6897 7899 7897 7898 7900 7896 7050 7051 7049 6358 6359 6360 6636 6637 2266 1516 7412 7410 7900 2117 2118 2119
+				7678 7677 3586 3584 7413 7411 7676 587 586 9345 8493 3585 376 2249 2247 7158 
 			}
 		}
 	}
