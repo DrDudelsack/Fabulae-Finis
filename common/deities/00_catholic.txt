@@ -28,6 +28,9 @@ deity_jesus = {
 			common_deity_trigger = {
 				RELIGION = catholic
 			}
+			common_deity_trigger = {
+				RELIGION = heartful
+			}
 			deity:omen_jesus = {
 				holy_site_deity_check_trigger = yes
 			}

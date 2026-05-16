@@ -36,5 +36,38 @@ deity_manager = {
 			key = omen_lincoln
 			deity = deity_lincoln
 		}
+		## Heartful Pantheon
+		309 = {
+			key = omen_borlaug
+			deity = deity_borlaug
+		}
+		310 = {
+			key = omen_jefferson
+			deity = deity_jefferson
+		}
+		311 = {
+			key = omen_john_brown
+			deity = deity_john_brown
+		}
+		312 = {
+			key = omen_eisenhower
+			deity = deity_eisenhower
+		}
+		313 = {
+			key = omen_glenn
+			deity = deity_glenn
+		}
+		314 = {
+			key = omen_iowa
+			deity = deity_iowa
+		}
+		315 = {
+			key = omen_wjb
+			deity = deity_wjb
+		}
+		316 = {
+			key = omen_knute_nelson
+			deity = deity_knute_nelson
+		}
 	}
 }

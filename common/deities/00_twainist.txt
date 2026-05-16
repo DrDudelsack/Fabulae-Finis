@@ -52,6 +52,9 @@ deity_columbia = {
 			common_deity_trigger = {
 				RELIGION = twainist
 			}
+			rare_deity_trigger = {
+				RELIGION = heartful
+			}
 			deity:omen_columbia = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -75,6 +78,9 @@ deity_mississippi = {
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
+			}
+			rare_deity_trigger = {
+				RELIGION = heartful
 			}
 			deity:omen_mississippi = {
 				holy_site_deity_check_trigger = yes

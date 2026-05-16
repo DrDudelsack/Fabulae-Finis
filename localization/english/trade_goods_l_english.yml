@@ -28,8 +28,8 @@
  gunpowder:0 "Gunpowder"
  gunpowderDESC:0 "A mixture of saltpeter, sulfur, and charcoal, it is required for use in firearms and cannons. However, this prized dust is very difficult to produce, and only a few wealthy realms are able to do so."
  #Food (Category 1)
- maize:0 "Maize"
- maizeDESC:0 "Maize represents a crop central to civilization itself, often associated with gods, prosperity, myths, and development, especially in Mesoamerica."
+ maize:0 "Corn"
+ maizeDESC:0 "Corn represents a crop central to civilization itself, often associated with gods, prosperity, myths, and development, especially in Mesoamerica."
  fish:0 "Fish"
  fishDESC:0 "Fish provide a staple part of the diet and economy of every coastal civilization in the world."
  tubers:0 "Tubers"

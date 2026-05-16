@@ -476,22 +476,6 @@ gems = { #44 Territories
 	color = hsv { 0.55 0.9 0.9 }
 }
 
-camel = { #63 territories
-	allow_unit_type = camels
-	category = 0
-	
-	gold = 0.25
-	
-	province = {
-		state_commerce_modifier = 0.02
-	}
-	country = {
-		camels_discipline = 0.1
-	}
-	
-	color = { 0.6 0.3 0.2 }
-}
-
 glass = { #62 territories
 	category = 3
 	
@@ -520,21 +504,6 @@ silk = { #44 territories make Silk
 	}
 	
 	color = hsv { 0.75 1 0.85 }
-}
-
-dates = { #60 Territories
-	category = 1
-
-	gold = 0.3
-
-	province = {
-		local_monthly_food = 2
-	}
-	country = {
-		global_commerce_modifier = 0.05
-	}
-	
-	color = { 0.18 0.01 0.24 }
 }
 ##New Invictus trade goods
 ##Need to change modifiers
@@ -671,7 +640,7 @@ beans = { #Beans
 		local_monthly_food = 5
 	}
 	country = {
-		pop_growth_modifier = 0.02
+		global_freemen_output = 0.04
 	}
 	color = hsv { 0.4 0.7 0.3 }
 }
@@ -719,10 +688,10 @@ cacti = { #Cacti
 	category = 3
 	gold = 0.3
 	province = {
-		local_food_output = 0.02
+		local_monthly_food = 0.02
 	}
 	country = {
-		pop_growth_modifier = 0.01
+		global_population_growth = 0.01
 	}
 	color = hsv { 0.38 0.85 0.6 }
 }
@@ -730,7 +699,7 @@ maple = { #Maple
 	category = 4
 	gold = 0.35
 	province = {
-		local_slaves_happiness = happiness_small_svalue
+		local_slaves_happyness = happiness_small_svalue
 	}
 	country = {
 		oratory_tech_investment = 0.05
@@ -741,7 +710,7 @@ cotton = { #Cotton
 	category = 5
 	gold = 0.35
 	province = {
-		local_slaves_happiness = happiness_small_svalue
+		local_slaves_happyness = happiness_small_svalue
 	}
 	country = {
 		oratory_tech_investment = 0.05
@@ -749,10 +718,10 @@ cotton = { #Cotton
 	color = rgb { 200 188 190 }
 }
 tobacco = { #Tobacco
-	category = 5
+	category = 3
 	gold = 0.3
 	province = {
-		local_tribesmen_happiness = happiness_small_svalue
+		local_citizen_happyness = happiness_small_svalue
 	}
 	country = {
 		global_commerce_modifier = 0.05
@@ -760,21 +729,21 @@ tobacco = { #Tobacco
 	color = hsv { 0.6 0.2 0.5 }
 }
 buffalo = { #Buffalo
-	category = 5
+	category = 0
 	gold = 0.3
 	province = {
-		local_tribesmen_happiness = happiness_small_svalue
+		local_tribesmen_happyness = happiness_small_svalue
 	}
 	country = {
-		global_population_growth = 0.01
+		army_weight_modifier = -0.10
 	}
 	color = hsv { 0.1 0.4 0.1 }
 }
 hallucinogenics = { #Hallucinogenics
-	category = 5
+	category = 3
 	gold = 0.3
 	province = {
-		local_tribesmen_happiness = happiness_small_svalue
+		local_citizen_happyness = happiness_small_svalue
 	}
 	country = {
 		global_population_happiness = 0.01
@@ -782,13 +751,13 @@ hallucinogenics = { #Hallucinogenics
 	color = hsv { 0.6 0.2 0.5 }
 }
 clay = { #Clay
-	category = 5
+	category = 4
 	gold = 0.2
 	province = {
-		local_slaves_happiness = happiness_small_svalue
+		local_slaves_happyness = happiness_small_svalue
 	}
 	country = {
-		build_cost = -0.03
+		build_time = -0.10
 	}
 	color = hsv { 0.4 0.2 0.6 }
 }
@@ -799,7 +768,7 @@ maize = { #Maize
 		local_monthly_food = 6
 	}
 	country = {
-		pop_growth_modifier = 0.02
+		global_population_capacity_modifier = 0.05
 	}
 	color = hsv { 0.16 0.8 0.5 }
 }

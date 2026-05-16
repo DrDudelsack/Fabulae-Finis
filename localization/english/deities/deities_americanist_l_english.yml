@@ -15,7 +15,8 @@
  deity_providence:0 "$omen_providence$"
  omen_providence:0 "Providence"
  omen_providence_desc:0 "#Y Americanist God#!\n\nProvidence is the unseen but ever-present god who shapes America's rise through chance, struggle, and fate, guiding events without fully revealing his will. It is by Providence's will that The Founders and Presidents were allowed to ascend into godhood."
- omen_providence_desc_twainist:0 "#Y Americanist God#!\n\nNeither a good or a bad deity, Providence is simply the being that governs the universe via strict and immutable laws. His worship amongst Twainists is less common, but Providence is acknowledged for the role he plays."
+ omen_providence_desc_twainist:0 "#Y Americanist God#!\n\nNeither a good or a bad deity, Providence is simply the being that governs the universe via strict and immutable laws. His worship amongst Twainists is less common, but Providence is acknowledged for the important role he plays."
+ omen_providence_desc_heartful:0 “#Y Americanist God#!\n\nProvidence is the one true God who guides history according to its will, raising nations and humbling them, and who entrusted America to humanity as a sacred stewardship rather than a dominion of conquest.”
 
  deity_usa_dream:0 "$omen_providence$"
  omen_usa_dream:0 "The American Dream"
@@ -42,3 +43,37 @@
  deity_lincoln:0 "$omen_lincoln$"
  omen_lincoln:0 "Lincoln"
  omen_lincoln_desc:0 "#Y Americanist President#!\n\nA humble man, Lincoln was born to a poor family in Illinois. In his early years, he was a lawyer, boxer, and for a short time, a hunter of the supernatural. Showing much promise as a leader, Lincoln was elected President. He is worshipped as the somber god of unity, sacrifice, and the national family, who binds households together through shared suffering."
+ 
+ ## Heartful Deities ##
+ deity_borlaug:0 "$omen_borlaug$"
+ omen_borlaug:0 "Borlaug"
+ omen_borlaug_desc:0 "#Y Heartful Saint#!\n\nBorlaug is the saint of abundance and sustenance, who teaches that feeding the hungry is a holy act and that human ingenuity is a gift meant to preserve life."
+ 
+ deity_jefferson:0 "$omen_jefferson$"
+ omen_jefferson:0 "Jefferson"
+ omen_jefferson_desc:0 "#Y Heartful Deity#!\n\nJefferson is the steward of prosperity and learning, who taught that true wealth lies in land rightly tended, education widely shared, and liberty protected from excess."
+
+ deity_john_brown:0 "$omen_john_brown$"
+ omen_john_brown:0 "John Brown"
+ omen_john_brown_desc:0 "#Y Heartful Prophet#!\n\nJohn Brown is the prophet of terrible truth, who reveals that some evils cannot be reasoned away and that knowledge without justice is sin."
+
+ deity_eisenhower:0 "$omen_eisenhower$"
+ omen_eisenhower:0 "Eisenhower"
+ omen_eisenhower_desc:0 "#Y Heartful Deity#!\n\nEisenhower is the righteous general who teaches that war, though sometimes necessary, must always be restrained by humility and an awareness of its costs."
+
+ deity_glenn:0 "$omen_glenn$"
+ omen_glenn:0 "Glenn"
+ omen_glenn_desc:0 "#Y #!\n\nGlenn is the watcher in the dark, who guards humanity during its most perilous ascents and reminds the faithful that courage is greatest when the path is unseen."
+
+ deity_iowa:0 "$omen_iowa$"
+ omen_iowa:0 "Iowa"
+ omen_iowa_desc:0 "#Y Heartful Deities#!\n\nIowa and Enterprise are twin vessels of faith and labor, carrying America's people and hopes across uncertain waters through endurance and cooperation."
+
+ deity_wjb:0 "$omen_wjb$"
+ omen_wjb:0 "William Jennings Bryan"
+ omen_wjb_desc:0 "#Y Heartful Prophet#!\n\nKnown for his faith in the wisdom of the common people, William Jennings Bryan warned America against the trappings of wealth, and the consequences of uncontrolled greed."
+
+ deity_knute_nelson:0 "$omen_knute_nelson$"
+ omen_knute_nelson:0 "Knute Nelson"
+ omen_knute_nelson_desc:0 "#Y Heartful Deity#!\n\nThe learned Knute Nelson teaches of the importance of law, but also how it is necessary to shed regional identities in order to come together as one nation."
+ 

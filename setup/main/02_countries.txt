@@ -1158,7 +1158,7 @@ country = {
 		ALX = { #Alexandria
 			government = tribal_kingdom
 			primary_culture = minnesotan
-			religion = viking
+			religion = heartful #viking
 			capital = 8648
 
 			technology={
