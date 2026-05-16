@@ -1608,7 +1608,7 @@ country = {
 			}
 
 			own_control_core = {
-				9511 9513 9514 9512
+				9511 9513 9514 9512 3409 3407
 			}
 		}
 		INR = { #Inner Banks
@@ -1986,6 +1986,7 @@ country = {
 
 			own_control_core = {
 				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967 2254 3599
+				1744 477 476
 			}
 		}
 		QBC = { # Quebec City
@@ -2030,6 +2031,7 @@ country = {
 
 			own_control_core = {
 				2024 2083 2085 2025 2084 2082 11734
+				3408
 			}
 		}
 		HAY = { #Hayward
@@ -2065,6 +2067,23 @@ country = {
 			own_control_core = {
 				6896 6898 6897 7899 7897 7898 7900 7896 7050 7051 7049 6358 6359 6360 6636 6637 2266 1516 7412 7410 7900 2117 2118 2119
 				7678 7677 3586 3584 7413 7411 7676 587 586 9345 8493 3585 376 2249 2247 7158 
+			}
+		}
+		TRV = { # Trois-Riviere
+			government = aristocratic_republic
+			primary_culture = montrealais
+			religion = ursuline
+			capital = 8303
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8303 8305 8304 9507 6472
 			}
 		}
 	}

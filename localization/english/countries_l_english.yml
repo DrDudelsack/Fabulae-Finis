@@ -174,8 +174,8 @@
  WTH_ADJ:0 "Heartlander"
  EAU:0 "Eau Claire"
  EAU_ADJ:0 "Cheesehead"
- HAY:0 "Hayward"
- HAY_ADJ:0 "Haywardian"
+ HAY:0 "Chippewa"
+ HAY_ADJ:0 "Chippewan"
  KAS:0 "Kansas"
  KAS_ADJ:0 "Kansan"
  
@@ -253,6 +253,8 @@
  MTC_ADJ:0 "Montrealais"
  QBC:0 "Quebec"
  QBC_ADJ:0 "Quebecois"
+ TRV:0 "Trois Rivières"
+ TRV_ADJ:0 "Trifluvien"
 
 # Gaelic #
  AUTINI:0 "Autinia"
