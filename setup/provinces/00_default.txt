@@ -91377,7 +91377,7 @@
 
 10055={ #
 	terrain="coastal_terrain"
-	culture="gulfard"
+	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10

@@ -404,7 +404,7 @@ country = {
 		IDP = { #Independence
 			government = aristocratic_monarchy
 			primary_culture = heartlander
-			religion = lutheran
+			religion = heartful
 			capital = 8495
 
 			technology={
@@ -452,7 +452,7 @@ country = {
 				6621 #kansas_city_area
 			}
 		}
-		TRU = { #Truman U
+		TRU = { #Truman
 			government = oligarchic_republic
 			primary_culture = heartlander
 			religion = catholic
@@ -506,7 +506,7 @@ country = {
 		}
 		BTH = { #Bootheel
 			government = tribal_kingdom
-			primary_culture = ozark
+			primary_culture = riverlander
 			religion = egyptology
 			capital = 5536
 
@@ -765,6 +765,115 @@ country = {
 			own_control_core = {
 				1563 1045 1043 1044 7115 3435 3433 5795 5949 5948
 				7113 7114 7386 7385 5794 5796
+			}
+		}
+		GUL = { # Savannah
+			government = plutocratic_republic
+			primary_culture = gullah
+			religion = evangelical
+			capital = 1868
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1863 1868 1869 8762 8763 8764 #savannah_area
+				6349 6350 6351 6352 #st_marys_area
+				3540 3541 6351 #charleston_sc_area
+			}
+		}
+		COL = { # Columbus
+			government = aristocratic_republic
+			primary_culture = atlantean
+			religion = evangelical
+			capital = 7205
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7205 7206 #albany_ga_area
+				8935 #tuskegee_area
+				8349 8350 8351 #macon_area
+			}
+		}
+		AUG = { # Augusta
+			government = aristocratic_republic
+			primary_culture = atlantean
+			religion = evangelical
+			capital = 8701
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1253 8701 #savannah_area
+				8700 8938 8939 #sparta_area
+				8117 8118 #lexington_sc_area
+			}
+		}
+		MAC = { # Macon
+			government = aristocratic_republic
+			primary_culture = atlantean
+			religion = evangelical
+			capital = 3820
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3817 3818 3819 3820 #macon_area
+				3434 6498 #jackson_area
+			}
+		}
+		ATH = { # Athens
+			government = democratic_republic
+			primary_culture = atlantean
+			religion = evangelical
+			capital = 5797
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2935 2936 2937 2938 5046 5797 5950 #athens_area
+			}
+		}
+		SPA = { # Sparta
+			government = stratocratic_monarchy
+			primary_culture = tuskegean
+			religion = evangelical
+			capital = 8937
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8937 8940 8941 #sparta_area
 			}
 		}
 
@@ -1397,7 +1506,7 @@ country = {
 
 			own_control_core = {
 				2718 6724 6725 6292 6291 6290 585 583 584 2719
-				4715 11629 4716 8935 8936 7743 7742 7741 11630 2717
+				4715 11629 4716 8936 7743 7742 7741 11630 2717
 				4952 4953 8365 4497 4495 4496 4954
 				7469 4643 4642 7471 4644 11628 6462 6464 6463 5345
 				7952 6726 7950 1551 11627 1549 1550 821 819 7470 820 7951 
