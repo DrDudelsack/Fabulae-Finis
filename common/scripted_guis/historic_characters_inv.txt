@@ -2,12 +2,12 @@
 
 historical_character_sgui_trigger = {
     scope = character
-    is_shown = {
-        OR = {
-            this = char:37 # Antigonas
-            this = char:32 # Kassandros
-            this = char:42 # Ptolemy I
-            this = char:24 # Seleukos
-        }
-    }
+    #is_shown = {
+    #    OR = {
+    #        this = char:37 # Antigonas
+    #        this = char:32 # Kassandros
+    #        this = char:42 # Ptolemy I
+    #        this = char:24 # Seleukos
+    #    }
+    #}
 }
