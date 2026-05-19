@@ -297,7 +297,7 @@ country = {
 				571 6796 6797 5720 5719 5718 1258 1259 1257 6795 848 850 849 851
 			}
 		}
-		OHO = {
+		OHO = { #Greater Reserve
 			government = titanate
 			primary_culture = buckeye
 			religion = promethean
@@ -319,7 +319,7 @@ country = {
 				1522 1521 1523 8971 9169 9171 9168 5311
 			}
 		}
-		ALG = {
+		ALG = { #Alleghenia
 			government = titanate
 			primary_culture = yinzic
 			religion = promethean
@@ -339,7 +339,7 @@ country = {
 				8592 8590 8591 8593 6595 2790 6593 6594 2791 2789
 			}
 		}
-		STL = {
+		STL = { #St. Louis
 			family = 0
 			government = titanate
 			primary_culture = gatewayan
@@ -363,7 +363,7 @@ country = {
 
 			}
 		}
-		CMO = {
+		CMO = { #Como
 			government = dictatorship
 			primary_culture = gatewayan
 			religion = lutheran
@@ -382,10 +382,10 @@ country = {
 				5600 6337 #ellington_area
 			}
 		}
-		KCA = {
+		KCA = { #Kaycimo
 			government = aristocratic_republic
 			primary_culture = heartlander
-			religion = lutheran
+			religion = catholic
 			capital = 7369
 
 			technology={
@@ -396,12 +396,29 @@ country = {
 			}
 
 			own_control_core = {
-				7369 7371 8495 6621 8494 3873 #kansas_city_area
+				3873 6621 7369 7371 8495 #kansas_city_area
 				7370 7372 #kansas_area
-				7373 #terre_haute_area
+				7373 9451 #terre_haute_area
 			}
 		}
-		PAW = {
+		IDP = { #Independence
+			government = aristocratic_monarchy
+			primary_culture = heartlander
+			religion = lutheran
+			capital = 8495
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8495 8494 #kansas_city_area
+			}
+		}
+		PAW = { #Bonne Terre
 			government = tribal_federation
 			primary_culture = paw_paw
 			religion = catholic
@@ -418,7 +435,7 @@ country = {
 				6336 #saint_louis_area
 			}
 		}
-		HRM = {
+		HRM = { #Cole Camp
 			government = tribal_federation
 			primary_culture = hermanndeutsch
 			religion = lutheran
@@ -433,6 +450,75 @@ country = {
 
 			own_control_core = {
 				6621 #kansas_city_area
+			}
+		}
+		TRU = { #Truman U
+			government = oligarchic_republic
+			primary_culture = heartlander
+			religion = catholic
+			capital = 5446
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3874 5446 #como_area
+				5447 #terre_haute_area
+			}
+		}
+		SFM = { #Springmo
+			government = theocratic_monarchy
+			primary_culture = ozark
+			religion = revelationist
+			capital = 1492
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1490 1492 5251 5252 #joplin_area
+			}
+		}
+		JOP = { #Joplin
+			government = tribal_kingdom
+			primary_culture = ozark
+			religion = revelationist
+			capital = 9346
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9346 #joplin_area
+			}
+		}
+		BTH = { #Bootheel
+			government = tribal_kingdom
+			primary_culture = ozark
+			religion = egyptology
+			capital = 5536
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5536 5537 5538 4001 4002 #bootheel_area
 			}
 		}
 
@@ -1006,8 +1092,8 @@ country = {
 			}
 
 			own_control_core = {
-				335 334 5406 5404 5405 2460 677 676 8488 5336 6151 6154 4002 4001 1013
-				6152 8486 675 1853 1854 6262 6260 6261 5538 5537 337 336 2461 2459 5536
+				335 334 5406 5404 5405 2460 677 676 8488 5336 6151 6154 1013
+				6152 8486 675 1853 1854 6262 6260 6261 337 336 2461 2459
 			}
 		}
 
