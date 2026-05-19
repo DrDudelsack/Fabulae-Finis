@@ -57,7 +57,7 @@ IWA = { # Kingdom of Iowa
 	}
 }
 
-DEL= { #State of Delmarva
+DLV= { #State of Delmarva
 	pattern = "pattern_chief.dds"
 	color1 = "light_gold"
 	color2 = "ck2_blue"

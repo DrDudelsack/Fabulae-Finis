@@ -64,7 +64,7 @@ country = {
 			}
 		}
 
-		DEL = {
+		DLV = {
 			government = democratic_republic
 			primary_culture = youser
 			religion = americanist
@@ -884,7 +884,7 @@ country = {
 			}
 		}
 
-		MAS = { #Massachusets
+		MSM = { #Massachusets
 			government = tribal_kingdom
 			primary_culture = vermonter
 			religion = gothic
