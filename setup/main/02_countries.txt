@@ -18,7 +18,7 @@ country = {
 			}
 
 			own_control_core = {
-				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 3241 7135 1705 
+				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 7135 1705 
 				3183 3670 3186 3185 3184 5766 5855 5854 5853 
 				5485 5483 5486 5484 5765 5767 8448 5279 5281 1943 1944
 				9524 4491 4490 2361 9525 9523 1845 7760 6168 6167 482 480
@@ -1622,7 +1622,7 @@ country = {
 			government = tribal_federation
 			primary_culture = deitsch
 			religion = old_order
-			capital = 7723
+			capital = 7721
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1632,24 +1632,24 @@ country = {
 			}
 
 			own_control_core = {
-				7723 7721 1062 2094 2096 2095 2097 7722
+				7721 1062 2094 2096 2095 2097 7722
 			}
 		}
 		HSY = { #Hershey
-			government = tribal_federation
-			primary_culture = deitsch
-			religion = old_order
-			capital = 3240
+			government = theocratic_monarchy
+			primary_culture = yinzic
+			religion = fissionist
+			capital = 7723
 
 			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
 			}
 
 			own_control_core = {
-				3240 3239 3285 3286 8637
+				7723 3240 3285 3286 8367 3241 9331 3239 8637
 			}
 		}
 		WMS = { #Williamsport
@@ -1666,7 +1666,7 @@ country = {
 			}
 
 			own_control_core = {
-				9332 3287 9333 5459 9331
+				9332 3287 9333 5459
 			}
 		}
 		WHR = { #Wheelersburg

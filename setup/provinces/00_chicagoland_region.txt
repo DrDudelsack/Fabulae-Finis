@@ -602,7 +602,7 @@
 		amount=1
 	}
 	freemen={
-		religion="atomicist"
+		religion="fissionist"
 		amount=2
 	}
 	slaves={

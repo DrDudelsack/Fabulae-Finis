@@ -108017,8 +108017,8 @@
 
 11335={ #
 	terrain="impassable_terrain"
-	culture="deitsch"
-	religion="promethean"
+	culture="yinzic"
+	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
