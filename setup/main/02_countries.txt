@@ -1637,7 +1637,7 @@ country = {
 		}
 		HSY = { #Hershey
 			government = theocratic_monarchy
-			primary_culture = yinzic
+			primary_culture = susquehannan
 			religion = fissionist
 			capital = 7723
 
