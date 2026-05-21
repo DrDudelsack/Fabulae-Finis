@@ -247,8 +247,8 @@
 
 2147={ #
 	terrain="hills"
-	culture="sixer"
-	religion="united_church"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -650,8 +650,8 @@
 
 7021={ #
 	terrain="plains"
-	culture="sixer"
-	religion="united_church"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -676,8 +676,8 @@
 
 7023={ #
 	terrain="plains"
-	culture="sixer"
-	religion="united_church"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 7874={ #
 	terrain="plains"
 	culture="sixer"
-	religion="promethean"
+	religion="gaiwiio"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -1300,8 +1300,8 @@
 
 11617={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1314,7 +1314,7 @@
 11619={ #
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="promethean"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

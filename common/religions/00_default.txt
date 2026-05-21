@@ -338,6 +338,15 @@ midewiwin = { # Midewiwin
 	}
 	religion_category = pantheon
 }
+gaiwiio = { # Gai'wiio
+	color = rgb { 49 149 112 }
+	modifier = { 
+		happiness_for_same_culture_modifier = 0.06
+		omen_power = 0.05
+		fabricate_claim_cost_modifier = 0.25
+	}
+	religion_category = pantheon
+}
 ## Peyotist ##
 peyotist = { # Peyotist
 	color = rgb { 239 159 0 }

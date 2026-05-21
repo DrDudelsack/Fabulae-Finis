@@ -336,7 +336,7 @@ country = {
 				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
 				3776 3774 3773 3775 4013 4012 8967 8968 794
 				11652 11644 11646 4983 4984 3746 3745 5463 5460 5462
-				8592 8590 8591 8593 6595 2790 6593 6594 2791 2789
+				8592 8590 6595 2790 6593 6594 2791 2789 5459
 			}
 		}
 		STL = { #St. Louis
@@ -954,7 +954,7 @@ country = {
 		HAD = { #Haudenosaunee
 			government = league_republic
 			primary_culture = haudenosaunee
-			religion = catholic
+			religion = gaiwiio
 			capital = 612
 
 			technology={
@@ -966,7 +966,7 @@ country = {
 
 			own_control_core = {
 				612 2480 613 615 7053 7054 5776 614 5777 6054 2477 2479 2478
-				7052 6055 6056 6057 3373 9489 3372
+				7052 6055 6056 6057 3373 9489 3372 11619 7874 7023 11617 2147 8593 8591 6851 6850 7021
 			}
 		}
 
@@ -1003,7 +1003,7 @@ country = {
 			}
 
 			own_control_core = {
-				6853 3104 3105 1759 6852 6850 6851 3103 5618 5191 5193
+				6853 3104 3105 1759 6852 3103 5618 5191 5193
 			}
 		}
 		
@@ -1165,7 +1165,7 @@ country = {
 			}
 
 			own_control_core = {
-				739 740 7875 7874 2147 8926
+				739 740 7875 8926
 			}
 		}
 
@@ -1650,13 +1650,14 @@ country = {
 
 			own_control_core = {
 				7723 3240 3285 3286 8367 3241 9331 3239 8637
+				9333 9332 3287
 			}
 		}
-		WMS = { #Williamsport
+		WMS = { #Mohawk
 			government = tribal_federation
-			primary_culture = deitsch
-			religion = old_order
-			capital = 9332
+			primary_culture = haudenosaunee
+			religion = gaiwiio 
+			capital = 3599
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1666,7 +1667,7 @@ country = {
 			}
 
 			own_control_core = {
-				9332 3287 9333 5459
+				2256 2255 2599 2254 3601 3600 1769 3599
 			}
 		}
 		WHR = { #Wheelersburg
@@ -2180,7 +2181,7 @@ country = {
 			}
 
 			own_control_core = {
-				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967 2254 3599
+				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967
 				1744 477 476
 			}
 		}

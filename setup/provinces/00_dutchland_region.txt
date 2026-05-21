@@ -234,7 +234,7 @@
 
 5493={ #
 	terrain="hills"
-	culture="susquehannan"
+	culture="pocono"
 	religion="catholic"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 6213={ #
 	terrain="plains"
-	culture="susquehannan"
+	culture="pocono"
 	religion="americanist"
 	trade_goods="leather"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 6215={ #
 	terrain="plains"
-	culture="susquehannan"
+	culture="pocono"
 	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 9587={ #
 	terrain="hills"
-	culture="susquehannan"
+	culture="pocono"
 	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 9589={ #
 	terrain="plains"
-	culture="susquehannan"
+	culture="pocono"
 	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
