@@ -18,7 +18,7 @@ country = {
 			}
 
 			own_control_core = {
-				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 3241 7135 1705 
+				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 7135 1705 
 				3183 3670 3186 3185 3184 5766 5855 5854 5853 
 				5485 5483 5486 5484 5765 5767 8448 5279 5281 1943 1944
 				9524 4491 4490 2361 9525 9523 1845 7760 6168 6167 482 480
@@ -336,7 +336,7 @@ country = {
 				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
 				3776 3774 3773 3775 4013 4012 8967 8968 794
 				11652 11644 11646 4983 4984 3746 3745 5463 5460 5462
-				8592 8590 8591 8593 6595 2790 6593 6594 2791 2789
+				8592 8590 6595 2790 6593 6594 2791 2789 5459
 			}
 		}
 		STL = { #St. Louis
@@ -879,7 +879,7 @@ country = {
 
 		
 		CIN = { # Cincinatti
-			government = military_dictatorship
+			government = stratocratic_monarchy
 			primary_culture = butternutter
 			religion = americanist
 			capital = 416
@@ -952,9 +952,9 @@ country = {
 		}
 
 		HAD = { #Haudenosaunee
-			government = league_republic
+			government = haudenosaunee_republic
 			primary_culture = haudenosaunee
-			religion = catholic
+			religion = gaiwiio
 			capital = 612
 
 			technology={
@@ -966,7 +966,7 @@ country = {
 
 			own_control_core = {
 				612 2480 613 615 7053 7054 5776 614 5777 6054 2477 2479 2478
-				7052 6055 6056 6057 3373 9489 3372
+				7052 6055 6056 6057 3373 9489 3372 11619 7874 7023 11617 2147 8593 8591 6851 6850 7021
 			}
 		}
 
@@ -984,8 +984,7 @@ country = {
 			}
 
 			own_control_core = {
-				6678 6680 6679 6681 9421 9420 7971 3469 6539 6537 2697 2698 2699 4921 7971 4923 4922
-				7968 1692 204 203 7032 7031
+				6678 6539 3469 3470 5713 5712 3471 6538
 			}
 		}
 
@@ -1003,7 +1002,7 @@ country = {
 			}
 
 			own_control_core = {
-				6853 3104 3105 1759 6852 6850 6851 3103 5618 5191 5193
+				6853 3104 3105 1759 6852 3103 5618 5191 5193
 			}
 		}
 		
@@ -1165,7 +1164,7 @@ country = {
 			}
 
 			own_control_core = {
-				739 740 7875 7874 2147 8926
+				739 740 7875 8926
 			}
 		}
 
@@ -1622,7 +1621,7 @@ country = {
 			government = tribal_federation
 			primary_culture = deitsch
 			religion = old_order
-			capital = 7723
+			capital = 7721
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1632,31 +1631,32 @@ country = {
 			}
 
 			own_control_core = {
-				7723 7721 1062 2094 2096 2095 2097 7722
+				7721 1062 2094 2096 2095 2097 7722
 			}
 		}
 		HSY = { #Hershey
-			government = tribal_federation
-			primary_culture = deitsch
-			religion = old_order
-			capital = 3240
+			government = theocratic_monarchy
+			primary_culture = susquehannan
+			religion = fissionist
+			capital = 7723
 
 			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
 			}
 
 			own_control_core = {
-				3240 3239 3285 3286 8637
+				7723 3240 3285 3286 3241 9331 3239 8637
+				9333 9332 3287
 			}
 		}
-		WMS = { #Williamsport
+		WMS = { #Mohawk
 			government = tribal_federation
-			primary_culture = deitsch
-			religion = old_order
-			capital = 9332
+			primary_culture = haudenosaunee
+			religion = gaiwiio 
+			capital = 3599
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1666,7 +1666,7 @@ country = {
 			}
 
 			own_control_core = {
-				9332 3287 9333 5459 9331
+				2256 2255 2599 2254 3601 3600 1769 3599
 			}
 		}
 		WHR = { #Wheelersburg
@@ -2180,7 +2180,7 @@ country = {
 			}
 
 			own_control_core = {
-				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967 2254 3599
+				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967
 				1744 477 476
 			}
 		}
@@ -2279,6 +2279,57 @@ country = {
 
 			own_control_core = {
 				8303 8305 8304 9507 6472
+			}
+		}
+		STW = { #St. Lawrence
+			government = despotic_monarchy
+			primary_culture = upstater
+			religion = catholic
+			capital = 9362
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9362 9361 9360 5619 5620 5192
+			}
+		}
+		ADI = { #Adirondack
+			government = tribal_kingdom
+			primary_culture = upstater
+			religion = clairvoyant
+			capital = 1770
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1770 1768 2313 2314 2312
+			}
+		}
+		CMP = { #Champlain
+			government = despotic_monarchy
+			primary_culture = vermonter
+			religion = ursuline
+			capital = 7826
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7826 7825 1101 1100 
 			}
 		}
 	}

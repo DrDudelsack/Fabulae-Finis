@@ -53,7 +53,7 @@
 2478={ #Greece
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="gaiwiio"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 8591={ #Lockport
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -416,8 +416,8 @@
 
 8593={ #
 	terrain="hills"
-	culture="upstater"
-	religion="promethean"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0

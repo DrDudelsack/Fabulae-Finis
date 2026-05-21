@@ -326,7 +326,7 @@
 2254={ #
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="ursuline"
+	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -338,8 +338,8 @@
 
 2255={ #
 	terrain="farmland"
-	culture="montrealais"
-	religion="ursuline"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -351,8 +351,8 @@
 
 2256={ #
 	terrain="plains"
-	culture="montrealais"
-	religion="ursuline"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3599={ #
 	terrain="forest"
 	culture="haudenosaunee"
-	religion="ursuline"
+	religion="gaiwiio"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -377,8 +377,8 @@
 
 3600={ #
 	terrain="plains"
-	culture="upstater"
-	religion="ursuline"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -390,8 +390,8 @@
 
 3601={ #
 	terrain="forest"
-	culture="upstater"
-	religion="ursuline"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0

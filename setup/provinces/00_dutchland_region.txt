@@ -65,8 +65,8 @@
 
 3239={ #Lebanon
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -78,8 +78,8 @@
 
 3240={ #Hershey
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -91,8 +91,8 @@
 
 3241={ #Lancaster
 	terrain="farmland"
-	culture="youser"
-	religion="americanist"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -104,8 +104,8 @@
 
 3285={ #Shamokin
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -117,8 +117,8 @@
 
 3286={ #Pottsville
 	terrain="plains"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -130,8 +130,8 @@
 
 3287={ #Bloomsburg
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -156,8 +156,8 @@
 
 3668={ #York
 	terrain="plains"
-	culture="beltway"
-	religion="americanist"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -338,7 +338,7 @@
 
 7722={ #Hanover
 	terrain="farmland"
-	culture="deitsch"
+	culture="beltway"
 	religion="old_order"
 	trade_goods="honey"
 	civilization_value=10
@@ -351,8 +351,8 @@
 
 7723={ #Harrisburg
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -390,7 +390,7 @@
 
 8637={ #
 	terrain="hills"
-	culture="deitsch"
+	culture="susquehannan"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
@@ -429,8 +429,8 @@
 
 9331={ #Sunbury
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -442,8 +442,8 @@
 
 9332={ #Williamsport
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -455,8 +455,8 @@
 
 9333={ #Lockhaven
 	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
+	culture="susquehannan"
+	religion="fissionist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

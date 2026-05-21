@@ -27,7 +27,7 @@
 612={ #
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 613={ #
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 614={ #
 	terrain="forest"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 615={ #
 	terrain="forest"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -247,8 +247,8 @@
 
 1769={ #
 	terrain="hills"
-	culture="upstater"
-	religion="ursuline"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2480={ #
 	terrain="forest"
 	culture="upstater"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 3104={ #Hastings
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5192={ #
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5776={ #
 	terrain="hills"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 5777={ #
 	terrain="hills"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 6054={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -663,7 +663,7 @@
 
 6056={ #
 	terrain="hills"
-	culture="upstater"
+	culture="pocono"
 	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 6057={ #
 	terrain="hills"
-	culture="upstater"
+	culture="pocono"
 	religion="catholic"
 	trade_goods="fruits"
 	civilization_value=10
@@ -780,8 +780,8 @@
 
 6850={ #Pompey
 	terrain="plains"
-	culture="upstater"
-	religion="galvanist"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 6851={ #Camillus
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="gaiwiio"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 7053={ #
 	terrain="hills"
 	culture="haudenosaunee"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 9360={ #
 	terrain="hills"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="catholic"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -1001,7 +1001,7 @@
 
 9361={ #
 	terrain="plains"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10
@@ -1067,7 +1067,7 @@
 9489={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="gaiwiio"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0

@@ -104,6 +104,9 @@
 
  midewiwin:0 "Midewiwin"
  desc_midewiwin:0 "Midewiwin, or the "Spiritual Mystery", is the traditional religion of many Native American groups in the Great Lakes area and beyond. Followers of Midewiwin believe that the Event, or the "Seventh Fire", marked the start of a new era for Native Americans across North America, a time for reclamation of both land and spirituality. The center of Midewiwin practice is the "medicine lodge", where initiated priests conduct rites of ceremony and passage for their people."
+ 
+ gaiwiio:0 "Gai'wiio"
+ desc_gaiwiio:0 "The Longhouse religion or Gai'wiio, meaning 'good message', was founded by the Seneca prophet Handsome Lake in 1799. Preaching a distinctive moral code which combined Christian Quaker values with traditional practices, the faith spread gradually among the Haudenosaunee peoples, at one point comprising nearly half of the group before the Event. Twice a year, the Gai'wiio is publicly proclaimed in an elaborate ceremony resembling Christian revival meetings."
 
  ## Peyotist ##
 
@@ -124,6 +127,9 @@
  
  aphite:0 "Aphite"
  desc_aphite:0 ""Whilst Atomicists believe Atomos is behind everything, Aphites believe that Atomos is a flawed deity with many aspects that have their own independent power. Whilst possessing a hierarchical church structure that is said to have stemmed 'from the Old World itself', Aphites are known for their increased zeal and societal strictness in adhering to their plan. They are known to view Atomos's aspects as gods, omitting the radiant figures of Radia, Plutonis, and Uranus from the Pantheon in favor of Plumbus and Graphis."
+
+ fissionist:0 "Fissionist"
+ desc_fissionist:0 "Fissionists believe in the divine power of Atomos, the most powerful force of Industry. It was through the channeling of Atomos into holy engines called Reactors, that the Atomic Age was maintained. Fissionists study the works of Scientists, those enlightened individuals who knew and understood the power of Atomos, and how to use her power, in the hopes that a new Atomic Age can be achieved."
 
  ## Seasprayer ##
  fogsong:0 "Fogsong"
