@@ -879,7 +879,7 @@ country = {
 
 		
 		CIN = { # Cincinatti
-			government = military_dictatorship
+			government = stratocratic_monarchy
 			primary_culture = butternutter
 			religion = americanist
 			capital = 416
@@ -952,7 +952,7 @@ country = {
 		}
 
 		HAD = { #Haudenosaunee
-			government = league_republic
+			government = haudenosaunee_republic
 			primary_culture = haudenosaunee
 			religion = gaiwiio
 			capital = 612
@@ -984,8 +984,7 @@ country = {
 			}
 
 			own_control_core = {
-				6678 6680 6679 6681 9421 9420 7971 3469 6539 6537 2697 2698 2699 4921 7971 4923 4922
-				7968 1692 204 203 7032 7031
+				6678 6539 3469 3470 5713 5712 3471 6538
 			}
 		}
 
@@ -1649,7 +1648,7 @@ country = {
 			}
 
 			own_control_core = {
-				7723 3240 3285 3286 8367 3241 9331 3239 8637
+				7723 3240 3285 3286 3241 9331 3239 8637
 				9333 9332 3287
 			}
 		}
@@ -2280,6 +2279,57 @@ country = {
 
 			own_control_core = {
 				8303 8305 8304 9507 6472
+			}
+		}
+		STW = { #St. Lawrence
+			government = despotic_monarchy
+			primary_culture = upstater
+			religion = catholic
+			capital = 9362
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9362 9361 9360 5619 5620 5192
+			}
+		}
+		ADI = { #Adirondack
+			government = tribal_kingdom
+			primary_culture = upstater
+			religion = clairvoyant
+			capital = 1770
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1770 1768 2313 2314 2312
+			}
+		}
+		CMP = { #Champlain
+			government = despotic_monarchy
+			primary_culture = vermonter
+			religion = ursuline
+			capital = 7826
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7826 7825 1101 1100 
 			}
 		}
 	}

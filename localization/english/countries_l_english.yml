@@ -36,10 +36,10 @@
  BOS_ADJ:0 "Yankee"
  NWL:0 "New London"
  NWL_ADJ:0 "Yankee"
- HAD:0 "Seven Nations Confederacy"
+ HAD:0 "Seven Nations"
  HAD_ADJ:0 "Haudenosaunee"
- HUD:0 "Hudson Valley"
- HUD_ADJ:0 "Hudsonian"
+ HUD:0 "Albany"
+ HUD_ADJ:0 "Albanian"
  SRY:0 "Syracuse"
  SRY_ADJ:0 "Syracusan"
  OTG:0 "Otsego"
@@ -64,6 +64,12 @@
  VMT_ADJ:0 "Vermonter"
  NHM:0 "Concord"
  NHM_ADJ:0 "Concordian"
+ STW:0 "St. Lawrence"
+ STW_ADJ:0 "Upstater"
+ ADI:0 "Adirondack"
+ ADI_ADJ:0 "Adirondacker"
+ CMP:0 "Champlain"
+ CMP_ADJ:0 "Champlainer"
  
 
  ## Midwest ##
