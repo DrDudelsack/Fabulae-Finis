@@ -1,11 +1,12 @@
 ﻿#ONLY for heritages with a specific tag(list) as trigger
 new_orleans_heritage = {
-   	modifier = {
-        #good
-        global_export_commerce_modifier = 0.05
-        global_freemen_happyness = 0.08
-       #bad
-        monthly_corruption = 0.04
+   modifier = {
+      #good
+      global_export_commerce_modifier = 0.05
+      global_freemen_happyness = 0.08
+
+      #bad
+      monthly_corruption = 0.04
    }
 
    trigger = {
@@ -13,15 +14,90 @@ new_orleans_heritage = {
 	}
 }
 kentucky_heritage = {
-   	modifier = {
-        #good
-       army_maintenance_cost = -0.15   
-       hills_combat_bonus = 0.10 
-       #bad
-        happiness_for_wrong_culture_modifier = -0.03
+   modifier = {
+      #good
+      army_maintenance_cost = -0.15   
+      hills_combat_bonus = 0.10 
+
+      #bad
+      happiness_for_wrong_culture_modifier = -0.03
    }
 
    trigger = {
       tag = KNY
 	}
+}
+
+#Georgia
+athens_heritage = {
+   modifier = {
+      #good
+      research_points_modifier = 0.1
+      price_state_investment_civic_cost_modifier = -0.1
+
+      #bad
+      army_maintenance_cost = 0.1
+   }
+
+   trigger = {
+      tag = ATH
+   }
+}
+sparta_heritage = {
+   modifier = {
+      #good
+      build_time = -0.2
+      enslavement_efficiency = 0.1
+
+      #bad
+      global_slaves_happyness = -0.10
+   }
+
+   trigger = {
+      tag = SPA
+   }
+}
+savannah_heritage = {
+   modifier = {
+      #good
+      ship_repair_at_sea = 0.02
+      marsh_combat_bonus = 0.10
+
+      #bad
+      happiness_for_wrong_culture_modifier = -0.04
+   }
+
+   trigger = {
+      tag = GUL
+   }
+}
+
+#Missouri
+truman_heritage = {
+   modifier = {
+      #good
+      global_tax_modifier = 0.1
+      religious_tech_investment = 0.1
+
+      #bad
+      global_population_growth = -0.03
+   }
+
+   trigger = {
+      tag = TRU
+   }
+}
+como_heritage = {
+   modifier = {
+      #good
+      research_points_modifier = 0.1
+      global_monthly_civilization = 0.03
+
+      #bad
+      monthly_tyranny = 0.03
+   }
+
+   trigger = {
+      tag = CMO
+   }
 }
