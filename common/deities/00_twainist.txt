@@ -1,5 +1,6 @@
 ﻿deity_twain = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -24,6 +25,7 @@
 }
 deity_muir = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -48,6 +50,7 @@ deity_muir = {
 }
 deity_columbia = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -75,6 +78,7 @@ deity_columbia = {
 }
 deity_mississippi = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -102,6 +106,7 @@ deity_mississippi = {
 }
 deity_whitman = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -126,6 +131,7 @@ deity_whitman = {
 }
 deity_the_comet = { # Inspired by Halley's Coment and Mark Twain's birth and death on the passing of that comet, + general notions about comets as omens
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -150,6 +156,7 @@ deity_the_comet = { # Inspired by Halley's Coment and Mark Twain's birth and dea
 }
 deity_the_pilot = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -174,6 +181,7 @@ deity_the_pilot = {
 }
 deity_the_king = {
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -198,6 +206,7 @@ deity_the_king = {
 }
 deity_the_yankee = { #based off of the character Hank Morgan from “A Connecticut Yankee in King Arthur’s Court” by Mark Twain
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -222,6 +231,7 @@ deity_the_yankee = { #based off of the character Hank Morgan from “A Connectic
 }
 deity_sawyer = { # Tom Sawyer and Huckleberry Finn
 	trigger = {
+		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist

@@ -1,0 +1,24 @@
+deity_manager = {
+    deities_database = { ### KEYS 900 - 999 ###
+		900 = {
+			key = omen_shakwayatisu #Great Creator
+			deity = deity_shakwayatisu
+		}
+		901 = {
+			key = omen_skanatalihyo #Handsome Lake
+			deity = deity_skanatalihyo
+		}
+		902 = {
+			key = omen_four_messengers
+			deity = deity_four_messengers
+		}
+		903 = {
+			key = omen_he_no
+			deity = deity_he_no
+		}
+		904 = {
+			key = omen_cornplanter
+			deity = deity_cornplanter
+		}
+	}
+}

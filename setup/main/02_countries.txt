@@ -146,14 +146,14 @@ country = {
 			}
 
 			own_control_core = {
-				481
+				481 479
 			}
 		}
-		PAT = {
+		PAT = { #Catskills
 			government = democratic_republic
-			primary_culture = gothamite
+			primary_culture = hudsonian
 			religion = americanist
-			capital = 479
+			capital = 6681
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -163,7 +163,7 @@ country = {
 			}
 
 			own_control_core = {
-				479 7969 7970
+				6681 6679 203 9421 1691 9420 1692 
 			}
 		}
 		VIN = { #Old Dominion
@@ -364,7 +364,7 @@ country = {
 			}
 		}
 		CMO = { #Como
-			government = dictatorship
+			government = aristocratic_monarchy
 			primary_culture = gatewayan
 			religion = lutheran
 			capital = 8644
@@ -468,6 +468,7 @@ country = {
 			own_control_core = {
 				3874 5446 #como_area
 				5447 #terre_haute_area
+				6798
 			}
 		}
 		SFM = { #Springmo
@@ -768,7 +769,7 @@ country = {
 			}
 		}
 		GUL = { # Savannah
-			government = plutocratic_republic
+			government = league_republic
 			primary_culture = gullah
 			religion = evangelical
 			capital = 1868
@@ -955,7 +956,7 @@ country = {
 			government = haudenosaunee_republic
 			primary_culture = haudenosaunee
 			religion = gaiwiio
-			capital = 612
+			capital = 2480
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -964,13 +965,20 @@ country = {
 				oratory_tech= { level=2 progress =0 }
 			}
 
+			poptype_rights = {
+					{
+					culture = upstater
+					type = citizen
+				}
+			}
+
 			own_control_core = {
 				612 2480 613 615 7053 7054 5776 614 5777 6054 2477 2479 2478
 				7052 6055 6056 6057 3373 9489 3372 11619 7874 7023 11617 2147 8593 8591 6851 6850 7021
 			}
 		}
 
-		HUD = { #Hudson Valley
+		HUD = { #Albany
 			government = aristocratic_monarchy
 			primary_culture = hudsonian
 			religion = ursuline
@@ -984,7 +992,7 @@ country = {
 			}
 
 			own_control_core = {
-				6678 6539 3469 3470 5713 5712 3471 6538
+				6678 6539 3469 3470 5713 5712 3471 6538 6680 204 2697 6537
 			}
 		}
 
@@ -1020,7 +1028,7 @@ country = {
 			}
 
 			own_control_core = {
-				8565 9488 9490 1690 8566 1691
+				8565 9488 9490 1690 8566 
 			}
 		}
 
@@ -1038,7 +1046,7 @@ country = {
 			}
 
 			own_control_core = {
-				5239 5240 3425 3426 5238
+				5239 5240 3425 3426 5238 7031 
 			}
 		}
 
@@ -1092,7 +1100,7 @@ country = {
 			}
 
 			own_control_core = {
-				2905 1072 1071 2906 1073 2907 3485 3486
+				2905 1072 1071 2906 1073 2907 3485 3486 7032
 			}
 		}
 
@@ -1352,7 +1360,7 @@ country = {
 		ALX = { #Alexandria
 			government = tribal_kingdom
 			primary_culture = minnesotan
-			religion = heartful #viking
+			religion = viking
 			capital = 8648
 
 			technology={
@@ -1656,7 +1664,7 @@ country = {
 			government = tribal_federation
 			primary_culture = haudenosaunee
 			religion = gaiwiio 
-			capital = 3599
+			capital = 3600
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1666,7 +1674,7 @@ country = {
 			}
 
 			own_control_core = {
-				2256 2255 2599 2254 3601 3600 1769 3599
+				2256 2255 2254 3601 3600 1769 3599
 			}
 		}
 		WHR = { #Wheelersburg
@@ -2330,6 +2338,23 @@ country = {
 
 			own_control_core = {
 				7826 7825 1101 1100 
+			}
+		}
+		CRT = { # Hudson Valley
+			government = aristocratic_monarchy
+			primary_culture = hudsonian
+			religion = americanist
+			capital = 4922 
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4922 7970 7968 7971 4921 4923 7969 2698 2699
 			}
 		}
 	}

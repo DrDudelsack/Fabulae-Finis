@@ -26,8 +26,8 @@
  NWK_ADJ:0 "Newarkite"
  HAK:0 "Hackensack"
  HAK_ADJ:0 "Hackensian"
- PAT:0 "Paterson"
- PAT_ADJ:0 "Patersonian"
+ PAT:0 "Catskills"
+ PAT_ADJ:0 "Catskillite"
  VIN:0 "Old Dominion"
  VIN_ADJ:0 "Virginian"
  VMI:0 "Virginia Military Institute"
@@ -70,6 +70,9 @@
  ADI_ADJ:0 "Adirondacker"
  CMP:0 "Champlain"
  CMP_ADJ:0 "Champlainer"
+ CRT:0 "Hudson Valley"
+ CRT_ADJ:0 "Hudsonian"
+ 
  
 
  ## Midwest ##

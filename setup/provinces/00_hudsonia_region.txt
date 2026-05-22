@@ -25,15 +25,24 @@
 }
 
 612={ #
-	terrain="plains"
+	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -42,11 +51,20 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -55,11 +73,20 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -68,11 +95,20 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -311,16 +347,43 @@
 }
 
 2480={ #
-	terrain="forest"
+	terrain="farmland"
 	culture="upstater"
 	religion="gaiwiio"
-	trade_goods="cattle"
-	civilization_value=10
+	trade_goods="fur"
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		culture="haudenosaunee"
+		amount=2
+	}
+	citizen={
+		culture="haudenosaunee"
+		amount=2
+	}
+	citizen={
 		amount=1
 	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="haudenosaunee"
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		culture="haudenosaunee"
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+	holy_site=omen_skanatalihyo
 }
 
 2697={ #
@@ -379,7 +442,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,7 +572,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +624,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -614,11 +677,20 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -627,11 +699,22 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -640,11 +723,18 @@
 	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="haudenosaunee"
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -653,11 +743,24 @@
 	culture="upstater"
 	religion="catholic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		amount=2
+	}
+	freemen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -666,11 +769,24 @@
 	culture="pocono"
 	religion="catholic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -679,11 +795,24 @@
 	culture="pocono"
 	religion="catholic"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -783,11 +912,24 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="upstater"
+		amount=2
+	}
+	freemen={
 		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -847,12 +989,25 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="maize"
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -861,11 +1016,20 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -874,11 +1038,24 @@
 	culture="upstater"
 	religion="catholic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -1016,7 +1193,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -27,6 +27,8 @@ kentucky_heritage = {
       tag = KNY
 	}
 }
+
+#New York
 seven_nations_heritage = {
    	modifier = {
         #good
@@ -38,6 +40,19 @@ seven_nations_heritage = {
 
    trigger = {
           tag = HAD
+     }
+}
+mohawk_heritage = {
+   modifier = {
+      #good
+      discipline = 0.05
+      enslavement_efficiency = 0.10
+      #bad
+      diplomatic_reputation = -3
+   }
+
+   trigger = {
+          tag = WMS
      }
 }
 

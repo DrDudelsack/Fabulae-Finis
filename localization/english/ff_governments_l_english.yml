@@ -74,6 +74,8 @@
  aristocratic_republic_galvanist:0 "Foreman"
  oligarchic_republic_ruler_galvanist:0 "Foreman"
 
+ aristocratic_monarchy_ruler_CMO:0 "President-Chancellor"
+
  imperium_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?
  federal_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?
  

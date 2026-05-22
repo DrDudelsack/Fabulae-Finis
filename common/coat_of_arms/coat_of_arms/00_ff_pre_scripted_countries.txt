@@ -997,7 +997,7 @@ TUC = { #Tucson
 	}
 }
 
-HUD = { #Hudson Valey
+CRT = { #Hudson Valey
 	pattern = "pattern_solid.tga"
 	color1 = rgb { 145 30 49 }
 	color2 = rgb { 28 94 164 }
@@ -1073,6 +1073,17 @@ HAD = { # Seven Nations
 		color1 = "offwhite"
 		color2 = "ck2_red"
 		instance = { scale = { 1.0 1.0 } }
+	}
+}
+
+WMS = { # Mohawk
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 173 16 38 }
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_star_mohawk.dds"
+		color1 = "roman_gold"
+		instance = { scale = { 1.1 1.1 } }
 	}
 }
 

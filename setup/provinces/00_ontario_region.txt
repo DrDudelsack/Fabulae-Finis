@@ -340,7 +340,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,12 +678,31 @@
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="earthware"
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		culture="haudenosaunee"
+		amount=2
+	}
+	citizen={
+		culture="haudenosaunee"
+		amount=2
+	}
+	freemen={
+		culture="haudenosaunee"
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		culture="haudenosaunee"
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 

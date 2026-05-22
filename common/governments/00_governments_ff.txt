@@ -100,6 +100,7 @@ haudenosaunee_republic = { #Haudenosaunee Confederacy
 	
 	bonus = {
 		global_nobles_happyness = output_huge_svalue
+		subject_loyalty = 10
 		monthly_party_approval = 0.10
 	}
 	base = {

@@ -770,5 +770,5 @@ maize = { #Maize
 	country = {
 		global_population_capacity_modifier = 0.05
 	}
-	color = hsv { 0.16 0.8 0.5 }
+	color = rgb { 168 134 12 }
 }

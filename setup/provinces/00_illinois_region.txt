@@ -54,7 +54,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods="grain"
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -119,7 +119,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="farmland"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -595,7 +595,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -764,7 +764,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

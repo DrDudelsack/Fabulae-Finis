@@ -236,7 +236,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1062,7 +1062,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

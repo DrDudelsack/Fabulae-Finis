@@ -41,7 +41,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="gaiwiio"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

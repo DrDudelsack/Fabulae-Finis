@@ -448,7 +448,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="grain"
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

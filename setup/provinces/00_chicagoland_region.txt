@@ -814,7 +814,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
