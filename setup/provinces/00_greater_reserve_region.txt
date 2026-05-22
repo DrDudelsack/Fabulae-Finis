@@ -183,7 +183,7 @@
 5272={ #
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="fissionist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

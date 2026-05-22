@@ -27,7 +27,7 @@
 2007={ #
 	terrain="plains"
 	culture="yinzic"
-	religion="promethean"
+	religion="fissionist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -260,7 +260,7 @@
 
 5460={ #
 	terrain="forest"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="maple"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 5461={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -287,7 +287,7 @@
 5462={ #
 	terrain="hills"
 	culture="yinzic"
-	religion="sustainablist"
+	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -299,8 +299,8 @@
 
 5463={ #
 	terrain="hills"
-	culture="yinzic"
-	religion="sustainablist"
+	culture="susquehannan"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -274,7 +274,7 @@
 3434={ #
 	terrain="plains"
 	culture="atlantean"
-	religion="evangelical"
+	religion="scottish_rite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 3817={ #
 	terrain="plains"
 	culture="atlantean"
-	religion="evangelical"
+	religion="scottish_rite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 3818={ #
 	terrain="plains"
 	culture="atlantean"
-	religion="evangelical"
+	religion="scottish_rite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 3819={ #
 	terrain="plains"
 	culture="atlantean"
-	religion="evangelical"
+	religion="scottish_rite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 3820={ #
 	terrain="plains"
 	culture="atlantean"
-	religion="evangelical"
+	religion="scottish_rite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 6498={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="scottish_rite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

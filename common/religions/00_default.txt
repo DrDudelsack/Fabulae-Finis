@@ -92,18 +92,6 @@ united_church = { # United Church
 	sacrifice_icon = sacrifice_united_church
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
-unitarian_universialism = { # Unitarian Universialism
-	color = rgb { 238 44 82 }
-	modifier = {
-		happiness_for_wrong_culture_group_modifier = 0.03
-		happiness_for_wrong_religion_modifier = 0.03
-		omen_power = -0.10
-	}
-	religion_category = sages
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_incense
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
-}
 colossalist = { # Colossalist
 	color = rgb { 46 15 81 }
 	modifier = {
@@ -616,6 +604,31 @@ capitalist = { # Capitalist
 
 	}
 	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+##Universal
+unitarian_universialism = { # Unitarian Universialism
+	color = rgb { 238 44 82 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		happiness_for_wrong_religion_modifier = 0.03
+		omen_power = -0.10
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+scottish_rite = { # Scottish Rite 
+	color = { 142 100 54 }
+	modifier = {
+		character_loyalty = 3
+		global_citizen_output = 0.05
+		monthly_political_influence_modifier = -0.05
+	}
+	religion_category = sages
+	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

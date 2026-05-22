@@ -382,8 +382,8 @@
 	tribesmen={
 		amount=2
 	}
-	port_building=1
 	holy_site=omen_skanatalihyo
+	port_building=1
 }
 
 2697={ #
@@ -428,7 +428,7 @@
 3103={ #Lysander
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="fissionist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -545,7 +545,7 @@
 4922={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="americanist"
+	religion="fissionist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0

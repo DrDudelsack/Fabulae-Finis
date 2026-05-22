@@ -651,7 +651,7 @@
 5719={ #
 	terrain="plains"
 	culture="motowner"
-	religion="promethean"
+	religion="fissionist"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0

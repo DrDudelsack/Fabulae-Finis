@@ -1,7 +1,7 @@
 ﻿111={ #Benton Harbor
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="fissionist"
 	trade_goods=""
 	civilization_value=18
 	barbarian_power=0
@@ -640,7 +640,7 @@
 8756={ #Dekalb
 	terrain="plains"
 	culture="chicagoan"
-	religion="catholic"
+	religion="fissionist"
 	trade_goods=""
 	civilization_value=18
 	barbarian_power=0

@@ -144,7 +144,7 @@
 1729={ #
 	terrain="forest"
 	culture="appalachian"
-	religion="omenteller"
+	religion="fissionist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
