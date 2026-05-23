@@ -120,5 +120,37 @@ deity_manager = {
 			key = omen_titan_eisenhower
 			deity = deity_titan_eisenhower
 		}
+		430 = {
+			key = omen_prometheus
+			deity = deity_prometheus
+		}
+		431 = {
+			key = omen_nrc
+			deity = deity_nrc
+		}
+		432 = {
+			key = omen_fission
+			deity = deity_fission
+		}
+		433 = {
+			key = omen_curie
+			deity = deity_curie
+		}
+		434 = {
+			key = omen_einstein
+			deity = deity_einstein
+		}
+		435 = {
+			key = omen_manhattan
+			deity = deity_manhattan
+		}
+		436 = {
+			key = omen_doomsday 
+			deity = deity_doomsday 
+		}
+		437 = {
+			key = omen_democritus
+			deity = deity_democritus
+		}
 	}
 }

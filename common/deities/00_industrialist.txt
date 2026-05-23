@@ -36,6 +36,9 @@ deity_industry = {
 			common_deity_trigger = {
 				RELIGION = galvanist
 			}
+			common_deity_trigger = {
+				RELIGION = fissionist
+			}
 			deity:omen_industry = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -867,5 +870,207 @@ deity_titan_eisenhower = {
 
 	on_activate = {
 		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+## Fissionist ##
+deity_fission = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_fission = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_monthly_civilization = omen_global_monthly_civilization_svalue }
+	omen = { global_population_growth = omen_global_population_growth }
+	religion = fissionist
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_income_effect = yes
+	}
+}
+deity_prometheus = {  # J. Robert Oppenheimer
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_prometheus = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_freemen_output = deity_global_freemen_output_svalue }
+	omen = { monthly_tyranny = omen_monthly_tyranny_svalue }
+	religion = fissionist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+}
+deity_doomsday = { # The stupid Doomsday clock and MAD
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_doomsday = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { agressive_expansion_monthly_change = deity_aggressive_expansion_monthly_change_svalue }
+	omen = { build_cost = omen_build_cost_svalue }
+	religion = fissionist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_nrc = { #Nrc 'Nuclear Regulatory Comission'
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_nrc = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { stability_monthly_change = deity_stability_monthly_change }
+	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
+	religion = fissionist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_noble_effect = yes
+	}
+}
+deity_einstein = { # Albert Einstein
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_einstein = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { religious_tech_investment = deity_religious_tech_investment_svalue }
+	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
+	religion = fissionist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+}
+deity_curie = { #Marie Curie
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_curie = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_defensive = omen_global_defensive_svalue } #Bonus from Omen
+	religion = fissionist
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_capital_freemen_effect = yes
+    }
+
+}
+deity_manhattan = { # The Manhattan Project and Fat Man and Little Boy
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_manhattan = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { agressive_expansion_impact = deity_aggressive_expansion_impact_svalue }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = fissionist
+	deity_category = war 
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+}
+deity_democritus = { #Democritus, ancient greek philosopher
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_democritus = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { research_points_modifier = deity_research_points_modifier_svalue }
+	omen = { civic_tech_investment = omen_civic_tech_investment_svalue } #Bonus from Omen
+	religion = fissionist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
 	}
 }

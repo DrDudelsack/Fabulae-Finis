@@ -7,6 +7,7 @@
  deity_industry:0 "$omen_industry$"
  omen_industry:0 "Industry"
  omen_industry_desc:0 "#Y Industrialist Force#!\n\nThe principal deity of the Industrialist pantheon, Industry is one of the Natural Forces.  However, through sacred rituals and practices, it can be refined into a God. These rituals must be maintained though, otherwise Industry will rust and lose its divinity. While a god, Industry often shares its powers with the people who serve it, offering great prosperity and making their labors easier.  The most devoted were often granted godhood themselves, transformed into Titans of Industry."
+ omen_industry_desc_fissionist:0 "#Y Industrialist Force#!\n\nIndustry is one of the primary Natural Forces, along with Fission. Industry is powerful in it's own right, but when utilized with Fission, it becomes something to be reckoned with. Many Scientists consider Fission and Industry to be intertwined for this reason."
 
  deity_rockefeller:0 "$omen_rockefeller$"
  omen_rockefeller:0 "Titan Rockefeller"
@@ -119,3 +120,36 @@
  deity_kaiser:0 "$omen_kaiser$"
  omen_kaiser:0 "Titan Kaiser"
  omen_kaiser_desc:0 "#Y Arsenalist Titan#!\n\nTitan Kaiser was a famed shipwright of the Gilded Age. Under his leadership and the blessing of Industry, a massive ship could be built faster than an enemy could sink it."
+
+ ## Fissionist ##
+ deity_fission:0 "$omen_fission$"
+ omen_fission:0 "Fission"
+ omen_fission_desc:0 "#Y Fissionist Force#!\n\nIt is said that Fission flows through all things, from plants and animals, to man, and the land and sky that surround us. When uncontrolled, it can be a destructive force, known to have leveled entire cities. But with a guiding hand, Fission can create prosperity the likes of which cannot be compared to anything else."
+
+ deity_prometheus:0 "$omen_prometheus$"
+ omen_prometheus:0 "Prometheus"
+ omen_prometheus_desc:0 "#Y Fissionist Scientist#!\n\nRegarded as the first Scientist, Prometheus taught Man the gift of Fission and how to harness it. Fearing the power of Fission, the corrupt Robber Barons of the Gilded Age killed him. His memory and gift lives on through the teachings of the Scientists, deities who used the power of Fission to bring about the Atomic Age."
+ 
+ deity_manhattan:0 "$omen_manhattan$"
+ omen_manhattan:0 "Scientist Manhattan"
+ omen_manhattan_desc:0 "#Y Fissionist Scientist#!\n\nDuring the Great War of the Atomic Age, Scientist Manhattan used the destructive nature of Fission to create a device of unbelievable destruction named 'The Bomb'. The Bomb was used to destroy the last holdout of the Robber Barons, bringing an end to the conflict."
+
+ deity_einstein:0 "$omen_einstein$"
+ omen_einstein:0 "Scientist Einstein"
+ omen_einstein_desc:0 "#Y Fissionist Force#!\n\nA great scholar, Scientist Einstein dedicated his life to researching the mysteries of Fission and Atomos."
+
+ deity_nrc:0 "$omen_nrc$"
+ omen_nrc:0 "Scientist Nrc"
+ omen_nrc_desc:0 "#Y Fissionist Scientist#!\n\nNrc, or the Great Regulator is the one who controls Fission's unparalleled power, keeping it from going Critical. Without her regulatory oversight, Fission would become unmanageable, and become a destructive force rather then a beneficial one."
+
+ deity_curie:0 "$omen_curie$"
+ omen_curie:0 "Scientist Curie"
+ omen_curie_desc:0 "#Y Fissionist Scientist#!\n\nScientist Curie sacrificed her life in order to discover safe ways to handle Atomos, so that Fission may be achieved."
+
+ deity_doomsday:0 "$omen_doomsday$"
+ omen_doomsday:0 "Doomsday"
+ omen_doomsday_desc:0 "#Y Fissionist Force#!\n\nA prophet sent by Atomos, Doomsday warned humanity against neglecting the holy Reactors. Each time mankind inched closer to their until destruction, he moved the hand of his massive clock, counting down to twelve.However his message was not heeded, ending the Atomic Age, and the world was cleansed in nuclear fire." 
+
+ deity_democritus:0 "$omen_democritus$"
+ omen_democritus:0 "Scientist Democritus"
+ omen_democritus_desc:0 "#Y Fissionist Scientist#!\n\nAn ancient Scientist, Democritus lived in a period even before the Gilded Age. He was the first to propose the existence of Atomos, although many of his contemporaries disagreed with his ideas."
