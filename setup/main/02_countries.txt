@@ -766,6 +766,7 @@ country = {
 			own_control_core = {
 				1563 1045 1043 1044 7115 3435 3433 5795 5949 5948
 				7113 7114 7386 7385 5794 5796
+				894 893
 			}
 		}
 		GUL = { # Savannah
@@ -782,9 +783,10 @@ country = {
 			}
 
 			own_control_core = {
-				1863 1868 1869 8762 8763 8764 #savannah_area
+				1868 1869 8762 8763 8764 #savannah_area
 				6349 6350 6351 6352 #st_marys_area
 				3540 3541 6351 #charleston_sc_area
+				1781
 			}
 		}
 		COL = { # Columbus
@@ -823,6 +825,7 @@ country = {
 				1253 8701 #savannah_area
 				8700 8938 8939 #sparta_area
 				8117 8118 #lexington_sc_area
+				1780
 			}
 		}
 		MAC = { # Macon
@@ -858,6 +861,7 @@ country = {
 
 			own_control_core = {
 				2935 2936 2937 2938 5046 5797 5950 #athens_area
+				5947 5045
 			}
 		}
 		SPA = { # Sparta
@@ -1246,7 +1250,7 @@ country = {
 			}
 
 			own_control_core = {
-				8601 2064 4522 2728
+				8601 2064 4522
 			}
 		}
 
@@ -1828,7 +1832,7 @@ country = {
 			}
 
 			own_control_core = {
-				3365 8019 8602 2063 3367 5170 3877 5171 5172 3366 8020 8021 4358 3876
+				3365 8019 8602 2063 3367 5170 3877 5171 5172 3366 8020 8021 4358
 			}
 		}
 		GBY = { #Green Bay
@@ -1846,6 +1850,23 @@ country = {
 
 			own_control_core = {
 				3831 3829 3830 7026 7024 7025
+			}
+		}
+		LKK = { #Lakefront
+			government = tribal_kingdom
+			primary_culture = cheesehead
+			religion = viking
+			capital = 5121 
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5121 5124 4015 5124 4014 4016 5122 5123
 			}
 		}
 		YUP = { #Yoopland
@@ -2065,7 +2086,7 @@ country = {
 			capital = 6118
 
 			own_control_core = {
-				6118 5695 5692 5694 5693 2167 2168 6119 6120
+				6118 5695 5692 5694 5693 2167 2168 6119 6120 895
 			}
 		}
 		VMT = { # Vermont
@@ -2355,6 +2376,108 @@ country = {
 
 			own_control_core = {
 				4922 7970 7968 7971 4921 4923 7969 2698 2699
+			}
+		}
+		LWC = { # Lowcountry
+			government = aristocratic_monarchy
+			primary_culture = sandlapper
+			religion = evangelical
+			capital = 6547
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6547 3542 6545 6546 6673 6672 6674 7796 6544 2853 8318 2854 2856 2855 7795
+			}
+		}
+		UPC = { # Upcountry
+			government = aristocratic_monarchy
+			primary_culture = piedmontese
+			religion = evangelical
+			capital = 8986
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8986 5047 8989 8987 8986 1093 1091 1879 1877 1878 8988
+			}
+		}
+		MDC = { # Midcountry
+			government = aristocratic_monarchy
+			primary_culture = piedmontese
+			religion = evangelical
+			capital = 5456 
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5456 5454 5455 5453 1723 7794 7793 8316 8317 1365 1092 1364 1363 1094 1724
+			}
+		}
+		PDC = { # Piedmont Crescent
+			government = despotic_monarchy
+			primary_culture = piedmontese
+			religion = evangelical
+			capital = 2504
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2504 2503 4609 6686 6688 6687 3861 3863 3862 1896 2502 1894 2505 4611 4610 6980 6978
+			}
+		}
+		RAG = { # Raleigh
+			government = aristocratic_monarchy
+			primary_culture = piedmontese
+			religion = evangelical
+			capital = 7392
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7392 2042 1897 2043 3683 3685 3684 7389 7391 7390 8890 2044 4356 1893 
+			}
+		}
+		CPF = { # Cape Fear
+			government = despotic_monarchy
+			primary_culture = sandlapper
+			religion = evangelical
+			capital = 7992
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7992 7990 7989 7991 2727 2729 2726 2728 7993 7988 4357 3876 8889 6979 8888 8891 6981 1895
 			}
 		}
 	}

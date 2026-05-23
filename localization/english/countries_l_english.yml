@@ -197,6 +197,8 @@
  HAY_ADJ:0 "Chippewan"
  KAS:0 "Kansas"
  KAS_ADJ:0 "Kansan"
+ LKK:0 "Lakefront"
+ LKK_ADJ:0 "Lakefronter"
  
 
  ## South ##
@@ -254,6 +256,18 @@
  BLE_ADJ:0 "Appalachian"
  CNH:0 "Conch"
  CNH_ADJ:0 "Conchano"
+ LWC:0 "Lowcountry"
+ LWC_ADJ:0 "Lowlander"
+ UPC:0 "Upcountry"
+ UPC_ADJ:0 "Uplander"
+ MDC:0 "Midcountry"
+ MDC_ADJ:0 "Midlander"
+ PDC:0 "Piedmont Crescent"
+ PDC_ADJ:0 "Piedmontese"
+ RAG:0 "Raleigh"
+ RAG_ADJ:0 "Raleighan"
+ CPF:0 "Cape Fear"
+ CPF_ADJ:0 "Fearite"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
