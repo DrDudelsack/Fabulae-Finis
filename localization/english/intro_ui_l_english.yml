@@ -1,0 +1,15 @@
+﻿l_english:
+ # Nations With Missions Selection
+ countries_with_missions:0 "Countries with missions"
+ unique_mission_tree_tt:0 "This menu shows all countries with unique mission trees."
+ north_east:0 "North East" # Could do Canada and USA instead of North East and North West
+ north_west:0 "North West"
+ central:0 "Central America"
+ south_america:0 "South America"
+ new_missions:0 "New Missions"
+
+ # Nations With Missions Tooltips
+ presidency_start:0 "#T The United States#!\nDifficulty: #Y Easy#!\n\n" # Will set these to the custom heritage descriptions if we're doing those
+ atlanta_start:0 "#T Atlanta#!\nDifficulty: #Y Medium#!\n\n"
+ second_californian_republic_start:0 "#T Second Californian Republic#!\nDifficulty: #Y Easy#!\n\n"
+ new_california_republic_start:0 "#T The NCR#!\nDifficulty: #Y Easy#!\n\n"
