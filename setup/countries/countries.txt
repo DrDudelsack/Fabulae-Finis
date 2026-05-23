@@ -35,6 +35,9 @@ ADI = "setup/countries/east_coast/adirondack.txt"
 CMP = "setup/countries/east_coast/champlain.txt"
 CRT = "setup/countries/east_coast/cortlandt.txt"
 YNK = "setup/countries/east_coast/yankee.txt"
+SNH = "setup/countries/east_coast/shenandoah.txt"
+CLM = "setup/countries/east_coast/columbus.txt"
+DHY = "setup/countries/east_coast/dayton.txt"
 
 #Midwest
 IWA = "setup/countries/midwest/iowa.txt"

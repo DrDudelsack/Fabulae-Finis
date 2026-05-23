@@ -143,7 +143,7 @@
 
 2632={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 2633={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 2634={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 6147={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 6149={ #
 	terrain="plains"
-	culture="yinzic"
+	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
 	civilization_value=10

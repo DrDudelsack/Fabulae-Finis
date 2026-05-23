@@ -313,9 +313,9 @@ country = {
 			own_control_core = {
 				5271 7495 7496 7497 7498 8966 5273 3464
 				8743 8742 8744 6630 6629 6631 11658 6632 5274 5272
-				2954 2955 3462 11643 3463 6584 11657 3465 2956 11642
-				4275 9170 8970 8969 6585 3348 6583 6586
-				8613 8615 8616 8611 793 7840 8614 8612
+				2954 2955 3462 11643 3463 6584 11657 3465 11642
+				9170 3348
+				8613 8615 8616 8611 793 8614 8612
 				1522 1521 1523 8971 9169 9171 9168 5311
 			}
 		}
@@ -337,6 +337,7 @@ country = {
 				3776 3774 3773 3775 4013 4012 8967 8968 794
 				11652 11644 11646 4983 4984 3746 3745 5463 5460 5462
 				8592 8590 6595 2790 6593 6594 2791 5459
+				5461 5912 11656 
 			}
 		}
 		STL = { #St. Louis
@@ -897,7 +898,7 @@ country = {
 			}
 
 			own_control_core = {
-				416 414 11636 415
+				416 414 11636 415 2402
 			}
 		}
 
@@ -1661,7 +1662,7 @@ country = {
 			}
 
 			own_control_core = {
-				7721 1062 2094 2096 2095 2097 7722 7723 9331 9333
+				7721 1062 2094 2096 2095 2097 7722 7723 9331 9333 1060 1063
 			}
 		}
 		WMS = { #Mohawk
@@ -1695,7 +1696,24 @@ country = {
 			}
 
 			own_control_core = {
-				9549 9550 7839 7838 9551
+				9549 9550 7839 7838 9551 2956 7840 2403 
+			}
+		}
+		DHY = { #Dayton
+			government = tribal_kingdom
+			primary_culture = butternutter
+			religion = hearthtender
+			capital = 4276
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4276 4273 4274 8970 4275
 			}
 		}
 		WHY = { #Wheeling
@@ -2587,6 +2605,40 @@ country = {
 
 			own_control_core = {
 				7052 6055 6056 6057 2789
+			}
+		}
+		SNH = { #Shenandoah
+			government = tribal_kingdom
+			primary_culture = appalachian
+			religion = sustainablist
+			capital = 834
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				834 9250 835 679 678 9250 9249 8834 5913
+			}
+		}
+		CLM = { #Columbus
+			government = despotic_monarchy
+			primary_culture = buckeye
+			religion = galvanist
+			capital = 6585
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6585 6583 6586 8969 2406 2405 2404 
 			}
 		}
 	}

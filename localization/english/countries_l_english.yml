@@ -73,7 +73,9 @@
  CRT:0 "Hudson Valley"
  CRT_ADJ:0 "Hudsonian"
  YNK:0 "Yankee"
- YNk_ADJ:0 "Yankee"
+ YNK_ADJ:0 "Yankee"
+ SNH:0 "Shenandoah"
+ SNH_ADJ:0 "Shenandoahn"
  
  
 
@@ -200,7 +202,11 @@
  KAS:0 "Kansas"
  KAS_ADJ:0 "Kansan"
  LKK:0 "Lakefront"
- LKK_ADJ:0 "Lakefronter"
+ LKK_ADJ:0 "Lakefronter" 
+ CLM:0 "Columbus"
+ CLM_ADJ:0 "Columbian"
+ DHY:0 "Dayton"
+ DHY_ADJ:0 "Daytonian"
  
 
  ## South ##
