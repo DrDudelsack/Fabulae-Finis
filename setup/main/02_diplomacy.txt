@@ -18,4 +18,8 @@ diplomacy = {
 	#}
 
 	dependency = { first = VIN second = VMI subject_type = feudatory }
+
+	## Seven Nations ##
+	dependency = { first = HAD second = YNK subject_type = feudatory }
+	dependency = { first = HAD second = BRT subject_type = feudatory }
 }

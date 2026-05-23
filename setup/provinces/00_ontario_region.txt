@@ -299,8 +299,8 @@
 
 2564={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="veteranic"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -1267,8 +1267,8 @@
 
 9493={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="veteranic"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

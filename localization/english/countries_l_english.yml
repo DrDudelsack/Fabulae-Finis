@@ -55,7 +55,7 @@
  TIN:0 "Ticonderoga"
  TIN_ADJ:0 "Ticonderogan"
  WMS:0 "Mohawk"
- WMS_ADJ:0 "Mohawkan"
+ WMS_ADJ:0 "Mohawk"
  HSY:0 "Three Mile"
  HSY_ADJ:0 "Three Miler"
  HRS:0 "Lancaster"
@@ -72,6 +72,8 @@
  CMP_ADJ:0 "Champlainer"
  CRT:0 "Hudson Valley"
  CRT_ADJ:0 "Hudsonian"
+ YNK:0 "Yankee"
+ YNk_ADJ:0 "Yankee"
  
  
 
@@ -300,6 +302,16 @@
  QBC_ADJ:0 "Quebecois"
  TRV:0 "Trois Rivières"
  TRV_ADJ:0 "Trifluvien"
+ TON:0 "Toronto"
+ TON_ADJ:0 "Torontan"
+ LON:0 "London"
+ LON_ADJ:0 "Londoner"
+ SRT:0 "Stratford"
+ SRT_ADJ:0 "Stratfordian"
+ KTK:0 "Kenhtè:ke"
+ KTK_ADJ:0 "Kenhtè:ke"
+ BRT:0 "Ohswé:ken"
+ BRT_ADJ:0 "Ohswé:ken"
 
 # Gaelic #
  AUTINI:0 "Autinia"
