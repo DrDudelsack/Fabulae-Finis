@@ -2287,7 +2287,7 @@ JominiMultiplayerLobby_BUI = {
 	}
 	state = {
 		name = _show
-		on_start = "[GetVariableSystem.Set( 'show_south_europe_missions', 'yes' )]"
+		on_start = "[GetVariableSystem.Set( 'show_north_east_missions', 'yes' )]"
 		trigger_on_create = yes
 	}
 	window = {
@@ -2324,139 +2324,139 @@ JominiMultiplayerLobby_BUI = {
 					@maxcategorybuttonheight = 32
 
 					category_tab = {
-						name = "greek_missions_tab"
+						name = "north_east_missions_tab"
 						blockoverride "MinSize" { size = { @mincategorybuttonwidth @mincategorybuttonheight } }
 						blockoverride "MaxSize" { size = { @maxcategorybuttonwidth @maxcategorybuttonheight } }
-						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_south_europe_missions', 'yes' ) )]" }
-						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_south_europe_missions', 'yes' )]" }
-						blockoverride "Center_text" { text = "south_europe" }
+						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_north_east_missions', 'yes' ) )]" }
+						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_north_east_missions', 'yes' )]" }
+						blockoverride "Center_text" { text = "north_east" }
 						blockoverride "Icon" { visible = no }
 						blockoverride "ClickFunction"
 						{
-							onclick = "[GetVariableSystem.Set( 'show_south_europe_missions', 'yes' )]"
-							onclick = "[GetVariableSystem.Set( 'show_north_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_africa_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_asia_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_indian_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_east_missions', 'yes' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_west_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_central_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_south_america_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_new_missions_missions', 'no' )]"
 						}
 					}
 					category_tab = {
-						name = "german_missions_tab"
+						name = "north_west_missions_tab"
 						blockoverride "MinSize" { size = { @mincategorybuttonwidth @mincategorybuttonheight } }
 						blockoverride "MaxSize" { size = { @maxcategorybuttonwidth @maxcategorybuttonheight } }
-						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_north_europe_missions', 'yes' ) )]" }
-						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_north_europe_missions', 'yes' )]" }
-						blockoverride "Center_text" { text = "north_europe" }
+						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_north_west_missions', 'yes' ) )]" }
+						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_north_west_missions', 'yes' )]" }
+						blockoverride "Center_text" { text = "north_west" }
 						blockoverride "Icon" { visible = no }
 						blockoverride "ClickFunction"
 						{
-							onclick = "[GetVariableSystem.Set( 'show_south_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_north_europe_missions', 'yes' )]"
-							onclick = "[GetVariableSystem.Set( 'show_africa_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_asia_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_indian_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_east_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_west_missions', 'yes' )]"
+							onclick = "[GetVariableSystem.Set( 'show_central_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_south_america_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_new_missions_missions', 'no' )]"
 						}
 					}
 					category_tab = {
-						name = "africa_missions_tab"
+						name = "central_missions_tab"
 						blockoverride "MinSize" { size = { @mincategorybuttonwidth @mincategorybuttonheight } }
 						blockoverride "MaxSize" { size = { @maxcategorybuttonwidth @maxcategorybuttonheight } }
-						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_africa_missions', 'yes' ) )]" }
-						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_africa_missions', 'yes' )]" }
-						blockoverride "Center_text" { text = "africa" }
+						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_central_missions', 'yes' ) )]" }
+						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_central_missions', 'yes' )]" }
+						blockoverride "Center_text" { text = "central" }
 						blockoverride "Icon" { visible = no }
 						blockoverride "ClickFunction"
 						{
-							onclick = "[GetVariableSystem.Set( 'show_south_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_north_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_africa_missions', 'yes' )]"
-							onclick = "[GetVariableSystem.Set( 'show_asia_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_indian_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_east_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_west_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_central_missions', 'yes' )]"
+							onclick = "[GetVariableSystem.Set( 'show_south_america_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_new_missions_missions', 'no' )]"
 						}
 					}
 					category_tab = {
-						name = "asia_missions_tab"
+						name = "south_america_missions_tab"
 						blockoverride "MinSize" { size = { @mincategorybuttonwidth @mincategorybuttonheight } }
 						blockoverride "MaxSize" { size = { @maxcategorybuttonwidth @maxcategorybuttonheight } }
-						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_asia_missions', 'yes' ) )]" }
-						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_asia_missions', 'yes' )]" }
-						blockoverride "Center_text" { text = "asia" }
+						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_south_america_missions', 'yes' ) )]" }
+						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_south_america_missions', 'yes' )]" }
+						blockoverride "Center_text" { text = "south_america" }
 						blockoverride "Icon" { visible = no }
 						blockoverride "ClickFunction"
 						{
-							onclick = "[GetVariableSystem.Set( 'show_south_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_north_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_africa_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_asia_missions', 'yes' )]"
-							onclick = "[GetVariableSystem.Set( 'show_indian_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_east_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_west_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_central_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_south_america_missions', 'yes' )]"
+							onclick = "[GetVariableSystem.Set( 'show_new_missions_missions', 'no' )]"
 						}
 					}
 					category_tab = {
-						name = "indian_missions_tab"
+						name = "new_missions_missions_tab"
 						blockoverride "MinSize" { size = { @mincategorybuttonwidth @mincategorybuttonheight } }
 						blockoverride "MaxSize" { size = { @maxcategorybuttonwidth @maxcategorybuttonheight } }
-						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_indian_missions', 'yes' ) )]" }
-						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_indian_missions', 'yes' )]" }
-						blockoverride "Center_text" { text = "india" }
+						blockoverride "MinVisible" { visible = "[Not( GetVariableSystem.HasValue( 'show_new_missions_missions', 'yes' ) )]" }
+						blockoverride "MaxVisible" { visible = "[GetVariableSystem.HasValue( 'show_new_missions_missions', 'yes' )]" }
+						blockoverride "Center_text" { text = "new_missions" }
 						blockoverride "Icon" { visible = no }
 						blockoverride "ClickFunction"
 						{
-							onclick = "[GetVariableSystem.Set( 'show_south_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_north_europe_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_africa_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_asia_missions', 'no' )]"
-							onclick = "[GetVariableSystem.Set( 'show_indian_missions', 'yes' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_east_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_north_west_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_central_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_south_america_missions', 'no' )]"
+							onclick = "[GetVariableSystem.Set( 'show_new_missions_missions', 'yes' )]"
 						}
 					}
 				}
 				missions_container = {
 					blockoverride "visiblity"
 					{
-						visible = "[GetVariableSystem.HasValue( 'show_south_europe_missions', 'yes' )]"
+						visible = "[GetVariableSystem.HasValue( 'show_north_east_missions', 'yes' )]"
 					}
 					blockoverride "missions"
 					{
-						using = south_europe_missions
+						using = north_east_missions
 					}
 				}
 				missions_container = {
 					blockoverride "visiblity"
 					{
-						visible = "[GetVariableSystem.HasValue( 'show_north_europe_missions', 'yes' )]"
+						visible = "[GetVariableSystem.HasValue( 'show_north_west_missions', 'yes' )]"
 					}
 					blockoverride "missions"
 					{
-						using = north_europe_missions
+						using = north_west_missions
 					}
 				}
 				missions_container = {
 					blockoverride "visiblity"
 					{
-						visible = "[GetVariableSystem.HasValue( 'show_africa_missions', 'yes' )]"
+						visible = "[GetVariableSystem.HasValue( 'show_central_missions', 'yes' )]"
 					}
 					blockoverride "missions"
 					{
-						using = africa_missions
+						using = central_missions
 					}
 				}
 				missions_container = {
 					blockoverride "visiblity"
 					{
-						visible = "[GetVariableSystem.HasValue( 'show_asia_missions', 'yes' )]"
+						visible = "[GetVariableSystem.HasValue( 'show_south_america_missions', 'yes' )]"
 					}
 					blockoverride "missions"
 					{
-						using = asian_missions
+						using = south_america_missions
 					}
 				}
 				missions_container = {
 					blockoverride "visiblity"
 					{
-						visible = "[GetVariableSystem.HasValue( 'show_indian_missions', 'yes' )]"
+						visible = "[GetVariableSystem.HasValue( 'show_new_missions_missions', 'yes' )]"
 					}
 					blockoverride "missions"
 					{
-						using = indian_missions
+						using = new_missions_missions
 					}
 				}
 			}

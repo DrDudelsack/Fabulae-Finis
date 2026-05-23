@@ -1,81 +1,175 @@
 # Nations with missions for the start screen
 
-template south_europe_missions {
+template north_east_missions {
 	starting_nation = {
-		tooltip = "rome_start"
-		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('ROM').Self )]"
+		tooltip = "presidency_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('PRI').Self )]"
 		blockoverride "flag"
 		{
-			texture = "[GetCountry('ROM').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
-			frame = "[GetCountry('ROM').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+			texture = "[GetCountry('PRI').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('PRI').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
 		}
 		blockoverride "click"
 		{
-			onclick = "[SetLobbyCountryTag('ROM')]"
+			onclick = "[SetLobbyCountryTag('PRI')]"
+		}
+	}
+	starting_nation = {
+		tooltip = "atlanta_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('ATL').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('ATL').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('ATL').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('ATL')]"
+		}
+	}
+	# Add more missions for the North East here
+}
+
+template north_west_missions {
+	starting_nation = {
+		tooltip = "second_californian_republic_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('SAC').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('SAC').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('SAC').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('SAC')]"
+		}
+	}
+	starting_nation = {
+		tooltip = "new_california_republic_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('NCR').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('NCR').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('NCR').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('NCR')]"
+		}
+	}
+	# Add more missions for the North West here
+}
+
+template central_missions { # Just placeholder for now, since the region won't be implemented for a while
+	starting_nation = {
+		tooltip = "mexico_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('BRA').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('BRA').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('BRA').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('BRA')]"
+		}
+	}
+	starting_nation = {
+		tooltip = "caribbean_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('CUB').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('CUB').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('CUB').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('CUB')]"
 		}
 	}
 }
 
-template north_europe_missions {
+template south_america_missions { # Just placeholder for now, since the region won't be implemented for a while
 	starting_nation = {
-		tooltip = "scythia_start"
-		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('SCY').Self )]"
+		tooltip = "empire_of_brazil_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('BRZ').Self )]"
 		blockoverride "flag"
 		{
-			texture = "[GetCountry('SCY').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
-			frame = "[GetCountry('SCY').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+			texture = "[GetCountry('BRZ').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('BRZ').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
 		}
 		blockoverride "click"
 		{
-			onclick = "[SetLobbyCountryTag('SCY')]"
+			onclick = "[SetLobbyCountryTag('BRZ')]"
+		}
+	}
+	starting_nation = {
+		tooltip = "bolivia_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('BLV').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('BLV').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('BLV').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('BLV')]"
 		}
 	}
 }
 
-template africa_missions {
+template new_missions_missions {
+	
 	starting_nation = {
-		tooltip = "CARINTRO"
-		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('CAR').Self )]"
+		tooltip = "presidency_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('PRI').Self )]"
 		blockoverride "flag"
 		{
-			texture = "[GetCountry('CAR').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
-			frame = "[GetCountry('CAR').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+			texture = "[GetCountry('PRI').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('PRI').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
 		}
 		blockoverride "click"
 		{
-			onclick = "[SetLobbyCountryTag('CAR')]"
+			onclick = "[SetLobbyCountryTag('PRI')]"
 		}
 	}
-}
-
-template asian_missions {
 	starting_nation = {
-		tooltip = "antigonid_start"
-		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('PRY').Self )]"
+		tooltip = "atlanta_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('ATL').Self )]"
 		blockoverride "flag"
 		{
-			texture = "[GetCountry('PRY').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
-			frame = "[GetCountry('PRY').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+			texture = "[GetCountry('ATL').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('ATL').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
 		}
 		blockoverride "click"
 		{
-			onclick = "[SetLobbyCountryTag('PRY')]"
+			onclick = "[SetLobbyCountryTag('ATL')]"
 		}
 	}
-}
-
-template indian_missions {
 	starting_nation = {
-		tooltip = "maurya_start"
-		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('MRY').Self )]"
+		tooltip = "second_californian_republic_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('SAC').Self )]"
 		blockoverride "flag"
 		{
-			texture = "[GetCountry('MRY').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
-			frame = "[GetCountry('MRY').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+			texture = "[GetCountry('SAC').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('SAC').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
 		}
 		blockoverride "click"
 		{
-			onclick = "[SetLobbyCountryTag('MRY')]"
+			onclick = "[SetLobbyCountryTag('SAC')]"
+		}
+	}
+	starting_nation = {
+		tooltip = "new_california_republic_start"
+		onmousehierarchyenter = "[SetHighlightCountry( GetCountry('NCR').Self )]"
+		blockoverride "flag"
+		{
+			texture = "[GetCountry('NCR').AccessCoatOfArms.GetTexture('(int32)120','(int32)120')]"
+			frame = "[GetCountry('NCR').AccessCoatOfArms.GetFrame('(int32)120','(int32)120')]"
+		}
+		blockoverride "click"
+		{
+			onclick = "[SetLobbyCountryTag('NCR')]"
 		}
 	}
 }
