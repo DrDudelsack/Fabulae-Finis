@@ -912,7 +912,7 @@
 4628={ #Mansfield
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0

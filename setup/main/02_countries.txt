@@ -1003,9 +1003,9 @@ country = {
 		}
 
 		SRY = { #Syracuse
-			government = titanate
+			government = aristocratic_monarchy
 			primary_culture = upstater
-			religion = promethean
+			religion = rosicrucian
 			capital = 6853
 
 			technology={
@@ -2359,7 +2359,7 @@ country = {
 		ADI = { #Adirondack
 			government = tribal_kingdom
 			primary_culture = upstater
-			religion = clairvoyant
+			religion = transcendentalist
 			capital = 1770
 
 			technology={

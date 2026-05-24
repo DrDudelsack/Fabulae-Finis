@@ -79,7 +79,7 @@
 986={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1466={ #
 	terrain="plains"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="transcendentalist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2170={ #Taunton
 	terrain="plains"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="transcendentalist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 2780={ #
 	terrain="plains"
 	culture="vermonter"
-	religion="ursuline"
+	religion="transcendentalist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 2781={ #
 	terrain="plains"
 	culture="vermonter"
-	religion="ursuline"
+	religion="transcendentalist"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 6125={ #
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
