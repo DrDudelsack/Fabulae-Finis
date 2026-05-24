@@ -1,7 +1,7 @@
 ﻿203={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="clairvoyant"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 204={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="clairvoyant"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -167,7 +167,7 @@
 1690={ #
 	terrain="hills"
 	culture="hudsonian"
-	religion="americanist"
+	religion="clairvoyant"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -354,7 +354,7 @@
 2314={ #
 	terrain="mountain"
 	culture="hudsonian"
-	religion="transcendentalist"
+	religion="clairvoyant"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -364,7 +364,7 @@
 	}
 }
 
-2480={ #
+2480={ #Rochester
 	terrain="farmland"
 	culture="upstater"
 	religion="gaiwiio"
@@ -485,7 +485,7 @@
 3372={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -498,7 +498,7 @@
 3373={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -524,7 +524,7 @@
 3470={ #Gloversville
 	terrain="plains"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="clairvoyant"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -680,7 +680,7 @@
 5713={ #
 	terrain="hills"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="clairvoyant"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -759,7 +759,7 @@
 6055={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
@@ -785,7 +785,7 @@
 6056={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -966,7 +966,7 @@
 6681={ #
 	terrain="hills"
 	culture="hudsonian"
-	religion="americanist"
+	religion="clairvoyant"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1040,7 +1040,7 @@
 	terrain="farmland"
 	culture="upstater"
 	religion="rosicrucian"
-	trade_goods="paper"
+	trade_goods=""
 	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
@@ -1096,7 +1096,7 @@
 7052={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="maize"
 	civilization_value=18
 	barbarian_power=0
@@ -1352,7 +1352,7 @@
 9489={ #
 	terrain="hills"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="clairvoyant"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0

@@ -1,0 +1,60 @@
+deity_manager = {
+    deities_database = { ### KEYS 1000 - 1099 ###
+		1000 = {
+			key = omen_spirit_guides
+			deity = deity_spirit_guides
+		}
+		1001 = {
+			key = omen_jehovah
+			deity = deity_jehovah
+		}
+		1002 = {
+			key = omen_temperance
+			deity = deity_temperance
+		}
+		1003 = {
+			key = omen_empress
+			deity = deity_empress
+		}
+		1004 = {
+			key = omen_wheel_of_fortune
+			deity = deity_wheel_of_fortune
+		}
+		1005 = {
+			key = omen_guardian_angels
+			deity = deity_guardian_angels
+		}
+		1006 = {
+			key = omen_justice
+			deity = deity_justice
+		}
+		1007 = {
+			key = omen_hermit
+			deity = deity_hermit
+		}
+		1008 = {
+			key = omen_knight_of_swords
+			deity = deity_knight_of_swords
+		}
+		1009 = {
+			key = omen_houdini
+			deity = deity_houdini
+		}
+		1010 = {
+			key = omen_moon
+			deity = deity_moon
+		}
+		1011 = {
+			key = omen_reaper
+			deity = deity_reaper
+		}
+		1012 = {
+			key = omen_fox_sisters
+			deity = deity_fox_sisters
+		}
+		1013 = {
+			key = omen_emperor
+			deity = deity_emperor
+		}
+	}
+}

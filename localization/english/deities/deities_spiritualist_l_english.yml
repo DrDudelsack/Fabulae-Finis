@@ -1,0 +1,63 @@
+﻿l_english:
+ ## Spiritualist ##
+ deity_spirit_guides:0 "$omen_spirit_guides$"
+ omen_spirit_guides:0 "Spirit Guides"
+ omen_spirit_guides_desc:0 "#Y Clairvoyant Spirit#!\n\nOften considered to be ancestors or notable figures, Spirit Guides are the ones who protect and guide living beings throughout life. Those with the gift of Second Sight are able to communicate with these spirits, and learn from their wisdom."
+
+ deity_jehovah:0 "$omen_jehovah$"
+ omen_jehovah:0 "Jehovah"
+ omen_jehovah_desc:0 "#Y Clairvoyant Deity#!\n\nKnown to the Christians as God, Jehovah is the creator of the world and the spirit plane. Through communion with him, one can better understand life itself."
+
+ deity_temperance:0 "$omen_temperance$"
+ omen_temperance:0 "Temperance"
+ omen_temperance_desc:0 "#Y Clairvoyant Major Arcana#!\n\nOne of the Major Arcana, Temperance is associated with economy, frugality, management, and accommodation. She is depicted as a white robed figure, sometimes with the wings of an angel, pouring liquid from one cup to another."
+
+ deity_empress:0 "$omen_empress$"
+ omen_empress:0 "Empress"
+ omen_empress_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe majestic Empress represents authority and dominion over the natural world. Through invoking her, the fruits of nature and field may be multiplied."
+
+ deity_wheel_of_fortune:0 "$omen_wheel_of_fortune$"
+ omen_wheel_of_fortune:0 "Wheel of Fortune"
+ omen_wheel_of_fortune_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe Wheel of Fortune heralds change; such change being in station, position or fortune: such as the rich becoming poor, or the poor becoming rich."
+
+ deity_guardian_angels:0 "$omen_guardian_angels$"
+ omen_guardian_angels:0 "Guardian Angels"
+ omen_guardian_angels_desc:0 "#Y Clairvoyant Spirits#!\n\nSpirits assigned by Jehovah to protect specific people, it is believed that each person has their own Guardian Angel. In order to honor these protectors, shines are commonly set up in houses of the faithful."
+
+ deity_justice:0 "$omen_justice$"
+ omen_justice:0 "Justice"
+ omen_justice_desc:0 "#Y Clairvoyant Major Arcana#!\n\nJustice signals equity, rightness, executive power, and the law. They are seen seated on a throne, holding an upright sword in one hand, and a scale in the other. The Americanists equate her with their 'Lady Justice', although she has some different connotations."
+
+ deity_hermit:0 "$omen_hermit$"
+ omen_hermit:0 "Hermit"
+ omen_hermit_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe wise Hermit shows unknowing the path to knowledge, lighting the way with his Lamp of Truth, and using the Patriarch's staff to steady himself on narrow paths."
+
+ deity_knight_of_swords:0 "$omen_knight_of_swords$"
+ omen_knight_of_swords:0 "Knight of Swords"
+ omen_knight_of_swords_desc:0 "#Y Clairvoyant Minor Arcana#!\n\nThe hasty Knight of Swords is always the first to a fight, even if he may not win all the time. This Minor Arcana is associated with wrathfulness, war, and reckless decisions."
+
+ deity_houdini:0 "$omen_houdini$"
+ omen_houdini:0 "Houdini"
+ omen_houdini_desc:0 "#Y Clairvoyant Spirit#!\n\nA fabled trickster, Houdini exposed many false spiritualists in his time."
+
+ deity_moon:0 "$omen_moon$"
+ omen_moon:0 "Moon"
+ omen_moon_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe Moon represents life of the imagination apart from life of the spirit, and the innate animal nature of humanity. It is invoked to divine inner meanings, or things concealed by darkness."
+
+ deity_reaper:0 "$omen_reaper$"
+ omen_reaper:0 "Reaper"
+ omen_reaper_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe personificiation of Death, the Reaper brings about the end. But with every end there is a new begining, as one passes from the mortal realm, into the spiritual one."
+
+ deity_fox_sisters:0 "$omen_fox_sisters$"
+ omen_fox_sisters:0 "Fox Sisters"
+ omen_fox_sisters_desc:0 "#Y Clairvoyant Spirits#!\n\nEarly Mediums, the Fox Sisters used a rapping technique to communicate with Spirits. Many have tried to replicate their method, to little success."
+
+ deity_emperor:0 "$omen_emperor$"
+ omen_emperor:0 "Emperor"
+ omen_emperor_desc:0 "#Y Clairvoyant Major Arcana#!\n\nUnlike his consort the Empress, the Emperor represents might, stability, and rule of might."
+
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 "#Y Clairvoyant Spirit#!\n\n"
+
+

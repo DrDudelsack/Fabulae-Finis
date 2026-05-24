@@ -40,7 +40,7 @@
 2477={ #Chili
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 2478={ #Greece
 	terrain="plains"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="clairvoyant"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 2479={ #Batavia
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="clairvoyant"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 2789={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="clairvoyant"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 2790={ #Attica
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="clairvoyant"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 8590={ #Clarence
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="clairvoyant"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 8591={ #Lockport
 	terrain="plains"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="clairvoyant"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 8592={ #Buffalo
 	terrain="farmland"
 	culture="upstater"
-	religion="promethean"
+	religion="clairvoyant"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
