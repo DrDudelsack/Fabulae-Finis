@@ -53,7 +53,7 @@ deity_temperance = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			common_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_temperance = {
@@ -61,7 +61,7 @@ deity_temperance = {
 			}
 		}
 	}
-	icon = deity_wealth
+	icon = deity_temperance
 	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
 	omen = { global_citizen_output = omen_global_citizen_output_svalue } #Bonus from Omen
 	on_activate = {
@@ -85,7 +85,7 @@ deity_empress = {
 			}
 		}
 	}
-	icon = deity_fertility
+	icon = deity_empress
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	 omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
 	religion = clairvoyant	
@@ -110,7 +110,7 @@ deity_wheel_of_fortune = {
 			}
 		}
 	}
-	icon = deity_egyptian_wealth
+	icon = deity_wheel_of_fortune
 	passive_modifier = { global_pop_promotion_speed_modifier = 0.10 }
 	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
 	religion = clairvoyant	
@@ -152,7 +152,7 @@ deity_justice = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			common_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_justice = {
@@ -160,7 +160,7 @@ deity_justice = {
 			}
 		}
 	}
-	icon = deity_eloquence
+	icon = deity_justice
 	passive_modifier = { monthly_tyranny = deity_monthly_tyranny_svalue }
 	omen = { enact_law_cost_modifier = -0.15 } #Bonus from Omen
 	religion = clairvoyant	
@@ -188,7 +188,7 @@ deity_hermit = {
 			}
 		}
 	}
-	icon = deity_eloquence
+	icon = deity_hermit
 	passive_modifier = { religious_tech_investment = deity_religious_tech_investment_svalue }
 	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
 	religion = clairvoyant	
@@ -205,7 +205,7 @@ deity_knight_of_swords = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_knight_of_swords = {
@@ -213,7 +213,7 @@ deity_knight_of_swords = {
 			}
 		}
 	}
-	icon = deity_eloquence
+	icon = deity_knight
 	passive_modifier = { fabricate_claim_speed = deity_fabricate_claim_speed_svalue }
 	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
 	religion = clairvoyant	
@@ -230,7 +230,7 @@ deity_houdini = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_houdini = {
@@ -255,7 +255,7 @@ deity_moon = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_moon = {
@@ -263,7 +263,7 @@ deity_moon = {
 			}
 		}
 	}
-	icon = deity_eloquence
+	icon = deity_moon
 	passive_modifier = { monthly_political_influence_modifier = deity_monthly_political_influence_modifier_svalue }
 	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
 	religion = clairvoyant	
@@ -280,7 +280,7 @@ deity_reaper = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_reaper = {
@@ -288,7 +288,7 @@ deity_reaper = {
 			}
 		}
 	}
-	icon = deity_wealth
+	icon = deity_death
 	passive_modifier = { build_cost = deity_build_cost_svalue }
 	omen = { military_tech_investment = omen_military_tech_investment } #Bonus from Omen
 	religion = clairvoyant	
@@ -305,7 +305,7 @@ deity_fox_sisters = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
 			}
 			deity:omen_fox_sisters = {
@@ -338,7 +338,7 @@ deity_emperor = {
 			}
 		}
 	}
-	icon = deity_war
+	icon = deity_emperor
 	passive_modifier = { agressive_expansion_monthly_change = deity_aggressive_expansion_monthly_change_svalue }
 	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
 	religion = clairvoyant	
@@ -349,5 +349,204 @@ deity_emperor = {
 
 	on_activate = {
 		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_sun = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_sun = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_sun
+	passive_modifier = { happiness_for_same_religion_modifier = deity_happiness_for_same_religion_modifier }
+	omen = { global_manpower_modifier = deity_global_manpower_modifier_svalue} #Bonus from Omen
+	religion = clairvoyant	
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_the_fool = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_the_fool = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fool
+	passive_modifier = { global_goods_from_slaves = -1 }
+	omen = { global_slaves_happyness = omen_global_slaves_happiness_svalue } #Bonus from Omen
+	religion = clairvoyant	
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+deity_the_hanged_man = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_the_hanged_man = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_hanged_man
+	passive_modifier = { research_points_modifier = deity_research_points_modifier_svalue }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
+	religion = clairvoyant	
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_hierophant = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_hierophant = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_hierophant
+	passive_modifier = { agressive_expansion_impact = deity_aggressive_expansion_impact_svalue }
+	omen = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue }
+	religion = clairvoyant	
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		war_apotheosis_martial_tech_effect = yes
+	}
+}
+deity_chariot = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_chariot = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_chariot
+	passive_modifier = { war_score_cost = deity_war_score_cost_svalue }
+	omen = { war_exhaustion = omen_war_exhaustion } #Bonus from Omen
+	on_activate = {
+		war_apotheosis_martial_tech_effect = yes
+	}
+	religion = clairvoyant	
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+deity_star = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_star = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_star
+	passive_modifier = { global_population_happiness = omen_global_population_happiness }
+	omen = { global_citizen_output = deity_global_citizen_output_svalue }
+	religion = clairvoyant	
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_judgement = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_judgement = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_judgement
+	passive_modifier = { global_manpower_modifier = deity_global_manpower_modifier_svalue }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed }#Bonus from Omen
+	religion = clairvoyant	
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_the_lovers = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = clairvoyant
+			}
+			deity:omen_the_lovers = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_the_lovers
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { monthly_wage_modifier = omen_monthly_wage_modifier_svalue } #Bonus from Omen
+	religion = clairvoyant	
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
 	}
 }

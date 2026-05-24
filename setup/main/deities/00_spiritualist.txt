@@ -56,5 +56,37 @@ deity_manager = {
 			key = omen_emperor
 			deity = deity_emperor
 		}
+		1014 = {
+			key = omen_sun
+			deity = deity_sun
+		}
+		1015 = {
+			key = omen_the_fool
+			deity = deity_the_fool
+		}
+		1016 = {
+			key = omen_the_hanged_man
+			deity = deity_the_hanged_man
+		}
+		1017 = {
+			key = omen_hierophant
+			deity = deity_hierophant
+		}
+		1018 = {
+			key = omen_chariot
+			deity = deity_chariot
+		}
+		1019 = {
+			key = omen_star
+			deity = deity_star
+		}
+		1020 = {
+			key = omen_judgement
+			deity = deity_judgement
+		}
+		1021 = {
+			key = omen_the_lovers
+			deity = deity_the_lovers
+		}
 	}
 }

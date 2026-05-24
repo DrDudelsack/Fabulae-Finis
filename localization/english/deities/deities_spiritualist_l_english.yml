@@ -55,9 +55,41 @@
  deity_emperor:0 "$omen_emperor$"
  omen_emperor:0 "Emperor"
  omen_emperor_desc:0 "#Y Clairvoyant Major Arcana#!\n\nUnlike his consort the Empress, the Emperor represents might, stability, and rule of might."
+ 
+ deity_sun:0 "$omen_sun$"
+ omen_sun:0 "Sun"
+ omen_sun_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe radiant Sun will bring joy, success, vitality, and illumination to our people."
+ 
+ deity_the_fool:0 "$omen_the_fool$"
+ omen_the_fool:0 "The Fool"
+ omen_the_fool_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe lowliest of all Major Arcana, The Fool serves more of a cautionary tale than anything. He is associated with folly, mania, extravagance, intoxication, delirium, and frenzy. In spite of the nature of The Fool, or perhaps because of it, he somehow manages to take the correct path. Another name for him is the 'Idiot Savant'."
+
+ deity_the_hanged_man:0 "$omen_the_hanged_man$"
+ omen_the_hanged_man:0 "The Hanged Man"
+ omen_the_hanged_man_desc:0 "#Y Clairvoyant Major Arcana#!\n\nShown as hanging upside down from a cross, The Hanged Man represents self-sacrifice, rather than corporal punishment. He embodies the idea that sacrifice must be made in order to attain wisdom."
+ 
+ deity_hierophant:0 "$omen_hierophant$"
+ omen_hierophant:0 "Hierophant"
+ omen_hierophant_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe Hierophant is the intermediary between the mortal and the divine. He stands for righteousness, sacredness, hierarchical order, orthodoxy, and moral righteousness."
+
+ deity_chariot:0 "$omen_chariot$"
+ omen_chariot:0 "Chariot"
+ omen_chariot_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe thundering Chariot brings triumph in battle. He is the favorite Major Arcana of equestrians, for they value his virtuous character, but also his associations with warfare."
+
+ deity_star:0 "$omen_star$"
+ omen_star:0 "The Star"
+ omen_star_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe Star represents hope and bright prospects. Her shining light illuminates the path for those who cannot see it."
+
+ deity_judgement:0 "$omen_judgement$"
+ omen_judgement:0 "Judgement"
+ omen_judgement_desc:0 "#Y Clairvoyant Major Arcana#!\n\nJudgement is the Major Arcana of reckoning and second chances. All who heed his message may have a chance to reverse their fortunes, those who do not are doomed to fail."
+
+ deity_the_lovers:0 "$omen_the_lovers$"
+ omen_the_lovers:0 "The Lovers"
+ omen_the_lovers_desc:0 "#Y Clairvoyant Major Arcana#!\n\nThe Lovers are the Major Arcana of choices and sacrifice. Sometimes, one thing must be given up in order to experience the other."
 
  deity_:0 "$omen_$"
  omen_:0 ""
- omen__desc:0 "#Y Clairvoyant Spirit#!\n\n"
+ omen__desc:0 "#Y Clairvoyant #!\n\n"
 
 
