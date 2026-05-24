@@ -1,5 +1,19 @@
 ﻿l_english:
-
+ ## Religion Specific Office Names ##
+ #Clairvoyant Monarchy Ruler Titles
+ theocratic_monarchy_ruler_clairvoyant:0 "High Medium"
+ theocratic_monarchy_ruler_female_clairvoyant:0 "High Medium"
+ 
+ #Clairvoyant Monarchy Offices
+ office_foreign_minister_clairvoyant:0 "Foreign Minister"
+ office_royal_tutor_clairvoyant:0 "Royal Tutor"
+ office_marshal_clairvoyant:0 "Marshal"
+ office_master_of_the_guard_clairvoyant:0 "Master of the Guard"
+ office_high_priest_monarchy_clairvoyant:0 "Medium"
+ office_philosopher_clairvoyant:0 "Librarian"
+ office_steward_clairvoyant:0 "Steward"
+ office_physician_clairvoyant:0 "Doctor"
+ 
  #Maya Monarchy Ruler
  plutocratic_monarchy_ruler_mayan:0 "Ajaw"
  plutocratic_monarchy_ruler_female_mayan:0 "Ix Ajaw"

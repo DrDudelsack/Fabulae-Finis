@@ -2666,7 +2666,7 @@ country = {
 			}
 
 			own_control_core = {
-				573 5697 574 575 2566 
+				573 574 575 2566 
 			}
 		}
 		NRT = { #Northwoods

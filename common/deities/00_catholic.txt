@@ -1,5 +1,8 @@
 ﻿deity_god = {
 	trigger = {
+		NOT = {
+			religion = clairvoyant 
+		}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = catholic
@@ -24,6 +27,9 @@
 }
 deity_jesus = {
 	trigger = {
+		NOT = {
+			religion = clairvoyant 
+		}
 		OR = {
 			common_deity_trigger = {
 				RELIGION = catholic
