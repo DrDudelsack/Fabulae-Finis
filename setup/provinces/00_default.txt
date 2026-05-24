@@ -41835,7 +41835,7 @@
 4629={ #
 	terrain="hills"
 	culture=""
-	religion="peyotist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

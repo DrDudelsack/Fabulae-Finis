@@ -182,7 +182,7 @@
 
 1426={ #
 	terrain="steppes"
-	culture="dakota"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 5297={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="wolgadeutsche"
 	religion="viking"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 7366={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 7681={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="wolgadeutsche"
 	religion="viking"
 	trade_goods=""
 	civilization_value=10
@@ -1196,7 +1196,7 @@
 
 9595={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10

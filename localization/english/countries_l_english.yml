@@ -207,6 +207,14 @@
  CLM_ADJ:0 "Columbian"
  DHY:0 "Dayton"
  DHY_ADJ:0 "Daytonian"
+ CPR:0 "Copperland"
+ CPR_ADJ:0 "Copperlander"
+ WPC:0 "Waupaca"
+ WPC_ADJ:0 "Waupacan"
+ NRT:0 "Northwoods"
+ NRT_ADJ:0 "Northwooder"
+ WSR:0 "Rapids"
+ WSR_ADJ:0 "Rapidian"
  
 
  ## South ##
@@ -318,6 +326,10 @@
  KTK_ADJ:0 "Kenhtè:ke"
  BRT:0 "Ohswé:ken"
  BRT_ADJ:0 "Ohswé:ken"
+ TUN:0 "Thunder Bay"
+ TUN_ADJ:0 "Thunderer"
+ MAR:0 "Marathon"
+ MAR_ADJ:0 "Marathonian"
 
 # Gaelic #
  AUTINI:0 "Autinia"

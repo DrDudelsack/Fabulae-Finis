@@ -1431,7 +1431,7 @@ country = {
 			}
 		}
 		MOH = { #Moorhead
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = northlander
 			religion = viking
 			capital = 8374
@@ -1448,7 +1448,7 @@ country = {
 			}
 		}
 		FRG = { #Fargo
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = northlander
 			religion = viking
 			capital = 1646
@@ -1559,7 +1559,7 @@ country = {
 
 			own_control_core = {
 				4946 4947 4949 4948 7521 2568 2567 7522
-				7523 7520 
+				7523 7520 572
 			}
 		}
 		QDC = { #Quad Cities
@@ -1884,7 +1884,7 @@ country = {
 			}
 
 			own_control_core = {
-				5121 5124 4015 5124 4014 4016 5122 5123
+				5121 5124 4015 5124 4014 4016 5122 5123 8847
 			}
 		}
 		YUP = { #Yoopland
@@ -1895,7 +1895,17 @@ country = {
 
 			own_control_core = {
 				8059 8060 9272 9273 8324 8323 772 771 3073 6289
-				9271 2456 1741 1739
+				9271 8849
+			}
+		}
+		CPR = { #Copperland
+			government = tribal_chiefdom
+			primary_culture = yooper
+			religion = lakeshore
+			capital = 2457
+
+			own_control_core = {
+				2457 1740 2458 2456 1741 1739 
 			}
 		}
 		PTS = { #Upnorth
@@ -2639,6 +2649,84 @@ country = {
 
 			own_control_core = {
 				6585 6583 6586 8969 2406 2405 2404 
+			}
+		}
+		WPC = { #Waupaca
+			government = tribal_kingdom
+			primary_culture = menominee
+			religion = viking
+			capital = 573
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				573 5697 574 575 2566 
+			}
+		}
+		NRT = { #Northwoods
+			government = tribal_chiefdom
+			primary_culture = cheesehead
+			religion = viking
+			capital = 6283
+
+			own_control_core = {
+				6283 6282 8851 11889 7919 7918 7917 6281 8848 2027 8850 7916
+			}
+		}
+		WSR = { #Wisconsin Rapids
+			government = tribal_kingdom
+			primary_culture = cheesehead
+			religion = viking
+			capital = 4698
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4698 4700 2026 4699 4698 4697
+			}
+		}
+		TUN = { #Thunder Bay
+			government = aristocratic_republic
+			primary_culture = shieldshorer
+			religion = veteranic
+			capital = 9393
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9393 9392 9394 9391 9390
+			}
+		}
+		MAR = { #Marathon
+			government = aristocratic_republic
+			primary_culture = shieldshorer
+			religion = veteranic
+			capital = 6117
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6117 6116 1316 1318 1317
 			}
 		}
 	}

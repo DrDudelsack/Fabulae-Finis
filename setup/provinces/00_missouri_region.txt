@@ -856,7 +856,7 @@
 8495={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
