@@ -104,6 +104,18 @@ colossalist = { # Colossalist
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+quaker = { # Quaker
+	color = rgb  { 130 0 20 }
+	modifier = {
+		happiness_for_wrong_religion_modifier = 0.03
+		diplomatic_reputation = 3
+		fabricate_claim_cost_modifier = 0.25
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Catholic ##
 catholic = { # Catholic- All catholic derived faiths for now
 	color = rgb { 200 200 200 }

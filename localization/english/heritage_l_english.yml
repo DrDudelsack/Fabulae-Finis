@@ -48,6 +48,21 @@
  old_southern_heritage_desc:0 "A deeply chivalric and equestrian people, the Old Southerners are famed for their heavy cavalry, and rich urban centers."
  deep_southern_heritage:0 "Deep Southern Heritage"
  deep_southern_heritage_desc:0 "The Deep South is a divided land, split up amongst many warlords of varying faiths. Their despotic warlords reap the benefits, while the populace suffers from their rule."
+ upland_heritage:0 "Upland Heritage"
+ upland_heritage_desc:0 "The Uplander way of life is defined by two things: their neighbors, who are constantly trying to invade and conquer their lands, and the many rivers that permeate Uplander territories. These rivers help to facilitate trade, and the frequent raids that Uplanders are known to conduct."
+ texan_heritage:0 "Texan Heritage"
+ texan_heritage_desc:0 "By nature a martial and warlike people, the Texans do not need much of an excuse for a fight. However all this fighting leaves a lot less time for more intellectual pursuits..."
+ deutschamerikaner_heritage:0 "Deutschamerikaner Heritage"
+ deutschamerikaner_heritage_desc:0 "The Deutschamerikaner are descendants of the people known as 'Germans', who immigrated to the lands of America in pre-Event times. They are known for their skill in manufacturing, construction, and resourcefulness in business ventures."
+ canayen_heritage:0 "Canayen Heritage"
+ canayen_heritage_desc:0 "The French speaking Canayen are overwhelmingly dominated by their rich aristocracy and clergy. Despite their fractured nature, they have been more than capable of standing against a foe many times their strength and size. To say they are proud of their independence would be an understatement."
+ ## Cultures ## 
+ hudsonian_heritage:0 "Hudsonian Heritage" 
+ hudsonian_heritage_desc:0 "Living near the fertile Hudson river, the Hudsonians use the river to their full advantage, trading with the metropolises downriver, and farming along the banks of the Hudson."
+ upstater_heritage:0 "Upstater Heritage"
+ upstater_heritage_desc:0 "The Upstaters are defined primarily by the complex webs of alliances which they often find themselves in, and their many and varied religious practices. It is usually charismatic leaders who push these religions, sometimes at their own expense."
+ appalachian_heritage:0 "Appalachian Heritage"
+ appalachian_heritage_desc:0 "Primarily mountain-dwellers, the Appalachian tribes are regarded as strange and foreign by many. In their distant hollers, there is talk of dark and occult gods being worshipped..."
 
 
 

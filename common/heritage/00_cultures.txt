@@ -1,4 +1,48 @@
-﻿mid_atlantic_heritage = {
+﻿#Culture
+hudsonian_heritage = {
+   	modifier = {
+        #good
+        global_capital_trade_routes = 2
+        global_monthly_food_modifier = 0.05
+       #bad
+        monthly_legitimacy = -0.03
+        monthly_centralization = -0.03
+        monthly_party_approval = -0.03
+   }
+
+   trigger = {
+       primary_culture = hudsonian
+   }
+}
+upstater_heritage = {
+   	modifier = {
+        #good
+        diplomatic_relations = 1
+        ruler_popularity_gain = 0.08
+       #bad
+        global_pop_conversion_speed_modifier = -0.05
+   }
+
+   trigger = {
+       primary_culture = upstater
+   }
+}
+appalachian_heritage = {
+   	modifier = {
+        #good
+        happiness_for_same_religion_modifier = 0.03
+        mountain_combat_bonus = 0.10
+       #bad
+        army_weight_modifier = 0.10
+   }
+
+   trigger = {
+       primary_culture = appalachian
+   }
+}
+
+#Culture Group
+mid_atlantic_heritage = {
    	modifier = {
         #good
         land_morale_modifier = 0.03
@@ -80,9 +124,9 @@ northlake_heritage = {
    	modifier = {
         #good
         naval_morale_modifier = 0.10
-        fabricate_claim_cost_modifier = -0.25
+        war_score_cost = -0.05
        #bad
-        country_civilization_value = -0.05
+        country_civilization_value = -5
    }
 
    trigger = {
@@ -126,5 +170,57 @@ laurentian_heritage = {
 
    trigger = {
         country_culture_group = laurentian
+	}
+}
+upland_heritage = {
+   	modifier = {
+        #good
+        light_infantry_morale = 0.10
+        global_tax_modifier = 0.05
+       #bad
+        war_exhaustion = 0.03
+   }
+
+   trigger = {
+        country_culture_group = upland
+	}
+}
+texan_heritage = {
+   	modifier = {
+        #good
+        discipline = 0.05
+        fort_maintenance_cost = -0.10
+       #bad
+        research_points_modifier = -0.10
+   }
+
+   trigger = {
+        country_culture_group = texan
+	}
+}
+deutschamerikaner_heritage = {
+   	modifier = {
+        #good
+        global_import_commerce_modifier = 0.05
+        build_time = -0.20
+       #bad
+        global_pop_assimilation_speed_modifier = -0.05
+   }
+
+   trigger = {
+        country_culture_group = deutschamerikaner
+	}
+}
+canayen_heritage = {
+   	modifier = {
+        #good
+       manpower_recovery_speed = 0.05
+       global_nobles_output = 0.10
+       #bad
+       global_freemen_output = -0.05
+   }
+
+   trigger = {
+        country_culture_group = canayen
 	}
 }

@@ -756,7 +756,7 @@
 3708={ #Lansdale
 	terrain="forest"
 	culture="youser"
-	religion="americanist"
+	religion="quaker"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -812,20 +812,24 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=38
+	civilization_value=40
 	barbarian_power=0
 	province_rank="city"
 	nobles={
 		amount=4
 	}
 	citizen={
+		religion="quaker"
+		amount=3
+	}
+	citizen={
 		amount=5
 	}
 	freemen={
-		amount=13
+		amount=14
 	}
 	slaves={
-		amount=7
+		amount=10
 	}
 }
 

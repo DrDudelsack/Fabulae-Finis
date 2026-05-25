@@ -204,14 +204,18 @@
 }
 
 1758={ #
-	terrain="plains"
+	terrain="forest"
 	culture="hudsonian"
 	religion="clairvoyant"
-	trade_goods="vegetables"
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=3
+	}
+	slaves={
+		religion="americanist"
 		amount=1
 	}
 }
@@ -234,10 +238,17 @@
 	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		religion="americanist"
 		amount=1
 	}
 }
@@ -247,10 +258,14 @@
 	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=3
+	}
+	slaves={
+		religion="americanist"
 		amount=1
 	}
 }
@@ -381,9 +396,11 @@
 		amount=2
 	}
 	citizen={
+		religion="clairvoyant"
 		amount=1
 	}
 	freemen={
+		religion="clairvoyant"
 		amount=2
 	}
 	freemen={
@@ -398,6 +415,7 @@
 		amount=2
 	}
 	tribesmen={
+		religion="clairvoyant"
 		amount=2
 	}
 	holy_site=omen_skanatalihyo
@@ -1144,7 +1162,7 @@
 7054={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="quaker"
 	trade_goods="tubers"
 	civilization_value=18
 	barbarian_power=0
