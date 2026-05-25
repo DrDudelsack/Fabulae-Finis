@@ -28,7 +28,7 @@ kentucky_heritage = {
 	}
 }
 
-#New York
+#East Coast
 seven_nations_heritage = {
    	modifier = {
         #good
@@ -54,6 +54,19 @@ mohawk_heritage = {
    trigger = {
           tag = WMS
      }
+}
+three_mile_heritage = {
+   	modifier = {
+      #good
+      build_cost = -0.10
+      omen_power = 0.05
+    #bad
+      diplomatic_relations = -1  
+   }
+
+   trigger = {
+      tag = HSY
+   }
 }
 
 #Georgia

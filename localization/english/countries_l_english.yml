@@ -284,6 +284,12 @@
  RAG_ADJ:0 "Raleighan"
  CPF:0 "Cape Fear"
  CPF_ADJ:0 "Fearite"
+ AGU:0 "First Coast"
+ AGU_ADJ:0 "First Coaster"
+ MOS:0 "The Mouse" 
+ MOS_ADJ:0 "Mouser"
+ TMP:0 "Suncoast"
+ TMP_ADJ:0 "Suncoaster"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

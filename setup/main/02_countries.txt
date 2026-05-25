@@ -883,8 +883,50 @@ country = {
 				8937 8940 8941 #sparta_area
 			}
 		}
+		AGU = { # First Coast
+			government = tribal_kingdom
+			primary_culture = sunshiner
+			religion = springsearcher
+			capital = 1189
 
-		
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1189 11931 7315 11933 7316 7314
+			}
+		}
+		MOS = { # The Mouse
+			government = tribal_kingdom
+			primary_culture = sunshiner
+			religion = americanist
+			capital = 7647
+
+			own_control_core = {
+				7647 7646 7645 7643 11941 7644 11942
+			}
+		}
+		TMP = { # Tampa
+			government = piratical_diarchy
+			primary_culture = sunshiner
+			religion = catholic
+			capital = 4816
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4816 11935 11936 4817 11937 11938 4819 4818 5457 5458 11934 4814 4815
+			}
+		}
 		CIN = { # Cincinatti
 			government = stratocratic_monarchy
 			primary_culture = butternutter

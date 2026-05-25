@@ -141,6 +141,9 @@ MDC = "setup/countries/south/midcountry.txt"
 PDC = "setup/countries/south/piedmont_crescent.txt"
 RAG = "setup/countries/south/raleigh.txt"
 CPF = "setup/countries/south/cape_fear.txt"
+AGU = "setup/countries/south/st_augustine.txt"
+MOS = "setup/countries/south/mouse.txt"
+TMP = "setup/countries/south/tampa.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
