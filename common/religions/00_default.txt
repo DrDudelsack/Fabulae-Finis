@@ -660,10 +660,10 @@ rosicrucian = { # Rosicrucian
 	color = rgb { 120 6 5 }
 	modifier = {
 		global_nobles_output = 0.10
-		religious_tech_investment = 0.15
-		global_pop_conversion_speed_modifier = -0.15
+		religious_tech_investment = 0.10
+		global_pop_conversion_speed_modifier = -0.10
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_rosicrucian
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

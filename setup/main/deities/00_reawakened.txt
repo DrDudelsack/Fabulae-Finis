@@ -1,0 +1,32 @@
+deity_manager = {
+    deities_database = { ### KEYS 1100 - 1199 ###
+		1100 = {
+			key = omen_next_cycle
+			deity = deity_next_cycle
+		}
+		1101 = {
+			key = omen_hermes_trismegistus
+			deity = deity_hermes_trismegistus
+		}
+		1102 = {
+			key = omen_akhenaten
+			deity = deity_akhenaten
+		}
+		1103 = {
+			key = omen_thoth
+			deity = deity_thoth
+		}
+		1104 = {
+			key = omen_absolute
+			deity = deity_absolute
+		}
+		1105 = {
+			key = omen_evolutionary_spirit
+			deity = deity_evolutionary_spirit
+		}
+		1106 = {
+			key = omen_pythagoras
+			deity = deity_pythagoras
+		}
+	}
+}

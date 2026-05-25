@@ -1,0 +1,147 @@
+﻿deity_next_cycle = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = rosicrucian
+			}
+			deity:omen_next_cycle = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { religious_tech_investment = deity_religious_tech_investment_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue }
+	religion = rosicrucian
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_hermes_trismegistus = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = rosicrucian
+			}
+			deity:omen_hermes_trismegistus = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_kemetic_wealth
+	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
+	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
+	religion = rosicrucian
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_noble_effect = yes
+	}
+}
+deity_thoth = { # ECONOMY
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = rosicrucian
+			}
+			deity:omen_thoth = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_kemetic_wealth_2
+	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
+	omen = { global_freemen_happyness = omen_global_freemen_happiness_svalue } #Bonus from Omen
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+	religion = rosicrucian
+	deity_category = economy #This Deity uses a Culture Slot
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+}
+deity_akhenaten = {
+	trigger = {
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = rosicrucian
+			}
+			deity:omen_akhenaten = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_kemetic_eloquence
+	passive_modifier = { global_pop_assimilation_speed_modifier = deity_global_pop_assimilation_speed_modifier_svalue }
+	omen = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue } #Bonus from Omen
+	religion = rosicrucian
+	deity_category = culture #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_pythagoras = {
+	trigger = {
+		OR = {
+			very_common_deity_trigger = {
+				RELIGION = rosicrucian
+			}
+			deity:omen_pythagoras = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_greek_eloquence
+	passive_modifier = { global_slaves_happyness = deity_global_slaves_happiness_svalue }
+	omen = { monthly_political_influence_modifier = deity_monthly_political_influence_modifier_svalue }
+	religion = rosicrucian
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_characters_effect = yes
+	}
+}
+deity_absolute = {
+	trigger = {
+		OR = {
+			common_deity_trigger = {
+				RELIGION = rosicrucian
+			}
+			deity:omen_absolute = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { happiness_for_same_culture_modifier = deity_happiness_for_same_culture_modifier_svalue }
+	omen = { happiness_for_wrong_religion_modifier = 0.03  } #Bonus from Omen
+	religion = rosicrucian
+	deity_category = culture #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}

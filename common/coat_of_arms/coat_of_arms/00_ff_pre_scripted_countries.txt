@@ -1012,10 +1012,10 @@ CRT = { #Hudson Valey
 	}
 }
 
-SRY = { #Syracuse flag from vanilla
+SRY = { #Syracuse Rosicrucian
 	pattern = "pattern_vertical_split_01.tga"
 	color1 = rgb { 72 130 129 }
-	color2 = "spartan_rust"
+	color2 = "offwhite"
 	color3 = "pink_skin"
 
 	#colored_emblem = {
@@ -1025,10 +1025,9 @@ SRY = { #Syracuse flag from vanilla
 	#}
 
 	colored_emblem = {
-		texture = "ce_gears.dds"
-		color1 = "offwhite"
-		color2 = "roman_gold"
-		instance = { scale = { 0.7 0.7 } }
+		texture = "ce_rosicrucian.dds"
+		color1 = "roman_gold"
+		color2 = "ck2_red"
 	}
 }
 

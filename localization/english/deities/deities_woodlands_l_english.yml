@@ -2,23 +2,23 @@
  ## Default ##
  deity_skanatalihyo:0 "$omen_skanatalihyo$"
  omen_skanatalihyo:0 "Handsome Lake"
- omen_skanatalihyo_desc:0 "#Y Gai'wiio Prophet#!\n\nHandsome Lake, or Skanatalihyo was the prophet by which Shakwayatisu, the Great Creator chose to reveal his message to. Skanatalihyo was visited by four messengers, and he heard their voices share the wisdom of what his people, including himself, needed to do to make things right with Creation. Skanatalihyo began to spread the Good Message to his people, creating the 'Code of Handsome Lake', which outlines these guidelines and practices."
+ omen_skanatalihyo_desc:0 "#Y Gai'wiio Prophet#! \nHandsome Lake, or Skanatalihyo was the prophet by which Shakwayatisu, the Great Creator chose to reveal his message to. Skanatalihyo was visited by four messengers, and he heard their voices share the wisdom of what his people, including himself, needed to do to make things right with Creation. Skanatalihyo began to spread the Good Message to his people, creating the 'Code of Handsome Lake', which outlines these guidelines and practices."
  
  deity_:0 "$omen_shakwayatisu$"
  omen_shakwayatisu:0 "Shakwayatisu"
- omen_shakwayatisu_desc:0 "#Y Gai'wiio Creator#!\n\nShakwayatisu, the Great Creator is the chief maker of all things. He resides in the sky realm, and chose Handsome Lake to be his prophet to spread the Good Message."
+ omen_shakwayatisu_desc:0 "#Y Gai'wiio Creator#! \nShakwayatisu, the Great Creator is the chief maker of all things. He resides in the sky realm, and chose Handsome Lake to be his prophet to spread the Good Message."
 
  deity_:0 "$omen_four_messengers$"
  omen_four_messengers:0 "The Four Messengers"
- omen_four_messengers_desc:0 "#Y Gai'wiio Deities#!\n\nSent by Shakwayatisu to share holy wisdom to Handsome Lake, the Four Messengers proclaimed several things; through the Great Feather Dance, the spirit of the people will be lifted. Drinking of strawberry juice will also help them to recover, and that alcohol, or the mind changer must be abstained from."
+ omen_four_messengers_desc:0 "#Y Gai'wiio Deities#! \nSent by Shakwayatisu to share holy wisdom to Handsome Lake, the Four Messengers proclaimed several things; through the Great Feather Dance, the spirit of the people will be lifted. Drinking of strawberry juice will also help them to recover, and that alcohol, or the mind changer must be abstained from."
 
  deity_he_no:0 "$omen_he_no$"
  omen_he_no:0 "Hé-no"
- omen_he_no_desc:0 "#Y Gai'wiio Deity#!\n\nHé-no is the thunder spirit of the sky. He resides in the far west, living with his wife and his eagles, Keneu and Oshadagea. He is an enemy of witches and malevolent spirits, which Hé-no strikes down with his bow and arrows, and thunderbolts. He is considered to help bring rain down on crops, and fosters growth."
+ omen_he_no_desc:0 "#Y Gai'wiio Deity#! \nHé-no is the thunder spirit of the sky. He resides in the far west, living with his wife and his eagles, Keneu and Oshadagea. He is an enemy of witches and malevolent spirits, which Hé-no strikes down with his bow and arrows, and thunderbolts. He is considered to help bring rain down on crops, and fosters growth."
 
  deity_cornplanter:0 "$omen_cornplanter$"
  omen_cornplanter:0 "Cornplanter"
- omen_cornplanter_desc:0 "#Y Gai'wiio Deity#!\n\nThe half-brother of Handsome Lake, Cornplanter, or Kaiiontwa'kon in the Seneca tongue, was a mighty chief of his people. He fought frequently with the Americans, and was equally skilled in warfare and diplomacy. His adoption and endorsement of Handsome Lake's Code helped to cement the faith in it's infancy."
+ omen_cornplanter_desc:0 "#Y Gai'wiio Deity#! \nThe half-brother of Handsome Lake, Cornplanter, or Kaiiontwa'kon in the Seneca tongue, was a mighty chief of his people. He fought frequently with the Americans, and was equally skilled in warfare and diplomacy. His adoption and endorsement of Handsome Lake's Code helped to cement the faith in it's infancy."
 
  deity_:0 "$omen_$"
  omen_:0 ""

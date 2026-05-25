@@ -91,3 +91,23 @@ MICHIGAN_RUSTCULT = { #Michigan Promethean flag
 		instance = { position = { 0.5 0.5 } scale = { 0.45 0.45 }  }
 	}
 }
+
+SYRACUSE_INDUSTRIALIST = { #Syracuse Promethean / Industrialist
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = rgb { 72 130 129 }
+	color2 = "spartan_rust"
+	color3 = "pink_skin"
+
+	#colored_emblem = {
+	#	texture = "ce_syracuse.dds"
+	#	color1 = "offwhite"
+	#	color2 = "offwhite"
+	#}
+
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "offwhite"
+		color2 = "roman_gold"
+		instance = { scale = { 0.7 0.7 } }
+	}
+}

@@ -1,0 +1,31 @@
+﻿l_english:
+ ## Reawakened ##
+ deity_next_cycle:0 "$omen_next_cycle$"
+ omen_next_cycle:0 "The Next Cycle"
+ omen_next_cycle_desc:0 "#Y Rosicrucian Concept#! \nThe Next Cycle is the term used to refer to what is commonly known as 'Death'. Rosicrucians reject this idea, and call it  a 'transition' maintaining that the physical Body separates from the Soul."
+
+ deity_hermes_trismegistus:0 "$omen_hermes_trismegistus$"
+ omen_hermes_trismegistus:0 "Hermes Trismegistus"
+ omen_hermes_trismegistus_desc:0 "#Y Greek Philosopher#! \nHermes Trismegistus, or Hermes the Thrice-Great, is a syncretism of the Greek messenger-god Hermes with the Egyptian god of wisdom, Thoth. Widely regarded by believers as a historical man, he is seen as an illustrious sage, a great natural philosopher and a consummate physician who defied death. Hermes Trismegistus is credited as the author of a large number of sebayt (Egyptian wisdom literature), often dealing with alchemical experimentation in the pursuit of immortality and higher wisdom. He has further been credited as the inventor of astronomy, astrology, the science of numbers, geometry, surveying, medicine, botany, civilized government, reading, writing, and oratory."
+
+ deity_akhenaten:0 "$omen_akhenaten$"
+ omen_akhenaten:0 "Akhenaten"
+ omen_akhenaten_desc:0 "#Y Egyptian Pharaoh#! \nBorn as Amenhotep IV, This most enlightened pharaoh was so inspired by the mystery teachings that he gave a completely new direction to Egypt's religion and philosophy. He established a religion which recognized the Aten, the solar disk, as being the symbol of the sole deity—the foundation of life itself, the symbol of Light, Truth, and Joy—and changed his name to Akhenaten to reflect these new ideas. Although his religious ideas were not appreciated in his time"
+
+ deity_thoth:0 "$omen_thoth$"
+ omen_thoth:0 "Thoth"
+ omen_thoth_desc:0 "#Y Egyptian God#! \nThoth was the Egyptian god of wisdom, writing, hieroglyphs, science, magic, art, judgment, and the dead. In art, he was often depicted as a man with the head of an ibis or a baboon, animals sacred to him."
+
+ deity_pythagoras:0 "$omen_pythagoras$"
+ omen_pythagoras:0 "Pythagoras"
+ omen_pythagoras_desc:0 "#Y Pythagorean Philosopher#! \nPythagoras of Samos was a great philosopher, religious leader and polymath who founded the eponymous Pythagorean sect in Croton after studying in Egypt. He set out a communal, ascetic lifestyle for his followers, with the maxim 'all things in common among friends'. Pythagoras taught the doctrine of metempsychosis, the transmigration of souls, which may have led him to prescribe vegetarianism and the avoidance of fava beans. He is credited as a miracle-worker. He also taught belief in the music of the spheres, numerology, and mathematical perfection."
+
+ deity_absolute:0 "$omen_absolute$"
+ omen_absolute:0 "Absolute"
+ omen_absolute_desc:0 "#Y Rosicrucian Deity#! \nKnown by many names, Absolute is the being that created the material world. It is only through the process of Mysticism, various rituals and studies, by which one may eventually experience direct, conscious union with the Absolute."
+
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 ""
+
+

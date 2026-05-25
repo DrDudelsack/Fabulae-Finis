@@ -9,3 +9,4 @@
 # Ozymandian 800-899
 # Woodlands 900-999
 # Spiritualist 1000 - 1099
+# Reawakened 1100 - 1199
