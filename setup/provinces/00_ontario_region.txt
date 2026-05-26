@@ -1176,8 +1176,8 @@
 
 8925={ #
 	terrain="plains"
-	culture="sixer"
-	religion="united_church"
+	culture="abecede"
+	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1189,8 +1189,8 @@
 
 8926={ #
 	terrain="farmland"
-	culture="sixer"
-	religion="promethean"
+	culture="abecede"
+	religion="ahl_al_qibla"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

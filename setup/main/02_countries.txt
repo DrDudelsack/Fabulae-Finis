@@ -1220,7 +1220,7 @@ country = {
 			}
 
 			own_control_core = {
-				739 740 7875 8926
+				739 740 7875
 			}
 		}
 
@@ -2261,7 +2261,7 @@ country = {
 				3098 7847 6133 3097 3099 2565 2563 9495 9494
 				3707 2873 2872 3705 2871 3706
 				7872 7870 3498 3497 8505 8503 3496 8504 6302
-				4669 8061 9405 4671 4670 3562 3563 3564 2149 8925 
+				4669 8061 9405 4671 4670 3562 3563 3564 2149 
 				1405 1403 1404 8380 7782 7780 8379 8378 7281 7280 7282 
 				7701 7704 7702 7703 1135 1136 7781
 			}
@@ -2566,6 +2566,40 @@ country = {
 
 			own_control_core = {
 				5884 6132 7846 7848 
+			}
+		}
+		SIK = { # Bramladesh
+			government = aristocratic_monarchy
+			primary_culture = abecede
+			religion = sikhi
+			capital = 8925
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8925
+			}
+		}
+		PAK = { # Mississauga
+			government = theocratic_republic
+			primary_culture = abecede
+			religion = ahl_al_qibla
+			capital = 8926
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8926
 			}
 		}
 		LON = { # London

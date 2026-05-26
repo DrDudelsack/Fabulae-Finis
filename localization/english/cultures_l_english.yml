@@ -242,7 +242,13 @@
  coloradan:0 "Coloradan"
  montaneer:0 "Montaneer"
  neomexicano:0 "Neomexicano"
- 
+
+ ## Desi ##
+ abecede:0 "Abecede"
+ aybidi:0 "Aybidi"
+ surreyda:0 "Sureyda"
+ desistani:0 "Desistani"
+ fremontwala:0 "Fremontwala"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

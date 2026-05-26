@@ -340,6 +340,10 @@
  TUN_ADJ:0 "Thunderer"
  MAR:0 "Marathon"
  MAR_ADJ:0 "Marathonian"
+ SIK:0 "Bramladesh"
+ SIK_ADJ:0 "Bramptonian"
+ PAK:0 "Mississauga"
+ PAK_ADJ:0 "Mississaugan"
 
 # Gaelic #
  AUTINI:0 "Autinia"

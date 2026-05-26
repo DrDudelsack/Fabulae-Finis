@@ -142,6 +142,86 @@ ursuline = { # Ursuline
 	sacrifice_icon = sacrifice_conclavian
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+## Islamic ##
+# todo - religion modifiers
+sunni = { # Sunni
+	color = rgb { 34 139 34 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.25
+		global_tax_modifier = -0.05
+		
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_muslim
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+twelver = { # Twelver- Jaffari Shia
+	color = rgb { 12 52 110 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.25
+		global_tax_modifier = -0.05
+		
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_muslim
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+ismaili = { # Ismaili- Ismaili Shia
+	color = rgb { 0 128 128 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.25
+		global_tax_modifier = -0.05
+		
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_muslim
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+ahmadi = { # Ahmadi
+	color = rgb { 72 181 163 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.25
+		global_tax_modifier = -0.05
+		
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_muslim
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+ahl_al_qibla = { # Ahl al-Qibla- Nondenominational
+	color = rgb { 94 119 3 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.25
+		global_tax_modifier = -0.05
+		
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_muslim
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+shriner = { # Shriner- Freemason converts to Islam
+	color = rgb { 24 24 32 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.25
+		global_tax_modifier = -0.05
+		
+	}
+	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_muslim
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Industrialist ##
 promethean = { # Promethean
 	color = rgb { 188 88 18 }

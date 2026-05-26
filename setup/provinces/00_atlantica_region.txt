@@ -176,7 +176,17 @@
 		amount=2
 	}
 	freemen={
-		amount=5
+		amount=2
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=2
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=2
 	}
 	slaves={
 		amount=4
@@ -198,7 +208,17 @@
 		amount=2
 	}
 	freemen={
-		amount=7
+		amount=3
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=2
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=2
 	}
 	slaves={
 		amount=4
@@ -233,7 +253,17 @@
 		amount=2
 	}
 	freemen={
-		amount=7
+		amount=3
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=2
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=2
 	}
 	slaves={
 		amount=4
@@ -531,11 +561,21 @@
 		amount=3
 	}
 	freemen={
-		amount=5
+		amount=3
 	}
 	freemen={
 		religion="catholic"
 		amount=3
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=1
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=1
 	}
 	slaves={
 		amount=3
@@ -561,7 +601,17 @@
 		amount=3
 	}
 	slaves={
-		amount=3
+		amount=1
+	}
+	slaves={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=1
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=1
 	}
 }
 
@@ -826,7 +876,17 @@
 		amount=5
 	}
 	freemen={
-		amount=14
+		amount=10
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=2
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=2
 	}
 	slaves={
 		amount=10
@@ -856,7 +916,17 @@
 		amount=5
 	}
 	freemen={
-		amount=17
+		amount=10
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=4
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=3
 	}
 	slaves={
 		amount=7
@@ -1240,7 +1310,17 @@
 		amount=2
 	}
 	freemen={
-		amount=7
+		amount=3
+	}
+	freemen={
+		culture="aybidi"
+		religion="ahl_al_qibla"
+		amount=2
+	}
+	freemen={
+		culture="aybidi"
+		religion="hindu"
+		amount=2
 	}
 	slaves={
 		amount=4

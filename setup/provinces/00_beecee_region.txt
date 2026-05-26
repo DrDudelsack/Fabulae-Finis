@@ -208,7 +208,7 @@
 
 4144={ #
 	terrain="plains"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 6395={ #
 	terrain="hills"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 6396={ #
 	terrain="plains"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 6397={ #
 	terrain="plains"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 7881={ #
 	terrain="mountain"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 7882={ #
 	terrain="mountain"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 7883={ #
 	terrain="mountain"
-	culture="canuck"
+	culture="surreyda"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10
