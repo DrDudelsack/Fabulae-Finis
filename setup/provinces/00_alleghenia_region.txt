@@ -260,7 +260,7 @@
 
 5460={ #
 	terrain="forest"
-	culture="susquehannan"
+	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="maple"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 5461={ #
 	terrain="hills"
-	culture="susquehannan"
+	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 5463={ #
 	terrain="hills"
-	culture="susquehannan"
+	culture="yinzic"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 6593={ #Pomfret
 	terrain="plains"
-	culture="upstater"
+	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 6594={ #Gowanda
 	terrain="plains"
-	culture="upstater"
+	culture="buckeye"
 	religion="promethean"
 	trade_goods="maple"
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 6595={ #Hamburg
 	terrain="plains"
-	culture="upstater"
+	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

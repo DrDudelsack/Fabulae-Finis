@@ -197,3 +197,13 @@
  ## Reawakened ##
  rosicrucian:0 "Rosicrucian"
  desc_rosicrucian:0 "The Rosicrucian Orders are a collection of secretive organizations claiming lineage from an eclectic and esoteric sect of Old Europe's Christendom, which in turn claimed lineage from alchemical mystics from the time of Jesus and even before. Theologically the Rosicrucians all believe that the material world is an emanation from a divine being called the Absolute, who is incomprehensible to mortal minds. The goal of life is to achieve spiritual evolution along the Seven Worlds Within God, until eventually reuniting with God as the Emanation of the Absolute. Rosicrucians believe this can be achieved through spiritual awakening, which is the result of attaining mystical knowledge and training. Today the sect as a whole exists at the outskirts of Christianity in general, with some various outposts of fellowships remaining in some storied lodges across the Americas."
+
+ ## Islamic ##
+ sunni:0 "Sunni"
+ desc_sunni:0 ""
+ 
+ ahl_al_qibla:0 "Ahl Al Qibla"
+ desc_ahl_al_qibla:0 ""
+
+ shriner:0 "Shriner"
+ desc_shriner:0 ""

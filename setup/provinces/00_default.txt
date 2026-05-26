@@ -2808,7 +2808,7 @@
 
 284={ #
 	terrain="forest"
-	culture="eeyou"
+	culture="algonquin"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -5616,7 +5616,7 @@
 
 600={ #
 	terrain="forest"
-	culture="eeyou"
+	culture="algonquin"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -5629,7 +5629,7 @@
 
 601={ #
 	terrain="forest"
-	culture="eeyou"
+	culture="algonquin"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -110682,8 +110682,8 @@
 
 11540={ #
 	terrain="hills"
-	culture="ontarian"
-	religion="united_church"
+	culture="shieldshorer"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

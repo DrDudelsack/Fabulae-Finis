@@ -244,6 +244,7 @@
  neomexicano:0 "Neomexicano"
 
  ## Desi ##
+ desi:0 "Desi"
  abecede:0 "Abecede"
  aybidi:0 "Aybidi"
  surreyda:0 "Sureyda"
@@ -317,3 +318,5 @@
  great_basin_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  geechee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  geechee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ desi_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ desi_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

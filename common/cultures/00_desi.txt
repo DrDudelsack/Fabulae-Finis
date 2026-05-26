@@ -154,7 +154,7 @@
 	barbarian_names = {
 	}
 	
-	graphical_culture = south_indian_gfx north_indian_gfx
+	graphical_culture = south_indian_gfx 
 	ethnicities = {
 		10 = mauryan
 		3 = dravidian #Majority of diaspora from north india

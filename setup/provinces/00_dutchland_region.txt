@@ -221,7 +221,7 @@
 
 5459={ #
 	terrain="hills"
-	culture="deitsch"
+	culture="yinzic"
 	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10

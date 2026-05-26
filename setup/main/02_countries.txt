@@ -2571,7 +2571,7 @@ country = {
 		SIK = { # Bramladesh
 			government = aristocratic_monarchy
 			primary_culture = abecede
-			religion = sikhi
+			religion = sikhism
 			capital = 8925
 
 			technology={

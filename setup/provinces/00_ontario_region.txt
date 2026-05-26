@@ -1,7 +1,7 @@
 ﻿447={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="shieldshorer"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -13,8 +13,8 @@
 
 448={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -26,8 +26,8 @@
 
 449={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="shieldshorer"
+	religion="veteranic"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -65,7 +65,7 @@
 
 955={ #
 	terrain="hills"
-	culture="algonquin"
+	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 956={ #
 	terrain="hills"
-	culture="algonquin"
+	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 957={ #
 	terrain="forest"
-	culture="algonquin"
+	culture="francontarien"
 	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
@@ -169,8 +169,8 @@
 
 1272={ #
 	terrain="hills"
-	culture="ontarian"
-	religion="united_church"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -182,8 +182,8 @@
 
 1273={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="algonquin"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -195,8 +195,8 @@
 
 1274={ #
 	terrain="hills"
-	culture="ontarian"
-	religion="united_church"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 1403={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1404={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 1405={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -247,7 +247,7 @@
 
 2147={ #
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="sixer"
 	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2148={ #
 	terrain="hills"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -326,7 +326,7 @@
 2871={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2872={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2873={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -364,8 +364,8 @@
 
 2931={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -377,8 +377,8 @@
 
 2932={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -442,8 +442,8 @@
 
 3496={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="ursuline"
+	culture="francontarien"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -455,8 +455,8 @@
 
 3497={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="ursuline"
+	culture="francontarien"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -468,8 +468,8 @@
 
 3498={ #
 	terrain="plains"
-	culture="ontarian"
-	religion="midewiwin"
+	culture="francontarien"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -481,7 +481,7 @@
 
 3562={ #
 	terrain="forest"
-	culture="ontarian"
+	culture="shieldshorer"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 3563={ #
 	terrain="forest"
-	culture="ontarian"
+	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 3564={ #
 	terrain="forest"
-	culture="ontarian"
+	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
@@ -521,7 +521,7 @@
 3705={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="united_church"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 3707={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="catholic"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -559,7 +559,7 @@
 
 4669={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 6133={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 7022={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="haudenosaunee"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -812,7 +812,7 @@
 
 7780={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -825,7 +825,7 @@
 
 7781={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -838,7 +838,7 @@
 
 7782={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -864,7 +864,7 @@
 
 7847={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -877,7 +877,7 @@
 
 7848={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -890,7 +890,7 @@
 
 7870={ #
 	terrain="forest"
-	culture="algonquin"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -903,7 +903,7 @@
 
 7872={ #
 	terrain="forest"
-	culture="ontarian"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -942,8 +942,8 @@
 
 7953={ #
 	terrain="forest"
-	culture="ontarian"
-	religion="united_church"
+	culture="shieldshorer"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -955,8 +955,8 @@
 
 7954={ #
 	terrain="forest"
-	culture="ontarian"
-	religion="united_church"
+	culture="shieldshorer"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -968,8 +968,8 @@
 
 7955={ #
 	terrain="forest"
-	culture="ontarian"
-	religion="united_church"
+	culture="shieldshorer"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -981,7 +981,7 @@
 
 8061={ #
 	terrain="hills"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -1007,7 +1007,7 @@
 
 8063={ #
 	terrain="hills"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -1021,7 +1021,7 @@
 8378={ #
 	terrain="plains"
 	culture="montrealais"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1047,7 +1047,7 @@
 8380={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1060,7 +1060,7 @@
 8503={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1073,7 +1073,7 @@
 8504={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1086,7 +1086,7 @@
 8505={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1137,8 +1137,8 @@
 
 8719={ #
 	terrain="forest"
-	culture="ontarian"
-	religion="lakeshore"
+	culture="odawa"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1150,8 +1150,8 @@
 
 8720={ #
 	terrain="forest"
-	culture="ontarian"
-	religion="lakeshore"
+	culture="odawa"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1163,8 +1163,8 @@
 
 8721={ #
 	terrain="forest"
-	culture="ontarian"
-	religion="lakeshore"
+	culture="odawa"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1174,7 +1174,7 @@
 	}
 }
 
-8925={ #
+8925={ #Brampton
 	terrain="plains"
 	culture="abecede"
 	religion="sikhism"
@@ -1187,7 +1187,7 @@
 	}
 }
 
-8926={ #
+8926={ #Mississauga
 	terrain="farmland"
 	culture="abecede"
 	religion="ahl_al_qibla"
@@ -1229,7 +1229,7 @@
 9404={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="united_church"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1242,7 +1242,7 @@
 9405={ #
 	terrain="hills"
 	culture="ontarian"
-	religion="united_church"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1255,7 +1255,7 @@
 9406={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="lakeshore"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1281,7 +1281,7 @@
 9494={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="united_church"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1306,7 +1306,7 @@
 
 11608={ #
 	terrain="hills"
-	culture="ontarian"
+	culture="sixer"
 	religion="united_church"
 	trade_goods=""
 	civilization_value=10
@@ -1332,7 +1332,7 @@
 
 11619={ #
 	terrain="plains"
-	culture="haudenosaunee"
+	culture="sixer"
 	religion="gaiwiio"
 	trade_goods=""
 	civilization_value=10

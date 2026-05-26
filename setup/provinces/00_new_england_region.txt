@@ -65,7 +65,7 @@
 
 985={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 986={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="quebecois"
 	religion="transcendentalist"
 	trade_goods="maple"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 1053={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 1407={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 2782={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 3377={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 3378={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 4180={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10

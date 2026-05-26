@@ -210,7 +210,7 @@ ahl_al_qibla = { # Ahl al-Qibla- Nondenominational
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 shriner = { # Shriner- Freemason converts to Islam
-	color = rgb { 24 24 32 }
+	color = rgb { 51 178 25 }
 	modifier = {
 		happiness_for_wrong_culture_group_modifier = 0.03
 		global_pop_conversion_speed_modifier = 0.25

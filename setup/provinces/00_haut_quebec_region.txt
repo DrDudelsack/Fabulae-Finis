@@ -78,7 +78,7 @@
 
 1136={ #
 	terrain="plains"
-	culture="ontarian"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 1931={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1932={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 1933={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -339,7 +339,7 @@
 2255={ #
 	terrain="farmland"
 	culture="haudenosaunee"
-	religion="gaiwiio"
+	religion="ursuline"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2256={ #
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="gaiwiio"
+	religion="ursuline"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 7280={ #
 	terrain="plains"
 	culture="algonquin"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 7281={ #
 	terrain="plains"
 	culture="algonquin"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 7282={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -884,7 +884,7 @@
 
 9347={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 9348={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 9349={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -923,7 +923,7 @@
 
 9350={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
