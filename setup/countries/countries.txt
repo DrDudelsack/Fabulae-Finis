@@ -106,6 +106,8 @@ CPR = "setup/countries/midwest/copperland.txt"
 WPC = "setup/countries/midwest/waupaca.txt"
 NRT = "setup/countries/midwest/northwoods.txt"
 WSR = "setup/countries/midwest/wisconsin_rapids.txt"
+PLT = "setup/countries/midwest/platte.txt"
+PTL = "setup/countries/midwest/platte_real.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

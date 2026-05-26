@@ -28,6 +28,8 @@
  como_heritage_desc:0 "The Choi Dynasty has been in power of Como since The Event. No one knows where the founder, Mun Choi, comes from. Some say from as far as New England, others say as close as Chicago, and others still say from a distant and long-forgotten land beyond the shores of California. Regardless, under his reign he transformed Como into what was a democracy into an absolute kingdom, centralizing his rule into the President-Chancellory we are familiar with today. Since then, his descendents have aggressively conquered lands as far as Rolla and became one of the pre-imminent states in the whole of Missouri. Located right in the center of it all, the Choi Dynasty continues to play a pivotal role in Missourian politics, from Kaycie to St. Louis."
  truman_heritage:0 "Kirksville Heritage"
  truman_heritage_desc:0 "The capital of Kirksville, located in the desolate Missouri north, quickly became a dominating power in a land generally devoid of centralized polities. Truman University became a source of legitimacy and cultural prestige, ultimately resulting in Kirksville's capture of Route 63 and management of Route 63, a lucrative traderoute that carries goods from Missouri's south to Idaho and beyond."
+ st_louis_heritage:0 "Heritage of the Busch Dynasty"
+ st_louis_heritage_desc:0 "St. Louis, the Gateway to the West has been ruled by the Promethean Busch dynasty for as long as anyone has known. While the Busch Titans amass vast amounts of wealth from their beer enterprises, the common man in their city languishes under their oppressive rule. Perhaps it is time for a change of leadership.."
 
  ## Culture Groups ##
  mid_atlantic_heritage:0 "Mid-Atlantic Heritage"
@@ -58,6 +60,7 @@
  deutschamerikaner_heritage_desc:0 "The Deutschamerikaner are descendants of the people known as 'Germans', who immigrated to the lands of America in pre-Event times. They are known for their skill in manufacturing, construction, and resourcefulness in business ventures."
  canayen_heritage:0 "Canayen Heritage"
  canayen_heritage_desc:0 "The French speaking Canayen are overwhelmingly dominated by their rich aristocracy and clergy. Despite their fractured nature, they have been more than capable of standing against a foe many times their strength and size. To say they are proud of their independence would be an understatement."
+
  ## Cultures ## 
  hudsonian_heritage:0 "Hudsonian Heritage" 
  hudsonian_heritage_desc:0 "Living near the fertile Hudson river, the Hudsonians use the river to their full advantage, trading with the metropolises downriver, and farming along the banks of the Hudson."
@@ -65,6 +68,20 @@
  upstater_heritage_desc:0 "The Upstaters are defined primarily by the complex webs of alliances which they often find themselves in, and their many and varied religious practices. It is usually charismatic leaders who push these religions, sometimes at their own expense."
  appalachian_heritage:0 "Appalachian Heritage"
  appalachian_heritage_desc:0 "Primarily mountain-dwellers, the Appalachian tribes are regarded as strange and foreign by many. In their distant hollers, there is talk of dark and occult gods being worshipped..."
+ gatewayan_heritage:0 "Gatewayan Heritage"
+ gatewayan_heritage_desc:0 "Living at the confluence of the Missisippi, Missouri, and Illinois rivers, the Gatewayans are prolific merchants and sailors, peddling their goods up and down the Missisippi."
+ heartlander_heritage:0 "Heartlander Heritage"
+ heartlander_heritage_desc:0 "Their lands are called the 'Heart of the Midwest', for the amount of food they grow, but also the humble and handy nature of their people."
+ grangelander_heritage:0 "Grangelander Heritage"
+ grangelander_heritage_desc:0 "The thundering of Grangelander horses is often heard on the vast, desolate plains that they call home. Sedentary settlement is rare, as their way of life makes settling down difficult."
+ minnesotan_heritage:0 "Minnesotan Heritage"
+ minnesotan_heritage_desc:0 "Generally well liked by their neighbors, the Minnesotans are known for their hospitality. They generally prefer to settle things diplomatically, although they have no qualms taking up arms, especially if it is against the despised Cheeseheads. The headwaters of the Missisippi is found in their nation, which allows them to concentrate in large settlements. Their two largest cities, Minneapolis and St. Paul are built on the banks of this river."
+ northlander_heritage:0 "Northlander Heritage"
+ northlander_heritage_desc:0 "The Northlanders inhabit a cold and windswept area, mostly devoid of trees. They are skilled horsemen, riding to other lands in search of food, gold, or people. They are no stranger to the cold, and their people can tolerate abominable temperatures. It is a practice among them to see who can wear the least amount of furs during the wintertime - a test of who is the stronger warrior."
+ yooper_heritage:0 "Yooper Heritage"
+ yooper_heritage_desc:0 "The Yoopers inhabit a peninsula of the same name; there is some debate as to whether they gave the name to it, or the other way around. Like most cultures living near the Great Lakes, they have taken to indiscriminate raiding as a way of life. The dense woodlands of Yoopland are home to sizable copper and iron mines. The Yoopers say that these mines have been operating since even before the Event, although the truth of this is uncertain. They are intensely superstitious, sticking only to their gods."
+ 
+ 
 
 
 

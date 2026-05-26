@@ -215,6 +215,10 @@
  NRT_ADJ:0 "Northwooder"
  WSR:0 "Rapids"
  WSR_ADJ:0 "Rapidian"
+ PLT:0 "Republican"
+ PLT_ADJ:0 "Republicaner"
+ PTL:0 "Platte"
+ PTL_ADJ:0 "Plattean"
  
 
  ## South ##

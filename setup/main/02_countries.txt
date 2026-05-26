@@ -2772,6 +2772,28 @@ country = {
 				6117 6116 1316 1318 1317
 			}
 		}
+		PLT = { # Republican
+			government = tribal_chiefdom
+			primary_culture = grangelander
+			religion = trailwalker
+			capital = 9139
+			centralization = -20
+
+			own_control_core = {
+				9139 7159 2248 7160 9138 7744 7746 9140  6780
+			}
+		}
+		PTL = { # Platte
+			government = tribal_chiefdom
+			primary_culture = grangelander
+			religion = trailwalker
+			capital = 3898
+			centralization = 20
+
+			own_control_core = {
+				3898 7468 497 3897 3899 6779 6778 496 495 
+			}
+		}
 	}
 }
 
