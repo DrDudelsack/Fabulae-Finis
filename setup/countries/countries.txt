@@ -146,6 +146,7 @@ CPF = "setup/countries/south/cape_fear.txt"
 AGU = "setup/countries/south/st_augustine.txt"
 MOS = "setup/countries/south/mouse.txt"
 TMP = "setup/countries/south/tampa.txt"
+SFL = "setup/countries/south/soflo.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

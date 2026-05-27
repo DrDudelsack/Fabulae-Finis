@@ -897,7 +897,7 @@ country = {
 			}
 
 			own_control_core = {
-				1189 11931 7315 11933 7316 7314
+				1189 11931 7315 11933 7316 7314 1188 1191 1190 11932
 			}
 		}
 		MOS = { # The Mouse
@@ -907,13 +907,13 @@ country = {
 			capital = 7647
 
 			own_control_core = {
-				7647 7646 7645 7643 11941 7644 11942
+				7647 7646 7645 7643 11941 7644 11942 9630 9631 11940 9492 6612 3967 9491 
 			}
 		}
 		TMP = { # Tampa
 			government = piratical_diarchy
 			primary_culture = sunshiner
-			religion = catholic
+			religion = shriner
 			capital = 4816
 
 			technology={
@@ -924,7 +924,24 @@ country = {
 			}
 
 			own_control_core = {
-				4816 11935 11936 4817 11937 11938 4819 4818 5457 5458 11934 4814 4815
+				4816 11935 11936 4817 11937 11938 4819 4818 5457 5458 11934 4814 4815 6757 1715 1714 11939 244 11943 
+			}
+		}
+		SFL = { #Soflo
+			government = plutocratic_monarchy
+			primary_culture = sofloano
+			religion = catholic
+			capital = 4201
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4201 4202 3275 11946 5352 5353 3140 11945 3141 6613 3966 11944 242 243 241 4590 4589 3956 3274 3965 
 			}
 		}
 		CIN = { # Cincinatti
@@ -1276,7 +1293,7 @@ country = {
 
 			own_control_core = {
 				7000 6999 6998 6997 381 379 380 1667
-				6996 1713 1715 1714
+				6996 1713 
 			}
 		}
 
