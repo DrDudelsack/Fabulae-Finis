@@ -157,7 +157,7 @@
 1071={ #
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1073={ #
 	terrain="forest"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 1467={ #
 	terrain="farmland"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="continental"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2169={ #New Bedford
 	terrain="plains"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="continental"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2170={ #Taunton
 	terrain="plains"
 	culture="bayfolk"
-	religion="transcendentalist"
+	religion="continental"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2171={ #Plymouth Rock
 	terrain="farmland"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="continental"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 2905={ #Springfield
 	terrain="farmland"
 	culture="bayfolk"
-	religion="gothic"
+	religion="continental"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 2906={ #
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 2907={ #Chicopee
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 3485={ #
 	terrain="forest"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 3486={ #
 	terrain="forest"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 6114={ #New London
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="continental"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 6222={ #Coventry
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 6224={ #Providence
 	terrain="farmland"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="continental"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 6225={ #
 	terrain="plains"
 	culture="bayfolk"
-	religion="mayan_pantheon"
+	religion="continental"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 6534={ #
 	terrain="plains"
 	culture="bayfolk"
-	religion="catholic"
+	religion="continental"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 6535={ #Boston
 	terrain="farmland"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="continental"
 	trade_goods="papyrus"
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 6536={ #Quincy
 	terrain="farmland"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="continental"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 7032={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -950,7 +950,7 @@
 7161={ #
 	terrain="forest"
 	culture="shorehugger"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 7162={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 7163={ #
 	terrain="forest"
 	culture="shorehugger"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 7222={ #
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 7223={ #
 	terrain="forest"
 	culture="bayfolk"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 7224={ #
 	terrain="plains"
 	culture="bayfolk"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 7763={ #
 	terrain="forest"
 	culture="bayfolk"
-	religion="gothic"
+	religion="transcendentalist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 8773={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 8774={ #
 	terrain="forest"
 	culture="shorehugger"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0

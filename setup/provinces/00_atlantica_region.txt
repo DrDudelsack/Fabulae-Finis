@@ -1,7 +1,7 @@
 ﻿82={ #Danbury
 	terrain="plains"
 	culture="gothamite"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -33,7 +33,7 @@
 84={ #Bridgeport
 	terrain="farmland"
 	culture="gothamite"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -108,7 +108,7 @@
 312={ #Brookhaven
 	terrain="forest"
 	culture="gothamite"
-	religion="americanist"
+	religion="fathomless"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
@@ -124,7 +124,7 @@
 313={ #Southhampton
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="fathomless"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
@@ -144,7 +144,7 @@
 314={ #Riverhead
 	terrain="plains"
 	culture="gothamite"
-	religion="americanist"
+	religion="fathomless"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
@@ -728,7 +728,7 @@
 3425={ #New Milford
 	terrain="forest"
 	culture="vermonter"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -741,7 +741,7 @@
 3426={ #West Torrington
 	terrain="forest"
 	culture="vermonter"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -767,7 +767,7 @@
 3506={ #Waterbury
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -780,7 +780,7 @@
 3507={ #New Haven
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1012,7 +1012,7 @@
 5238={ #Manchester
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="continental"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -1025,7 +1025,7 @@
 5239={ #Hartford
 	terrain="farmland"
 	culture="vermonter"
-	religion="americanist"
+	religion="continental"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -1038,7 +1038,7 @@
 5240={ #Bristol
 	terrain="plains"
 	culture="vermonter"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

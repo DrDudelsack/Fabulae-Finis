@@ -115,7 +115,7 @@
 999={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -529,7 +529,7 @@
 3469={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -555,7 +555,7 @@
 3471={ #Saratoga Springs
 	terrain="plains"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -620,7 +620,7 @@
 5192={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -659,7 +659,7 @@
 5619={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -672,7 +672,7 @@
 5620={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -685,7 +685,7 @@
 5712={ #
 	terrain="hills"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -868,7 +868,7 @@
 6538={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -881,7 +881,7 @@
 6539={ #
 	terrain="plains"
 	culture="hudsonian"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -894,7 +894,7 @@
 6678={ #Albany
 	terrain="farmland"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods=""
 	civilization_value=35
 	barbarian_power=0
@@ -928,7 +928,7 @@
 6679={ #Coeymans
 	terrain="plains"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="grain"
 	civilization_value=25
 	barbarian_power=0
@@ -956,7 +956,7 @@
 6680={ #Schenectady
 	terrain="farmland"
 	culture="hudsonian"
-	religion="ursuline"
+	religion="bostonian"
 	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
@@ -1101,7 +1101,7 @@
 7031={ #
 	terrain="hills"
 	culture="hudsonian"
-	religion="americanist"
+	religion="transcendentalist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1292,7 +1292,7 @@
 9360={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -1305,7 +1305,7 @@
 9361={ #
 	terrain="plains"
 	culture="upstater"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1318,7 +1318,7 @@
 9362={ #
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0

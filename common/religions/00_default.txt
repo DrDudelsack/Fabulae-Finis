@@ -28,7 +28,7 @@ caesarist = { # Caesarist
 		agressive_expansion_impact = -0.05
 		happiness_for_same_religion_modifier = -0.03
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_principlist
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -39,7 +39,18 @@ heartful = { # Heartful
 		build_time = -0.20
 		war_score_cost = 0.10
 	}
-	religion_category = sages
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_principlist
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+continental = { # Continental
+	color = rgb { 44 114 255 }
+	modifier = {
+		land_morale_modifier = 0.03
+		monthly_tyranny = -0.03
+		global_nobles_happyness = -0.05
+	}
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_principlist
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -138,6 +149,18 @@ ursuline = { # Ursuline
 		monthly_political_influence_modifier = -0.05
 	}
 	religion_category = sages
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_conclavian
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+bostonian = { # Bostonian Catholic 
+	color = rgb { 107 47 56 }
+	modifier = {
+		monthly_political_influence_modifier = 0.05
+		happiness_for_wrong_culture_modifier = 0.05
+		diplomatic_relations = -1
+	}
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_conclavian
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"

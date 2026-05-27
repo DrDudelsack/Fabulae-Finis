@@ -144,7 +144,7 @@
 3371={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 5493={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 5494={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 5495={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 5496={ #
 	terrain="hills"
 	culture="pocono"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 6215={ #
 	terrain="plains"
 	culture="pocono"
-	religion="catholic"
+	religion="bostonian"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0

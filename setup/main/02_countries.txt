@@ -1046,7 +1046,7 @@ country = {
 		HUD = { #Albany
 			government = aristocratic_monarchy
 			primary_culture = hudsonian
-			religion = ursuline
+			religion = bostonian
 			capital = 6678
 
 			technology={
