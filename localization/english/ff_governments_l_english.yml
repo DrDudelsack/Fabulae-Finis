@@ -95,4 +95,10 @@
  imperium_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?
  federal_ruler_caesarist:0 "Caesar" #Or Caesar or Augustus?
 
+ plutocratic_republic_ruler_twainist:0 "Bosun"
+ democratic_republic_ruler_twainist:0 "Bosun"
+ aristocratic_republic_twainist:0 "Bosun"
+ oligarchic_republic_ruler_twainist:0 "Bosun"
+
+
  
