@@ -219,7 +219,18 @@
  PLT_ADJ:0 "Republicaner"
  PTL:0 "Platte"
  PTL_ADJ:0 "Plattean"
- 
+ BMS:0 "Bismarck"
+ BMS_ADJ:0 "Bismarcker"
+ YNK:0 "Iháŋkthuŋwaŋ"
+ YNK_ADJ:0 "Iháŋkthuŋwaŋ"
+ OGL:0 "Pahá Sápa"
+ OGL_ADJ:0 "Pahá Sápa"
+ SDK:0 "Dakhóta itókaga"
+ SDK_ADJ:0 "Dakhóta itókaga"
+
+ ## Great Plains ##
+ NDK:0 "Dakhóta Wazíyata"
+ NDK_ADJ:0 "Dkhóta Wazíyata"
 
  ## South ##
  NOL:0 "New Orleans"

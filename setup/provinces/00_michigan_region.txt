@@ -92,7 +92,7 @@
 839={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="arsenalist"
+	religion="lakeshore"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 841={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="arsenalist"
+	religion="lakeshore"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3073={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="mayan_pantheon"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3472={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="arsenalist"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 3473={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="arsenalist"
+	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 8954={ #
 	terrain="plains"
 	culture="michigander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 9411={ #
 	terrain="plains"
 	culture="michigander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 9413={ #
 	terrain="forest"
 	culture="upnorther"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

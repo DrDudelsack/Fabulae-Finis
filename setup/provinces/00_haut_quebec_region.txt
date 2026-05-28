@@ -638,7 +638,7 @@
 7281={ #
 	terrain="plains"
 	culture="algonquin"
-	religion="veteranic"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -443,7 +443,7 @@
 3496={ #
 	terrain="plains"
 	culture="francontarien"
-	religion="veteranic"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 4671={ #
 	terrain="forest"
 	culture="ontarian"
-	religion="united_church"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1060,7 +1060,7 @@
 8503={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1073,7 +1073,7 @@
 8504={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1086,7 +1086,7 @@
 8505={ #
 	terrain="plains"
 	culture="ontarian"
-	religion="veteranic"
+	religion="viking"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

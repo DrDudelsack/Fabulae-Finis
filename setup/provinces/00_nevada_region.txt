@@ -245,7 +245,7 @@
 5556={ #Henderson
 	terrain="desert"
 	culture="mojavean"
-	religion="atomicist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=18
 	barbarian_power=0

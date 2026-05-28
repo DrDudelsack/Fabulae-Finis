@@ -479,3 +479,59 @@ deity_prince = { # Prince
 		culture_apotheosis_rel_tech_effect = yes
 	}
 }
+deity_big_ole= {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = viking
+				CULTURE = minnesotan
+			}
+			rare_deity_trigger = {
+				RELIGION = viking
+				CULTURE = northlander
+			}
+			deity:omen_big_ole = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
+	omen = { naval_morale_modifier = omen_naval_morale_modifier_svalue } #Bonus from Omen
+	religion = viking
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_capital_freemen_effect = yes
+    }
+}
+deity_brewer = { # Milauwkee Brewer's mascot
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = viking
+				CULTURE = cheesehead
+			}
+			deity:omen_brewer = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_freemen_happyness = deity_global_freemen_happyness_svalue }
+	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = viking
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}

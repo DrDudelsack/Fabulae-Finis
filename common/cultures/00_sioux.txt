@@ -11,36 +11,387 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 
-	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
+	#Dakota first and last names
+	male_names = { 
+		A_eng_p_e_act_tu_Th_o_act_ke_c_crn_a
+		C_crn_a_eng_kd_e_act__s_crn_ka_C_crn__i_act_kana C_crn_a_eng_t_e_act__M_a_act_za C_crn_et_a_act__eng__Wakh_u_act_wa_M_a_act_ni
+		Hakadah Hup_a_act_hu_S_crn__a_act_
+		I_eng_kp_a_act_duta I_s_crn_t_a_act_hba
+		Ka_eng__i_act__D_u_act_ta
+		M_a_act_za_Oy_a_act_te M_a_act_za_S_crn__a_act_ Mahp_i_act_ya_Wica_s_crn_ta Mat_o_act__N_u_act__eng_pa Ma_z_crn_uha_Hok_s_crn__i_act_na
+		Oh_i_act_ye_S_pst_a
+		S_crn_akpe S_crn_i_s_crn__o_act_kaduta
+		Tamaha T_i_act_pi_S_a_act_pa Ta_o_act_yate_D_u_act_ta Tat_a_act__eng_ka_M_a_act_ni Ti_o_act_wa_s_crn_t_e_act_ Tiwakh_a_act__eng_
+		W_a_act_hpe_S_crn__a_act_ W_a_act_nata_eng_ W_o_act_winaphe Wa_eng_bd_i_act_ Wa_eng_bd_i_act__G_i_act_ Wa_eng_bd_i_act__Ok_i_act__c_crn_hize Wa_eng_bd_i_act__T_a_act__eng_ka Wak_i_act__eng_ya_eng__D_u_act_ta Wakh_u_act_te Wap_a_act_hask_a_act_
+		Zitk_a_act_d_u_act_ta
+		Albin Ambrose Anthony
+		Baptiste Bentley
+		Cameron Charles Claude Clayton Creighton
+		Daniel Darcy David Dennis Donell Duane
+		Frank
+		Gabriel Gerald Giles
+		Isaac
+		Jamie Jerome Joseph
+		Laniel Leland Louis
+		Martin Michael Miles
+		Patrick Paul Pierre
+		Raymond Richard Robert Roger Romuald
+		Sylvester
+		Vincent
+		Wilson Woodrow
 	}
 	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
+		A_eng_p_e_act_tu_Wa_s_crn_t_e_act__Wi_eng_
+		Sn_a_act_sna
+		Thu_eng_k_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_
+		Wakh_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_ Wi_c_crn__a_act__eng_hpi
+		Zitk_a_act_la_S_crn__a_act__Wi_eng_
+		Adele Adeline Ann Ann_Marie Antoinette Arlene Audrey
+		Bernadette Bernadine
+		Charlene Claire
+		Danielle Dominique
+		Eleanor Emily Evelyn
+		Gabrielle
+		Lisa Lynn
+		Mary Maxine Melanie Michelle
+		Nicole
+		Pauline
+		Rose
+		Sarah Shannon
+		Thomasine
 	}
 	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+		Archambeau.Archambeau.Archambeau.Archambeau
+		Arrow
+		Aungie
+		Bdew_e_act_kha_eng_thu_eng_wa_eng_
+		Bear
+		Bear_Cub
+		Bearbull
+		Belgarde
+		Benn
+		Bighorn
+		Bird
+		Black_Bird
+		Black_Dog
+		Blacksmith
+		Bone
+		Bruguier
+		Buffalo
+		Cavanaugh
+		Chanku
+		Charboneau
+		Chaske
+		Cloud
+		Cook
+		Cournoyer
+		Dauphinais
+		DeCoteau
+		DeMarce
+		Dubois
+		Ducheneaux
+		Eagle
+		Eagleman
+		Eashappie
+		Eastman
+		Elk
+		Essie
+		Flute
+		Flying_Hawk
+		Flying_Horse
+		Four_Bear
+		Good_Soldier
+		Goodthunder
+		Gourneau
+		Gravatte
+		Gray_Hawk
+		Gray_Water
+		Greene
+		Grey_Bear
+		Grey_Bull
+		Gunhammer
+		Guy
+		H_u_act__eng_kpathina
+		Halfe
+		Hanska
+		Hapa
+		Hare
+		Hart
+		Hawk
+		Horse_Looking
+		Hotain
+		Houle
+		Huapapi
+		Ih_a_act__eng_kthu_eng_wa_eng_
+		Ih_a_act__eng_kthu_eng_wa_eng_na
+		Ironbear
+		Ironhawk
+		Is_a_act__eng_yathi
+		Jetty
+		Kampeska
+		Kasto
+		Kazena
+		Keeble
+		Keoke
+		Kills_a_Hundred
+		LaBatte
+		LaBelle
+		LaCroix
+		LaForte
+		LaRoque
+		LaVallie
+		Leftbear
+		Lenoir
+		Little_Wind
+		Longie
+		Mazawasicuna
+		McDonald
+		McKay
+		Medicine_Horn
+		Mekwam
+		Merrick
+		Noel
+		Onuke
+		Owns_Pipe
+		Peltier
+		Picotte
+		Pratt
+		Red_Day
+		Red_Dog
+		Red_Eagle
+		Red_Wing
+		Redroad
+		Renville
+		Roulette
+		Runs_Through
+		Sinclair
+		Sioux
+		Sis_i_act_thu_eng_wa_eng_
+		Sixtoes
+		Smoke
+		Spotted_Bull
+		Spotted_Eagle
+		Spotted_Wolf
+		Stone
+		Sunkawasti
+		Tacan
+		Tagay
+		Tall_Bear
+		Tateyuskanskan
+		Thin_Elk
+		Three_Irons
+		Thunderbird
+		Traversie
+		Trudell
+		Twohearts
+		Wacante
+		Wahp_e_act_khute
+		Wahp_e_act_thu_eng_wa_eng_
+		Walking_Eagle
+		Wanbdiska
+		Wanna
+		Wasicuna
+		Wasteste
+		War_Cloud
+		White_Bear
+		Whitecloud
+		Whitehead
+		Whiteshield
+		Wi_c_crn_h_i_act_yena
+		Yankton
+		Yellow_Robe
+		Yellow_Thunder
+		Youngman
+		Zephier
 	}
 	culture = {
-		dakota = {}
-		lakota = {}
-		nakota = {} 
-		dhegihan = {}
+		dakota = {
+			male_names = {
+				A_eng_p_e_act_tu_Th_o_act_ke_c_crn_a
+				C_crn_a_eng_kd_e_act__s_crn_ka_C_crn__i_act_kana C_crn_a_eng_t_e_act__M_a_act_za C_crn_et_a_act__eng__Wakh_u_act_wa_M_a_act_ni
+				Hakadah Hup_a_act_hu_S_crn__a_act_
+				I_eng_kp_a_act_duta I_s_crn_t_a_act_hba
+				Ka_eng__i_act__D_u_act_ta
+				M_a_act_za_Oy_a_act_te M_a_act_za_S_crn__a_act_ Mahp_i_act_ya_Wica_s_crn_ta Mat_o_act__N_u_act__eng_pa Ma_z_crn_uha_Hok_s_crn__i_act_na
+				Oh_i_act_ye_S_pst_a
+				S_crn_akpe S_crn_i_s_crn__o_act_kaduta
+				Tamaha T_i_act_pi_S_a_act_pa Ta_o_act_yate_D_u_act_ta Tat_a_act__eng_ka_M_a_act_ni Ti_o_act_wa_s_crn_t_e_act_ Tiwakh_a_act__eng_
+				W_a_act_hpe_S_crn__a_act_ W_a_act_nata_eng_ W_o_act_winaphe Wa_eng_bd_i_act_ Wa_eng_bd_i_act__G_i_act_ Wa_eng_bd_i_act__Ok_i_act__c_crn_hize Wa_eng_bd_i_act__T_a_act__eng_ka Wak_i_act__eng_ya_eng__D_u_act_ta Wakh_u_act_te Wap_a_act_hask_a_act_
+				Zitk_a_act_d_u_act_ta
+				Albin Ambrose Anthony
+				Baptiste Bentley
+				Cameron Charles Claude Clayton Creighton
+				Daniel Darcy David Dennis Donell Duane
+				Frank
+				Gabriel Gerald Giles
+				Isaac
+				Jamie Jerome Joseph
+				Laniel Leland Louis
+				Martin Michael Miles
+				Patrick Paul Pierre
+				Raymond Richard Robert Roger Romuald
+				Sylvester
+				Vincent
+				Wilson Woodrow
+			}
+			female_names = {
+				A_eng_p_e_act_tu_Wa_s_crn_t_e_act__Wi_eng_
+				Sn_a_act_sna
+				Thu_eng_k_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_
+				Wakh_a_act__eng__In_a_act__z_crn_i_eng__Wi_eng_ Wi_c_crn__a_act__eng_hpi
+				Zitk_a_act_la_S_crn__a_act__Wi_eng_
+				Adele Adeline Ann Ann_Marie Antoinette Arlene Audrey
+				Bernadette Bernadine
+				Charlene Claire
+				Danielle Dominique
+				Eleanor Emily Evelyn
+				Gabrielle
+				Lisa Lynn
+				Mary Maxine Melanie Michelle
+				Nicole
+				Pauline
+				Rose
+				Sarah Shannon
+				Thomasine
+			}
+		}
+		lakota = {
+			male_names = {
+				C_crn_a_eng_k_a_act__Wa_eng_k_a_act_tuya C_crn_eh_u_act_pa C_crn_h_a_act__eng__O_act_ha_eng_ C_crn_ha_eng_l_i_act_ C_crn_het_a_act__eng__C_crn__i_act_k_pst_ala C_crn_het_a_act__eng__Ki_eng_y_a_act__eng_ C_crn_het_a_act__eng__S_a_act_pa C_crn_het_a_act__eng__Sk_a_act_ C_crn_het_a_act__eng__Z_i_act_
+				Gnugn_u_act__s_crn_ka
+				H_e_act__Wa_eng__z_crn__i_act_ H_u_act__eng_ke_s_crn_ni Heh_a_act_ka_Gle_s_crn_k_a_act_ Heh_a_act_ka_I_act__eng_ya_eng_ke Heh_a_act_ka_Ph_a_act_ Heh_a_act_ka_S_a_act_pa Hew_a_act__eng__z_crn_i_c_crn_a
+				I_act__eng_ya_eng__Pteh_i_act__eng__c_crn_ala I_act__eng_ya_eng__S_a_act_pa Ih_a_act__S_pst_a It_e_act__Om_a_act_ra_z_crn_u Ith_a_act__eng_ka
+				Kha_eng_r_i_act__C_crn__i_act_k_pst_ala Kha_eng_r_i_act__I_act_yotake Kha_eng_r_i_act__Ki_eng_y_a_act__eng_ Kha_eng_r_i_act__M_a_act_za Kha_eng_r_i_act__S_crn__u_act__eng_ka Kha_eng_r_i_act__Y_a_act_tapi
+				Mahp_i_act_ya_H_e_act_ Mahp_i_act_ya_I_act_yapat_pst_o Mahp_i_act_ya_I_c_crn__a_act_htagya Mahp_i_act_ya_L_u_act_ta Mahp_i_act_ya_M_a_act_za Mar_a_act_ska Mar_a_act_ska_Sk_a_act_ Math_o_act__C_crn__i_act_k_pst_ala Math_o_act__C_crn_huth_u_act_hu Math_o_act__H_e_act_hlore_c_crn_a Math_o_act__Nakp_a_act_ Math_o_act__N_a_act__z_crn_i_eng_ Math_o_act__Oh_i_act_tika Math_o_act__S_a_act_pa Math_o_act__Wan_a_act_htake Math_o_act__Wath_a_act_kpe Math_o_act__Way_u_act_hi Math_o_act__Wik_c_crn__e_act_mna Math_o_act__Z_i_act_ Miw_a_act_tani_H_a_act__eng_ska Mn_i_act__N_i_act__c_crn_a
+				N_u_act_m_Kahp_a_act_
+				O_act_gle_S_crn__a_act_ O_act_ta_Kt_e_act_
+				Pheh_i_act__eng__Oth_a_act_te Pheh_i_act__eng__S_crn__a_act_ Pheh_i_act__eng__Yuh_a_act_ha Pheh_i_act__eng__Z_i_act_ Phiz_i_act_ Pteh_e_act__W_o_act_ptuh_pst_a
+				S_crn__o_act_ta S_crn__u_act__eng_ka_Blok_a_act_ S_crn__u_act__eng_ka_Gle_s_crn_k_a_act_ S_crn__u_act__eng_ka_I_act__eng_ya_eng_ke S_crn__u_act__eng_ka_Kh_u_act__c_crn_iyela S_crn__u_act__eng_ka_L_u_act_ta S_crn__u_act__eng_ka_Oh_i_act_tika S_crn__u_act__eng_ka_S_a_act_pa S_crn__u_act__eng_ka_Z_i_act_ Si_eng_t_e_act__M_a_act_za Si_eng_t_e_act__Gle_s_crn_k_a_act_ Si_eng_t_e_act__Sk_a_act_ Si_Th_a_act__eng_ka
+				Th_a_act_h_c_crn_a_Hu_s_crn_t_e_act_ Th_a_act_wih_a_act__eng_bla_Kpar_o_act_ Tha_o_act_pi__C_crn__i_act_k_pst_ala Tha_s_crn__u_act__eng_ke Tha_s_crn__u_act__eng_ke_Gle_s_crn_k_a_act_ Tha_s_crn__u_act__eng_ke_I_act__eng_ya_eng_ke Tha_s_crn__u_act__eng_ke_Khok_i_act_phapi Tha_s_crn__u_act__eng_ke_L_u_act_ta Tha_s_crn__u_act__eng_ke_Naps_i_act_ca Tha_s_crn__u_act__eng_ke_Th_o_act_ Tha_s_crn__u_act__eng_ke_Wan_a_act_htake Tha_s_crn__u_act__eng_ke_Wath_a_act_kpe Tha_s_crn__u_act__eng_ke_Way_u_act_hi Tha_s_crn__u_act__eng_ke_Witk_o_act_
+				Thah_u_act__Wan_i_act__c_crn_e Tham_a_act_kho_c_crn_he_Theh_i_act_la Tham_i_act_laph_e_act__s_crn_ni
+				That_e_act_iyumni Thath_a_act__eng_ka_C_crn_ha_eng_t_e_act__s_crn_i_c_crn_a Thath_a_act__eng_ka_I_act__eng_ya_eng_ke Thath_a_act__eng_ka_I_act_yotake Thath_a_act__eng_ka_N_a_act__z_crn_i_eng_ Thath_a_act__eng_ka_Naps_i_act_ca Thath_a_act__eng_ka_Oh_i_act_tika Thath_a_act__eng_ka_Ph_a_act_ Thath_a_act__eng_ka_Pt_e_act__c_crn_ela Thath_a_act__eng_ka_S_a_act_pa Thath_a_act__eng_ka_Sk_a_act_ Thath_a_act__eng_ka_Wa_eng__z_crn__i_act_la Thath_a_act__eng_ka_Wath_a_act_kpe Thath_o_act_ka_I_act__eng_ya_eng_ke Thez_i_act__Hle_c_crn__a_act_ha_eng_ Thok_e_act_ya_In_a_act__z_crn_i_eng_ Tukiha_M_a_act_za
+				W_a_act__c_crn_hi_eng_hi_eng__L_u_act_ta W_i_act__S_a_act_pa W_i_act_hin_a_act_pha Wa_eng__z_crn__i_act_ni_C_crn_ha_eng_t_e_act_ Wa_eng_bl_i_act__C_crn__i_act_k_pst_ala Wa_eng_bl_i_act__Ki_eng_y_a_act__eng_ Wa_eng_bl_i_act__Kte Wa_eng_bl_i_act__L_u_act_ta Wa_eng_bl_i_act__Oh_i_act_tika Wa_eng_bl_i_act__S_a_act_pa Wa_eng_bl_i_act__Ta_H_o_act_coka_Wa_s_crn_t_e_act_ Wa_eng_bl_i_act__Th_a_act__eng_ka Wa_eng_bl_i_act__Waph_a_act_ha Wa_s_crn__i_act__c_crn__eng__Tha_s_crn__u_act__eng_ke
+				Wagl_u_act_la Wagm_e_act_za Wah_a_act__c_crn_ha_eng_ka_L_u_act_ta Wah_a_act__c_crn_ha_eng_ka_S_a_act_pa Wah_u_act_kheza_Sk_a_act_ Wak_i_act__eng_ya_eng__C_crn__i_act_k_pst_ala Wamn_u_act_h_pst_a_M_a_act_za Was_u_act__M_a_act_za Wi_c_crn_h_a_act__s_crn_a_Th_a_act__eng_kala
+				Zi_eng_tk_a_act__Nagw_a_act_ka
+			}
+			female_names = {
+				A_i_act__c_crn_amna_Wi_eng_
+				C_crn_ha_eng_k_u_act__Wa_s_crn_t_e_act__Wi_eng_
+				H_e_act__M_a_act_za_Wi_eng_ H_e_act_hlore_c_crn_a_Wi_eng_ Hi_eng_h_a_act__eng__Wa_s_crn_t_e_act__Wi_eng_
+				Igl_a_act_ka_Wi_eng_ Ith_u_act__eng_kasa_eng__Wa_s_crn_t_e_act_la
+				Mahp_i_act_ya_Bor_a_act__eng_wi_eng_ Mahp_i_act_ya_Sk_a_act_Wi_eng_ Mniy_a_act_ta_O_z_crn__a_act__eng__z_crn_a_eng__Wi_eng_
+				Khok_i_act_phapiwi_eng_
+				S_crn_in_a_act__S_a_act_pa_Wi_eng_ S_crn__u_act__eng_ka_Gle_s_crn_k_a_act__Wi_eng_
+				Th_a_act_h_c_crn_a_Gle_s_crn_k_a_act__Wi_eng_ Th_a_act_h_c_crn_a_I_act__eng_ya_eng_ke_Wi_eng_ Tha_s_crn__i_act_na_Hlahl_a_act__Wi_eng_ Tha_s_crn__i_act_na_L_u_act_ta_Wi_eng_ Tha_s_crn__i_act_na_M_a_act_ni Tha_s_crn__i_act_na_S_a_act_pa_Wi_eng_ Tha_s_crn__u_act__eng_ke_Gle_s_crn_k_a_act__Wi_eng_ Tha_s_crn__u_act__eng_ke_O_act_ta_Wi_eng_ Thah_o_act__Kahw_o_act_ka_Wi_eng_ Thath_a_act__eng_ka_S_a_act_pawi_eng_
+				W_i_act_gmu_eng_ke_Wa_s_crn_t_e_act__Wi_eng_ Wa_eng_bl_i_act__Ay_u_act_tepiwi_eng_ Wa_s_crn__i_act__c_crn_uwi_eng_
+			}
+		}
+		nakota = {
+			male_names = {
+				Aaron Alan Alexie Antoine Armand Arthur
+				Brent Bruce Bryan
+				Clifford Charles Craig
+				Darwin David Dorian Dwayne
+				Erwin Eugene
+				Felix Frank
+				Harvey Henri Horse Hunter
+				Jessie Jonah Josey Joshua Jordan
+				Ken
+				Lloyd Lonnie Louis Lyle
+				Melvin
+				Neil
+				Oscar
+				Pierre
+				Reg Rick
+				Santana Samson Shawn Sheldon
+				Willard Willis
+				
+				#Spellings from First Nations University of Canada and Indiana University, Assiniboine/Nakota
+				Ca_s_crn_k_a_act__Hoda Cad_e_act__s_crn_ije Camh_i_act_
+				D_u_act_htuh_pst_una
+				H_i_act_maza H_u_act_staga Heh_a_act_ga_Nuda
+				I_s_crn_t_a_act__pst_ih_a_act__pst__u_act_ Id_e_act__Tog_i_act_ye Iy_e_act_ska
+				Mahp_i_act_ya_Ow_a_act_de_H_o_act_k_s_crn_i Mahp_i_act_ya_To Mat_o_act__S_crn_a Mat_o_act__N_a_act__z_crn_i Mat_o_act__Saba Mat_o_act__Ska Mat_o_act__Witk_o_act_ Mat_o_act__Zi Mni_pst__o_act_duwa
+				Owi_z_crn_a_Wic_a_act_hpi
+				P_a_act_saba
+				S_crn_mu_pst__a_act_ye S_crn_uk_pst__u_act__z_crn_ija_Kt_e_act_ S_crn_ukm_a_act_psaga
+				Ta_s_crn__u_act_ga_O_act_bi Ta_s_crn__u_act_ge_Saba Tat_a_act_ga_I_s_crn_t_i_act_ma Tat_a_act_ga_S_crn_in_a_act_ Tat_a_act_ga_Ska Tat_a_act_ga_Thkan_Wagich Tokt_e_act_naga
+				W_a_act_ Wa_s_crn__a_act_ge_s_crn_a Wa_s_crn__i_act_ju_Wa_z_crn__i_act_ Wak_a_act__S_crn_inat_u_act_ Wamn_i_act_ Wic_a_act__s_crn_ta_Haska Wiz_i_act_yena
+				Yahn_a_act_na
+			}
+			female_names = {
+				Alexis Alvina Andrea Arlene
+				Barb Bernadette Bonnie
+				Candy Cara Caryn Clover Charlene Chelsea Cheryl Corrine Courtney
+				Dana Danielle Dianna Dolly Donnette
+				Eleanor Ella Eva
+				Florence
+				Gail Georgiana Geraldine Gertrude Gina
+				Harriet
+				Jade Jane Janet Jasmin Jessica
+				Katie Karen Kennedy Kelly
+				Lavena LaVonne Lizzie Lisa Lois Louise Lori
+				Mandy Mary Marylin Melissa Minnie
+				Nicole
+				Renee Robin Rosaleen Rosemary
+				Sandy Sasheen Shelly Shirley Stephanie Sylvia
+				Tania Tawnee Taylor Tracy
+				Valerie Veronica Verna
+				
+				#From Stoney Nakoda First Nation, Stoney/Nakoda
+				#Spellings from First Nations University of Canada and Indiana University, Assiniboine/Nakota
+				Chad_a_act__Wathte_W_i_act_y_a_act_
+				I_act_y_a_act__Sa_W_i_act_y_a_act_ I_act_yarhe_Wiyapta Iya_Aganyag_a_act__Wiya
+				M_i_act_n_i_act__Thn_i_act_ Mat_o_act__Wiya Mn_o_act_gedu_Mag_a_act__z_crn_u_Waka_Wiya
+				Pe_z_crn__u_act_daskawi
+				U_act_kces_pst_a
+				W_i_act_yanuda Wad_o_act_ Wamn_i_act__W_i_act_ya Wic_o_act_ni_Koy_a_act_kmani Witk_o_act_gawi
+				Zitk_a_act_na_S_crn_a_W_i_act_ya
+			}
+		} 
+		dhegihan = {
+			male_names = {
+				Abeytzi Akecheta Allegawaho
+				Carter Cetanwakuwa Chayton Claremore Clarence Clyde
+				Emmett Estamazha Everett
+				Francis
+				Harrison Herbert Hikatoa Hiram Honganozhe Hulah_Kiheka Huyana
+				Ieckawathe Inshtashabe
+				Jojim Joseph
+				Kangi Kanje Kezhekah Kohana
+				Louis
+				Machunazhi Mahka Mankato Matoska Merton Mika Miwagaxe Mogaxe Monchousia Moni_Chaki
+				Nathan Nompawarah Nompehwahthe Norbert Norman Norris Norwood
+				Ogalaesha Ohanzee Ontopanga
+				Pawhuska Pezi Pizi
+				Qithaska
+				Robert Rodney
+				Sarazin Shappa Sheridan Shongaska Shonka_Sabe
+				Tackoda Tahatan Tashunka Thomas Thurman Tokala
+				Verdell Victor
+				Wambleesha Wambleeska Washinguh_Sahba Washunga Wazhinguda
+				Yatika
+			}
+			female_names = {
+				Abeytu Alice Angpetu Ardina
+				Cha-me Chapa Charlene Chu Chumanea
+				Donoma
+				Eyota E-non-gi-tha-bi Ezhno
+				Galilhai
+				Hantaywee
+				Inshata_Theumba
+				Lezitte Louise Lucille Lucy
+				Maka Mapiya Mary Meumbane Miakoda Midagani Migina Mikah Mimetah Minnie Mitain Mohongo Moneka Moncatsexi Monzhopshewi
+				Nahemeka Newakis Nidawi Nomtsexi
+				Odestine Onawa
+				Pa_Pu_Son_Tsa
+				Rachel Rosalie Rose
+				Sarah Shapa Snana Susan Susette
+				Washta Weayaya Weeko
+				Yannah
+				Zazette Zitkalasa Zonta
+			}
+		}
 	}
 	
 	barbarian_names = { 

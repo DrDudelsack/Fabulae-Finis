@@ -14,7 +14,7 @@
 797={ #
 	terrain="plains"
 	culture="navajo"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 2204={ #
 	terrain="plains"
 	culture="navajo"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 4182={ #
 	terrain="plains"
 	culture="navajo"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4645={ #
 	terrain="plains"
 	culture="apache"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4646={ #
 	terrain="plains"
 	culture="navajo"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

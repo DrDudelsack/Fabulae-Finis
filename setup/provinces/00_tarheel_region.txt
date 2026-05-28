@@ -456,7 +456,7 @@
 4609={ #
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="omenteller"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4610={ #
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 6979={ #
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 7989={ #
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 7990={ #
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 7992={ #
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 7993={ #
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 8889={ #
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0

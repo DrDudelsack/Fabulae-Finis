@@ -398,6 +398,15 @@ theosophy = { #Theosophy
 	}
 	religion_category = pantheon
 }
+quetzaltec = { #Quetzaltec
+	color = rgb { 120 0 0 }
+	modifier = { #placeholder
+		happiness_for_same_culture_modifier = 0.03
+		build_roads_cost_modifier = -0.20
+		happiness_for_wrong_culture_modifier = -0.03
+	}
+	religion_category = pantheon
+}
 ## Veteranic ##
 veteranic = { # Veteranic
 	color = rgb { 196 66 105 }

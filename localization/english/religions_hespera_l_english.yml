@@ -17,7 +17,7 @@
  evangelical:0 "Evangelical"
  desc_evangelical:0 "The Evangelical Church is the main claimant to the legacy of antediluvian United States Protestantism. In the face of post-Deluge upheavals, various Protestant churches banded together, putting aside minor theological differences in favor of establishing an Evangelical Convention of Churches presided over by an ecumenical council of bishops. However, some Christians chafe against the doctrines and restrictions imposed by this Convention..."
 
- catholic:0 "Catholic"
+ catholic:0 "Conclavian"
  desc_catholic:0 "After the Deluge, the surviving Catholic hierarchy in America was given a miraculous sign at the Council of Chicago that confirmed the destruction of the Papacy in Rome; giving the surviving American cardinals the right to hold a papal conclave. The new American Popes lacked a permanent temporal seat for over a century - a period known as "the Wandering Papacy" - until control over the city of Chicago in Illinois was finally achieved. With this newfound authority came a gradual solidification of power, with many formerly independent churches of varying denominations entering communion with the Papacy for various reasons; their traditions being subsumed in the process."
 
  lutheran:0 "Lutheran"
@@ -39,7 +39,7 @@
  desc_ursuline:0 "The Ursuline Church originated as an antediluvian religious order patronized by Saint Ursula. After the Deluge, most French-Canadian Catholics turned to the Ursuline Order for guidance in acknowledgment of the charitable works the Order. The Ursuline Order itself, loosely tied to the larger Catholic complex of the Americas, attended the Ecumenical Council of The Americas in the mid 22nd century. Their stance during and after the Council is that the office of the Pope, and therefore all offices appointed by the Pope, are empty until contact is restored with Rome. The Ursulines uphold the position that none of the Christian bishops currently operating in the Americas have proper apostolic succession, making them invalid. However, members of sanctioned religious orders can serve as de facto clergy until contact with the true Papacy is re-established."
 
  bostonian:0 "Bostonian"
- desc_bostonian:0 "Splitting from the Conclavian Catholic Church shortly after the Ecumenical Council of The Americas in the mid 22nd century, the Bostonian Catholic Church rejects all authority from the Conclavian Papacy, and instead claims that the Pope located in Boston is the legitimate successor to Rome. Many Catholics dislike the Bostonian's friendliness with the Americanists, accusing them of being nothing more than their puppet. These accusations are of course, unfounded."
+ desc_bostonian:0 "Splitting from the Conclavian Catholic Church shortly after the Ecumenical Council of The Americas in the mid 22nd century, the Bostonian Catholic Church rejects all authority from the Conclavian Papacy, and instead claims that the Pope located in Boston is the legitimate successor to Rome. Many Catholics dislike the Bostonian's amicability with the Americanists, accusing them of being nothing more than their puppet. These accusations are of course, unfounded."
 
  ## Industrialist ##
  promethean:0 "Promethean"
@@ -77,7 +77,7 @@
  ## Lacustrine ##
 
  viking:0 "Tall Taler"
- desc_viking:0 "A pantheon of heroes of the American Old Northwest, these Tall Tales originated in oral stories and legends that have been passed down for hundreds of years. Heroes such as Paul Bunyan, Big Ole, The Green Giant, St. Urho, and others are worshipped in this faith. For the adherents of Tall Tales, these heroes form an important part of daily life, being celebrated in complex rituals and events. Tall-Talers incoporate other local faiths and traditions, and the division between Tall-Taler communities and other religious communities is nearly nonexistent."
+ desc_viking:0 "A pantheon of heroes of the American Old Northwest, these Tall Tales originated in oral stories and legends that have been passed down for hundreds of years. Heroes such as Paul Bunyan, Big Ole, The Green Giant, St. Urho, and others are worshipped in this faith. Tall Talers keep the spirit and memory of these long-gone heroes alive by telling stories about them. To Tall-Talers, a story is a sacred act, a communion with the other world. Tall Taler communities often incorporate other religious practices alongside their own- to the Tall-Taler, there  is often little distinction between  Lutheran, Catholic, Lakeshore, and Twainist practices, and their own."
  
  lakeshore:0 "Lakeshore"
  desc_lakeshore:0 "The Lakeshore faithful believe that existence is dictated by a series of heavily intertwined and complex cycles, chief among them the process of love and anger which the water of the Lakes undergoes. Over the course of a year, she will cycle between being the Lady or the Witch, both giving and taking life as effortlessly as the waves cresting upon the shore, depending on her mood. Lakefolk see everything as having a spirit, and they revere many in their large cosmology. However, the greatest among them is Polaris, the Great Keeper-Spirit who remains everlasting across every cycle. Responsible for bestowing the gift of Eternal Light upon the world, Polaris will always try to guide adherents safely to their destinations, despite all the turmoil which the living must undoubtedly face."
@@ -93,6 +93,8 @@
  theosophy:0 "Theosophy"
  desc_theosophy:0 "Theosophists posit a 'secret religion' at the heart of all religious traditions which has persisted through a line of Mahatmas, or Masters of Ancient Wisdom. These Masters live in high, isolated peaks where they protect secret wisdom regarding the ultimate truth of the universe. Theosophists hold that humanity is the fifth in a kalpic cycle of species that evolve spiritually, obtaining new senses with each evolution. Humanity, while more spiritually advanced than its predecessors, is not the culmination, but the one link in a chain. Helping educate humanity and guiding them to their spiritual apotheosis is the pre-enlightened World Teacher, the Maitreya."
 
+ quetzaltec:0 "Quetzaltec"
+ desc_quetzaltec:0 "Arising from the subterranean Chicomóztoc, the civilization of Aztlán prospered until it fell during the First Ruination, ending the age of the Fourth Sun, and forcing Quetzalcóatl to flee across the sea with his few remaining subjects, where he founded the Aztec Empire. There, he established the Toltecayotl to ensure the survival of his people's knowledge, however this did not last, as the Second Ruination brought forth the end of the Fifth Sun in an epic confrontation. With the dawn of the Sixth Sun, the Order of Quetzalcóatl still worships their namesake god, as well as the other Aztec deities alongside him. The destiny of the faith is to restore the advanced Aztec Empire and the ancient Toltecayotl wisdom, thereby freeing the Sixth Root Race, la Raza Cósmica."
  ## Veteranic ##
  
  veteranic:0 "Veteranic"

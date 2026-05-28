@@ -40,7 +40,7 @@
 819={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 821={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 1549={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 1550={ #
 	terrain="hills"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1551={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 4643={ #
 	terrain="plains"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 5003={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 6290={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 6291={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 7113={ #
 	terrain="forest"
 	culture="atlantean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 7388={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 7471={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 7741={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 7742={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 7950={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 7951={ #
 	terrain="farmland"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7952={ #
 	terrain="plains"
 	culture="tuskegean"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 8348={ #
 	terrain="plains"
 	culture="dixie"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 11628={ #
 	terrain="plains"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

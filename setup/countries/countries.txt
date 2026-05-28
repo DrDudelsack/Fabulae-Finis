@@ -108,6 +108,14 @@ NRT = "setup/countries/midwest/northwoods.txt"
 WSR = "setup/countries/midwest/wisconsin_rapids.txt"
 PLT = "setup/countries/midwest/platte.txt"
 PTL = "setup/countries/midwest/platte_real.txt"
+BMS = "setup/countries/midwest/bismarck.txt"
+YNK = "setup/countries/midwest/yankton.txt"
+OGL = "setup/countries/midwest/oglala.txt"
+SDK = "setup/countries/midwest/south_dakota.txt"
+
+#Great Plains
+NDK = "setup/countries/great_plains/north_dakota.txt"
+
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

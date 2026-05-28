@@ -79,7 +79,7 @@
 1414={ #
 	terrain="desert"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1420={ #
 	terrain="plains"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3317={ #
 	terrain="plains"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 4766={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4767={ #
 	terrain="plains"
 	culture="apache"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 7435={ #
 	terrain="desert"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 7437={ #
 	terrain="desert"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -365,7 +365,7 @@
 8732={ #
 	terrain="plains"
 	culture="socaleno"
-	religion="catholic"
+	religion="quetzaltec"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 8733={ #
 	terrain="plains"
 	culture="cahuilla"
-	religion="catholic"
+	religion="quetzaltec"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 8734={ #
 	terrain="plains"
 	culture="cahuilla"
-	religion="catholic"
+	religion="quetzaltec"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 8735={ #
 	terrain="plains"
 	culture="cahuilla"
-	religion="catholic"
+	religion="quetzaltec"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

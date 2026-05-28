@@ -1,7 +1,7 @@
 ﻿2={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="viking"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -7762,7 +7762,7 @@
 822={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -7788,7 +7788,7 @@
 824={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12520,7 +12520,7 @@
 1384={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12533,7 +12533,7 @@
 1385={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12546,7 +12546,7 @@
 1386={ #
 	terrain="plains"
 	culture="zuni"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12871,7 +12871,7 @@
 1432={ #
 	terrain="plains"
 	culture="keres"
-	religion="mayan_pantheon"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33060,7 +33060,7 @@
 3727={ #
 	terrain="steppes"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33073,7 +33073,7 @@
 3728={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33086,7 +33086,7 @@
 3729={ #
 	terrain="steppes"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44799,7 +44799,7 @@
 4956={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -52612,7 +52612,7 @@
 5866={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -52625,7 +52625,7 @@
 5867={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -58696,7 +58696,7 @@
 6567={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -58709,7 +58709,7 @@
 6568={ #
 	terrain="steppes"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -62765,7 +62765,7 @@
 6992={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -62778,7 +62778,7 @@
 6993={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -62791,7 +62791,7 @@
 6994={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -62804,7 +62804,7 @@
 6995={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -64091,7 +64091,7 @@
 7131={ #
 	terrain="steppes"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -64117,7 +64117,7 @@
 7133={ #
 	terrain="steppes"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -75843,7 +75843,7 @@
 8489={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -80367,7 +80367,7 @@
 8990={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -80380,7 +80380,7 @@
 8991={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -80393,7 +80393,7 @@
 8992={ #
 	terrain="plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -80406,7 +80406,7 @@
 8993={ #
 	terrain="plains"
 	culture="neomexicano"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -98619,7 +98619,7 @@
 10612={ #
 	terrain="plains"
 	culture="socaleno"
-	religion="catholic"
+	religion="quetzaltec"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -102558,7 +102558,7 @@
 10915={ #
 	terrain="impassable_terrain"
 	culture="arixan"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -110696,7 +110696,7 @@
 11541={ #
 	terrain="impassable_terrain"
 	culture="shieldshorer"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -111060,7 +111060,7 @@
 11569={ #
 	terrain="impassable_terrain"
 	culture="navajo"
-	religion="zetanologist"
+	religion="aphite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

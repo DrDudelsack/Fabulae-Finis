@@ -1,7 +1,7 @@
 ﻿1={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="gothic"
+	religion="viking"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1145,7 +1145,7 @@
 9567={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="fathomless"
+	religion="viking"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1171,7 +1171,7 @@
 9569={ #
 	terrain="hills"
 	culture="vermonter"
-	religion="gothic"
+	religion="viking"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0

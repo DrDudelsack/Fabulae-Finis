@@ -941,7 +941,7 @@ country = {
 			}
 
 			own_control_core = {
-				4201 4202 3275 11946 5352 5353 3140 11945 3141 6613 3966 11944 242 243 241 4590 4589 3956 3274 3965 
+				4201 4202 3275 11946 5352 5353 3140 11945 3141 6613 3966 11944 242 243 241 4590 4589 3274 3965 
 			}
 		}
 		CIN = { # Cincinatti
@@ -2319,7 +2319,7 @@ country = {
 			}
 		}
 		WTH = { #Worthington
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = heartlander
 			religion = lutheran
 			capital = 1479
@@ -2843,6 +2843,56 @@ country = {
 
 			own_control_core = {
 				3898 7468 497 3897 3899 6779 6778 496 495 
+			}
+		}
+		BMS = { #Bismarck
+			government = tribal_kingdom
+			primary_culture = wolgadeutsche
+			religion = lutheran
+			capital = 5297
+
+			own_control_core = {
+				5297 5299 7681 4159
+			}
+		}
+		YNK = { #Yankton
+			government = tribal_chiefdom
+			primary_culture = dakota
+			religion = peyotist
+			capital = 6364
+
+			own_control_core = {
+				6364 6365 6366 2941 2940 2939 7584 7583 3022 5365 3023
+			}
+		}
+		OGL = { #Oglala
+			government = tribal_chiefdom
+			primary_culture = lakota
+			religion = peyotist
+			capital = 8238
+
+			own_control_core = {
+				8238 8240 4213 4214 8239 4630 4631 7582 
+			}
+		}
+		SDK = { #South Dakota
+			government = tribal_chiefdom
+			primary_culture = lakota
+			religion = peyotist
+			capital = 9595
+
+			own_control_core = {
+				9595 1425 1424 9594 9593 7366 1426 2369 2367 2368 9593 7364 7365 5782
+			}
+		}
+		NDK = { #South Dakota
+			government = tribal_chiefdom
+			primary_culture = lakota
+			religion = peyotist
+			capital = 6751
+
+			own_control_core = {
+				4157 4158 6749 6750 6751 1329 1331 992 9119 9117 9118 
 			}
 		}
 	}
