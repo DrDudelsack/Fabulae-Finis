@@ -67913,7 +67913,7 @@
 7572={ #
 	terrain="plains"
 	culture="okie"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -78001,7 +78001,7 @@
 8718={ #
 	terrain="plains"
 	culture="okie"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

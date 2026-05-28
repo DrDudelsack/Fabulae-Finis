@@ -183,7 +183,7 @@
 2264={ #
 	terrain="plains"
 	culture="dhegihan"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -287,7 +287,7 @@
 1516={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2118={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2119={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 2266={ #
 	terrain="plains"
 	culture="dhegihan"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4145={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 4146={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 4147={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 5882={ #
 	terrain="farmland"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 6358={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 6360={ #
 	terrain="plains"
 	culture="dhegihan"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -866,7 +866,7 @@
 7049={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -944,7 +944,7 @@
 7311={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -957,7 +957,7 @@
 7312={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="ozymandism"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -970,7 +970,7 @@
 7313={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="ozymandism"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1100,7 +1100,7 @@
 7648={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

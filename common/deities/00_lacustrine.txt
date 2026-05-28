@@ -483,11 +483,11 @@ deity_big_ole= {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
+			rare_deity_culture_trigger = {
 				RELIGION = viking
 				CULTURE = minnesotan
 			}
-			rare_deity_trigger = {
+			rare_deity_culture_trigger = {
 				RELIGION = viking
 				CULTURE = northlander
 			}

@@ -109,7 +109,7 @@ WSR = "setup/countries/midwest/wisconsin_rapids.txt"
 PLT = "setup/countries/midwest/platte.txt"
 PTL = "setup/countries/midwest/platte_real.txt"
 BMS = "setup/countries/midwest/bismarck.txt"
-YNK = "setup/countries/midwest/yankton.txt"
+YKN = "setup/countries/midwest/yankton.txt"
 OGL = "setup/countries/midwest/oglala.txt"
 SDK = "setup/countries/midwest/south_dakota.txt"
 
@@ -155,6 +155,9 @@ AGU = "setup/countries/south/st_augustine.txt"
 MOS = "setup/countries/south/mouse.txt"
 TMP = "setup/countries/south/tampa.txt"
 SFL = "setup/countries/south/soflo.txt"
+AKR = "setup/countries/south/arkansas.txt"
+KSS = "setup/countries/south/kisatchie.txt"
+TMB = "setup/countries/south/timberland.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

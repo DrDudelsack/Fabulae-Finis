@@ -563,7 +563,7 @@ country = {
 
 			own_control_core = {
 				9500 9501 9499 5955 7718 7719 7720 2413 
-				5954 3573
+				3575 2412 2411 7197 530 531 
 			}
 		}
 
@@ -683,7 +683,7 @@ country = {
 			government = titanate
 			primary_culture = michigander
 			religion = promethean
-			capital = 5591
+			capital = 5991
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1999,7 +1999,7 @@ country = {
 			}
 
 			own_control_core = {
-				5059 6286 6287 9219 9221 9218 9220 6285 6284
+				5059 6286 6287 9219 9221 9218 9220 6285 6284 7195 7196
 			}
 		}
 		GAS = { #Galveston
@@ -2033,7 +2033,59 @@ country = {
 			}
 
 			own_control_core = {
-				8803 8802 8212 8213 8211 8801 6325 5711 5709
+				8803 8802 8212 8213 8211 8801 6325 
+				6326 6323 6984 6983 6982 393
+			}
+		}
+		KSS = { #Kisatchie
+			government = tribal_kingdom
+			primary_culture = arkalatexan
+			religion = catholic
+			capital = 3291
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3291 5711 5709 5710 5708 5956 3293 2166 2165 2164 3292 3574 3573 5954 
+			}
+		}
+		AKR = { # Arkansas
+			government = tribal_kingdom
+			primary_culture = arkalatexan
+			religion = revelationist
+			capital = 8294
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8294 8292 3017 5830 1830 1829 1831 5489 5487 8291 5488 2474 7827
+			}
+		}
+		TMB = { # Timberland
+			government = tribal_kingdom
+			primary_culture = arkalatexan
+			religion = revelationist
+			capital = 2793
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2793 3016 2794 2792 2795 2794 5833 395 5831 394 3015 3014 5832
 			}
 		}
 		VKS = { #Vicksburg
@@ -2052,6 +2104,7 @@ country = {
 			own_control_core = {
 				594 595 6203 6206 6205 8487 6204
 				2009 7637 7638 2010 2008 7635 2011 
+				396 6324
 			}
 		}
 		BXS = { #Biloxi
@@ -2855,7 +2908,7 @@ country = {
 				5297 5299 7681 4159
 			}
 		}
-		YNK = { #Yankton
+		YKN = { #Yankton
 			government = tribal_chiefdom
 			primary_culture = dakota
 			religion = peyotist
