@@ -227,6 +227,10 @@
  OGL_ADJ:0 "Pahá Sápa"
  SDK:0 "Dakhóta itókaga"
  SDK_ADJ:0 "Dakhóta itókaga"
+ IRN:0 "Ironton"
+ IRN_ADJ:0 "Irontonian"
+ FTL:0 "Fort Leonard"
+ FTL_ADJ:0 "Leonarder"
 
  ## Great Plains ##
  NDK:0 "Dakhóta Wazíyata"
@@ -363,6 +367,12 @@
  SIK_ADJ:0 "Bramptonian"
  PAK:0 "Mississauga"
  PAK_ADJ:0 "Mississaugan"
+ MCI:0 "Mauricie"
+ MCI_ADJ:0 "Mauricien"
+ MTG:0 "Monteregie"
+ MTG_ADJ:0 "Monteregien"
+ MEP:0 "Memphremagog"
+ MEP_ADJ:0 "Memphremagogais"
 
 # Gaelic #
  AUTINI:0 "Autinia"

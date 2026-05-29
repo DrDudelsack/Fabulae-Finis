@@ -111,3 +111,22 @@ SYRACUSE_INDUSTRIALIST = { #Syracuse Promethean / Industrialist
 		instance = { scale = { 0.7 0.7 } }
 	}
 }
+
+HUDSONIA_FLAG = {
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "ck2_blue"
+	color2 = rgb { 223 89 10 }
+	colored_emblem = {
+		texture = "ce_shield_01.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }
+	}
+	colored_emblem = {
+		texture = "ce_beaver_armed.dds"
+		color1 = "ck2_black"
+		color2 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.7 0.7 }  }
+	}
+
+}

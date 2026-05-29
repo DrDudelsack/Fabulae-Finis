@@ -1,0 +1,44 @@
+﻿namespace = ff_formable_event
+
+ff_formable_event.1 = {
+	type = country_event
+	title = "ff_formable_event_1_t"
+	desc = "ff_formable_event_1_desc"
+	
+	left_portrait = current_ruler
+	
+	picture = diadochi_coronation
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "ff_formable_event_1.a"
+		add_political_influence = 30
+		capital_scope = {
+			capital_formable_medium_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+	}
+	option = {
+		name = "ff_formable_event_1.b"
+		add_stability_effect_small = yes
+		if = {
+			limit = {
+				p:6678 = { is_capital = no }
+			}
+			set_capital = 6678
+			hidden_effect = {
+				p:6678.state = {
+					set_state_capital = 6678
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:6678 = {
+			capital_formable_medium_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+	} 
+}

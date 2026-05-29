@@ -278,7 +278,7 @@ country = {
 				9629 9628 9627 2741 2740 1406 1
 				9567 9568 8773 7162 7161 7163 8774 8772
 				3378 1407 3 4 9569 9570 2040 49 50 2041 2
-				986 1053 2782 4180 985 
+				4180 985 
 			}
 		}
 		MIC = { #Detroit
@@ -427,14 +427,31 @@ country = {
 			capital = 6336
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
 				6336 #saint_louis_area
+			}
+		}
+		IRN = { #Ironton
+			government = tribal_federation
+			primary_culture = ozark
+			religion = catholic
+			capital = 2958
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2958 7613 9509
 			}
 		}
 		HRM = { #Cole Camp
@@ -444,6 +461,23 @@ country = {
 			capital = 6621
 
 			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6621 #kansas_city_area
+			}
+		}
+		FTL = { #Fort Leonard
+			government = stratocratic_monarchy
+			primary_culture = ozark
+			religion = heartful
+			capital = 5250
+
+			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
@@ -451,7 +485,7 @@ country = {
 			}
 
 			own_control_core = {
-				6621 #kansas_city_area
+				5250 5602
 			}
 		}
 		TRU = { #Truman
@@ -2350,8 +2384,25 @@ country = {
 			}
 
 			own_control_core = {
-				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2253 2256 2255 1967
+				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 2255 1967
 				1744 477 476
+			}
+		}
+		MTG = { # Monteregie
+			government = aristocratic_monarchy
+			primary_culture = montrealais
+			religion = ursuline
+			capital = 2254
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2253 3677 3675 3676 1928 1927 9506 1929 3676 2256 1930
 			}
 		}
 		QBC = { # Quebec City
@@ -2369,6 +2420,16 @@ country = {
 
 			own_control_core = {
 				757 7640 755 756 7641 7642 7639 4198 4197 2401 2400 4196
+			}
+		}
+		MEP = { # Memphremagog
+			government = tribal_chiefdom
+			primary_culture = quebecois
+			religion = gothic
+			capital = 1052
+
+			own_control_core = {
+				1052 1051 1053 986 2782
 			}
 		}
 		WTH = { #Worthington
@@ -2946,6 +3007,23 @@ country = {
 
 			own_control_core = {
 				4157 4158 6749 6750 6751 1329 1331 992 9119 9117 9118 
+			}
+		}
+		MCI = { # Mauricie
+			government = aristocratic_monarchy
+			primary_culture = montrealais
+			religion = ursuline
+			capital = 2227
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2227 2226 2228 7512 7511 7513 7510 
 			}
 		}
 	}

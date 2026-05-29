@@ -1,0 +1,16 @@
+﻿l_english:
+
+ ## Formables ##
+ form_hudsonia:0 "Form Hudsonia"
+ form_hudsonia_desc:0 "The many peoples and faiths of the Hudson lay separate and divided. If only one were to take to take up the sword, and unite this rich land...\n\nUpon forming #Y Hudsonia#!, we will have the choice to move our capital."
+ HDD:0 "Hudsonia"
+ HDD_ADJ:0 "Hudsonian"
+ hudsonia_does_not_exist:0 "#Y Hudsonia#! does not exist."
+ hudsonia_claims_tooltip:0 "Hudsonia will gain claims on the region of #Y Hudsonia#! and the province of #Y Buffalo#!."
+ ## Formable Events ##
+ ff_formable_event_1_t:0 "A New Capital?"
+ ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."
+ ff_formable_event_1.a:0 "I'm sure Albany is nice, but I like [ROOT.GetCountry.GetCapital.GetName] here more."
+ ff_formable_event_1.b:0 "A new capital for a new kingdom!"
+ ## Extra ##
+ 
