@@ -1,4 +1,4 @@
-﻿203={ #
+﻿203={ #Cobleskill
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -11,7 +11,7 @@
 	}
 }
 
-204={ #
+204={ #Amsterdam
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -24,7 +24,7 @@
 	}
 }
 
-612={ #
+612={ #Arcadia
 	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -46,7 +46,7 @@
 	}
 }
 
-613={ #
+613={ #Hannibal
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -68,7 +68,7 @@
 	}
 }
 
-614={ #
+614={ #Auburn
 	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -90,7 +90,7 @@
 	}
 }
 
-615={ #
+615={ #Geneva
 	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -164,7 +164,7 @@
 	}
 }
 
-1690={ #
+1690={ #Sidney
 	terrain="hills"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -177,7 +177,7 @@
 	}
 }
 
-1691={ #
+1691={ #Walton
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
@@ -190,7 +190,7 @@
 	}
 }
 
-1692={ #
+1692={ #Thompson
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
@@ -500,7 +500,7 @@
 	}
 }
 
-3372={ #
+3372={ #Union
 	terrain="hills"
 	culture="pocono"
 	religion="clairvoyant"
@@ -513,7 +513,7 @@
 	}
 }
 
-3373={ #
+3373={ #Owego
 	terrain="hills"
 	culture="pocono"
 	religion="clairvoyant"
@@ -708,7 +708,7 @@
 	}
 }
 
-5776={ #
+5776={ #Seneca Falls
 	terrain="hills"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -730,7 +730,7 @@
 	}
 }
 
-5777={ #
+5777={ #Ithaca
 	terrain="hills"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -754,7 +754,7 @@
 	}
 }
 
-6054={ #
+6054={ #Bath
 	terrain="hills"
 	culture="upstater"
 	religion="old_order"
@@ -774,7 +774,7 @@
 	}
 }
 
-6055={ #
+6055={ #Hornell
 	terrain="hills"
 	culture="upstater"
 	religion="old_order"
@@ -800,7 +800,7 @@
 	}
 }
 
-6056={ #
+6056={ #Corning
 	terrain="hills"
 	culture="pocono"
 	religion="old_order"
@@ -826,7 +826,7 @@
 	}
 }
 
-6057={ #
+6057={ #Elmira
 	terrain="hills"
 	culture="pocono"
 	religion="old_order"
@@ -981,7 +981,7 @@
 	}
 }
 
-6681={ #
+6681={ #Catskill
 	terrain="hills"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -1111,7 +1111,7 @@
 	}
 }
 
-7052={ #
+7052={ #North Dansville
 	terrain="hills"
 	culture="upstater"
 	religion="clairvoyant"
@@ -1137,7 +1137,7 @@
 	}
 }
 
-7053={ #
+7053={ #Victor
 	terrain="hills"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -1159,7 +1159,7 @@
 	}
 }
 
-7054={ #
+7054={ #Geneso
 	terrain="hills"
 	culture="upstater"
 	religion="quaker"
@@ -1263,7 +1263,7 @@
 	}
 }
 
-8565={ #
+8565={ #Otsego
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -1276,7 +1276,7 @@
 	}
 }
 
-8566={ #
+8566={ #Oneonta
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -1328,7 +1328,7 @@
 	}
 }
 
-9420={ #
+9420={ #Kingston
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
@@ -1341,7 +1341,7 @@
 	}
 }
 
-9421={ #
+9421={ #Shandaken
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
@@ -1354,7 +1354,7 @@
 	}
 }
 
-9488={ #
+9488={ #Hamilton
 	terrain="plains"
 	culture="hudsonian"
 	religion="clairvoyant"
@@ -1367,7 +1367,7 @@
 	}
 }
 
-9489={ #
+9489={ #Cortland
 	terrain="hills"
 	culture="upstater"
 	religion="clairvoyant"
@@ -1380,7 +1380,7 @@
 	}
 }
 
-9490={ #
+9490={ #Norwich
 	terrain="hills"
 	culture="hudsonian"
 	religion="clairvoyant"

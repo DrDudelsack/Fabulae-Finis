@@ -141,7 +141,7 @@
 	}
 }
 
-3371={ #
+3371={ #Binghampton
 	terrain="hills"
 	culture="pocono"
 	religion="bostonian"
@@ -219,7 +219,7 @@
 	}
 }
 
-5459={ #
+5459={ #Mansfield
 	terrain="hills"
 	culture="yinzic"
 	religion="catholic"
@@ -245,7 +245,7 @@
 	}
 }
 
-5494={ #
+5494={ #Sayre
 	terrain="hills"
 	culture="pocono"
 	religion="bostonian"

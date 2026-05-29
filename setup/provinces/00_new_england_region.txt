@@ -869,7 +869,7 @@
 	}
 }
 
-6225={ #
+6225={ #Newport
 	terrain="plains"
 	culture="bayfolk"
 	religion="continental"

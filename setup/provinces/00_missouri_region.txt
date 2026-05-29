@@ -143,12 +143,24 @@
 	terrain="forest"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="clay"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="revelationist"
+		amount=2
+	}
+	slaves={
+		religion="catholic"
+		amount=2
 	}
 }
 
@@ -201,7 +213,7 @@
 3652={ #Warrenton
 	terrain="farmland"
 	culture="gatewayan"
-	religion="promethean"
+	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -262,14 +274,28 @@
 
 4000={ #Cape Giradeau
 	terrain="plains"
-	culture="gatewayan"
+	culture="riverlander"
 	religion="twainist"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
+		amount=3
+	}
+	freemen={
+		religion="catholic"
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -304,14 +330,14 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="earthware"
-	civilization_value=35
+	civilization_value=40
 	barbarian_power=0
 	province_rank="city"
 	nobles={
 		amount=3
 	}
 	citizen={
-		amount=2
+		amount=3
 	}
 	citizen={
 		religion="heartful"
@@ -319,6 +345,10 @@
 	}
 	citizen={
 		religion="catholic"
+		amount=2
+	}
+	freemen={
+		religion="heartful"
 		amount=2
 	}
 	freemen={
@@ -336,18 +366,23 @@
 		religion="lutheran"
 		amount=4
 	}
-	freemen={
+	slaves={
 		culture="hermanndeutsch"
 		religion="lutheran"
 		amount=2
 	}
-	freemen={
+	slaves={
 		culture="paw_paw"
 		religion="catholic"
 		amount=1
 	}
 	slaves={
+		religion="twainist"
 		amount=2
+	}
+	slaves={
+		religion="heartful"
+		amount=4
 	}
 	slaves={
 		religion="lutheran"
@@ -525,7 +560,7 @@
 5600={ #Hermann
 	terrain="plains"
 	culture="gatewayan"
-	religion="promethean"
+	religion="catholic"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -616,7 +651,7 @@
 6337={ #Rolla
 	terrain="forest"
 	culture="gatewayan"
-	religion="promethean"
+	religion="catholic"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -629,7 +664,7 @@
 6338={ #Warshington
 	terrain="plains"
 	culture="gatewayan"
-	religion="promethean"
+	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -882,7 +917,7 @@
 8645={ #Fulton
 	terrain="plains"
 	culture="gatewayan"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

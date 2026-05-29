@@ -74,8 +74,8 @@
  CRT_ADJ:0 "Hudsonian"
  YNK:0 "Yankee"
  YNK_ADJ:0 "Yankee"
- SNH:0 "Shenandoah"
- SNH_ADJ:0 "Shenandoahn"
+ SNH:0 "Frostburg"
+ SNH_ADJ:0 "Frostburger"
  
  
 
@@ -147,7 +147,7 @@
  FRG:0 "Fargo"
  FRG_ADJ:0 "Fargoan"
  BRN:0 "Brainerd"
- BRN_ADJ:0 "Brainerder"
+ BRN_ADJ:0 "Brainerdier"
  NEU:0 "New Ulm"
  NEU_ADJ:0 "Ulmian" 
  WNO:0 "Winona"

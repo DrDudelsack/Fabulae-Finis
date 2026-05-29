@@ -30,4 +30,5 @@ wasteland = RANGE { 11599 11604 }
 impassable_terrain = RANGE { 10598 10939 }
 impassable_terrain = RANGE { 10941 11456 }
 impassable_terrain = RANGE { 11908 11926 }
-impassable_terrain = LIST { 6404 11099 11173 11606 }
+impassable_terrain = LIST { 6404 11606 }
+impassable_terrain = LIST { 11480 }

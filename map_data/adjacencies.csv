@@ -1,2 +1,5 @@
-From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
--1;-1;;-1;-1;-1;-1;-1;
+From;To;Type;Through;x;y;x;y;
+7317;2233;river_large;10315;-1;-1;-1;-1;Chicago-Hammond
+3651;4206;river_large;10039;-1;-1;-1;-1;O'Fallon-St. Louis
+4206;6430;river_large;9709;-1;-1;-1;-1;St. Louis-Waterloo
+;-1;-1;-1;-1;

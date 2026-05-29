@@ -76,7 +76,7 @@
 	}
 }
 
-2789={ #
+2789={ #Alfred
 	terrain="hills"
 	culture="upstater"
 	religion="clairvoyant"
@@ -284,7 +284,7 @@
 	}
 }
 
-5462={ #
+5462={ #Coudersport
 	terrain="hills"
 	culture="yinzic"
 	religion="catholic"
@@ -297,7 +297,7 @@
 	}
 }
 
-5463={ #
+5463={ #Emporium
 	terrain="hills"
 	culture="yinzic"
 	religion="catholic"

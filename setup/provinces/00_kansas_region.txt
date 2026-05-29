@@ -495,7 +495,7 @@
 3899={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 5881={ #
 	terrain="plains"
 	culture="dhegihan"
-	religion="ozymandism"
+	religion="catholic"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 5883={ #
 	terrain="plains"
 	culture="dhegihan"
-	religion="ozymandism"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1113,7 +1113,7 @@
 7649={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
