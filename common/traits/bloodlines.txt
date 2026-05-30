@@ -18,3 +18,11 @@ snake_dynasty_blood = { # Blood of Snake Dynasty
         heavy_infantry_offensive = 0.10
     }
 }
+harpur = { # Harpur
+    type = status
+    prominence = 20
+    country = {
+        country_civilization_value = 5
+        research_points_modifier = 0.05
+    }
+}

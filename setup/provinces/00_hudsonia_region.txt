@@ -36,9 +36,11 @@
 		amount=1
 	}
 	freemen={
+		religion="clairvoyant"
 		amount=2
 	}
 	slaves={
+		religion="bostonian"
 		amount=2
 	}
 	tribesmen={
@@ -47,7 +49,7 @@
 }
 
 613={ #Hannibal
-	terrain="plains"
+	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="fish"
@@ -55,12 +57,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		religion="clairvoyant"
 		amount=1
 	}
 	freemen={
 		amount=2
 	}
 	slaves={
+		religion="bostonian"
 		amount=2
 	}
 	tribesmen={
@@ -79,10 +83,15 @@
 	citizen={
 		amount=1
 	}
+	citizen={
+		religion="americanist"
+		amount=1
+	}
 	freemen={
 		amount=2
 	}
 	slaves={
+		religion="clairvoyant"
 		amount=2
 	}
 	tribesmen={
@@ -105,6 +114,7 @@
 		amount=2
 	}
 	slaves={
+		religion="clairvoyant"
 		amount=2
 	}
 	tribesmen={
@@ -114,7 +124,7 @@
 
 999={ #
 	terrain="plains"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="bostonian"
 	trade_goods="tubers"
 	civilization_value=10
@@ -166,7 +176,7 @@
 
 1690={ #Sidney
 	terrain="hills"
-	culture="hudsonian"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="fur"
 	civilization_value=10
@@ -225,17 +235,28 @@
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
 1760={ #Marcy
 	terrain="plains"
-	culture="hudsonian"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -254,8 +275,8 @@
 }
 
 1761={ #German Flatts
-	terrain="plains"
-	culture="hudsonian"
+	terrain="marsh"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -272,7 +293,7 @@
 
 1762={ #Utica
 	terrain="farmland"
-	culture="hudsonian"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="earthware"
 	civilization_value=30
@@ -316,7 +337,7 @@
 
 1769={ #
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=10
@@ -399,6 +420,14 @@
 		religion="clairvoyant"
 		amount=1
 	}
+	citizen={
+		religion="bostonian"
+		amount=2
+	}
+	freemen={
+		religion="quaker"
+		amount=1
+	}
 	freemen={
 		religion="clairvoyant"
 		amount=2
@@ -423,7 +452,7 @@
 }
 
 2697={ #
-	terrain="plains"
+	terrain="forest"
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods="fruits"
@@ -449,7 +478,7 @@
 }
 
 2699={ #
-	terrain="plains"
+	terrain="forest"
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wood"
@@ -466,11 +495,31 @@
 	culture="upstater"
 	religion="fissionist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="americanist"
+		amount=2
+	}
+	citizen={
+		religion="clairvoyant"
+		amount=2
+	}
+	freemen={
+		religion="clairvoyant"
 		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
+	slaves={
+		religion="clairvoyant"
+		amount=2
 	}
 }
 
@@ -479,11 +528,31 @@
 	culture="upstater"
 	religion="rosicrucian"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	citizen={
+		religion="clairvoyant"
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=1
+	}
+	freemen={
+		religion="clairvoyant"
+		amount=2
+	}
+	slaves={
+		religion="clairvoyant"
+		amount=2
 	}
 }
 
@@ -492,17 +561,29 @@
 	culture="upstater"
 	religion="rosicrucian"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	freemen={
+		religion="americanist"
 		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=1
+	}
+	slaves={
+		religion="clairvoyant"
+		amount=2
 	}
 }
 
 3372={ #Union
-	terrain="hills"
-	culture="pocono"
+	terrain="farmland"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="grain"
 	civilization_value=10
@@ -515,7 +596,7 @@
 
 3373={ #Owego
 	terrain="hills"
-	culture="pocono"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -605,15 +686,26 @@
 }
 
 5191={ #
-	terrain="plains"
+	terrain="forest"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -622,24 +714,46 @@
 	culture="upstater"
 	religion="bostonian"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		religion="clairvoyant"
+		amount=2
 	}
 }
 
 5193={ #
-	terrain="plains"
+	terrain="forest"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="incense"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -648,11 +762,23 @@
 	culture="upstater"
 	religion="catholic"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
+	slaves={
+		religion="clairvoyant"
+		amount=2
 	}
 }
 
@@ -683,7 +809,7 @@
 }
 
 5712={ #
-	terrain="hills"
+	terrain="forest"
 	culture="hudsonian"
 	religion="bostonian"
 	trade_goods="leather"
@@ -723,6 +849,10 @@
 		amount=1
 	}
 	freemen={
+		religion="clairvoyant"
+		amount=1
+	}
+	freemen={
 		amount=1
 	}
 	slaves={
@@ -735,7 +865,7 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="wild_game"
-	civilization_value=18
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -743,8 +873,20 @@
 		religion="gaiwiio"
 		amount=1
 	}
+	citizen={
+		religion="clairvoyant"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
 	freemen={
 		amount=1
+	}
+	slaves={
+		religion="americanist"
+		amount=2
 	}
 	slaves={
 		amount=1
@@ -768,6 +910,10 @@
 	}
 	freemen={
 		amount=2
+	}
+	freemen={
+		religion="clairvoyant"
+		amount=1
 	}
 	slaves={
 		amount=2
@@ -802,7 +948,7 @@
 
 6056={ #Corning
 	terrain="hills"
-	culture="pocono"
+	culture="upstater"
 	religion="old_order"
 	trade_goods="vegetables"
 	civilization_value=18
@@ -827,8 +973,8 @@
 }
 
 6057={ #Elmira
-	terrain="hills"
-	culture="pocono"
+	terrain="farmland"
+	culture="upstater"
 	religion="old_order"
 	trade_goods="fruits"
 	civilization_value=18
@@ -853,7 +999,7 @@
 }
 
 6537={ #
-	terrain="plains"
+	terrain="forest"
 	culture="hudsonian"
 	religion="gothic"
 	trade_goods="vegetables"
@@ -867,7 +1013,7 @@
 
 6538={ #
 	terrain="plains"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="bostonian"
 	trade_goods=""
 	civilization_value=10
@@ -999,17 +1145,25 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="leather"
-	civilization_value=22
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
+	nobles={
+		amount=1
+	}
 	citizen={
-		amount=2
+		amount=3
 	}
 	citizen={
 		culture="upstater"
 		amount=2
 	}
 	freemen={
+		amount=1
+	}
+	freemen={
+		culture="upstater"
+		religion="clairvoyant"
 		amount=1
 	}
 	slaves={
@@ -1021,7 +1175,7 @@
 }
 
 6851={ #Camillus
-	terrain="plains"
+	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="clay"
@@ -1042,15 +1196,27 @@
 }
 
 6852={ #Sullivan
-	terrain="plains"
+	terrain="marsh"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="americanist"
+		amount=1
+	}
+	freemen={
+		religion="bostonian"
+		amount=2
+	}
+	slaves={
+		religion="clairvoyant"
+		amount=2
 	}
 }
 
@@ -1058,19 +1224,23 @@
 	terrain="farmland"
 	culture="upstater"
 	religion="rosicrucian"
-	trade_goods=""
-	civilization_value=30
+	trade_goods="silk"
+	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	nobles={
 		amount=3
 	}
 	citizen={
-		amount=3
+		amount=2
+	}
+	citizen={
+		religion="bostonian"
+		amount=1
 	}
 	citizen={
 		religion="clairvoyant"
-		amount=2
+		amount=3
 	}
 	citizen={
 		religion="fissionist"
@@ -1078,18 +1248,18 @@
 	}
 	freemen={
 		religion="clairvoyant"
-		amount=2
+		amount=3
 	}
 	freemen={
 		religion="americanist"
 		amount=2
 	}
 	freemen={
-		religion="catholic"
+		religion="bostonian"
 		amount=2
 	}
 	slaves={
-		religion="catholic"
+		religion="bostonian"
 		amount=2
 	}
 	slaves={
@@ -1132,6 +1302,10 @@
 	freemen={
 		amount=1
 	}
+	freemen={
+		religion="clairvoyant"
+		amount=1
+	}
 	slaves={
 		amount=4
 	}
@@ -1150,6 +1324,10 @@
 	}
 	freemen={
 		amount=2
+	}
+	freemen={
+		religion="clairvoyant"
+		amount=1
 	}
 	slaves={
 		amount=2
@@ -1173,14 +1351,18 @@
 		amount=1
 	}
 	freemen={
-		culture="haudenosaunee"
-		religion="gaiwiio"
 		amount=2
 	}
+	freemen={
+		religion="clairvoyant"
+		amount=1
+	}
 	slaves={
+		religion="bostonian"
 		amount=2
 	}
 	tribesmen={
+		religion="gaiwiio"
 		amount=2
 	}
 }
@@ -1265,7 +1447,7 @@
 
 8565={ #Otsego
 	terrain="plains"
-	culture="hudsonian"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="leather"
 	civilization_value=10
@@ -1290,7 +1472,7 @@
 }
 
 9360={ #
-	terrain="hills"
+	terrain="forest"
 	culture="upstater"
 	religion="bostonian"
 	trade_goods="fruits"
@@ -1356,7 +1538,7 @@
 
 9488={ #Hamilton
 	terrain="plains"
-	culture="hudsonian"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="wood"
 	civilization_value=10
@@ -1382,7 +1564,7 @@
 
 9490={ #Norwich
 	terrain="hills"
-	culture="hudsonian"
+	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="tubers"
 	civilization_value=10

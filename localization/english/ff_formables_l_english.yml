@@ -10,7 +10,7 @@
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"
  ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."
- ff_formable_event_1.a:0 "I'm sure Albany is nice, but I like [ROOT.GetCountry.GetCapital.GetName] here more."
+ ff_formable_event_1.a:0 "I'm sure [GetProvince('(int32)6678').GetName] is nice, but I like [ROOT.GetCountry.GetCapital.GetName] more."
  ff_formable_event_1.b:0 "A new capital for a new kingdom!"
  ## Extra ##
  

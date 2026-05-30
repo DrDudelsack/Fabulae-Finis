@@ -1,0 +1,29 @@
+﻿"UTC"={
+	country="UTC"
+	3={
+		first_name="Dionysus"
+		nickname="NICKNAME_DIONYSUS_YOUNGER"
+		family = c:UTC.fam:Harpur
+		father="char:1"
+		mother="char:2"
+		birth_date=2298.8.19
+		culture="upstater"
+		religion="clairvoyant"
+		no_stats=yes
+		add_martial=6
+		add_charisma=9
+		add_finesse=7
+		add_zeal=4
+		no_traits=yes
+		add_trait="orator"
+		add_trait="rash"
+		add_trait="scholar"
+		add_trait="harpur"
+		add_gold=300
+		add_popularity=55
+		c:UTC={
+			set_as_ruler=char:3
+		}
+		dna = "38Zk0LCGsIbAs8CzAo0CjQJ4AngCawJrAmwCbAKKAooCkgKSAnICcgJsAmwBWAFYAn4CfgOfA58DoAOgAmoCagJnAmcChQKFApICkgFMAUwExATEAmkCaQJ8AnwChAKEAmYCZgKWApYCgQKBAowCjAAzADMCggKCAokCiQJqAmoClwKXAokCiQJ7AnsBZgFmBLMEswKWApYChgKGAoUChQJxAnECdAJ0AmgCaAKZApkCdAJ0An4CfgJpAmkCiQKJAoQChAKJAokCZgJmAoMCgwFVAVUClQKVApgCmAJ8AnwE2QTZAmsCawLCAsIAmwCbACYAJgD9AP0AwQDBAWIBYgDBAMEBUAFQARsBGwDYANgAeAB4ArICsgB/AH8ASABIAWcBZwLAAsAC5gLmARIBEgFQAVADngOeAowCjAB/AH8AVABUADgAOAABAAECtgK2ABIAEgCFAIUARgBGAO8A7wE6APIA1ADUACEAIQCmAKYH4wfjAH8AfwEyATIF/wUqAE0A9gVWBdUCLALRAgACiwAAAAAAAAAAAAAAAA=="
+	}
+}

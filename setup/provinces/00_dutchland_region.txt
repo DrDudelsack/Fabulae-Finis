@@ -116,7 +116,7 @@
 }
 
 3286={ #Pottsville
-	terrain="plains"
+	terrain="forest"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wine"
@@ -181,7 +181,7 @@
 }
 
 3795={ #
-	terrain="plains"
+	terrain="forest"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="clay"
@@ -194,7 +194,7 @@
 }
 
 3796={ #
-	terrain="plains"
+	terrain="forest"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="fish"
@@ -259,7 +259,7 @@
 }
 
 5495={ #
-	terrain="hills"
+	terrain="forest"
 	culture="pocono"
 	religion="bostonian"
 	trade_goods="wild_game"
@@ -285,7 +285,7 @@
 }
 
 6213={ #
-	terrain="plains"
+	terrain="forest"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="leather"
@@ -298,7 +298,7 @@
 }
 
 6214={ #
-	terrain="plains"
+	terrain="forest"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="wood"
@@ -311,7 +311,7 @@
 }
 
 6215={ #
-	terrain="plains"
+	terrain="forest"
 	culture="pocono"
 	religion="bostonian"
 	trade_goods="clay"
@@ -493,7 +493,7 @@
 }
 
 9589={ #
-	terrain="plains"
+	terrain="forest"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="cattle"

@@ -116,7 +116,7 @@
 }
 
 3463={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="honey"
@@ -129,7 +129,7 @@
 }
 
 3464={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="leather"
@@ -324,7 +324,7 @@
 }
 
 7495={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -337,7 +337,7 @@
 }
 
 7496={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 7497={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="tobacco"
@@ -506,7 +506,7 @@
 }
 
 8966={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 8969={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="galvanist"
 	trade_goods="cattle"
@@ -532,7 +532,7 @@
 }
 
 8970={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""

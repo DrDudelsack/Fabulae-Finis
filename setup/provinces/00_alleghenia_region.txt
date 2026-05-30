@@ -38,7 +38,7 @@
 }
 
 2477={ #Chili
-	terrain="plains"
+	terrain="forest"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="hemp"
@@ -64,7 +64,7 @@
 }
 
 2479={ #Batavia
-	terrain="plains"
+	terrain="forest"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="maple"
@@ -90,7 +90,7 @@
 }
 
 2790={ #Attica
-	terrain="plains"
+	terrain="forest"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="fur"
@@ -142,7 +142,7 @@
 }
 
 3773={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="iron"
@@ -155,7 +155,7 @@
 }
 
 3774={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="maple"
@@ -168,7 +168,7 @@
 }
 
 3775={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 3776={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 8590={ #Clarence
-	terrain="plains"
+	terrain="forest"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="fur"
@@ -454,7 +454,7 @@
 }
 
 8771={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 8967={ #
-	terrain="hills"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -480,7 +480,7 @@
 }
 
 8968={ #
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 9035={ #Penn Hills
-	terrain="plains"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""

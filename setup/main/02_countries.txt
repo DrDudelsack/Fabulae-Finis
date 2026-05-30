@@ -1169,9 +1169,15 @@ country = {
 
 		UTC = { #Utica
 			government = despotic_monarchy
-			primary_culture = hudsonian
+			primary_culture = upstater
 			religion = clairvoyant
 			capital = 1762
+			family=1
+
+			historical_regnal_numbers = {
+				Robert = 1
+				Dionysus = 1
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }

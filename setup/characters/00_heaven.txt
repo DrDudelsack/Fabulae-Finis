@@ -1,1 +1,41 @@
-﻿
+﻿"heaven_UTC"={
+country="UTC"
+	1={
+		first_name="Dionysus"
+		nickname="NICKNAME_DIONYSUS_ELDER"
+		family = c:UTC.fam:Harpur
+		birth_date=2263.1.1
+		death_date=2328.1.1
+		culture="upstater"
+		religion="clairvoyant"
+		no_stats=yes
+		add_martial=8
+		add_charisma=6
+		add_finesse=7
+		add_zeal=4
+		no_traits=yes
+		add_trait="cruel"
+		add_trait="proud"
+		add_trait="crafty"
+		add_trait="paranoid"
+		add_trait="harpur"
+		dna="ZNBk0LCGsIbAs8CzAo0CjQJ4AngCawJrAmwCbAKKAooCkgKSAnICcgJsAmwBWAFYAn4CfgOfA58DoAOgAmoCagJnAmcChQKFApICkgFMAUwExATEAmkCaQJ8AnwChAKEAmYCZgKWApYCgQKBAowCjAAzADMCggKCAokCiQJqAmoClwKXAokCiQJ7AnsBZgFmBLMEswKWApYChgKGAoUChQJxAnECdAJ0AmgCaAKZApkCdAJ0An4CfgJpAmkCiQKJAoQChAKJAokCZgJmAoMCgwFVAVUClQKVApgCmAJ8AnwE2QTZAmsCawLCAsIAmwCbACYAJgD9AP0AwQDBAWIBYgDBAMEBUAFQARsBGwDYANgAeAB4ArICsgB/AH8ASABIAWcBZwLAAsAC5gLmARIBEgFQAVADngOeAowCjAB/AH8AVABUADgAOAABAAECtgK2ABIAEgCFAIUARgBGAO8A7wDyAPIA1ADUACEAIQCmAKYH4wfjAH8AfwEyATIFbAUqAPYA9gTbBdUCLALRAgACiwAAAAAAAAAAAAAAAA=="
+	}
+	2={
+		first_name="Doris"
+		family = c:UTC.fam:Harpur
+		female=yes
+		birth_date=2265.1.1
+		death_date=2310.1.1
+		culture="upstater"
+		religion="clairvoyant"
+		no_stats=yes
+		add_martial=2
+		add_charisma=5
+		add_finesse=7
+		add_zeal=4
+		no_traits=yes
+		add_trait="loving"
+		add_trait="harpur"
+	}
+}

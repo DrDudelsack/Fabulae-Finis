@@ -1,5 +1,5 @@
 ﻿82={ #Danbury
-	terrain="plains"
+	terrain="forest"
 	culture="gothamite"
 	religion="transcendentalist"
 	trade_goods="honey"

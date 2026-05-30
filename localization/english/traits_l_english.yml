@@ -343,3 +343,7 @@
  aeacidae:0 "Blood of Aiakos"
  aeacidae_desc:0 "Aiakos was the grandfather of the greatest Greek hero, Achilles, and king of the island of Aigina in the Saronic Gulf. Neoptolemos, son of Achilles, came to be king of the Molossian Epirotes after he returned from the Trojan War, and his descendants have ruled ever since, uniting Epirus and contributing to the legacy of Alexander the Great through his mother Olympias.\n\n#G This trait can be passed on patrilineally.#!"
 
+ ## FF Added ##
+ harpur:0 "Blood of the Harpurs"
+ harpur_desc:0 "The founder of the Harpur Dynasty, Robert Harpur was a great statesmen and scholar, building many grand universities. His descendants have long been the rulers of Syracuse and the Mohawk valley region in central New York, fostering scholarly and spiritualist learning.\n\n#G This trait will be inherited by [CHARACTER.GetPraenomen]'s offspring.#!"
+
