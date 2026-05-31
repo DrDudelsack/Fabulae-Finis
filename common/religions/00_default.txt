@@ -413,7 +413,7 @@ veteranic = { # Veteranic
 	modifier = { 
 		global_manpower_modifier = 0.05
 		global_defensive = 0.05
-		war_exhaustion = 0.02
+		war_exhaustion = 0.03
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_veteranic

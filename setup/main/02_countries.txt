@@ -9,6 +9,7 @@ country = {
 			primary_culture = youser
 			religion = americanist
 			capital = 4077
+			republic_election_reforms = republican_election_4
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -69,6 +70,7 @@ country = {
 			primary_culture = youser
 			religion = americanist
 			capital = 2812
+			republic_election_reforms = republican_election_4
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -86,6 +88,7 @@ country = {
 			primary_culture = youser
 			religion = americanist
 			capital = 746 
+			republic_election_reforms = republican_election_4
 
 			technology={
 				military_tech={ level=2 progress=0 }

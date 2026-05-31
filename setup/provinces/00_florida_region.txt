@@ -26,7 +26,7 @@
 
 243={ #
 	terrain="jungle"
-	culture="sofloano"
+	culture="miccosukee"
 	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 3965={ #
 	terrain="jungle"
-	culture="sofloano"
+	culture="miccosukee"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10

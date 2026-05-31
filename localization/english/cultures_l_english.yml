@@ -136,6 +136,8 @@
  lakota:0 "Lakota" 
  nakota:0 "Nakota"
  dhegihan:0 "Dhegihan"
+ ioway:0 "Ioway"
+ otoe_missouria:0 "Otoe-Missouria"
 
  ## Yankee ##
  new_englander:0 "Yankee"
@@ -145,6 +147,7 @@
 
  ## Seminole ##
  seminole:0 "Seminole"
+ miccosukee:0 "Miccosukee"
 
  ## Sequoyan ##
  sequoyan:0 "Sequoyan"

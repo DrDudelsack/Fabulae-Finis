@@ -392,6 +392,8 @@
 				Zazette Zitkalasa Zonta
 			}
 		}
+		ioway = {}
+		otoe_missouria = {}
 	}
 	
 	barbarian_names = { 

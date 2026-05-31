@@ -839,7 +839,7 @@
 
 6897={ #
 	terrain="plains"
-	culture="grangelander"
+	culture="ioway"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -852,7 +852,7 @@
 
 6898={ #
 	terrain="plains"
-	culture="grangelander"
+	culture="ioway"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -995,7 +995,7 @@
 
 7372={ #Wyandotte
 	terrain="plains"
-	culture="grangelander"
+	culture="ioway"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1242,7 +1242,7 @@
 
 7899={ #
 	terrain="plains"
-	culture="grangelander"
+	culture="ioway"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10

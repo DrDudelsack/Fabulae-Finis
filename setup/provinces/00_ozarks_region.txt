@@ -390,7 +390,7 @@
 
 4113={ #
 	terrain="plains"
-	culture="muscogee"
+	culture="pawnee"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 4114={ #
 	terrain="plains"
-	culture="muscogee"
+	culture="pawnee"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10

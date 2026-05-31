@@ -192,3 +192,23 @@
  tribal_hegemony_ruler_female_otomi:0 "Data Behnya Nda"
  tribal_hegemony_consort_otomi:0 "Nda"
  tribal_hegemony_consort_female_otomi:0 "Behnya"
+
+ #Mid Atlantic Republic Offices
+ office_augur_yankee:0 "Chief Justice"
+ office_plebeian_aedile_yankee:0 "Secretary of Labor"
+ office_censor_yankee:0 "Speaker of the House"
+ office_tribune_of_the_soldiers_yankee:0 "Secretary of Defense"
+ office_pontifex_yankee:0 "Attorney General"
+ office_republic_physician_yankee:0 "Secretary of Health"
+ office_praetor_yankee:0 "Secretary of State"
+ office_tribune_of_the_treasury_yankee:0 "Secretary of the Treasury"
+ 
+ #Yankee Republic Offices
+ office_augur_new_englander:0 "Chief Justice"
+ office_plebeian_aedile_new_englander:0 "Secretary of Labor"
+ office_censor_new_englander:0 "Speaker of the House"
+ office_tribune_of_the_soldiers_new_englander:0 "Secretary of Defense"
+ office_pontifex_new_englander:0 "Attorney General"
+ office_republic_physician_new_englander:0 "Secretary of Health"
+ office_praetor_new_englander:0 "Secretary of State"
+ office_tribune_of_the_treasury_new_englander:0 "Secretary of the Treasury"

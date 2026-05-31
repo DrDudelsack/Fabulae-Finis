@@ -38,6 +38,7 @@
 	}
 	culture = {
 		seminole = {}
+		miccosukee = {}
 	}
 	
 	barbarian_names = { 

@@ -36920,7 +36920,7 @@
 
 4115={ #
 	terrain="plains"
-	culture=""
+	culture="pawnee"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -67951,7 +67951,7 @@
 
 7575={ #
 	terrain="plains"
-	culture="okie"
+	culture="otoe_missouria"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -68419,7 +68419,7 @@
 
 7624={ #
 	terrain="plains"
-	culture=""
+	culture="okie"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
