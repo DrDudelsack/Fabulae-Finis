@@ -749,7 +749,7 @@ country = {
 		}
 
 		GRY = { #Camp Grayling
-			government = aristocratic_republic
+			government = mercenary_republic
 			primary_culture = michigander
 			religion = arsenalist
 			capital = 840
@@ -1283,7 +1283,7 @@ country = {
 
 		WIN = { #Windsor
 			government = titanate
-			primary_culture = ontarian
+			primary_culture = michiganais
 			religion = promethean
 			capital = 7375
 
@@ -2992,7 +2992,7 @@ country = {
 			capital = 8238
 
 			own_control_core = {
-				8238 8240 4213 4214 8239 4630 4631 7582 
+				8238 8240 4213 4214 8239 4630 4631 7582 4629
 			}
 		}
 		SDK = { #South Dakota

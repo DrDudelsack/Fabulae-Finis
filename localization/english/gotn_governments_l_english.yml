@@ -55,16 +55,16 @@
 
  grand_republic:0 "Grand Republic"
  grand_republic_desc:0 "A republic of nearly absurd scale, a Grand Republic is a huge administrative body. Gone are the days of a body of citizens making decisions for a country. Laws are decided upon by elected representatives, and the Great Archon wields an immense amount of power. Democracy implemented on such a scale naturally appeases the masses."
- grand_republic_ruler:0 "Great Archon"
+ grand_republic_ruler:0 "President"
  
  league_republic:0 "League"
- league_republic_desc:0 "A League is a federalized state, usually representing various city states or regions, and granting them some degree of autonomy whilst still maintaining a central framework, uniting them all together. Leagues are especially common amongst the Greeks, where they are known as a 'Koinon'. Albeit to a lesser extent, leagues have been formed by the Hittite and Aramaic kingdoms, and the Faliscan and Latins of Italy."
+ league_republic_desc:0 "A League is a federalized state, usually representing various city states or regions, and granting them some degree of autonomy whilst still maintaining a central framework, uniting them all together. Leagues are especially common amongst the peoples of the East Coast, who have been known to organize their disjointed city-states into leagues occasionally."
  league_republic_ruler:0 "Speaker"
 
  mercenary_republic:0 "Mercenary Republic"
  mercenary_republic_desc:0 "Mercenary Republics often come into existence as the result of a disgreement between a band of mercenaries and the former ruler of a territory or a group of mercenaries seeking treasure and conquest in foreign lands. Either way, Mercenaries Republics do not come about as the result of a peaceful agreement. These states often fall apart due to internal infighting, or being overthrown by an unhappy populous."
- mercenary_republic_ruler:0 "Commander"
- mercenary_republic_ruler_female:0 "Commander"
+ mercenary_republic_ruler:0 "Captain"
+ mercenary_republic_ruler_female:0 "Captain"
  mercenary_republic_co_ruler:0 "Lieutenant"
  mercenary_republic_co_ruler_female:0 "Lieutenant"
 
