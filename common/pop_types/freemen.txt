@@ -1,6 +1,6 @@
 ﻿freemen = {
 	output_modifier = {
-		local_manpower = 0.008
+		local_manpower = 0.007
 		tax_income = 0.005
 	}
 	

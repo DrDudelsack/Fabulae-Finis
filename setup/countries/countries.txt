@@ -44,6 +44,7 @@ PNB = "setup/countries/east_coast/penobscot.txt"
 PSM = "setup/countries/east_coast/passamquoddy.txt"
 STJ = "setup/countries/east_coast/saint_johnsbury.txt"
 MNN = "setup/countries/east_coast/maine.txt"
+FVV = "setup/countries/east_coast/frenchville.txt"
 
 
 #Midwest

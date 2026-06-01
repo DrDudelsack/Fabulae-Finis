@@ -182,3 +182,16 @@ st_louis_heritage = {
       tag = STL
    }
 }
+frenchville_heritage = {
+   	modifier = {
+      #good
+      global_nobles_output = 0.10
+      research_points_modifier = 0.05
+    #bad
+      global_pop_assimilation_speed_modifier = -0.20
+   }
+
+   trigger = {
+      tag = FVV
+   }
+}

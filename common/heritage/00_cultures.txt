@@ -116,6 +116,19 @@ yooper_heritage = {
        primary_culture = yooper
    }
 }
+kermesseais_heritage = {
+   	modifier = {
+        #good
+        hold_games_price_cost_modifier = -0.35
+        global_pop_assimilation_speed_modifier = 0.05
+       #bad
+        civic_tech_investment = -0.10
+   }
+
+   trigger = {
+       primary_culture = nouvelle_angleterrais
+   }
+}
 
 #Culture Group
 mid_atlantic_heritage = {
@@ -298,5 +311,18 @@ canayen_heritage = {
 
    trigger = {
         country_culture_group = canayen
+	}
+}
+sioux_heritage = {
+   	modifier = {
+      #good
+       plains_combat_bonus = 0.10
+       global_tribesmen_output = 0.05
+       #bad
+       improve_relation_impact = -0.25
+   }
+
+   trigger = {
+        country_culture_group = sioux
 	}
 }

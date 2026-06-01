@@ -264,6 +264,10 @@
  penobscot:0 "Penobscot" 
  wolastoqiyik:0 "Wolastoqiyik" 
 
+ ## Frentshveel ##
+ frentshveel:0 "Frentshveel"
+ frentshveelwa:0 "Frentshveelwa"
+
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  yankee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -335,3 +339,5 @@
  desi_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  wabanaki_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  wabanaki_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ frentshveel_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ frentshveel_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

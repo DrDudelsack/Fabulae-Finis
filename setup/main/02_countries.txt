@@ -337,9 +337,8 @@ country = {
 			own_control_core = {
 				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
 				3776 3774 3773 3775 4013 4012 8967 8968 794
-				11652 11644 11646 4983 4984 3746 3745 5463 5460 5462
+				11652 11644 11646 4983 3746 3745 5463 5462
 				8592 8590 6595 2790 6593 6594 2791 5459
-				5461 5912 11656 
 			}
 		}
 		STL = { #St. Louis
@@ -2846,7 +2845,7 @@ country = {
 			}
 
 			own_control_core = {
-				834 9250 835 679 678 9250 9249 8834 5913
+				834 9250 835 679 678 9250 9249 8834 5913 11656
 			}
 		}
 		CLM = { #Columbus
@@ -3133,6 +3132,23 @@ country = {
 
 			own_control_core = {
 				1406 1408 1 2 1407 3 4 5633 5636 5268
+			}
+		}
+		FVV = { #Frenchville/Dubois
+			government = aristocratic_monarchy
+			primary_culture = frentshveelwa
+			religion = promethean
+			capital = 4984
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4984 5460 5461 5912 
 			}
 		}
 	}

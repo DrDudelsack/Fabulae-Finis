@@ -1,7 +1,7 @@
 ﻿tribesmen = {
 	output_modifier = {
 		tax_income = 0.008
-		local_manpower = 0.006
+		local_manpower = 0.005
 	}
 	count_modifier = {
 		pop_food_consumption = -0.15
