@@ -33,7 +33,7 @@
  ## Deep Southern ##
  deep_southern:0 "Deep Southern"
  arkalatexan:0 "Arkalatexan"
- atlantean:0 "Atlantean"
+ atlantean:0 "Atlantan"
  deltaic:0 "Deltaic"
  dixie:0 "Dixie"
  gulfard:0 "Gulfard"
@@ -55,7 +55,7 @@
  northlake:0 "Northlake"
  minnesotan:0 "Minnesotan"
  yooper:0 "Yooper"
- cheesehead:0 "Cheesehead"
+ cheesehead:0 "Badgerlander"
  northlander:0 "Northlander"
  upnorther:0 "Upnorther"
 
@@ -79,6 +79,8 @@
  acadien:0 "Acadien"
  francontarien:0 "Francontarien"
  quebecois:0 "Quebecois"
+ michiganais:0 "Michiganais"
+ nouvelle_angleterrais:0 "Kermesseais"
 
  ## Amish ##
  amish:0 "Amish"
@@ -254,6 +256,14 @@
  desistani:0 "Desistani"
  fremontwala:0 "Fremontwala"
 
+ ## Wabanaki ##
+ wabanaki:0 "Wabanaki"
+ abenaki:0 "Abenaki"
+ mikmaw:0 "Mi'kmaw"
+ passamaquoddy:0 "Passamaquoddy" 
+ penobscot:0 "Penobscot" 
+ wolastoqiyik:0 "Wolastoqiyik" 
+
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  yankee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -323,3 +333,5 @@
  geechee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  desi_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  desi_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ wabanaki_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ wabanaki_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

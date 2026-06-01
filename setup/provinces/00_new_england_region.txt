@@ -1,6 +1,6 @@
 ﻿1={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="nouvelle_angleterrais"
 	religion="viking"
 	trade_goods="maple"
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 3={ #
 	terrain="impassable_terrain"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -26,8 +26,8 @@
 
 4={ #
 	terrain="hills"
-	culture="quebecois"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -39,8 +39,8 @@
 
 49={ #
 	terrain="hills"
-	culture="acadien"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -52,8 +52,8 @@
 
 50={ #
 	terrain="plains"
-	culture="acadien"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -65,8 +65,8 @@
 
 985={ #
 	terrain="forest"
-	culture="quebecois"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -78,8 +78,8 @@
 
 986={ #
 	terrain="hills"
-	culture="quebecois"
-	religion="transcendentalist"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -143,7 +143,7 @@
 
 1053={ #
 	terrain="forest"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 1406={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 1407={ #
 	terrain="hills"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1408={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 2040={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 2041={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="wolastoqiyik"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 2384={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -443,7 +443,7 @@
 2780={ #
 	terrain="plains"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 2781={ #
 	terrain="plains"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="ursuline"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -468,7 +468,7 @@
 
 2782={ #
 	terrain="hills"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 3377={ #
 	terrain="hills"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 3378={ #
 	terrain="hills"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -624,8 +624,8 @@
 
 4180={ #
 	terrain="forest"
-	culture="quebecois"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -637,7 +637,7 @@
 
 4294={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="shorehugger"
 	religion="fathomless"
 	trade_goods="tubers"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 4296={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="shorehugger"
 	religion="fathomless"
 	trade_goods="cattle"
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 5186={ #
 	terrain="plains"
-	culture="bayfolk"
+	culture="shorehugger"
 	religion="fathomless"
 	trade_goods="cattle"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 5294={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="shorehugger"
 	religion="gothic"
 	trade_goods="woad"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 7161={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="passamaquoddy"
 	religion="bostonian"
 	trade_goods="rice"
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 7162={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="passamaquoddy"
 	religion="bostonian"
 	trade_goods=""
 	civilization_value=10
@@ -975,7 +975,7 @@
 
 7163={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="passamaquoddy"
 	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 7763={ #
 	terrain="forest"
-	culture="bayfolk"
+	culture="shorehugger"
 	religion="transcendentalist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -1053,7 +1053,7 @@
 
 7765={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="shorehugger"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -1066,7 +1066,7 @@
 
 7766={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="shorehugger"
 	religion="fathomless"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1079,7 +1079,7 @@
 
 7767={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="shorehugger"
 	religion="gothic"
 	trade_goods="wine"
 	civilization_value=10
@@ -1093,7 +1093,7 @@
 8772={ #
 	terrain="forest"
 	culture="shorehugger"
-	religion="fathomless"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1105,7 +1105,7 @@
 
 8773={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="passamaquoddy"
 	religion="bostonian"
 	trade_goods="maple"
 	civilization_value=10
@@ -1144,8 +1144,8 @@
 
 9567={ #
 	terrain="hills"
-	culture="vermonter"
-	religion="viking"
+	culture="penobscot"
+	religion="bostonian"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1157,8 +1157,8 @@
 
 9568={ #
 	terrain="forest"
-	culture="vermonter"
-	religion="fathomless"
+	culture="penobscot"
+	religion="bostonian"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -1170,8 +1170,8 @@
 
 9569={ #
 	terrain="hills"
-	culture="vermonter"
-	religion="viking"
+	culture="penobscot"
+	religion="bostonian"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -1183,7 +1183,7 @@
 
 9570={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="passamaquoddy"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -1197,7 +1197,7 @@
 9627={ #
 	terrain="forest"
 	culture="shorehugger"
-	religion="fathomless"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1210,7 +1210,7 @@
 9628={ #
 	terrain="plains"
 	culture="shorehugger"
-	religion="fathomless"
+	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

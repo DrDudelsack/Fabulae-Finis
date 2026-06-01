@@ -1,0 +1,119 @@
+﻿wabanaki = {
+	color = rgb { 91 11 140 }
+
+	levy_template = levy_central_asia
+	
+	primary = light_infantry
+	second = heavy_cavalry
+	flank = horse_archers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	male_names = {
+		Atole Asseloma
+		Can Ceykop Cems Cicis Cutoss Cini Concouguash
+		Daniel Donald Tahnol
+		Elijah Eugene Elikk Ehtiyan Ekkiyan
+		Francis
+		George Graylock
+		Husa Husawis
+		James Joseph
+		Kapoliyel Koluskap
+		Levi Louis Leksatol Lapel
+		Muhsilepehk Mahton Matthew Maykol Missel Musis Mehk 
+		Nihkoloss
+		Osihkiyol
+		Ponuwet Piyel Polansuwe Polans Pul Pilops Pilips
+		Richard
+		Sen Sozap Sesuhs Susehp Susepsa Sepsa Samson Simu Sayomon
+		Tepit Tapot Tihkon Tuma
+	}
+	female_names = {
+		Aselihk Anuwit Amelia Amelie Abigail Abby
+		Belle
+		Cicis Chloe Cessihka Cuwen Cuwena Cini Charlotte
+		Danielle Diane
+		Elizabeth Evelyn Ena Elona Eleanor Epi
+		Gabrielle
+		Isabelle
+		Jenny Josephine
+		Kanozas Kolel Kalalin
+		Lisopott Louise Luhsel Luhsi
+		Madelan Misseli Matolen Mali Malisan Mahta Mulehpon
+		Nicole Nahtalin Nansi
+		Suzanne Sapet Sutihk Suliyan Sarah Suset Salat Susehpin Sydney
+		Tayen Tiyena
+	}
+	family = {
+		Benedict.Benedict.Benedict.Benedict
+		Bernard
+		Bruchac
+		Charland
+		Classian
+		Dana
+		Francis
+		Gabriel
+		Gamelin
+		Gauthier
+		Gill
+		Godon
+		Goslin
+		Guptill
+		Hannis
+		Lachapelle
+		Lingley
+		Lolar
+		Look
+		Loring
+		Masta
+		Milette
+		Neault
+		Neptune
+		Newell
+		Nicolar
+		Nolett
+		Obomsawin
+		Ockett
+		Panadis
+		Parker
+		Paul
+		Pelotte
+		Piyelpul
+		Portneuf
+		Pouliot
+		Sanborn
+		Sahkupi
+		Sapiel
+		Savageau
+		Seeley
+		Shay
+		Silliboy
+		Sockabasin
+		Sockalexis
+		Socobasin
+		Soctomah
+		Stranger
+		Tahamont
+		Tomah
+		Watso
+		Wawanoloath
+	}
+	culture = {
+		abenaki = {}
+		mikmaw = {}
+		passamaquoddy = {}
+		penobscot = {}
+		wolastoqiyik = {}
+	}
+	
+	barbarian_names = { 
+		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
+	}
+	
+	graphical_culture = persian_gfx
+	ethnicities = {
+		10 = bactrian
+	}
+}

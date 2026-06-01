@@ -1,6 +1,6 @@
 ﻿2={ #
 	terrain="plains"
-	culture=""
+	culture="nouvelle_angleterrais"
 	religion="viking"
 	trade_goods="woad"
 	civilization_value=10
@@ -6357,7 +6357,7 @@
 
 674={ #
 	terrain="forest"
-	culture="maritimer"
+	culture="mikmaw"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -19318,7 +19318,7 @@
 
 2185={ #
 	terrain="hills"
-	culture="newfie"
+	culture="mikmaw"
 	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
@@ -31109,7 +31109,7 @@
 
 3520={ #
 	terrain="forest"
-	culture="newfie"
+	culture="mikmaw"
 	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
@@ -31135,7 +31135,7 @@
 
 3522={ #
 	terrain="hills"
-	culture="newfie"
+	culture="mikmaw"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -48828,7 +48828,7 @@
 
 5395={ #
 	terrain="forest"
-	culture="newfie"
+	culture="mikmaw"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -48854,7 +48854,7 @@
 
 5397={ #
 	terrain="hills"
-	culture="newfie"
+	culture="mikmaw"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -65858,7 +65858,7 @@
 
 7326={ #
 	terrain="hills"
-	culture="newfie"
+	culture="mikmaw"
 	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
@@ -100178,7 +100178,7 @@
 
 10732={ #
 	terrain="impassable_terrain"
-	culture="acadien"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods=""
 	civilization_value=10

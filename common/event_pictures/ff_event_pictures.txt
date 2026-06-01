@@ -1,0 +1,6 @@
+﻿## Loading Screens ##
+
+Event_praying_washington = {
+	theme = Uncategorized
+	picture = "gfx/interface/event_window/ff_praying_washington.dds"
+}

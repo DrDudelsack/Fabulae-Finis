@@ -274,14 +274,12 @@ country = {
 				6535 1467 6536 6534 1465 1466 7224 5186
 				2171 2170 2169 2178 2179 8883 1904
 				7222 7223
-				5185 5184 5296 5293 5295 4295 4294 5294 4296 1408 2742
-				7763 7766 7765 2384 2383 3377 
+				5185 5184 5296 5293 5295 4295 4294 5294 4296 2742
+				7763 7766 7765 2383
 				4627 6223 6224 6225
 				4628 4627
-				9629 9628 9627 2741 2740 1406 1
-				9567 9568 8773 7162 7161 7163 8774 8772
-				3378 1407 3 4 9569 9570 2040 49 50 2041 2
-				4180 985 
+				9629 9628 9627 2741 2740
+			 	9569 8772 7765
 			}
 		}
 		MIC = { #Detroit
@@ -1250,7 +1248,7 @@ country = {
 
 		SUD = { #Sudbury
 			government = titanate
-			primary_culture = shieldshorer
+			primary_culture = francontarien
 			religion = promethean
 			capital = 2909
 
@@ -2290,7 +2288,7 @@ country = {
 			capital = 7767
 
 			own_control_core = {
-				7767 6125 6124 3446 3447 7765 7764
+				7767 6125 6124 3446 3447 7764
 			}
 		}
 		CHS = { #Charleston 
@@ -2433,12 +2431,12 @@ country = {
 		}
 		MEP = { # Memphremagog
 			government = tribal_chiefdom
-			primary_culture = quebecois
+			primary_culture = nouvelle_angleterrais
 			religion = gothic
 			capital = 1052
 
 			own_control_core = {
-				1052 1051 1053 986 2782
+				1052 1051 1053 2782 5269 8916 5270 5267
 			}
 		}
 		WTH = { #Worthington
@@ -3033,6 +3031,108 @@ country = {
 
 			own_control_core = {
 				2227 2226 2228 7512 7511 7513 7510 
+			}
+		}
+		PRS = { # Presque Isle
+			government = tribal_kingdom
+			primary_culture = nouvelle_angleterrais
+			religion = ursuline
+			capital = 2227
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				48 49 50 2040
+			}
+		}
+		HOL = { # Holton
+			government = tribal_federation
+			primary_culture = wolastoqiyik
+			religion = bostonian
+			capital = 2041
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2041 3162 1081
+			}
+		}
+		PNB = { # Penobscot
+			government = tribal_federation
+			primary_culture = penobscot
+			religion = bostonian
+			capital = 9569
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9569 9567 9568 
+			}
+		}
+		PSM = { # Passamquoddy
+			government = tribal_federation
+			primary_culture = passamaquoddy
+			religion = bostonian
+			capital = 7161
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7161 7162 7163 8773 8774 9570
+			}
+		}
+		STJ = { # Saint-Johnsbury
+			government = tribal_federation
+			primary_culture = nouvelle_angleterrais
+			religion = ursuline
+			capital = 985
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				985 986 4180 2384 3377 3378
+			}
+		}
+		MNN = { # Maine
+			government = tribal_kingdom
+			primary_culture = nouvelle_angleterrais
+			religion = gothic
+			capital = 1406
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1406 1408 1 2 1407 3 4 5633 5636 5268
 			}
 		}
 	}

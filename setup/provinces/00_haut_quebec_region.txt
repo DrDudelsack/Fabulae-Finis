@@ -39,7 +39,7 @@
 
 1051={ #
 	terrain="forest"
-	culture="quebecois"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 1052={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="nouvelle_angleterrais"
 	religion="ursuline"
 	trade_goods="tubers"
 	civilization_value=10
@@ -507,8 +507,8 @@
 
 5268={ #
 	terrain="forest"
-	culture="quebecois"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -533,8 +533,8 @@
 
 5270={ #
 	terrain="forest"
-	culture="quebecois"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -871,7 +871,7 @@
 
 8916={ #
 	terrain="plains"
-	culture="montrealais"
+	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10

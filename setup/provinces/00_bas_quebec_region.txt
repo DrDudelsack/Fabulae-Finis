@@ -936,7 +936,7 @@
 
 9516={ #
 	terrain="forest"
-	culture="acadien"
+	culture="mikmaw"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10

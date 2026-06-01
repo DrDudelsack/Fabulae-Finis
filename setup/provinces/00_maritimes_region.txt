@@ -1,7 +1,7 @@
 ﻿48={ #
 	terrain="hills"
-	culture="acadien"
-	religion="gothic"
+	culture="nouvelle_angleterrais"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

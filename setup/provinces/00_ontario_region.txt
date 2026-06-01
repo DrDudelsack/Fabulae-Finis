@@ -721,7 +721,7 @@
 
 7375={ #
 	terrain="farmland"
-	culture="ontarian"
+	culture="michiganais"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

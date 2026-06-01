@@ -65,7 +65,7 @@
 
 640={ #
 	terrain="forest"
-	culture="francontarien"
+	culture="michiganais"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -674,7 +674,7 @@
 
 6288={ #
 	terrain="forest"
-	culture="francontarien"
+	culture="michiganais"
 	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10

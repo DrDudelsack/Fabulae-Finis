@@ -1,0 +1,9 @@
+﻿alis_ubbo_port = {
+	theme = Uncategorized
+	picture = "gfx/interface/event_window/alis_ubbo_port.dds"
+}
+
+alis_ubbo_tribe = {
+	theme = Uncategorized
+	picture = "gfx/interface/event_window/alis_ubbo_tribe.dds"
+}
