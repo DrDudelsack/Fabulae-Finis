@@ -77,7 +77,7 @@
 }
 
 2956={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="hearthtender"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 6586={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 7840={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""

@@ -12,7 +12,7 @@
 }
 
 204={ #Amsterdam
-	terrain="plains"
+	terrain="farmland"
 	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="clay"
@@ -123,7 +123,7 @@
 }
 
 999={ #Granville
-	terrain="plains"
+	terrain="forest"
 	culture="vermonter"
 	religion="bostonian"
 	trade_goods="tubers"
@@ -491,7 +491,7 @@
 }
 
 3103={ #Lysander
-	terrain="plains"
+	terrain="farmland"
 	culture="upstater"
 	religion="fissionist"
 	trade_goods="earthware"
@@ -608,7 +608,7 @@
 }
 
 3469={ #Clifton Park
-	terrain="plains"
+	terrain="farmland"
 	culture="hudsonian"
 	religion="bostonian"
 	trade_goods="clay"
@@ -621,7 +621,7 @@
 }
 
 3470={ #Gloversville
-	terrain="plains"
+	terrain="farmland"
 	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="wild_game"
@@ -1012,7 +1012,7 @@
 }
 
 6538={ #Greenwich
-	terrain="plains"
+	terrain="forest"
 	culture="vermonter"
 	religion="bostonian"
 	trade_goods=""
@@ -1025,7 +1025,7 @@
 }
 
 6539={ #Troy
-	terrain="plains"
+	terrain="forest"
 	culture="hudsonian"
 	religion="bostonian"
 	trade_goods=""

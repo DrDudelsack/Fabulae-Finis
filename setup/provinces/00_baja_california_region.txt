@@ -1,8 +1,8 @@
 ﻿410={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -12,10 +12,10 @@
 }
 
 412={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="catholic"
-	trade_goods="olive"
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -25,10 +25,10 @@
 }
 
 413={ #
-	terrain="plains"
+	terrain="hills"
 	culture="socaleno"
 	religion="catholic"
-	trade_goods="olive"
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -38,10 +38,10 @@
 }
 
 832={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -51,7 +51,7 @@
 }
 
 833={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 2626={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="catholic"
 	trade_goods="olive"
@@ -77,10 +77,10 @@
 }
 
 2627={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="catholic"
-	trade_goods="olive"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90,7 +90,7 @@
 }
 
 2628={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="catholic"
 	trade_goods="olive"
@@ -103,10 +103,10 @@
 }
 
 3134={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture="cahuilla"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -116,10 +116,10 @@
 }
 
 3135={ #
-	terrain="plains"
+	terrain="desert"
 	culture="cahuilla"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -129,7 +129,7 @@
 }
 
 3136={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 3867={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 3868={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -168,7 +168,7 @@
 }
 
 3869={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 4717={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 4718={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 4719={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 4720={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -233,10 +233,10 @@
 }
 
 7164={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -246,10 +246,10 @@
 }
 
 7165={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -259,10 +259,10 @@
 }
 
 7166={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -272,7 +272,7 @@
 }
 
 7167={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 7361={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 7362={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -311,7 +311,7 @@
 }
 
 7363={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 7926={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -337,7 +337,7 @@
 }
 
 7927={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 7928={ #
-	terrain="plains"
+	terrain="hills"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -366,7 +366,7 @@
 	terrain="plains"
 	culture="socaleno"
 	religion="quetzaltec"
-	trade_goods="grain"
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -376,7 +376,7 @@
 }
 
 8733={ #
-	terrain="plains"
+	terrain="desert"
 	culture="cahuilla"
 	religion="quetzaltec"
 	trade_goods="cotton"
@@ -389,7 +389,7 @@
 }
 
 8734={ #
-	terrain="plains"
+	terrain="desert"
 	culture="cahuilla"
 	religion="quetzaltec"
 	trade_goods="fish"
@@ -402,7 +402,7 @@
 }
 
 8735={ #
-	terrain="plains"
+	terrain="desert"
 	culture="cahuilla"
 	religion="quetzaltec"
 	trade_goods="cotton"
@@ -415,10 +415,10 @@
 }
 
 9378={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -428,10 +428,10 @@
 }
 
 9379={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -441,7 +441,7 @@
 }
 
 9380={ #
-	terrain="plains"
+	terrain="desert_hills"
 	culture=""
 	religion="catholic"
 	trade_goods=""

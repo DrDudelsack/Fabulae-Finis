@@ -1,5 +1,5 @@
 ﻿791={ #
-	terrain="plains"
+	terrain="forest"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -12,7 +12,7 @@
 }
 
 792={ #
-	terrain="plains"
+	terrain="forest"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -25,7 +25,7 @@
 }
 
 979={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 980={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
@@ -51,7 +51,7 @@
 }
 
 981={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 1039={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -77,7 +77,7 @@
 }
 
 1040={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -90,7 +90,7 @@
 }
 
 1042={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 2299={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 2302={ #
-	terrain="mountain"
+	terrain="forest"
 	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 2552={ #
-	terrain="plains"
+	terrain="forest"
 	culture="juniperian"
 	religion="loneranger"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 4862={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -415,7 +415,7 @@
 }
 
 4864={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 5598={ #
-	terrain="plains"
+	terrain="forest"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 6419={ #
-	terrain="plains"
+	terrain="forest"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -701,7 +701,7 @@
 }
 
 8396={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -792,7 +792,7 @@
 }
 
 9007={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -805,7 +805,7 @@
 }
 
 9008={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
@@ -857,7 +857,7 @@
 }
 
 9553={ #
-	terrain="desert"
+	terrain="forest"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""

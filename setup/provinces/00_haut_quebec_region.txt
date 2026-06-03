@@ -51,7 +51,7 @@
 }
 
 1052={ #
-	terrain="plains"
+	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
 	trade_goods="tubers"
@@ -272,7 +272,7 @@
 }
 
 2226={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 2227={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 2228={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 2254={ #
-	terrain="plains"
+	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="wood"
@@ -376,7 +376,7 @@
 }
 
 3600={ #Akwesasna
-	terrain="plains"
+	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="rice"
@@ -402,7 +402,7 @@
 }
 
 3675={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="maple"
@@ -415,7 +415,7 @@
 }
 
 3676={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="vegetables"
@@ -441,7 +441,7 @@
 }
 
 3881={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 3882={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 5267={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -545,7 +545,7 @@
 }
 
 6320={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="innu"
 	religion="ursuline"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 6321={ #
-	terrain="plains"
+	terrain="forest"
 	culture="innu"
 	religion="ursuline"
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 6322={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="innu"
 	religion="ursuline"
 	trade_goods=""
@@ -623,7 +623,7 @@
 }
 
 7280={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="veteranic"
 	trade_goods=""
@@ -636,7 +636,7 @@
 }
 
 7281={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="viking"
 	trade_goods=""
@@ -714,7 +714,7 @@
 }
 
 7511={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods=""
@@ -727,7 +727,7 @@
 }
 
 7512={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods=""
@@ -831,7 +831,7 @@
 }
 
 8913={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="woad"
@@ -844,7 +844,7 @@
 }
 
 8914={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="wood"
@@ -857,7 +857,7 @@
 }
 
 8915={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -870,7 +870,7 @@
 }
 
 8916={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -883,7 +883,7 @@
 }
 
 9347={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
@@ -896,7 +896,7 @@
 }
 
 9348={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
@@ -909,7 +909,7 @@
 }
 
 9349={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""
@@ -922,7 +922,7 @@
 }
 
 9350={ #
-	terrain="plains"
+	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
 	trade_goods=""

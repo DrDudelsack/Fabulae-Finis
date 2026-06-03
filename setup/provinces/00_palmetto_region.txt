@@ -51,7 +51,7 @@
 }
 
 1363={ #
-	terrain="plains"
+	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 1364={ #
-	terrain="plains"
+	terrain="forest"
 	culture="piedmontese"
 	religion="americanist"
 	trade_goods=""
@@ -116,7 +116,7 @@
 }
 
 1780={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="tuskegean"
 	religion="evangelical"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 1781={ #
-	terrain="forest"
+	terrain="marsh"
 	culture="tuskegean"
 	religion="evangelical"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 2856={ #
-	terrain="plains"
+	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="cotton"

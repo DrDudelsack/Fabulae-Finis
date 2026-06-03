@@ -402,7 +402,7 @@
 }
 
 5426={ #
-	terrain="plains"
+	terrain="forest"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods=""

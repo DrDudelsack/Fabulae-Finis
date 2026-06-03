@@ -38,7 +38,7 @@
 }
 
 1063={ #Augusta
-	terrain="farmland"
+	terrain="hills"
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="wild_game"
@@ -389,7 +389,7 @@
 }
 
 5281={ #Leesburg
-	terrain="plains"
+	terrain="farmland"
 	culture="beltway"
 	religion="americanist"
 	trade_goods=""

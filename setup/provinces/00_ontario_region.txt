@@ -25,7 +25,7 @@
 }
 
 449={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="fur"
@@ -129,7 +129,7 @@
 }
 
 1105={ #Dorchester
-	terrain="plains"
+	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 1106={ #Strathroy
-	terrain="plains"
+	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 1273={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="algonquin"
 	religion="veteranic"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 1405={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 2148={ #Elmira
-	terrain="hills"
+	terrain="forest"
 	culture="sixer"
 	religion="united_church"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 2871={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -363,7 +363,7 @@
 }
 
 2931={ #Stratford
-	terrain="plains"
+	terrain="forest"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 2932={ #Woodstock
-	terrain="plains"
+	terrain="forest"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 2933={ #North Perth
-	terrain="plains"
+	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -415,7 +415,7 @@
 }
 
 3098={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -428,7 +428,7 @@
 }
 
 3099={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 3496={ #
-	terrain="plains"
+	terrain="forest"
 	culture="francontarien"
 	religion="viking"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 3497={ #
-	terrain="plains"
+	terrain="forest"
 	culture="francontarien"
 	religion="veteranic"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 3498={ #
-	terrain="plains"
+	terrain="forest"
 	culture="francontarien"
 	religion="veteranic"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 3563={ #
-	terrain="forest"
+	terrain="marsh"
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods=""
@@ -532,7 +532,7 @@
 }
 
 3706={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods=""
@@ -623,7 +623,7 @@
 }
 
 6133={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sixer"
 	religion="united_church"
 	trade_goods=""
@@ -675,7 +675,7 @@
 }
 
 7023={ #Brantford
-	terrain="plains"
+	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="earthware"
@@ -1012,7 +1012,7 @@
 }
 
 8062={ #Mount Forest
-	terrain="plains"
+	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
@@ -1077,7 +1077,7 @@
 }
 
 8503={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ontarian"
 	religion="viking"
 	trade_goods=""
@@ -1103,7 +1103,7 @@
 }
 
 8505={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ontarian"
 	religion="viking"
 	trade_goods=""
@@ -1246,7 +1246,7 @@
 }
 
 9404={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods=""
@@ -1324,7 +1324,7 @@
 }
 
 11608={ #
-	terrain="hills"
+	terrain="forest"
 	culture="sixer"
 	religion="united_church"
 	trade_goods=""

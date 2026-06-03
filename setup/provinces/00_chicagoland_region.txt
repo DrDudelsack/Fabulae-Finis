@@ -811,7 +811,7 @@
 }
 
 9511={ #Galena
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="maize"
@@ -849,7 +849,7 @@
 }
 
 9513={ #Sterling
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="grain"

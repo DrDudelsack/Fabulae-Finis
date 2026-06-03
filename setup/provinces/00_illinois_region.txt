@@ -12,7 +12,7 @@
 }
 
 321={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="egyptology"
 	trade_goods="clay"
@@ -25,7 +25,7 @@
 }
 
 322={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="butternutter"
 	religion="egyptology"
 	trade_goods="grain"
@@ -38,7 +38,7 @@
 }
 
 323={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="butternutter"
 	religion="egyptology"
 	trade_goods=""
@@ -509,7 +509,7 @@
 }
 
 6429={ #Chester
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods=""
@@ -680,7 +680,7 @@
 }
 
 7923={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods=""
@@ -706,7 +706,7 @@
 }
 
 7925={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods=""
@@ -784,7 +784,7 @@
 }
 
 9203={ #Pittsfield
-	terrain="farmland"
+	terrain="marsh"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="wood"

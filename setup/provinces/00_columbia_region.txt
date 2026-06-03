@@ -181,7 +181,7 @@
 }
 
 2818={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 5530={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="inlander"
 	religion="catholic"
 	trade_goods=""

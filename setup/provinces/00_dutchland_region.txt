@@ -1,5 +1,5 @@
 ﻿1062={ #Hagerstown
-	terrain="farmland"
+	terrain="hills"
 	culture="susquehannan"
 	religion="omenteller"
 	trade_goods="cattle"
@@ -428,7 +428,7 @@
 }
 
 9331={ #Sunbury
-	terrain="hills"
+	terrain="farmland"
 	culture="susquehannan"
 	religion="fissionist"
 	trade_goods="cloth"

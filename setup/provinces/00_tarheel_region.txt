@@ -272,7 +272,7 @@
 }
 
 3366={ #
-	terrain="plains"
+	terrain="forest"
 	culture="southron"
 	religion="evangelical"
 	trade_goods=""

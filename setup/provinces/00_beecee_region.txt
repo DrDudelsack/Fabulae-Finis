@@ -116,7 +116,7 @@
 }
 
 2181={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="okanaganer"
 	religion="catholic"
 	trade_goods=""

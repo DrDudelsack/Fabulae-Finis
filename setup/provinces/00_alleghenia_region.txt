@@ -272,7 +272,7 @@
 }
 
 5461={ #Shiloh
-	terrain="hills"
+	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="cattle"
@@ -311,7 +311,7 @@
 }
 
 5912={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 5913={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods=""
@@ -535,7 +535,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="iron"
+	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -597,7 +597,7 @@
 }
 
 11656={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods=""

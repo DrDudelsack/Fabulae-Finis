@@ -1,5 +1,5 @@
 ﻿342={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="nakota"
 	religion="loneranger"
 	trade_goods=""
@@ -12,7 +12,7 @@
 }
 
 387={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="viking"
 	trade_goods="horses"
@@ -25,7 +25,7 @@
 }
 
 388={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
@@ -90,7 +90,7 @@
 }
 
 990={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
@@ -103,7 +103,7 @@
 }
 
 991={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
@@ -116,7 +116,7 @@
 }
 
 992={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="lutheran"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 1329={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="badlander"
 	religion="peyotist"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 1331={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
@@ -168,7 +168,7 @@
 }
 
 1425={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 1644={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -246,7 +246,7 @@
 }
 
 1645={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -272,7 +272,7 @@
 }
 
 1858={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 1859={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -363,7 +363,7 @@
 }
 
 2940={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 2941={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods="buffalo"
@@ -389,7 +389,7 @@
 }
 
 3021={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods="buffalo"
@@ -402,7 +402,7 @@
 }
 
 3022={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods="horses"
@@ -415,7 +415,7 @@
 }
 
 3023={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
@@ -428,7 +428,7 @@
 }
 
 3514={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="viking"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 3516={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods=""
@@ -545,7 +545,7 @@
 }
 
 4213={ #
-	terrain="plains"
+	terrain="hills"
 	culture="lakota"
 	religion="loneranger"
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 4629={ #
-	terrain="hills"
+	terrain="mountain"
 	culture=""
 	religion="heartful"
 	trade_goods=""
@@ -584,7 +584,7 @@
 }
 
 4630={ #
-	terrain="plains"
+	terrain="hills"
 	culture="lakota"
 	religion="heartful"
 	trade_goods=""
@@ -597,7 +597,7 @@
 }
 
 4631={ #
-	terrain="plains"
+	terrain="hills"
 	culture="lakota"
 	religion="heartful"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 5297={ #
-	terrain="steppes"
+	terrain="farmland"
 	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods="buffalo"
@@ -675,7 +675,7 @@
 }
 
 5365={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
@@ -714,7 +714,7 @@
 }
 
 5573={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
 	trade_goods=""
@@ -727,7 +727,7 @@
 }
 
 5781={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
@@ -766,7 +766,7 @@
 }
 
 6364={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="dakota"
 	religion="peyotist"
 	trade_goods=""
@@ -779,7 +779,7 @@
 }
 
 6365={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
 	trade_goods=""
@@ -844,7 +844,7 @@
 }
 
 6944={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -857,7 +857,7 @@
 }
 
 6945={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods="horses"
@@ -870,7 +870,7 @@
 }
 
 6946={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -883,7 +883,7 @@
 }
 
 6947={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="northlander"
 	religion="viking"
 	trade_goods="buffalo"
@@ -896,7 +896,7 @@
 }
 
 7147={ #
-	terrain="steppes"
+	terrain="hills"
 	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
@@ -1000,7 +1000,7 @@
 }
 
 7584={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
 	trade_goods=""
@@ -1052,7 +1052,7 @@
 }
 
 8238={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
 	trade_goods=""
@@ -1078,7 +1078,7 @@
 }
 
 8240={ #
-	terrain="steppes"
+	terrain="hills"
 	culture="lakota"
 	religion="peyotist"
 	trade_goods="buffalo"
@@ -1104,7 +1104,7 @@
 }
 
 9117={ #
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="lutheran"
 	trade_goods="buffalo"
@@ -1208,7 +1208,7 @@
 }
 
 9595={ #
-	terrain="steppes"
+	terrain="farmland"
 	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods=""

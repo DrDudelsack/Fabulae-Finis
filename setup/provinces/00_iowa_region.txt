@@ -387,7 +387,7 @@
 }
 
 7559={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="iron"
@@ -499,7 +499,7 @@
 }
 
 8218={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="stone"

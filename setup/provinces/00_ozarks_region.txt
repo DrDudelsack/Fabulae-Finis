@@ -90,7 +90,7 @@
 }
 
 1830={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 5406={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="ozark"
 	religion="egyptology"
 	trade_goods=""
@@ -532,7 +532,7 @@
 }
 
 5487={ #
-	terrain="plains"
+	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods=""
@@ -545,7 +545,7 @@
 }
 
 5488={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods=""
@@ -688,7 +688,7 @@
 }
 
 5858={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods=""
@@ -896,7 +896,7 @@
 }
 
 7829={ #
-	terrain="farmland"
+	terrain="hills"
 	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""

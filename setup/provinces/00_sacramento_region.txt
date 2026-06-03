@@ -1,5 +1,5 @@
 ﻿1048={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -12,10 +12,10 @@
 }
 
 1049={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -25,10 +25,10 @@
 }
 
 1050={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -38,7 +38,7 @@
 }
 
 1356={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -116,7 +116,7 @@
 }
 
 1590={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 1619={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 2844={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="sikhism"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 2846={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="sikhism"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 2847={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="sikhism"
 	trade_goods=""
@@ -223,7 +223,7 @@
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -246,7 +246,7 @@
 }
 
 3980={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 4468={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -275,7 +275,7 @@
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -285,7 +285,7 @@
 }
 
 4470={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -327,7 +327,7 @@
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -350,10 +350,10 @@
 }
 
 7100={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -376,7 +376,7 @@
 }
 
 7151={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="valleyan"
 	religion="sikhism"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 7152={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 7153={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="valleyan"
 	religion="sikhism"
 	trade_goods=""
@@ -428,7 +428,7 @@
 }
 
 7803={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 7804={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 7806={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="colossalist"
 	trade_goods=""
@@ -506,7 +506,7 @@
 }
 
 9175={ #
-	terrain="plains"
+	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
 	trade_goods=""

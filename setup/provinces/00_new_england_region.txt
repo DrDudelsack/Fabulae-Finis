@@ -12,7 +12,7 @@
 }
 
 2={ #
-	terrain="plains"
+	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="viking"
 	trade_goods="woad"
@@ -64,7 +64,7 @@
 }
 
 50={ #
-	terrain="plains"
+	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
 	trade_goods=""
@@ -116,7 +116,7 @@
 }
 
 998={ #Middlebury
-	terrain="plains"
+	terrain="forest"
 	culture="vermonter"
 	religion="ursuline"
 	trade_goods="fish"
@@ -390,7 +390,7 @@
 
 2383={ #
 	terrain="hills"
-	culture="vermonter"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 2740={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="tubers"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 2741={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods=""
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 2742={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods=""
 	civilization_value=10
@@ -454,7 +454,7 @@
 }
 
 2780={ #
-	terrain="plains"
+	terrain="forest"
 	culture="vermonter"
 	religion="ursuline"
 	trade_goods="maple"
@@ -467,7 +467,7 @@
 }
 
 2781={ #
-	terrain="plains"
+	terrain="forest"
 	culture="vermonter"
 	religion="ursuline"
 	trade_goods="woad"
@@ -650,7 +650,7 @@
 
 4294={ #
 	terrain="hills"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="tubers"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 4295={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="fish"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 4296={ #
 	terrain="hills"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="cattle"
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 5184={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="grain"
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 5185={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="rice"
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 5186={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="cattle"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 5293={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods=""
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 5294={ #
 	terrain="hills"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="woad"
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 5295={ #
 	terrain="farmland"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="fish"
 	civilization_value=10
@@ -780,7 +780,7 @@
 
 5296={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="fish"
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 6124={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -1040,7 +1040,7 @@
 
 7763={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="transcendentalist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -1053,7 +1053,7 @@
 
 7764={ #
 	terrain="forest"
-	culture="vermonter"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -1066,7 +1066,7 @@
 
 7765={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -1079,7 +1079,7 @@
 
 7766={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1092,7 +1092,7 @@
 
 7767={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="wine"
 	civilization_value=10
@@ -1105,7 +1105,7 @@
 
 8772={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
@@ -1131,7 +1131,7 @@
 
 8774={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="bostonian"
 	trade_goods="rice"
 	civilization_value=10
@@ -1209,7 +1209,7 @@
 
 9627={ #
 	terrain="forest"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
@@ -1222,7 +1222,7 @@
 
 9628={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="bostonian"
 	trade_goods="fish"
 	civilization_value=10
@@ -1235,7 +1235,7 @@
 
 9629={ #
 	terrain="plains"
-	culture="shorehugger"
+	culture="bayfolk"
 	religion="fathomless"
 	trade_goods="rice"
 	civilization_value=10

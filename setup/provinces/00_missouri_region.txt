@@ -273,7 +273,7 @@
 }
 
 4000={ #Cape Giradeau
-	terrain="plains"
+	terrain="flood_plain"
 	culture="riverlander"
 	religion="twainist"
 	trade_goods=""
@@ -300,7 +300,7 @@
 }
 
 4001={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods=""
@@ -313,7 +313,7 @@
 }
 
 4002={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 5536={ #
-	terrain="plains"
+	terrain="forest"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods="clay"
@@ -532,7 +532,7 @@
 }
 
 5537={ #
-	terrain="plains"
+	terrain="forest"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods=""
@@ -772,7 +772,7 @@
 }
 
 6800={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="fish"

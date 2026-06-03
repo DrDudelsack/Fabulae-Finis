@@ -116,7 +116,7 @@
 }
 
 2402={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 2403={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 7839={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
@@ -584,7 +584,7 @@
 }
 
 9550={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
@@ -597,7 +597,7 @@
 }
 
 9551={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 11636={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="cattle"

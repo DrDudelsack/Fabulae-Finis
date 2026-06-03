@@ -25,7 +25,7 @@
 }
 
 755={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 756={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -51,7 +51,7 @@
 }
 
 757={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 845={ #
-	terrain="plains"
+	terrain="forest"
 	culture="acadien"
 	religion="catholic"
 	trade_goods=""
@@ -90,7 +90,7 @@
 }
 
 847={ #
-	terrain="plains"
+	terrain="forest"
 	culture="acadien"
 	religion="catholic"
 	trade_goods=""
@@ -272,7 +272,7 @@
 }
 
 3647={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -311,7 +311,7 @@
 }
 
 3916={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 5633={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="wild_game"
@@ -571,7 +571,7 @@
 }
 
 5634={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -597,7 +597,7 @@
 }
 
 5636={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -675,7 +675,7 @@
 }
 
 7640={ #
-	terrain="plains"
+	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods=""
@@ -701,7 +701,7 @@
 }
 
 7642={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -779,7 +779,7 @@
 }
 
 7981={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -792,7 +792,7 @@
 }
 
 8587={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -818,7 +818,7 @@
 }
 
 8589={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""
@@ -896,7 +896,7 @@
 }
 
 9463={ #
-	terrain="plains"
+	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods=""

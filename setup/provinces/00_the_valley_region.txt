@@ -2,7 +2,7 @@
 	terrain="hills"
 	culture="valleyan"
 	religion="romano_humanism"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="plains"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -90,10 +90,10 @@
 }
 
 3061={ #
-	terrain="plains"
+	terrain="forest"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103,10 +103,10 @@
 }
 
 3062={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -116,10 +116,10 @@
 }
 
 3063={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="mountain"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -142,7 +142,7 @@
 }
 
 3267={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods="wine"
@@ -155,7 +155,7 @@
 }
 
 3268={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods="cotton"
@@ -181,7 +181,7 @@
 }
 
 3270={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
 	trade_goods="wine"
@@ -194,10 +194,10 @@
 }
 
 3337={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -207,10 +207,10 @@
 }
 
 3338={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -220,10 +220,10 @@
 }
 
 3339={ #
-	terrain="plains"
+	terrain="forest"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -233,10 +233,10 @@
 }
 
 3340={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -246,10 +246,10 @@
 }
 
 4301={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -272,10 +272,10 @@
 }
 
 4303={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -285,10 +285,10 @@
 }
 
 4304={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -415,10 +415,10 @@
 }
 
 5928={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -441,10 +441,10 @@
 }
 
 5930={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -467,10 +467,10 @@
 }
 
 5978={ #
-	terrain="plains"
+	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -480,10 +480,10 @@
 }
 
 5979={ #
-	terrain="plains"
+	terrain="forest"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -493,10 +493,10 @@
 }
 
 6893={ #
-	terrain="plains"
+	terrain="hills"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -506,10 +506,10 @@
 }
 
 6894={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -519,10 +519,10 @@
 }
 
 6895={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -532,10 +532,10 @@
 }
 
 7101={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -545,7 +545,7 @@
 }
 
 7102={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 7103={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 7104={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
 	trade_goods=""
@@ -587,7 +587,7 @@
 	terrain="plains"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="plains"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="flood_plain"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="mountain"
 	culture="joaquino"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="silk"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -701,10 +701,10 @@
 }
 
 9303={ #
-	terrain="plains"
+	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="flood_plain"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

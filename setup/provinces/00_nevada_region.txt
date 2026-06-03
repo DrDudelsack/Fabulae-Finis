@@ -142,7 +142,7 @@
 }
 
 2815={ #
-	terrain="hills"
+	terrain="oasis"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 2816={ #
-	terrain="desert_hills"
+	terrain="oasis"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""

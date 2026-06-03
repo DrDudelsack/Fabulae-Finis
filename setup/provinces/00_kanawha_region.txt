@@ -1,5 +1,5 @@
 ﻿678={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
@@ -12,7 +12,7 @@
 }
 
 679={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wild_game"
@@ -25,7 +25,7 @@
 }
 
 834={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 835={ #
-	terrain="farmland"
+	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
@@ -64,7 +64,7 @@
 }
 
 936={ #Pulaski
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
@@ -77,7 +77,7 @@
 }
 
 2005={ #
-	terrain="plains"
+	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 2551={ #
-	terrain="plains"
+	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 2632={ #
-	terrain="plains"
+	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 2633={ #
-	terrain="plains"
+	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 2866={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 6147={ #
-	terrain="plains"
+	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
@@ -246,7 +246,7 @@
 }
 
 6148={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods="maple"
@@ -259,7 +259,7 @@
 }
 
 6149={ #
-	terrain="plains"
+	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
@@ -272,7 +272,7 @@
 }
 
 6150={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 6379={ #Tazewell
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
@@ -311,7 +311,7 @@
 }
 
 6380={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 6506={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 6508={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 7353={ #Bristol
-	terrain="forest"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
@@ -415,7 +415,7 @@
 }
 
 9249={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods="wood"
@@ -428,7 +428,7 @@
 }
 
 9250={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
 	trade_goods=""

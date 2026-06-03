@@ -569,7 +569,7 @@
 }
 
 5907={ #
-	terrain="forest"
+	terrain="marsh"
 	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods=""
@@ -816,7 +816,7 @@
 }
 
 6727={ #
-	terrain="forest"
+	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods=""
@@ -829,7 +829,7 @@
 }
 
 6728={ #
-	terrain="forest"
+	terrain="marsh"
 	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods="rice"

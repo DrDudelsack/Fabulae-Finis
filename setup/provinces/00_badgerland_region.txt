@@ -12,7 +12,7 @@
 }
 
 573={ #Sīsepikamiw
-	terrain="plains"
+	terrain="farmland"
 	culture="menominee"
 	religion="viking"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 2024={ #Niikokiri
-	terrain="plains"
+	terrain="hills"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="cattle"
@@ -181,7 +181,7 @@
 }
 
 2027={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="fur"
@@ -324,7 +324,7 @@
 }
 
 3829={ #Apaesiqtekow
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods=""
@@ -337,7 +337,7 @@
 }
 
 3830={ #Es-Wāpanoh
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods=""
@@ -350,7 +350,7 @@
 }
 
 3831={ #Pūcīhkit
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods=""
@@ -363,7 +363,7 @@
 }
 
 3993={ #River Falls
-	terrain="plains"
+	terrain="hills"
 	culture="minnesotan"
 	religion="viking"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 4698={ #Wašjikra
-	terrain="plains"
+	terrain="farmland"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wood"
@@ -571,7 +571,7 @@
 }
 
 5122={ #Sakēmaewataenoh
-	terrain="plains"
+	terrain="marsh"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 6281={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wood"
@@ -636,7 +636,7 @@
 }
 
 6283={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wild_game"
@@ -740,7 +740,7 @@
 }
 
 7916={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wood"
@@ -753,7 +753,7 @@
 }
 
 7917={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="maple"
@@ -792,7 +792,7 @@
 }
 
 8847={ #Omīniahkan
-	terrain="plains"
+	terrain="marsh"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods=""
@@ -805,7 +805,7 @@
 }
 
 8848={ #Wāpanahkīw-Otaeskonekan
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods=""
@@ -831,7 +831,7 @@
 }
 
 8850={ #Sāwanoh
-	terrain="plains"
+	terrain="marsh"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="maple"
@@ -844,7 +844,7 @@
 }
 
 8851={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wood"
@@ -870,7 +870,7 @@
 }
 
 11889={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wood"
