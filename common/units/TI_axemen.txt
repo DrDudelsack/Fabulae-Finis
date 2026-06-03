@@ -7,7 +7,7 @@
 	allow = {
 		OR = {
             trade_good_surplus = { target = iron value > 0 }
-            trade_good_surplus = { target = wootz_steel value > 0 }
+            #trade_good_surplus = { target = wootz_steel value > 0 }
         }
 	}
 

@@ -12,5 +12,5 @@ levy_northlake = { # Viking larp
 
 	archers = 0.3
 	light_cavalry = 0.15
-	spearmen = 0.25
+	axemen = 0.25
 }
