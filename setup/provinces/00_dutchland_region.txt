@@ -180,7 +180,7 @@
 	}
 }
 
-3795={ #
+3795={ #Honesdale
 	terrain="forest"
 	culture="pocono"
 	religion="americanist"
@@ -193,7 +193,7 @@
 	}
 }
 
-3796={ #
+3796={ #Port Jervis
 	terrain="forest"
 	culture="pocono"
 	religion="americanist"
@@ -232,7 +232,7 @@
 	}
 }
 
-5493={ #
+5493={ #Noxen
 	terrain="hills"
 	culture="pocono"
 	religion="bostonian"
@@ -258,7 +258,7 @@
 	}
 }
 
-5495={ #
+5495={ #Tunkhannock
 	terrain="forest"
 	culture="pocono"
 	religion="bostonian"
@@ -271,7 +271,7 @@
 	}
 }
 
-5496={ #
+5496={ #Suquehanna
 	terrain="hills"
 	culture="pocono"
 	religion="bostonian"
@@ -284,8 +284,8 @@
 	}
 }
 
-6213={ #
-	terrain="forest"
+6213={ #Wilkes Barre
+	terrain="marsh"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="leather"
@@ -297,7 +297,7 @@
 	}
 }
 
-6214={ #
+6214={ #Scranton
 	terrain="forest"
 	culture="pocono"
 	religion="americanist"
@@ -310,8 +310,8 @@
 	}
 }
 
-6215={ #
-	terrain="forest"
+6215={ #Back Mountain
+	terrain="marsh"
 	culture="pocono"
 	religion="bostonian"
 	trade_goods="clay"
@@ -338,7 +338,7 @@
 
 7722={ #Hanover
 	terrain="farmland"
-	culture="beltway"
+	culture="susquehannan"
 	religion="fissionist"
 	trade_goods="honey"
 	civilization_value=10
@@ -388,7 +388,7 @@
 	}
 }
 
-8637={ #
+8637={ #Kutztown
 	terrain="hills"
 	culture="deitsch"
 	religion="americanist"
@@ -466,7 +466,7 @@
 	}
 }
 
-9587={ #
+9587={ #Slatington
 	terrain="hills"
 	culture="pocono"
 	religion="americanist"
@@ -492,7 +492,7 @@
 	}
 }
 
-9589={ #
+9589={ #East Stroudsburg
 	terrain="forest"
 	culture="pocono"
 	religion="americanist"

@@ -54,7 +54,7 @@
 	terrain="plains"
 	culture="oodham"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="plains"
 	culture="oodham"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

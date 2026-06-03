@@ -1,4 +1,4 @@
-﻿793={ #
+﻿793={ #Alliance
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -167,7 +167,7 @@
 	}
 }
 
-5271={ #
+5271={ #Sandusky
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -180,7 +180,7 @@
 	}
 }
 
-5272={ #
+5272={ #Fremont
 	terrain="plains"
 	culture="buckeye"
 	religion="fissionist"
@@ -193,7 +193,7 @@
 	}
 }
 
-5273={ #
+5273={ #Shelby
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -284,7 +284,7 @@
 	}
 }
 
-6630={ #
+6630={ #Napoleon
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
@@ -323,7 +323,20 @@
 	}
 }
 
-7495={ #
+7495={ #Vermillion on the Lake
+	terrain="plains"
+	culture="buckeye"
+	religion="promethean"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7496={ #Lorain
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -336,20 +349,7 @@
 	}
 }
 
-7496={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7497={ #
+7497={ #Strongsville
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -466,7 +466,7 @@
 	}
 }
 
-8742={ #
+8742={ #Sylvania
 	terrain="farmland"
 	culture="motowner"
 	religion="promethean"
@@ -479,7 +479,7 @@
 	}
 }
 
-8743={ #
+8743={ #Toledo
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
@@ -492,11 +492,11 @@
 	}
 }
 
-8744={ #
+8744={ #Wauseon
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -505,7 +505,7 @@
 	}
 }
 
-8966={ #
+8966={ #Mentor
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"

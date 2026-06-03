@@ -12,7 +12,7 @@
 }
 
 242={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods=""
@@ -25,7 +25,7 @@
 }
 
 243={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="miccosukee"
 	religion="catholic"
 	trade_goods="fish"
@@ -38,7 +38,7 @@
 }
 
 244={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 3965={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="miccosukee"
 	religion="americanist"
 	trade_goods=""
@@ -298,7 +298,7 @@
 }
 
 3966={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="sofloano"
 	religion="americanist"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 4814={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods="fish"
@@ -389,7 +389,7 @@
 }
 
 4815={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 4816={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods="dye"
@@ -415,7 +415,7 @@
 }
 
 4817={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods="hemp"
@@ -935,7 +935,7 @@
 }
 
 11936={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods="leather"
@@ -948,7 +948,7 @@
 }
 
 11937={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods="earthware"
@@ -961,7 +961,7 @@
 }
 
 11938={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods="wood"
@@ -974,7 +974,7 @@
 }
 
 11939={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
 	trade_goods=""
@@ -1039,7 +1039,7 @@
 }
 
 11944={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="sofloano"
 	religion="americanist"
 	trade_goods=""

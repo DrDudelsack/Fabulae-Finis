@@ -58,7 +58,7 @@
  incense:0 "Incense"
  incenseDESC:0 "The term 'Incense' covers an array of rare, exotic substances which are primarily used for religious purposes."
  limestone:0 "Limestone"
- limestone_desc:0 "While other stones may be used for basic construction, limestone stands out for its versatility and abundance. Favored for fine civic buildings, temples, and enduring defensive structures, its ease of carving and durability make it an essential material in architecture."
+ limestoneDESC:0 "While other stones may be used for basic construction, limestone stands out for its versatility and abundance. Favored for fine civic buildings, temples, and enduring defensive structures, its ease of carving and durability make it an essential material in architecture."
  spices:0 "Spices"
  spicesDESC:0 "Primarily used as food additives, the many herbs which comprise the spice trade command a variable price depending on their provenance."
  #Citizens (Category 3)

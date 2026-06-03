@@ -1,4 +1,4 @@
-﻿794={ #
+﻿794={ #Youngstown
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -24,7 +24,7 @@
 	}
 }
 
-2007={ #
+2007={ #Weirton
 	terrain="plains"
 	culture="yinzic"
 	religion="fissionist"
@@ -115,7 +115,7 @@
 	}
 }
 
-3745={ #
+3745={ #Olean
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
@@ -128,7 +128,7 @@
 	}
 }
 
-3746={ #
+3746={ #Saint Marys
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
@@ -141,7 +141,7 @@
 	}
 }
 
-3773={ #
+3773={ #Erie
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -154,7 +154,7 @@
 	}
 }
 
-3774={ #
+3774={ #Corry
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -167,7 +167,7 @@
 	}
 }
 
-3775={ #
+3775={ #Meadville
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -180,7 +180,7 @@
 	}
 }
 
-3776={ #
+3776={ #Jamestown
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -206,7 +206,7 @@
 	}
 }
 
-4012={ #
+4012={ #Homeacre Lyndora
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -219,7 +219,7 @@
 	}
 }
 
-4013={ #
+4013={ #Hermitage
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -232,7 +232,7 @@
 	}
 }
 
-4983={ #
+4983={ #Clarion
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
@@ -245,7 +245,7 @@
 	}
 }
 
-4984={ #
+4984={ #Dubois
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
@@ -258,7 +258,7 @@
 	}
 }
 
-5460={ #
+5460={ #Plymptonville
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
@@ -271,7 +271,7 @@
 	}
 }
 
-5461={ #
+5461={ #Shiloh
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
@@ -366,7 +366,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -414,7 +414,7 @@
 	}
 }
 
-8593={ #
+8593={ #Niagra Falls
 	terrain="hills"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -440,7 +440,7 @@
 	}
 }
 
-8770={ #
+8770={ #Greensburg
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
@@ -453,7 +453,7 @@
 	}
 }
 
-8771={ #
+8771={ #Vandergrift
 	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
@@ -466,11 +466,11 @@
 	}
 }
 
-8967={ #
+8967={ #Ashtabula
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -479,7 +479,7 @@
 	}
 }
 
-8968={ #
+8968={ #Middlefield
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -544,7 +544,7 @@
 	}
 }
 
-11644={ #
+11644={ #Salamanca
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
@@ -557,7 +557,7 @@
 	}
 }
 
-11646={ #
+11646={ #Oil City
 	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
@@ -583,7 +583,7 @@
 	}
 }
 
-11652={ #
+11652={ #Punxsutawney
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"

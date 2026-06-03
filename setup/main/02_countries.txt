@@ -1283,7 +1283,7 @@ country = {
 
 		WIN = { #Windsor
 			government = titanate
-			primary_culture = michiganais
+			primary_culture = ontarian
 			religion = promethean
 			capital = 7375
 

@@ -37,7 +37,7 @@
 	}
 }
 
-739={ #
+739={ #Hamilton
 	terrain="hills"
 	culture="sixer"
 	religion="promethean"
@@ -50,7 +50,7 @@
 	}
 }
 
-740={ #
+740={ #Oakville
 	terrain="farmland"
 	culture="sixer"
 	religion="promethean"
@@ -115,7 +115,7 @@
 	}
 }
 
-1104={ #
+1104={ #London
 	terrain="farmland"
 	culture="ontarian"
 	religion="united_church"
@@ -128,7 +128,7 @@
 	}
 }
 
-1105={ #
+1105={ #Dorchester
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -141,7 +141,7 @@
 	}
 }
 
-1106={ #
+1106={ #Strathroy
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -154,7 +154,7 @@
 	}
 }
 
-1107={ #
+1107={ #Port Stanley
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -245,7 +245,7 @@
 	}
 }
 
-2147={ #
+2147={ #Cambridge
 	terrain="hills"
 	culture="sixer"
 	religion="gaiwiio"
@@ -258,7 +258,7 @@
 	}
 }
 
-2148={ #
+2148={ #Elmira
 	terrain="hills"
 	culture="sixer"
 	religion="united_church"
@@ -271,7 +271,7 @@
 	}
 }
 
-2149={ #
+2149={ #Guelph
 	terrain="hills"
 	culture="sixer"
 	religion="united_church"
@@ -362,7 +362,7 @@
 	}
 }
 
-2931={ #
+2931={ #Stratford
 	terrain="plains"
 	culture="deitsch"
 	religion="old_order"
@@ -375,7 +375,7 @@
 	}
 }
 
-2932={ #
+2932={ #Woodstock
 	terrain="plains"
 	culture="deitsch"
 	religion="old_order"
@@ -388,7 +388,7 @@
 	}
 }
 
-2933={ #
+2933={ #North Perth
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -648,7 +648,7 @@
 	}
 }
 
-7021={ #
+7021={ #Caledonia
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -661,7 +661,7 @@
 	}
 }
 
-7022={ #
+7022={ #Port Rowan
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="promethean"
@@ -674,7 +674,7 @@
 	}
 }
 
-7023={ #
+7023={ #Brantford
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -706,7 +706,7 @@
 	}
 }
 
-7374={ #
+7374={ #Leamington
 	terrain="plains"
 	culture="ontarian"
 	religion="promethean"
@@ -719,20 +719,39 @@
 	}
 }
 
-7375={ #
+7375={ #Windsor
 	terrain="farmland"
-	culture="michiganais"
+	culture="ontarian"
 	religion="promethean"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="base_metals"
+	civilization_value=38
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=8
 	}
 }
 
-7376={ #
+7376={ #Chatham
 	terrain="plains"
 	culture="ontarian"
 	religion="promethean"
@@ -745,11 +764,11 @@
 	}
 }
 
-7377={ #
+7377={ #Wallaceburg
 	terrain="plains"
 	culture="ontarian"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -914,7 +933,7 @@
 	}
 }
 
-7874={ #
+7874={ #Niagra Falls
 	terrain="plains"
 	culture="sixer"
 	religion="gaiwiio"
@@ -927,7 +946,7 @@
 	}
 }
 
-7875={ #
+7875={ #St. Catharines
 	terrain="hills"
 	culture="sixer"
 	religion="promethean"
@@ -992,7 +1011,7 @@
 	}
 }
 
-8062={ #
+8062={ #Mount Forest
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -1096,7 +1115,7 @@
 	}
 }
 
-8598={ #
+8598={ #Huron East
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -1109,7 +1128,7 @@
 	}
 }
 
-8599={ #
+8599={ #Goderich
 	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
@@ -1122,7 +1141,7 @@
 	}
 }
 
-8600={ #
+8600={ #Port Stanley
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -1200,7 +1219,7 @@
 	}
 }
 
-9023={ #
+9023={ #Sarnia
 	terrain="plains"
 	culture="ontarian"
 	religion="promethean"
@@ -1213,7 +1232,7 @@
 	}
 }
 
-9024={ #
+9024={ #Lambton Shores
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
@@ -1317,7 +1336,7 @@
 	}
 }
 
-11617={ #
+11617={ #Norfolk
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"

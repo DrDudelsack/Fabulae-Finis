@@ -51,7 +51,7 @@
 }
 
 887={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
 	trade_goods=""

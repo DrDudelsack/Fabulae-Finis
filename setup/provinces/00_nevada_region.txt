@@ -54,7 +54,7 @@
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -230,7 +230,7 @@
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -246,7 +246,7 @@
 	terrain="desert"
 	culture="mojavean"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="oasis"
 	culture="mojavean"
 	religion="capitalist"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="city"
@@ -291,7 +291,7 @@
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -320,7 +320,7 @@
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -333,7 +333,7 @@
 	terrain="desert"
 	culture="mojavean"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -450,7 +450,7 @@
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

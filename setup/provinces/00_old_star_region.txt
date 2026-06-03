@@ -441,7 +441,7 @@
 }
 
 5027={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="texan"
 	religion="americanist"
 	trade_goods="fish"
@@ -454,7 +454,7 @@
 }
 
 5029={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="texan"
 	religion="americanist"
 	trade_goods=""
@@ -1221,7 +1221,7 @@
 }
 
 9220={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="texan"
 	religion="catholic"
 	trade_goods=""

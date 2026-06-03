@@ -181,7 +181,7 @@ sunni = { # Sunni
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 twelver = { # Twelver- Jaffari Shia
-	color = rgb { 12 52 110 }
+	color = rgb { 102 138 87 }
 	modifier = {
 		happiness_for_wrong_culture_group_modifier = 0.03
 		global_pop_conversion_speed_modifier = 0.25

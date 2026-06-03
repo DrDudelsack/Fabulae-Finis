@@ -428,7 +428,7 @@
 }
 
 4015={ #Omīnīw
-	terrain="plains"
+	terrain="marsh"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods=""
@@ -532,7 +532,7 @@
 }
 
 4948={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="cheesehead"
 	religion="unitarian_universialism"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 5121={ #Oskas
-	terrain="plains"
+	terrain="marsh"
 	culture="menominee"
 	religion="viking"
 	trade_goods="rice"
@@ -584,7 +584,7 @@
 }
 
 5123={ #Ahkōnemeh
-	terrain="plains"
+	terrain="marsh"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="wild_game"

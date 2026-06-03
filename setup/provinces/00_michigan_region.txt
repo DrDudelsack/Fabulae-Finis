@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="silk"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24,7 +24,7 @@
 	}
 }
 
-560={ #
+560={ #Battle Creek
 	terrain="plains"
 	culture="potowatomi"
 	religion="catholic"
@@ -37,11 +37,11 @@
 	}
 }
 
-561={ #
+561={ #Three Rivers
 	terrain="plains"
 	culture="potowatomi"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50,11 +50,11 @@
 	}
 }
 
-562={ #
+562={ #Bronson
 	terrain="plains"
 	culture="potowatomi"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -63,11 +63,11 @@
 	}
 }
 
-563={ #
+563={ #Kalamazoo
 	terrain="plains"
 	culture="potowatomi"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81,19 +81,58 @@
 	culture="motowner"
 	religion="promethean"
 	trade_goods="gunpowder"
-	civilization_value=10
+	civilization_value=40
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=4
+	}
+	citizen={
+		religion="catholic"
+		amount=3
+	}
+	citizen={
+		religion="arsenalist"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lakeshore"
+		amount=3
+	}
+	freemen={
+		religion="twelver"
+		amount=4
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=3
+	}
+	freemen={
+		religion="arsenalist"
+		amount=5
+	}
+	slaves={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
-839={ #
+839={ #Kalkaska
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods="woad"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -102,11 +141,11 @@
 	}
 }
 
-840={ #
+840={ #Grayling
 	terrain="forest"
 	culture="upnorther"
 	religion="arsenalist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -115,7 +154,7 @@
 	}
 }
 
-841={ #
+841={ #Gaylord
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
@@ -128,11 +167,11 @@
 	}
 }
 
-848={ #
+848={ #Marlette
 	terrain="forest"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -141,11 +180,11 @@
 	}
 }
 
-849={ #
+849={ #Bad Axe
 	terrain="plains"
 	culture="michigander"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -154,11 +193,11 @@
 	}
 }
 
-850={ #
+850={ #Sandusky
 	terrain="plains"
 	culture="motowner"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -167,11 +206,11 @@
 	}
 }
 
-851={ #
+851={ #Caro
 	terrain="forest"
 	culture="michigander"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -180,11 +219,11 @@
 	}
 }
 
-902={ #
+902={ #Traverse
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -193,11 +232,11 @@
 	}
 }
 
-903={ #
+903={ #Elk Rapids
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -206,7 +245,7 @@
 	}
 }
 
-904={ #
+904={ #Suttons Bay
 	terrain="plains"
 	culture="upnorther"
 	religion="lakeshore"
@@ -219,11 +258,11 @@
 	}
 }
 
-905={ #
+905={ #Frankfort
 	terrain="plains"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -232,11 +271,11 @@
 	}
 }
 
-962={ #
+962={ #Midland
 	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -245,11 +284,11 @@
 	}
 }
 
-963={ #
+963={ #Skidway
 	terrain="forest"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -258,11 +297,11 @@
 	}
 }
 
-964={ #
+964={ #East Tawas
 	terrain="forest"
 	culture="michigander"
 	religion="arsenalist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -271,50 +310,78 @@
 	}
 }
 
-1257={ #
+1257={ #Yale
 	terrain="plains"
 	culture="motowner"
-	religion="twelver"
-	trade_goods=""
-	civilization_value=10
+	religion="promethean"
+	trade_goods="cattle"
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
-1258={ #
+1258={ #St. Clair
 	terrain="plains"
 	culture="motowner"
-	religion="twelver"
-	trade_goods=""
-	civilization_value=10
+	religion="promethean"
+	trade_goods="fish"
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
-1259={ #
+1259={ #Port Huron
 	terrain="plains"
 	culture="motowner"
-	religion="twelver"
-	trade_goods=""
-	civilization_value=10
+	religion="lakeshore"
+	trade_goods="fish"
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
-1311={ #
+1311={ #Mount Pleasant
 	terrain="forest"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -323,11 +390,11 @@
 	}
 }
 
-1312={ #
+1312={ #Alma
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -336,11 +403,11 @@
 	}
 }
 
-1313={ #
+1313={ #Clare
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -349,7 +416,7 @@
 	}
 }
 
-1314={ #
+1314={ #Canadian Lakes
 	terrain="forest"
 	culture="michigander"
 	religion="promethean"
@@ -362,11 +429,11 @@
 	}
 }
 
-1315={ #
+1315={ #Stanton
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -375,7 +442,7 @@
 	}
 }
 
-1564={ #
+1564={ #Houghton
 	terrain="forest"
 	culture="upnorther"
 	religion="arsenalist"
@@ -388,11 +455,11 @@
 	}
 }
 
-1565={ #
+1565={ #Cadillac
 	terrain="forest"
 	culture="upnorther"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -401,11 +468,11 @@
 	}
 }
 
-1566={ #
+1566={ #Harrison
 	terrain="forest"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -414,7 +481,7 @@
 	}
 }
 
-1567={ #
+1567={ #Lake City
 	terrain="forest"
 	culture="upnorther"
 	religion="arsenalist"
@@ -427,11 +494,11 @@
 	}
 }
 
-3069={ #
+3069={ #Bay Harbor
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -440,11 +507,11 @@
 	}
 }
 
-3070={ #
+3070={ #Rogers
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -453,7 +520,7 @@
 	}
 }
 
-3071={ #
+3071={ #Cheboygan
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
@@ -466,11 +533,11 @@
 	}
 }
 
-3072={ #
+3072={ #Petoskey
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -492,11 +559,11 @@
 	}
 }
 
-3472={ #
+3472={ #Alpena
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -505,7 +572,7 @@
 	}
 }
 
-3473={ #
+3473={ #Hillman
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
@@ -518,11 +585,11 @@
 	}
 }
 
-3474={ #
+3474={ #Hubbard
 	terrain="forest"
 	culture="upnorther"
 	religion="arsenalist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -531,11 +598,11 @@
 	}
 }
 
-4297={ #
+4297={ #Howell
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -544,11 +611,11 @@
 	}
 }
 
-4298={ #
+4298={ #Walled Lake
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -557,7 +624,7 @@
 	}
 }
 
-4299={ #
+4299={ #Flint
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
@@ -570,11 +637,11 @@
 	}
 }
 
-4300={ #
+4300={ #Owosso
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -583,11 +650,11 @@
 	}
 }
 
-4612={ #
+4612={ #Saginaw
 	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -596,11 +663,11 @@
 	}
 }
 
-4613={ #
+4613={ #Shields
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,11 +676,11 @@
 	}
 }
 
-4614={ #
+4614={ #Bay City
 	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -622,11 +689,11 @@
 	}
 }
 
-4616={ #
+4616={ #Beecher
 	terrain="forest"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -635,46 +702,93 @@
 	}
 }
 
-5718={ #
+5718={ #Monroe
+	terrain="plains"
+	culture="michiganais"
+	religion="catholic"
+	trade_goods="fur"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		culture="motowner"
+		religion="arsenalist"
+		amount=1
+	}
+	citizen={
+		amount=1
+	}
+	freemen={
+		culture="motowner"
+		religion="promethean"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	slaves={
+		culture="motowner"
+		religion="promethean"
+		amount=3
+	}
+}
+
+5719={ #Canton
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5719={ #
-	terrain="plains"
-	culture="motowner"
-	religion="fissionist"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=35
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		religion="arsenalist"
+		amount=4
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
 	}
 }
 
-5720={ #
+5720={ #Livonia
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="grain"
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		religion="catholic"
+		amount=3
+	}
+	slaves={
+		religion="catholic"
+		amount=4
 	}
 }
 
-5990={ #
+5990={ #Hastings
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
@@ -687,11 +801,11 @@
 	}
 }
 
-5991={ #
+5991={ #Grand Rapids
 	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -700,11 +814,11 @@
 	}
 }
 
-5992={ #
+5992={ #Walker
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -713,11 +827,11 @@
 	}
 }
 
-5993={ #
+5993={ #Ionia
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -726,11 +840,11 @@
 	}
 }
 
-6091={ #
+6091={ #Hillsdale
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -739,11 +853,11 @@
 	}
 }
 
-6092={ #
+6092={ #Coldwater
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -752,11 +866,11 @@
 	}
 }
 
-6093={ #
+6093={ #Jackson
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -765,11 +879,11 @@
 	}
 }
 
-6094={ #
+6094={ #Albion
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -778,7 +892,7 @@
 	}
 }
 
-6263={ #
+6263={ #Ann Arbor
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
@@ -791,8 +905,8 @@
 	}
 }
 
-6264={ #
-	terrain="plains"
+6264={ #Milan
+	terrain="marsh"
 	culture="motowner"
 	religion="promethean"
 	trade_goods="limestone"
@@ -804,11 +918,11 @@
 	}
 }
 
-6265={ #
+6265={ #Adrian
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -817,50 +931,110 @@
 	}
 }
 
-6795={ #
+6795={ #Lapeer
 	terrain="plains"
 	culture="motowner"
 	religion="twelver"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="leather"
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=3
+	}
+	citizen={
+		religion="promethean"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
-6796={ #
+6796={ #Macomb
 	terrain="plains"
 	culture="motowner"
 	religion="twelver"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="glass"
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		religion="promethean"
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="arsenalist"
 		amount=1
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
-6797={ #
+6797={ #Troy
 	terrain="plains"
 	culture="motowner"
 	religion="twelver"
-	trade_goods="honey"
-	civilization_value=10
+	trade_goods="fruits"
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=3
+	}
+	citizen={
+		religion="promethean"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
-7776={ #
+7776={ #Waverly
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -869,11 +1043,11 @@
 	}
 }
 
-7777={ #
+7777={ #Fowlerville
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -882,11 +1056,11 @@
 	}
 }
 
-7778={ #
+7778={ #Saint Johns
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -895,7 +1069,7 @@
 	}
 }
 
-7779={ #
+7779={ #Lansing
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
@@ -908,7 +1082,7 @@
 	}
 }
 
-8952={ #
+8952={ #Holland
 	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
@@ -921,11 +1095,11 @@
 	}
 }
 
-8953={ #
+8953={ #Muskegon
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -934,11 +1108,11 @@
 	}
 }
 
-8954={ #
+8954={ #Whitehall
 	terrain="plains"
 	culture="michigander"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -947,11 +1121,11 @@
 	}
 }
 
-9410={ #
+9410={ #Big Rapids
 	terrain="forest"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -960,11 +1134,11 @@
 	}
 }
 
-9411={ #
+9411={ #Ludington
 	terrain="plains"
 	culture="michigander"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -973,11 +1147,11 @@
 	}
 }
 
-9412={ #
+9412={ #Manistee
 	terrain="plains"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -986,7 +1160,7 @@
 	}
 }
 
-9413={ #
+9413={ #Baldwin
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
@@ -1003,7 +1177,7 @@
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

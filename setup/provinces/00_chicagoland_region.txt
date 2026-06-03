@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="fissionist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"

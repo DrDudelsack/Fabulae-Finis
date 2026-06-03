@@ -570,6 +570,19 @@
 	}
 }
 
+4629={ #
+	terrain="hills"
+	culture=""
+	religion="heartful"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 4630={ #
 	terrain="plains"
 	culture="lakota"
