@@ -6345,7 +6345,7 @@
 674={ #
 	terrain="forest"
 	culture="mikmaw"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -31123,7 +31123,7 @@
 3522={ #
 	terrain="hills"
 	culture="mikmaw"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -48803,7 +48803,7 @@
 5395={ #
 	terrain="forest"
 	culture="mikmaw"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -48829,7 +48829,7 @@
 5397={ #
 	terrain="hills"
 	culture="mikmaw"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -56395,7 +56395,7 @@
 6303={ #
 	terrain="forest"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -56408,7 +56408,7 @@
 6304={ #
 	terrain="hills"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -57188,7 +57188,7 @@
 6391={ #
 	terrain="hills"
 	culture="maritimer"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -57201,7 +57201,7 @@
 6392={ #
 	terrain="forest"
 	culture="maritimer"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -57214,7 +57214,7 @@
 6393={ #
 	terrain="forest"
 	culture="maritimer"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -115181,7 +115181,7 @@
 11928={ #
 	terrain="hills"
 	culture="maritimer"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -115194,7 +115194,7 @@
 11929={ #
 	terrain="forest"
 	culture="maritimer"
-	religion="catholic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

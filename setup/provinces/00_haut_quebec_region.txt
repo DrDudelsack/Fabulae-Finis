@@ -53,7 +53,7 @@
 1052={ #
 	terrain="forest"
 	culture="nouvelle_angleterrais"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5267={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5268={ #
 	terrain="forest"
 	culture="nouvelle_angleterrais"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5269={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 5270={ #
 	terrain="forest"
 	culture="nouvelle_angleterrais"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 8915={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8916={ #
 	terrain="forest"
 	culture="quebecois"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

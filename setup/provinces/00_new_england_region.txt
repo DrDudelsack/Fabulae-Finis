@@ -40,7 +40,7 @@
 4={ #
 	terrain="hills"
 	culture="nouvelle_angleterrais"
-	religion="ursuline"
+	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 2782={ #
 	terrain="hills"
 	culture="nouvelle_angleterrais"
-	religion="gothic"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

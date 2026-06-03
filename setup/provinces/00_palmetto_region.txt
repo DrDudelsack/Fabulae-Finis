@@ -2,7 +2,7 @@
 	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

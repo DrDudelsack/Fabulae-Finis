@@ -456,7 +456,7 @@
 3497={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="veteranic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3498={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="veteranic"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 6302={ #
 	terrain="hills"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -910,7 +910,7 @@
 7870={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -923,7 +923,7 @@
 7872={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -480,7 +480,7 @@
 3031={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -584,7 +584,7 @@
 6108={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -597,7 +597,7 @@
 6109={ #
 	terrain="forest"
 	culture="eeyou"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -610,7 +610,7 @@
 6110={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -623,7 +623,7 @@
 6111={ #
 	terrain="forest"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -740,7 +740,7 @@
 6606={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -753,7 +753,7 @@
 6607={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -766,7 +766,7 @@
 6608={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -935,7 +935,7 @@
 7873={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1000,7 +1000,7 @@
 8736={ #
 	terrain="forest"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1013,7 +1013,7 @@
 8737={ #
 	terrain="hills"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1026,7 +1026,7 @@
 8738={ #
 	terrain="hills"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1039,7 +1039,7 @@
 8739={ #
 	terrain="hills"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

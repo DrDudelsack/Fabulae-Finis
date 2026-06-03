@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="farmland"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -143,7 +143,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -156,7 +156,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -169,7 +169,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -182,7 +182,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -195,7 +195,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -221,7 +221,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -234,7 +234,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -247,7 +247,7 @@
 	terrain="farmland"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -273,7 +273,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -286,7 +286,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -299,7 +299,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -351,7 +351,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -364,7 +364,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -377,7 +377,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -390,7 +390,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -403,7 +403,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -429,7 +429,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -512,7 +512,7 @@
 	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -536,7 +536,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -618,7 +618,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods="grain"
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -670,7 +670,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -683,7 +683,7 @@
 	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -709,7 +709,7 @@
 	terrain="flood_plain"
 	culture="gatewayan"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -722,7 +722,7 @@
 	terrain="forest"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -761,7 +761,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -774,7 +774,7 @@
 	terrain="forest"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,7 +894,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

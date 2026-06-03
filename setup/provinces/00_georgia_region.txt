@@ -28,7 +28,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="flood_plain"
 	culture="sunshiner"
 	religion="springsearcher"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

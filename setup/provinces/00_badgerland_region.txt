@@ -197,7 +197,7 @@
 	terrain="hills"
 	culture="cheesehead"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="hills"
 	culture="cheesehead"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="marsh"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="plains"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

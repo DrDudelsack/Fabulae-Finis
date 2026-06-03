@@ -21,7 +21,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -40,7 +40,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -212,20 +212,52 @@
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="cloth"
-	civilization_value=20
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	nobles={
-		amount=4
+		amount=2
 	}
 	citizen={
 		amount=2
 	}
+	citizen={
+		religion="promethean"
+		amount=1
+	}
+	citizen={
+		religion="capitalist"
+		amount=1
+	}
+	citizen={
+		religion="arsenalist"
+		amount=2
+	}
 	freemen={
+		amount=4
+	}
+	freemen={
+		religion="arsenalist"
+		amount=1
+	}
+	freemen={
+		religion="promethean"
+		amount=1
+	}
+	freemen={
+		religion="galvanist"
 		amount=1
 	}
 	slaves={
 		amount=2
+	}
+	slaves={
+		religion="lakeshore"
+		amount=2
+	}
+	slaves={
+		religion="capitalist"
+		amount=1
 	}
 }
 
@@ -448,17 +480,52 @@
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="glass"
-	civilization_value=22
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
+		amount=2
+	}
+	citizen={
+		religion="promethean"
+		amount=1
+	}
+	citizen={
+		religion="capitalist"
+		amount=1
+	}
+	citizen={
+		religion="arsenalist"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="arsenalist"
 		amount=1
 	}
 	freemen={
-		amount=3
+		religion="promethean"
+		amount=1
+	}
+	freemen={
+		religion="galvanist"
+		amount=1
 	}
 	slaves={
 		amount=2
+	}
+	slaves={
+		religion="lakeshore"
+		amount=2
+	}
+	slaves={
+		religion="capitalist"
+		amount=1
 	}
 }
 
@@ -565,7 +632,7 @@
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="marble"
-	civilization_value=35
+	civilization_value=40
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -576,7 +643,7 @@
 	}
 	citizen={
 		religion="promethean"
-		amount=3
+		amount=4
 	}
 	citizen={
 		religion="capitalist"
@@ -584,14 +651,14 @@
 	}
 	citizen={
 		religion="arsenalist"
-		amount=3
+		amount=4
 	}
 	freemen={
 		amount=5
 	}
 	freemen={
 		religion="arsenalist"
-		amount=2
+		amount=4
 	}
 	freemen={
 		religion="promethean"
@@ -599,14 +666,14 @@
 	}
 	freemen={
 		religion="galvanist"
-		amount=1
+		amount=3
 	}
 	freemen={
 		religion="fissionist"
 		amount=2
 	}
 	slaves={
-		amount=4
+		amount=6
 	}
 	slaves={
 		religion="lakeshore"
@@ -641,17 +708,19 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="fissionist"
-	trade_goods=""
-	civilization_value=18
+	trade_goods="horses"
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		amount=1
 	}
 	freemen={
+		religion="catholic"
 		amount=3
 	}
 	slaves={
+		religion="catholic"
 		amount=2
 	}
 }
@@ -660,7 +729,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -679,7 +748,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -776,7 +845,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +864,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -871,7 +940,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"

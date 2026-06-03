@@ -327,7 +327,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
