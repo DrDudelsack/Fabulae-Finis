@@ -69,5 +69,57 @@ deity_manager = {
 			key = omen_knute_nelson
 			deity = deity_knute_nelson
 		}
+		317 = {
+			key = omen_independence
+			deity = deity_independence
+		}
+		318 = {
+			key = omen_humility
+			deity = deity_humility
+		}
+		319 = {
+			key = omen_heartful_justice
+			deity = deity_heartful_justice
+		}
+		320 = {
+			key = omen_honesty
+			deity = deity_honesty
+		}
+		321 = {
+			key = omen_education
+			deity = deity_education
+		}
+		322 = {
+			key = omen_bravery
+			deity = deity_bravery
+		}
+		323 = {
+			key = omen_heart
+			deity = deity_heart
+		}
+		324 = {
+			key = omen_soul
+			deity = deity_soul
+		}
+		325 = {
+			key = omen_labor
+			deity = deity_labor
+		}
+		326 = {
+			key = omen_faith
+			deity = deity_faith
+		}
+		327 = {
+			key = omen_perserverance
+			deity = deity_perserverance
+		}
+		328 = {
+			key = omen_prosperity
+			deity = deity_prosperity
+		}
+		329 = {
+			key = omen_lewis_and_clark
+			deity = deity_lewis_and_clark
+		}
 	}
 }

@@ -404,7 +404,7 @@ country = {
 			}
 		}
 		IDP = { #Independence
-			government = aristocratic_monarchy
+			government = theocratic_republic
 			primary_culture = heartlander
 			religion = heartful
 			capital = 8495
@@ -2321,6 +2321,25 @@ country = {
 			government = despotic_monarchy
 			primary_culture = grangelander
 			religion = ozymandism
+			capital = 5882
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				959 659 960 657 658 5882
+				1460 1458 1459 7467 7466 7650 7649 7648
+				5146 5148
+			}
+		}
+		DHG = { # Omaha
+			government = despotic_monarchy
+			primary_culture = dhegihan
+			religion = lutheran
 			capital = 5880
 
 			technology={
@@ -2331,8 +2350,24 @@ country = {
 			}
 
 			own_control_core = {
-				5880 961 959 659 960 657 658 5883 5881 5882 7311 7312 7313
-				1460 1458 1459 7467 7466 7650 7649 7648
+				5880 961 5883 5881
+			}
+		}
+		IWY = { # Ioway
+			government = tribal_federation
+			primary_culture = ioway
+			religion = catholic
+			capital = 7313
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7313 7311 7312 
 			}
 		}
 		CNH = { # Conch Republic

@@ -125,6 +125,8 @@ FTL = "setup/countries/midwest/fort_leonard.txt"
 
 #Great Plains
 NDK = "setup/countries/great_plains/north_dakota.txt"
+DHG = "setup/countries/great_plains/omaha.txt"
+IWY = "setup/countries/great_plains/ioway.txt"
 
 
 #South

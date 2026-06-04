@@ -880,25 +880,54 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		religion="heartful"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
-8495={ #
-	terrain="plains"
+8495={ #Independence
+	terrain="farmland"
 	culture="heartlander"
 	religion="heartful"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="marble"
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="ioway"
+		religion="catholic"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
 		amount=1
 	}
+	holy_site=omen_independence
 }
 
 8644={ #Como

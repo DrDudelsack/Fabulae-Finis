@@ -33566,7 +33566,7 @@
 
 3777={ #
 	terrain="steppes"
-	culture="okie"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -33579,7 +33579,7 @@
 
 3778={ #
 	terrain="steppes"
-	culture="okie"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -35750,7 +35750,7 @@
 
 3991={ #
 	terrain="steppes"
-	culture="neomexicano"
+	culture="okie"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -72826,7 +72826,7 @@
 
 8146={ #
 	terrain="steppes"
-	culture="neomexicano"
+	culture="okie"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

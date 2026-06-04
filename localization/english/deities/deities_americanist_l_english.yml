@@ -2,78 +2,130 @@
  ## Default ##
  deity_washington:0 "$omen_washington$"
  omen_washington:0 "Washington"
- omen_washington_desc:0 "#Y Americanist President and Founder#!\n\nFirst the Commander-in-Chief of the Continental Army, Washington led to the victory of Patriot forces over the perfidious Redcoats. He famously crossed the Delaware River in the middle of winter, launching a suprise attack on the Hessians. This changed the course of the war, leading to a complete turnaround of Patriot morale. By 1780, Colonial and French forces had the Redcoats on the retreat, trapping them at Yorktown, and leading to the end of the Revolutionary War. It was for these acts of heroism, and Washington's unrivalled chivalry and good character, that he ascended into godhood, and by Providence alone, he became America's first president. After his second term, Washington laid down his divine power, setting the precedent for how a President should act and govern."
+ omen_washington_desc:0 "#Y Americanist President and Founder#!\nFirst the Commander-in-Chief of the Continental Army, Washington led to the victory of Patriot forces over the perfidious Redcoats. He famously crossed the Delaware River in the middle of winter, launching a suprise attack on the Hessians. This changed the course of the war, leading to a complete turnaround of Patriot morale. By 1780, Colonial and French forces had the Redcoats on the retreat, trapping them at Yorktown, and leading to the end of the Revolutionary War. It was for these acts of heroism, and Washington's unrivalled chivalry and good character, that he ascended into godhood, and by Providence alone, he became America's first president. After his second term, Washington laid down his divine power, setting the precedent for how a President should act and govern."
 
  deity_roosevelt:0 "$omen_roosevelt$"
  omen_roosevelt:0 "Roosevelt"
- omen_roosevelt_desc:0 "#Y Americanist President#!\n\nRoosevelt, the strongest of the Presidents, renowned for his endurance and vigor. He led America through some of her darkest times. When America was under assault from foreign forces across the sea, Roosevelt organized his Rough Riders- elite cavalrymen, and personally took the fight to Cuba, storming up Kettle Hill, and then San Juan Hill, ending the war. Later in his presidency, one of the greatest enemies to America and her people threatened to end everything the Founders had worked towards - that of the Fascists. For six long years, Roosevelt and his soldiers defended America from the bayonet of the Fascists. In the end, the American Dream was protected, and America's people saved, but at a great cost - Roosevelt had perished during single combat with the leader of the Fascists, Adolph Mussolini. With his dying breath, he raised his Colt, blasting the head off of that foul and obscene monster."
+ omen_roosevelt_desc:0 "#Y Americanist President#!\nRoosevelt, the strongest of the Presidents, renowned for his endurance and vigor. He led America through some of her darkest times. When America was under assault from foreign forces across the sea, Roosevelt organized his Rough Riders- elite cavalrymen, and personally took the fight to Cuba, storming up Kettle Hill, and then San Juan Hill, ending the war. Later in his presidency, one of the greatest enemies to America and her people threatened to end everything the Founders had worked towards - that of the Fascists. For six long years, Roosevelt and his soldiers defended America from the bayonet of the Fascists. In the end, the American Dream was protected, and America's people saved, but at a great cost - Roosevelt had perished during single combat with the leader of the Fascists, Adolph Mussolini. With his dying breath, he raised his Colt, blasting the head off of that foul and obscene monster."
  
  deity_usa_father:0 "$omen_usa_father$"
  omen_usa_father:0 "The Father of The Nation"
- omen_usa_father_desc:0 "#Y Americanist God#!\n\n"
+ omen_usa_father_desc:0 "#Y Americanist God#!\n"
 
  deity_providence:0 "$omen_providence$"
  omen_providence:0 "Providence"
- omen_providence_desc:0 "#Y Americanist God#!\n\nProvidence is the unseen but ever-present god who shapes America's rise through chance, struggle, and fate, guiding events without fully revealing his will. It is by Providence's will that The Founders and Presidents were allowed to ascend into godhood."
- omen_providence_desc_twainist:0 "#Y Americanist God#!\n\nNeither a good or a bad deity, Providence is simply the being that governs the universe via strict and immutable laws. His worship amongst Twainists is less common, but Providence is acknowledged for the important role he plays."
- omen_providence_desc_heartful:0 “#Y Americanist God#!\n\nProvidence is the one true God who guides history according to its will, raising nations and humbling them, and who entrusted America to humanity as a sacred stewardship rather than a dominion of conquest.”
+ omen_providence_desc:0 "#Y Americanist God#!\nProvidence is the unseen but ever-present god who shapes America's rise through chance, struggle, and fate, guiding events without fully revealing his will. It is by Providence's will that The Founders and Presidents were allowed to ascend into godhood."
+ omen_providence_desc_twainist:0 "#Y Americanist God#!\nNeither a good or a bad deity, Providence is simply the being that governs the universe via strict and immutable laws. His worship amongst Twainists is less common, but Providence is acknowledged for the important role he plays."
+ omen_providence_desc_heartful:0 “#Y Americanist God#!\nProvidence is the one true God who guides history according to its will, raising nations and humbling them, and who entrusted America to humanity as a sacred stewardship rather than a dominion of conquest.”
 
  deity_usa_dream:0 "$omen_providence$"
  omen_usa_dream:0 "The American Dream"
- omen_usa_dream_desc:0 "#Y Americanist God#!\n\nThe American Drean is the god who promises abundance, prosperity, and upward ascent to those who labor faithfully, though his favor is fickle and unevenly bestowed."
+ omen_usa_dream_desc:0 "#Y Americanist God#!\nThe American Drean is the god who promises abundance, prosperity, and upward ascent to those who labor faithfully, though his favor is fickle and unevenly bestowed."
  
  deity_founders:0 "$omen_founders$"
  omen_founders:0 "The Founders"
- omen_founders_desc:0 "#Y Americanist Gods#!\n\nThe Founders were divine council of lesser gods who shaped America's laws and institutions, crucial to the formation of the early Republic. Their teachings are still studied today, helping to shape a more perfect Union. Although some worship these Founders individually, such as Founder Jefferson or Founder Franklin, it is common practice to group them all together, as with a nation, the whole is greater than the sum of the parts."
+ omen_founders_desc:0 "#Y Americanist Gods#!\nThe Founders were divine council of lesser gods who shaped America's laws and institutions, crucial to the formation of the early Republic. Their teachings are still studied today, helping to shape a more perfect Union. Although some worship these Founders individually, such as Founder Jefferson or Founder Franklin, it is common practice to group them all together, as with a nation, the whole is greater than the sum of the parts."
 
  deity_revere:0 "$omen_revere$"
  omen_revere:0 "Revere"
- omen_revere_desc:0 "#Y Americanist God#!\n\nRevere is the tireless god of vigilance and warning, who rides unseen through the darkness to alert the faithful of approaching danger. Revere warned the Founders of the incoming Redcoats, shouting 'The British are coming, the British are coming!', saving those great men from capture at the hands of the wicket Redcoats. He is popular amongst soldiers and hunters, and they pray to him in the hopes that he will protect them during the dark hours of the night."
+ omen_revere_desc:0 "#Y Americanist God#!\nRevere is the tireless god of vigilance and warning, who rides unseen through the darkness to alert the faithful of approaching danger. Revere warned the Founders of the incoming Redcoats, shouting 'The British are coming, the British are coming!', saving those great men from capture at the hands of the wicket Redcoats. He is popular amongst soldiers and hunters, and they pray to him in the hopes that he will protect them during the dark hours of the night."
  omen_revere_arsenalist:0 "Titan Revere"
- omen_revere_desc_arsenalist:0 "#Y Americanist Titan#!\n\nAn ancient silversmith, Titan Revere crafted silver charms to warn the people of coming dangers, watching over them at night."
+ omen_revere_desc_arsenalist:0 "#Y Americanist Titan#!\nAn ancient silversmith, Titan Revere crafted silver charms to warn the people of coming dangers, watching over them at night."
 
  deity_ironsides:0 "$omen_ironsides$"
  omen_ironsides:0 "Ol' Ironsides"
- omen_ironsides_desc:0 "#Y Americanist God#!\n\nOl' Ironsides, also known as the 'Old Man of the Sea' is as ancient as America herself. He keeps watch over the many coasts and shorelines of the Nation, perhaps not always seen, but always enduring, always watching. It is said that if one goes deep enough into the sea, you can find him, resting at the bottom of the sea."
+ omen_ironsides_desc:0 "#Y Americanist God#!\nOl' Ironsides, also known as the 'Old Man of the Sea' is as ancient as America herself. He keeps watch over the many coasts and shorelines of the Nation, perhaps not always seen, but always enduring, always watching. It is said that if one goes deep enough into the sea, you can find him, resting at the bottom of the sea."
 
  deity_lady_liberty:0 "$omen_lady_liberty$"
  omen_lady_liberty:0 "Lady Liberty"
- omen_lady_liberty_desc:0 "#Y Americanist Goddess#!\n\nGive me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore Send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door!. Thus spoke Lady Liberty, the luminous goddess who guides America's destiny, holding aloft the promise of freedom while quietly judging who is worthy of it."
+ omen_lady_liberty_desc:0 "#Y Americanist Goddess#!\nGive me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore Send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door!. Thus spoke Lady Liberty, the luminous goddess who guides America's destiny, holding aloft the promise of freedom while quietly judging who is worthy of it."
 
  deity_lincoln:0 "$omen_lincoln$"
  omen_lincoln:0 "Lincoln"
- omen_lincoln_desc:0 "#Y Americanist President#!\n\nA humble man, Lincoln was born to a poor family in Illinois. In his early years, he was a lawyer, boxer, and for a short time, a hunter of the supernatural. Showing much promise as a leader, Lincoln was elected President. He is worshipped as the somber god of unity, sacrifice, and the national family, who binds households together through shared suffering."
+ omen_lincoln_desc:0 "#Y Americanist President#!\nA humble man, Lincoln was born to a poor family in Illinois. In his early years, he was a lawyer, boxer, and for a short time, a hunter of the supernatural. Showing much promise as a leader, Lincoln was elected President. He is worshipped as the somber god of unity, sacrifice, and the national family, who binds households together through shared suffering."
  
  ## Heartful Deities ##
  deity_borlaug:0 "$omen_borlaug$"
  omen_borlaug:0 "Borlaug"
- omen_borlaug_desc:0 "#Y Heartful Saint#!\n\nBorlaug is the saint of abundance and sustenance, who teaches that feeding the hungry is a holy act and that human ingenuity is a gift meant to preserve life."
+ omen_borlaug_desc:0 "#Y Heartful Saint#!\nBorlaug is the saint of abundance and sustenance, who teaches that feeding the hungry is a holy act and that human ingenuity is a gift meant to preserve life."
  
  deity_jefferson:0 "$omen_jefferson$"
  omen_jefferson:0 "Jefferson"
- omen_jefferson_desc:0 "#Y Heartful Deity#!\n\nJefferson is the steward of prosperity and learning, who taught that true wealth lies in land rightly tended, education widely shared, and liberty protected from excess."
+ omen_jefferson_desc:0 "#Y Heartful Deity#!\nThe eldest of Providence's sons, Jefferson is the steward of prosperity and learning, who taught that true wealth lies in land rightly tended, education widely shared, and liberty protected from excess."
 
  deity_john_brown:0 "$omen_john_brown$"
  omen_john_brown:0 "John Brown"
- omen_john_brown_desc:0 "#Y Heartful Prophet#!\n\nJohn Brown is the prophet of terrible truth, who reveals that some evils cannot be reasoned away and that knowledge without justice is sin."
+ omen_john_brown_desc:0 "#Y Heartful Prophet#!\nJohn Brown is the prophet of terrible truth, who reveals that some evils cannot be reasoned away and that knowledge without justice is sin."
 
  deity_eisenhower:0 "$omen_eisenhower$"
  omen_eisenhower:0 "Eisenhower"
- omen_eisenhower_desc:0 "#Y Heartful Deity#!\n\nEisenhower is the righteous general who teaches that war, though sometimes necessary, must always be restrained by humility and an awareness of its costs."
+ omen_eisenhower_desc:0 "#Y Heartful Deity#!\nEisenhower is the righteous general who teaches that war, though sometimes necessary, must always be restrained by humility and an awareness of its costs."
 
  deity_glenn:0 "$omen_glenn$"
  omen_glenn:0 "Glenn"
- omen_glenn_desc:0 "#Y #!\n\nGlenn is the watcher in the dark, who guards humanity during its most perilous ascents and reminds the faithful that courage is greatest when the path is unseen."
+ omen_glenn_desc:0 "#Y Heartful Deity#!\nGlenn is the watcher in the dark, who guards humanity during its most perilous ascents and reminds the faithful that courage is greatest when the path is unseen."
 
  deity_iowa:0 "$omen_iowa$"
- omen_iowa:0 "Iowa"
- omen_iowa_desc:0 "#Y Heartful Deities#!\n\nIowa and Enterprise are twin vessels of faith and labor, carrying America's people and hopes across uncertain waters through endurance and cooperation."
+ omen_iowa:0 "Iowa and Enterprise"
+ omen_iowa_desc:0 "#Y Heartful Deities#!\nIowa and Enterprise are twin vessels of faith and labor, carrying America's people and hopes across uncertain waters through endurance and cooperation."
 
  deity_wjb:0 "$omen_wjb$"
  omen_wjb:0 "William Jennings Bryan"
- omen_wjb_desc:0 "#Y Heartful Prophet#!\n\nKnown for his faith in the wisdom of the common people, William Jennings Bryan warned America against the trappings of wealth, and the consequences of uncontrolled greed."
+ omen_wjb_desc:0 "#Y Heartful Prophet#!\nKnown for his faith in the wisdom of the common people, William Jennings Bryan warned America against the trappings of wealth, and the consequences of uncontrolled greed."
 
  deity_knute_nelson:0 "$omen_knute_nelson$"
  omen_knute_nelson:0 "Knute Nelson"
- omen_knute_nelson_desc:0 "#Y Heartful Deity#!\n\nThe learned Knute Nelson teaches of the importance of law, but also how it is necessary to shed regional identities in order to come together as one nation."
+ omen_knute_nelson_desc:0 "#Y Heartful Deity#!\nThe learned Knute Nelson teaches of the importance of law, but also how it is necessary to shed regional identities in order to come together as one nation."
+
+ deity_independence:0 "$omen_independence$"
+ omen_independence:0 "Independence"
+ omen_independence_desc:0 "#Y Heartful Virtue#!\nLong ago, Independence cleared the way for all men to travel to the lands of the west, and enjoy the bountiful treasures and prosperity that exists there. Although the way to the west now lay closed, it is through securing the Heart of America, that the westward path may once again be opened. The free-spirited Missourians choose to venerate Virtue Independence."
+
+ deity_humility:0 "$omen_humility$"
+ omen_humility:0 "Humility"
+ omen_humility_desc:0 "#Y Heartful Virtue#!\nVirtue Humility teaches of the righteousness in a simple life, and how arrogancy and hubris can destroy not only yourself, but an entire nation. The humble Kansans are the favorite of Virtue Humility."
+
+ deity_heartful_justice:0 "$omen_heartful_justice$"
+ omen_heartful_justice:0 "Justice"
+ omen_heartful_justice_desc:0 "#Y Heartful Virtue#!\nVirtue Justice represents the inherent goodness of law and order, and how it should be used to benefit citizens. Virtue Justice is worshipped by the law-abiding Indianians."
+
+ deity_honesty:0 "$omen_honesty$"
+ omen_honesty:0 "Honesty"
+ omen_honesty_desc:0 "#Y Heartful Virtue#!\nVirtue Honesty shows us how to do the right thing, and why it is neccesary. Lincoln was a chosen messenger of Virtue Honesty, for he embodied everything they stand for, for this he was named 'Honest Abe', by Providence himself."
+
+ deity_education:0 "$omen_education$"
+ omen_education:0 "Education"
+ omen_education_desc:0 "#Y Heartful Virtue#!\nAcross the many storied colleges and universities of America, Virtue Education stands watch over each student, helping them in their studies, but also reminding them of the need to focus on their education, for the illiterate man is the one who succumbs to Sin."
+
+ deity_bravery:0 "$omen_bravery$"
+ omen_bravery:0 "Bravery"
+ omen_bravery_desc:0 "#Y Heartful Virtue#!\nBravery is inherent in all Men - it is a gift from Providence. Blessed are the meek, but also blessed are those who take up arms for a righteous cause. It is for this reason that the noble and stout Minnesotans claim Virtue Bravery as the patron of their state."
+
+ deity_heart:0 "$omen_heart$"
+ omen_heart:0 "Heart"
+ omen_heart_desc:0 "#Y Heartful Virtue#!\nVirtue Heart represents the land of America. Enemies of America have sought to take over the Heart, and to render it useless to the Soul. This is why the Heart must be defended with diligence."
+
+ deity_soul:0 "$omen_soul$"
+ omen_soul:0 "Soul"
+ omen_soul_desc:0 "#Y Heartful Virtue#!\nThe Soul, or the people of America are the second part that makes up the Union. This Union between Heart and Soul is a sacred thing, and must not be torn asunder. The collapse of old America was the result of the Heart and Soul breaking apart - it is up to us to pick up the pieces, and restore the Union."
+
+ deity_labor:0 "$omen_labor$"
+ omen_labor:0 "Labor"
+ omen_labor_desc:0 "#Y Heartful Virtue#!\nIt is through Labor, the holy act of work, that the Union can be restored. Labor manifests itself in many things, from the simple farmer toiling in his fields, to the craftsman refining his work, to the merchant selling his wares, and even to the mighty king, who leads his people and nation into the future."
+
+ deity_faith:0 "$omen_faith$"
+ omen_faith:0 "Faith"
+ omen_faith_desc:0 "#Y Heartful Virtue#!\nNeccesary for a righteous life, Faith is the path by which divine acts of Providence can be achieved."
+
+ deity_perseverence:0 "$omen_perseverence$"
+ omen_perseverence:0 "Perseverance"
+ omen_perseverence_desc:0 "#Y Heartful Virtue#!\nThe destruction of the Union was a terrible event. Many hundreds of thousands of people suffered under it. It was through Perseverance that the American people weathered the storm, sheltered under her guiding hand."
+
+ deity_prosperity:0 "$omen_prosperity$"
+ omen_prosperity:0 "Prosperity"
+ omen_prosperity_desc:0 "#Y Heartful Virtue#!\nThe blessed hand of Prosperity can turn a desert into a paradise, bring rain during a drought, and create crops from thin air during famines. It is through the power of Prosperity that all the peoples of America can enjoy wealth."
+
+ deity_lewis_and_clark:0 "$omen_lewis_and_clark$"
+ omen_lewis_and_clark:0 "Lewis and Clark"
+ omen_lewis_and_clark_desc:0 "#Y Heartful Deities#!\nLewis and Clark were guided by the spirit of Independence to travel the westward path, into the land blessed by Prosperity itself. It is said that when this arrived at this holy land, called Oregon, they saw the vast expanse of a great blue ocean, the likes of which no one had ever seen before."
  

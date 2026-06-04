@@ -300,7 +300,7 @@
 }
 
 1908={ #Mankato
-	terrain="plains"
+	terrain="farmland"
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
@@ -313,7 +313,7 @@
 }
 
 1909={ #New Ulm
-	terrain="plains"
+	terrain="farmland"
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="marble"

@@ -14,7 +14,7 @@
 387={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="viking"
+	religion="peyotist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 388={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 389={ #
 	terrain="plains"
 	culture="northlander"
-	religion="viking"
+	religion="peyotist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -233,7 +233,7 @@
 }
 
 1644={ #
-	terrain="steppes"
+	terrain="farmland"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -352,7 +352,7 @@
 2939={ #
 	terrain="farmland"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 2940={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 2941={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 3021={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 3022={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 3023={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 5365={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 5781={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

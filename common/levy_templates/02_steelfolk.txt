@@ -8,7 +8,8 @@
 levy_steelfolk = { # Picket Line
 	default = no
 
-	spearmen = 0.5
+	spearmen = 0.4
 	heavy_infantry = 0.3
 	light_cavalry = 0.2
+	archers = 0.1
 }
