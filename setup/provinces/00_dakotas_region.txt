@@ -690,7 +690,7 @@
 5571={ #
 	terrain="steppes"
 	culture="lakota"
-	religion="peyotist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 5573={ #
 	terrain="steppes"
 	culture="lakota"
-	religion="peyotist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

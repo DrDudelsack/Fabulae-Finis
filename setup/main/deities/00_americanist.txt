@@ -121,5 +121,17 @@ deity_manager = {
 			key = omen_lewis_and_clark
 			deity = deity_lewis_and_clark
 		}
+		330 = {
+			key = omen_union
+			deity = deity_union
+		}
+		331 = {
+			key = omen_clark_kent
+			deity = deity_clark_kent
+		}
+		332 = {
+			key = omen_steinbeck
+			deity = deity_steinbeck
+		}
 	}
 }

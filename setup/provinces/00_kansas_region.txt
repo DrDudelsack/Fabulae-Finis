@@ -131,7 +131,7 @@
 586={ #Iola
 	terrain="plains"
 	culture="ozark"
-	religion="revelationist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 587={ #Garnett
 	terrain="plains"
 	culture="ozark"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 1515={ #
 	terrain="farmland"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 1516={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 1517={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2118={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2119={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 3584={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 3585={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 3586={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3899={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4145={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 4146={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 4147={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 6358={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 6359={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 6779={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -854,7 +854,7 @@
 6898={ #Silver Lake
 	terrain="plains"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -867,7 +867,7 @@
 7049={ #El Dorado
 	terrain="plains"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -984,7 +984,7 @@
 7370={ #Lawrence
 	terrain="farmland"
 	culture="heartlander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1032,12 +1032,22 @@
 	culture="grangelander"
 	religion="heartful"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
 	tribesmen={
 		amount=1
 	}
+	holy_site=omen_clark_kent
 }
 
 7412={ #McPherson
@@ -1045,9 +1055,18 @@
 	culture="grangelander"
 	religion="heartful"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
 	tribesmen={
 		amount=1
 	}
@@ -1057,10 +1076,19 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="clay"
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
 	tribesmen={
 		amount=1
 	}
@@ -1160,7 +1188,7 @@
 7677={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1173,7 +1201,7 @@
 7678={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1238,7 +1266,7 @@
 7898={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1251,7 +1279,7 @@
 7899={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

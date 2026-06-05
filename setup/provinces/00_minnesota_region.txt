@@ -1,7 +1,7 @@
 ﻿68={ #
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="heartful"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -85,7 +85,7 @@
 239={ #Long Prairie
 	terrain="plains"
 	culture="northlander"
-	religion="viking"
+	religion="heartful"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -731,7 +731,7 @@
 8149={ #Litchfield
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="heartful"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -757,7 +757,7 @@
 8151={ #
 	terrain="farmland"
 	culture="minnesotan"
-	religion="viking"
+	religion="heartful"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0

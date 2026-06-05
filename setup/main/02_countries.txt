@@ -1448,7 +1448,7 @@ country = {
 		STC = { #Saint Cloud
 			government = tribal_kingdom
 			primary_culture = minnesotan
-			religion = viking
+			religion = heartful
 			capital = 8151
 
 			technology={

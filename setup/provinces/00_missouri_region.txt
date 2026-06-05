@@ -469,7 +469,7 @@
 5252={ #
 	terrain="forest"
 	culture="ozark"
-	religion="revelationist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5951={ #
 	terrain="forest"
 	culture="ozark"
-	religion="revelationist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5952={ #
 	terrain="plains"
 	culture="ozark"
-	religion="revelationist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 5953={ #
 	terrain="plains"
 	culture="ozark"
-	religion="revelationist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -700,7 +700,7 @@
 6621={ #Benton
 	terrain="plains"
 	culture="hermanndeutsch"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -865,7 +865,7 @@
 8493={ #
 	terrain="plains"
 	culture="ozark"
-	religion="revelationist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -878,7 +878,7 @@
 8494={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=20
 	barbarian_power=0

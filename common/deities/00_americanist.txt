@@ -741,3 +741,78 @@ deity_lewis_and_clark = {
 		military_apotheosis_manpower_effect = yes
 	}
 }
+deity_union = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = heartful
+			}
+			deity:omen_union = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { monthly_wage_modifier = omen_monthly_wage_modifier_svalue } #Bonus from Omen
+	religion = heartful
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_food_effect = yes
+	}
+}
+deity_clark_kent = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = heartful
+			}
+			deity:omen_clark_kent = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_manpower_modifier = deity_global_manpower_modifier_svalue }
+	omen = { global_population_happiness = omen_global_population_happiness } #Bonus from Omen
+	religion = heartful
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_steinbeck = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = heartful
+			}
+			deity:omen_steinbeck = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { fabricate_claim_speed = deity_fabricate_claim_speed_svalue }
+	omen = { army_movement_speed = 0.05 } #Bonus from Omen
+	religion = heartful
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}

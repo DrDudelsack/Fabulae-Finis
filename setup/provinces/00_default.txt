@@ -19111,7 +19111,7 @@
 2158={ #
 	terrain="mountain"
 	culture="crow"
-	religion="peyotist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -19137,7 +19137,7 @@
 2160={ #
 	terrain="mountain"
 	culture="crow"
-	religion="peyotist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -67887,7 +67887,7 @@
 7572={ #
 	terrain="steppes"
 	culture="okie"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -77975,7 +77975,7 @@
 8718={ #
 	terrain="steppes"
 	culture="okie"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

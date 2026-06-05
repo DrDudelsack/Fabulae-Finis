@@ -3,6 +3,7 @@
  deity_washington:0 "$omen_washington$"
  omen_washington:0 "Washington"
  omen_washington_desc:0 "#Y Americanist President and Founder#!\nFirst the Commander-in-Chief of the Continental Army, Washington led to the victory of Patriot forces over the perfidious Redcoats. He famously crossed the Delaware River in the middle of winter, launching a suprise attack on the Hessians. This changed the course of the war, leading to a complete turnaround of Patriot morale. By 1780, Colonial and French forces had the Redcoats on the retreat, trapping them at Yorktown, and leading to the end of the Revolutionary War. It was for these acts of heroism, and Washington's unrivalled chivalry and good character, that he ascended into godhood, and by Providence alone, he became America's first president. After his second term, Washington laid down his divine power, setting the precedent for how a President should act and govern."
+ omen_washington_desc_heartful:0 ""#Y Heartful Founder#!\nWashington is the instrument of divine destiny, raised up to act when the hour demanded obedience rather than ambition, and then to step aside when his task was done."
 
  deity_roosevelt:0 "$omen_roosevelt$"
  omen_roosevelt:0 "Roosevelt"
@@ -43,6 +44,7 @@
  deity_lincoln:0 "$omen_lincoln$"
  omen_lincoln:0 "Lincoln"
  omen_lincoln_desc:0 "#Y Americanist President#!\nA humble man, Lincoln was born to a poor family in Illinois. In his early years, he was a lawyer, boxer, and for a short time, a hunter of the supernatural. Showing much promise as a leader, Lincoln was elected President. He is worshipped as the somber god of unity, sacrifice, and the national family, who binds households together through shared suffering."
+ omen_lincoln_desc_heartful:0 "#Y Heartful Founder#!\nLincoln is the guardian of the national household, who sanctified unity through suffering and bound the American family together with sacrifice and mercy."
  
  ## Heartful Deities ##
  deity_borlaug:0 "$omen_borlaug$"
@@ -51,7 +53,7 @@
  
  deity_jefferson:0 "$omen_jefferson$"
  omen_jefferson:0 "Jefferson"
- omen_jefferson_desc:0 "#Y Heartful Deity#!\nThe eldest of Providence's sons, Jefferson is the steward of prosperity and learning, who taught that true wealth lies in land rightly tended, education widely shared, and liberty protected from excess."
+ omen_jefferson_desc:0 "#Y Heartful Founder#!\nThe eldest of Providence's sons, Jefferson is the steward of prosperity and learning, who taught that true wealth lies in land rightly tended, education widely shared, and liberty protected from excess."
 
  deity_john_brown:0 "$omen_john_brown$"
  omen_john_brown:0 "John Brown"
@@ -59,11 +61,11 @@
 
  deity_eisenhower:0 "$omen_eisenhower$"
  omen_eisenhower:0 "Eisenhower"
- omen_eisenhower_desc:0 "#Y Heartful Deity#!\nEisenhower is the righteous general who teaches that war, though sometimes necessary, must always be restrained by humility and an awareness of its costs."
+ omen_eisenhower_desc:0 "#Y Heartful Founder#!\nEisenhower is the righteous general who teaches that war, though sometimes necessary, must always be restrained by humility and an awareness of its costs."
 
  deity_glenn:0 "$omen_glenn$"
  omen_glenn:0 "Glenn"
- omen_glenn_desc:0 "#Y Heartful Deity#!\nGlenn is the watcher in the dark, who guards humanity during its most perilous ascents and reminds the faithful that courage is greatest when the path is unseen."
+ omen_glenn_desc:0 "#Y Heartful Deity#!\n Saint Glenn is the watcher in the dark, who guards humanity during its most perilous ascents and reminds the faithful that courage is greatest when the path is unseen."
 
  deity_iowa:0 "$omen_iowa$"
  omen_iowa:0 "Iowa and Enterprise"
@@ -127,5 +129,20 @@
 
  deity_lewis_and_clark:0 "$omen_lewis_and_clark$"
  omen_lewis_and_clark:0 "Lewis and Clark"
- omen_lewis_and_clark_desc:0 "#Y Heartful Deities#!\nLewis and Clark were guided by the spirit of Independence to travel the westward path, into the land blessed by Prosperity itself. It is said that when this arrived at this holy land, called Oregon, they saw the vast expanse of a great blue ocean, the likes of which no one had ever seen before."
+ omen_lewis_and_clark_desc:0 "#Y Heartful Saints#!\nSaints Lewis and Clark were guided by the spirit of Independence to travel the westward path, into the land blessed by Prosperity itself. It is said that when this arrived at this holy land, called The Field of Dreams, they saw the vast expanse of a great blue ocean, the likes of which no one had ever seen before."
  
+ deity_union:0 "$omen_union$"
+ omen_union:0 "Union"
+ omen_union_desc:0 "#Y Heartful Virtue#!\nUnion is the result of the Heart and Soul being respected and honored. It is through this that the Founders were able to use Union to create the divine republic - America. Although the Union is shattered, the memory of it lives on."
+
+ deity_clark_kent:0 "$omen_clark_kent$"
+ omen_clark_kent:0 "Kent"
+ omen_clark_kent_desc:0 "#Y Heartful Saint#!\nBorn Clark Kent to a small farming family in Kansas, Saint Kent was a truly righteous and noble man. He protected the poor, defended the nation from enemies, and never stopped having hope in the Union. Some say that this 'Super-Man' was a son of Providence himself, sent down to help humanity."
+
+ deity_steinbeck:0 "$omen_steinbeck$"
+ omen_steinbeck:0 "Steinbeck"
+ omen_steinbeck_desc:0 "#Y Heartful Prophet#!\nSteinbeck the Vigiliant was a prophet who warned of the Grapes of Wrath, and the coming Dust Bowl that would upend society. He is the patron saint of the Okies, as he led them to the Mother Road, where they could escape from the Dust Bowl."
+
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 "#Y Heartful Deities#!\n"
