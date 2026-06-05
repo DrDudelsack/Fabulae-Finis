@@ -4,6 +4,7 @@
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	republican_recruitment_3 = {
@@ -124,6 +125,7 @@ republic_election_reforms = { # Electoral Reforms
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	republican_election_1 = {
@@ -206,6 +208,7 @@ corruption_laws = { # Endorse Legislative Body
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	
@@ -280,6 +283,7 @@ republican_mediterranean_laws = { # Maritime Laws
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	
@@ -417,6 +421,7 @@ republican_religious_laws = { # Religious Laws
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	
@@ -500,6 +505,7 @@ republic_integration_laws = { # Integration Laws
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	republican_integration_1 = {
@@ -577,6 +583,7 @@ republic_citizen_laws = { # Citizenship Laws
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	republican_citizen_1 = {
@@ -657,6 +664,7 @@ republican_land_reforms = { # Land Reforms
 		NOR = {
 			tag = ROM
 			tag = CAR
+			government = federal
 		}
 	}
 	republican_land_reform_1 = {

@@ -9,7 +9,7 @@ country = {
 			primary_culture = youser
 			religion = americanist
 			capital = 4077
-			republic_election_reforms = republican_election_4
+			republic_election_reforms_federal = martial_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
