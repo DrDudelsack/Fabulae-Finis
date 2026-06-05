@@ -415,11 +415,14 @@
 	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -428,11 +431,14 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -441,11 +447,14 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -454,11 +463,14 @@
 	culture="metis"
 	religion="midewiwin"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -597,11 +609,14 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -610,11 +625,14 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -772,11 +790,14 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
