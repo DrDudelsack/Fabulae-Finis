@@ -11,9 +11,9 @@
 	}
 }
 
-387={ #
+387={ #Lisbon
 	terrain="steppes"
-	culture="dakota"
+	culture="northlander"
 	religion="peyotist"
 	trade_goods="horses"
 	civilization_value=10
@@ -24,9 +24,9 @@
 	}
 }
 
-388={ #
+388={ #Webster
 	terrain="steppes"
-	culture="dakota"
+	culture="northlander"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -37,7 +37,7 @@
 	}
 }
 
-389={ #
+389={ #Wahpeton
 	terrain="plains"
 	culture="northlander"
 	religion="peyotist"
@@ -195,7 +195,7 @@
 
 1473={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="northlander"
 	religion="lutheran"
 	trade_goods="horses"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 1474={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="northlander"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1475={ #
 	terrain="steppes"
-	culture="dakota"
+	culture="northlander"
 	religion="viking"
 	trade_goods=""
 	civilization_value=10
@@ -232,7 +232,7 @@
 	}
 }
 
-1644={ #
+1644={ #West Fargo
 	terrain="farmland"
 	culture="northlander"
 	religion="viking"
@@ -245,7 +245,7 @@
 	}
 }
 
-1645={ #
+1645={ #Enderlin
 	terrain="steppes"
 	culture="northlander"
 	religion="viking"
@@ -258,7 +258,7 @@
 	}
 }
 
-1646={ #
+1646={ #Fargo
 	terrain="farmland"
 	culture="northlander"
 	religion="viking"
@@ -273,7 +273,7 @@
 
 1858={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="northlander"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 1860={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="northlander"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 3514={ #
 	terrain="steppes"
-	culture="dakota"
+	culture="northlander"
 	religion="viking"
 	trade_goods=""
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 3515={ #
 	terrain="steppes"
-	culture="dakota"
+	culture="northlander"
 	religion="viking"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 3516={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="northlander"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -544,7 +544,7 @@
 	}
 }
 
-4213={ #
+4213={ #Chadron
 	terrain="hills"
 	culture="lakota"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-4214={ #
+4214={ #Gordon
 	terrain="steppes"
 	culture="lakota"
 	religion="loneranger"
@@ -648,7 +648,7 @@
 	}
 }
 
-5363={ #
+5363={ #Milbank
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
@@ -663,7 +663,7 @@
 
 5364={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -843,7 +843,7 @@
 	}
 }
 
-6944={ #
+6944={ #Grafton
 	terrain="steppes"
 	culture="northlander"
 	religion="viking"
@@ -856,7 +856,7 @@
 	}
 }
 
-6945={ #
+6945={ #Park River
 	terrain="steppes"
 	culture="northlander"
 	religion="viking"
@@ -869,7 +869,7 @@
 	}
 }
 
-6946={ #
+6946={ #Grand Forks
 	terrain="steppes"
 	culture="northlander"
 	religion="viking"

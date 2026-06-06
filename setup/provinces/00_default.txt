@@ -53181,7 +53181,7 @@
 	}
 }
 
-5941={ #
+5941={ #Cheyenne Wells
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -53194,7 +53194,7 @@
 	}
 }
 
-5942={ #
+5942={ #Lamar
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -69366,7 +69366,7 @@
 	}
 }
 
-7745={ #
+7745={ #Kimball
 	terrain="plains"
 	culture="grangelander"
 	religion="loneranger"
@@ -69379,7 +69379,7 @@
 	}
 }
 
-7747={ #
+7747={ #Fort Morgan
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"

@@ -1,4 +1,4 @@
-﻿68={ #
+﻿68={ #Willmar
 	terrain="plains"
 	culture="minnesotan"
 	religion="heartful"
@@ -42,12 +42,17 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="cattle"
-	civilization_value=15
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		religion="caesarist"
 		amount=1
+	}
+	citizen={
+		culture="ojibwe"
+		religion="midewiwin"
+		amount=2
 	}
 	freemen={
 		amount=2
@@ -69,16 +74,20 @@
 	holy_site=omen_paul_bunyan
 }
 
-238={ #
+238={ #Grand Rapids
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=3
+	}
+	slaves={
 		amount=1
+		religion="lutheran"
 	}
 }
 
@@ -99,7 +108,7 @@
 	}
 }
 
-240={ #
+240={ #Walker
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
@@ -260,7 +269,7 @@
 	}
 }
 
-1754={ #
+1754={ #Morris
 	terrain="plains"
 	culture="minnesotan"
 	religion="viking"
@@ -358,7 +367,7 @@
 	}
 }
 
-3555={ #
+3555={ #Crosby
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
@@ -373,7 +382,7 @@
 
 3556={ #Mato
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -386,7 +395,7 @@
 
 3557={ #Mní wa
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="leather"
 	civilization_value=10
@@ -399,7 +408,7 @@
 
 3558={ #Wakan
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="fish"
 	civilization_value=10
@@ -410,7 +419,7 @@
 	}
 }
 
-3937={ #
+3937={ #Thorhult
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -426,7 +435,7 @@
 	}
 }
 
-3938={ #
+3938={ #Baudette
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
@@ -442,7 +451,7 @@
 	}
 }
 
-3939={ #
+3939={ #Littlefork
 	terrain="marsh"
 	culture="ojibwe"
 	religion="viking"
@@ -458,7 +467,7 @@
 	}
 }
 
-5675={ #
+5675={ #Roseau
 	terrain="forest"
 	culture="metis"
 	religion="midewiwin"
@@ -474,7 +483,7 @@
 	}
 }
 
-5676={ #
+5676={ #Warren
 	terrain="forest"
 	culture="northlander"
 	religion="midewiwin"
@@ -487,7 +496,7 @@
 	}
 }
 
-5677={ #
+5677={ #Thief River Falls
 	terrain="forest"
 	culture="northlander"
 	religion="midewiwin"
@@ -500,7 +509,7 @@
 	}
 }
 
-7074={ #
+7074={ #Little Falls
 	terrain="farmland"
 	culture="minnesotan"
 	religion="viking"
@@ -513,7 +522,7 @@
 	}
 }
 
-7075={ #Isanti
+7075={ #East Bethel
 	terrain="plains"
 	culture="minnesotan"
 	religion="viking"
@@ -552,7 +561,7 @@
 	}
 }
 
-7342={ #
+7342={ #Bagley
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
@@ -565,7 +574,7 @@
 	}
 }
 
-7343={ #Psin
+7343={ #Detroit Lakes
 	terrain="plains"
 	culture="northlander"
 	religion="viking"
@@ -578,7 +587,7 @@
 	}
 }
 
-7344={ #Bemidjigumaug
+7344={ #Bemidji
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
@@ -604,9 +613,9 @@
 	}
 }
 
-7454={ #
+7454={ #Hibbing
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="fur"
 	civilization_value=4
@@ -620,9 +629,9 @@
 	}
 }
 
-7456={ #
+7456={ #International Falls
 	terrain="marsh"
-	culture="ojibwe"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="fish"
 	civilization_value=4
@@ -759,7 +768,7 @@
 	}
 }
 
-8150={ #Cokato
+8150={ #Otsego
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
@@ -772,7 +781,7 @@
 	}
 }
 
-8151={ #
+8151={ #St. Cloud
 	terrain="farmland"
 	culture="minnesotan"
 	religion="heartful"
@@ -785,9 +794,9 @@
 	}
 }
 
-8306={ #
+8306={ #Deer River
 	terrain="marsh"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=4
@@ -801,7 +810,7 @@
 	}
 }
 
-8307={ #
+8307={ #Ponemah
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -814,7 +823,7 @@
 	}
 }
 
-8308={ #
+8308={ #Red Lake
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -827,7 +836,7 @@
 	}
 }
 
-8372={ #
+8372={ #Crookston
 	terrain="plains"
 	culture="northlander"
 	religion="lutheran"
@@ -840,7 +849,7 @@
 	}
 }
 
-8373={ #
+8373={ #Oklee
 	terrain="forest"
 	culture="northlander"
 	religion="midewiwin"
@@ -853,7 +862,7 @@
 	}
 }
 
-8374={ #
+8374={ #Moorhead
 	terrain="farmland"
 	culture="northlander"
 	religion="lutheran"
@@ -905,17 +914,21 @@
 	}
 }
 
-8647={ #Ite ska
+8647={ #Itasca
 	terrain="plains"
 	culture="northlander"
 	religion="viking"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
 	}
+	tribesmen={
+		amount=4
+	}
+	holy_site=omen_mother_mississippi
 }
 
 8648={ #Alec
@@ -923,7 +936,7 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="grain"
-	civilization_value=15
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -948,12 +961,16 @@
 		amount=2
 	}
 	tribesmen={
-		amount=4
+		amount=2
+	}
+	tribesmen={
+		religion="heartful"
+		amount=2
 	}
 	holy_site=omen_big_ole
 }
 
-8649={ #
+8649={ #Perham
 	terrain="plains"
 	culture="northlander"
 	religion="viking"

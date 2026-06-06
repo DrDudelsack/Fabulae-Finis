@@ -1,0 +1,61 @@
+﻿"ALX"={
+	country="ALX"
+	7={ # W.E Hicks
+		first_name="Bill"
+		family = c:ALX.fam:Hicks
+		birth_date=2292.3.26
+		culture="minnesotan"
+		religion="viking"
+		no_stats=yes
+		add_martial=5
+		add_charisma=8
+		add_finesse=9
+		add_zeal=5
+		no_traits=yes
+		add_trait="founder"
+		add_trait="assertive"
+		add_trait="charming"
+		add_trait="mentagra"
+		#add FF easter egg character/dev trait
+		add_gold=200
+		add_popularity=70
+		c:ALX={
+			set_as_ruler=char:7
+		}
+		dna = "Vd9tT5FikWJLaEtoAoUChQJpAmkCgAKAAngCeAFUAVQChAKEAmoCagJsAmwCjQKNAooCigJ8AnwClAKUAn8CfwKNAo0CfgJ+ApECkQKVApUCfAJ8ApgCmAOnA6cCkwKTAnwCfAJzAnMCjgKOAoYChgKEAoQDnwOfAooCigKKAooCbAJsAmYCZgOdA50CjwKPAWQBZAJ7AnsCgwKDAm8CbwJ+An4CagJqA6kDqQOmA6YCdAJ0Am4CbgJzAnMCiQKJAncCdwKLAosClwKXAn8CfwKFAoUBWwFbApcClwTIBMgCcwJzAnYCdgCVAJUAEAAQATsBOwE5ATkAcwBzAGwAbAKUApQALwAvAQMBAwDQANAA4ADgAKQApAB/AH8AewB7ASwBLACUAJQBPgE+AS8BLwDRANEDBQMFAsQCxAB/AH8BUAFQAG0AbQD+AP4C9gL2Ar8CvwB1AHUAYwBjA20DbQARABEAwADAAB0AHQDKAMoBogGiAH8AfwJMAkwVAgemAKcAwQrYBD06MQWxCQINDQAAAAAAAAAAAAAAAA=="
+	}
+	8={ # his wife Theresea Thomas Miller Hicks
+		first_name="Theresea"
+		family = c:ALX.fam:Hicks
+		birth_date=2293.11.5
+		female=yes
+		culture="minnesotan"
+		religion="viking"
+		marry_character=char:7
+		no_stats=yes
+		add_martial=4
+		add_charisma=6
+		add_finesse=7
+		add_zeal=7
+		no_traits=yes
+		add_trait="zealous"
+	}
+	9={ # One of W.E Hicks Sons
+		first_name="Woodhull"
+		family = c:ALX.fam:Hicks
+		birth_date=2320.9.6
+		culture="cheesehead"
+		religion="promethean"
+		father=char:7
+		mother=char:8
+		no_stats=yes
+		add_martial=4
+		add_charisma=4
+		add_finesse=6
+		add_zeal=6
+		no_traits=yes
+		add_trait="tactician"
+		add_trait="conqueror"
+		add_trait="cruel"
+	}
+}

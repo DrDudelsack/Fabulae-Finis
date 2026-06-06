@@ -862,7 +862,7 @@
 	}
 }
 
-8493={ #
+8493={ #Nevada
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
@@ -875,7 +875,7 @@
 	}
 }
 
-8494={ #
+8494={ #Butler
 	terrain="plains"
 	culture="heartlander"
 	religion="heartful"
@@ -969,7 +969,7 @@
 	}
 }
 
-9345={ #
+9345={ #Jasper
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
@@ -982,7 +982,7 @@
 	}
 }
 
-9346={ #
+9346={ #Joplin
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"

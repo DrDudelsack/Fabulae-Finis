@@ -1,0 +1,67 @@
+﻿"MPL"={
+	country="MPL"
+	4={
+		first_name="Ramona"
+		family_name="Red-Hand"
+		birth_date=2310.9.9
+		female=yes
+		culture="gatewayan"
+		religion="heartful"
+		no_stats=yes
+		add_martial=7
+		add_charisma=4
+		add_finesse=8
+		add_zeal=6
+		no_traits=yes
+		add_trait="ambitious"
+		add_trait="scholar"
+		add_trait="stubborn"
+		#add FF easter egg character/dev trait
+		add_gold=50
+		add_popularity=25
+		dna = "o5FwRMFxnlATghOCAowCjAFIAU4CgQKBA2ICgQJpAmkCfwJ/AnMCcwJ/An8CfQJ9AooCigJpAmkCegJ6AogCiAKMAowCgQKBAnMCcwKMAowBTAFMAU4BTgJ6AnoEuQS5AmcCZwJuAm4CcwJzAn0CfQKOAo4CdwJ3A5kDmQJwAnACgwKDAo4CkAGCAVMClwKXAk0CeQKWApYBdwKIA5EDowAtAC0CdQJ1AM0ChQKJApADgAKKAqkClAIqAm0CMAJnAmMCgAKAAoACdAJqAEEAQQJwAnACjQKVAWMBZgKEAngCnwJ/AmkCcQIAAvcCWwC9AmAA2QLhAWgC/wCfAtMA+QL/AI0CawBgAc4AAgKcAsIDJgDOAQYBBgB/AH8AaABoAv8AQADXANcAWQBZAs4AjAB7AHsD/wCVACoAKgB/AH8AIAAgAQEBAQCEAIQCxALEAFAAUAB9AH0C8ALwAMkAyQKvAAUABgAGA3cDdwFoAWgIwwjxAH8AfwSRBJEH/QeNAPcAcwTQBNA6/wUgHhgNGAAAAAAAAAAAAGkAAA=="
+	}
+	5={
+		first_name="Ingvar"
+		nickname="NICKNAME_BONELESS"
+		family = c:MPL.fam:Pederson
+		birth_date=2300.6.7
+		culture="cheesehead"
+		religion="promethean"
+		marry_character = char:6
+		no_stats=yes
+		add_martial=11
+		add_charisma=2
+		add_finesse=9
+		add_zeal=2
+		no_traits=yes
+		add_trait="tactician"
+		add_trait="conqueror"
+		add_trait="cruel"
+		add_trait="frail"
+		add_trait="hunchback"
+		add_gold=300
+		add_popularity=20
+		c:MPL={
+			set_as_ruler=char:5
+		}
+		dna = "zY7NjnNWc1YGcwZzAowCjAKWApYCZwJnAVkBWQOcA5wChQKFAm4CbgAkACQCmAKYApYClgJwAnACawJrAn4CfgKHAocCbgJuAoICggOZA5kCdgJ2AmwCbAAeAB4CaAJoAoYChgFaAVoChgKGAn4CfgKPAo8ChwKHAooCigJwAnACcAJwApkCmQKLAosCaAJoA5wDnAKLAosCgAKAAnoCegJnAmcCmAKYApcClwJ7AnsCZwJnBOME4wKIAogClQKVAo4CjgJvAm8CfAJ8AoYChgTlBOUClQKVAn8CfwJvAm8CaQJpAnkCeQJhAmEBSgFKAOgA6AEZARkAOAA4AVcBVwCrAKsBGwEbAVIBUgLZAtkA5QDlALgAuAB/AH8CvQK9ALcAtwKbApsCsQKxADYANgF+AX4AgQCBAAEAAQB/AH8BFgEWANkA2QDaANoCugK6AH8AfwNCA0IBEwETATABMAHaAN0ARwBHA28DbwKIAogEjAWPAH8AfwAXABcHZgdmAOoA6gX/BL4FKQUpDUcNRwAAAAAAAAAAAAAAAA=="
+	}
+	6={
+		first_name="Marietta"
+		family = c:MPL.fam:Pederson
+		birth_date=2303.11.20
+		female=yes
+		culture="cheesehead"
+		religion="promethean"
+		marry_character = char:5
+		no_stats=yes
+		add_martial=3
+		add_charisma=5
+		add_finesse=3
+		add_zeal=3
+		no_traits=yes
+		add_trait="shy"
+		add_trait="submissive"
+	}
+}

@@ -39,14 +39,6 @@
  omen_mufferaw:0 "Big Joe Mufferaw"
  omen_mufferaw_desc:0 "#Y Tall-Taler Hero#!\nThe best man in Ottawa, Big Joe Mufferaw, known the to French-Canadians as Joe Montferrand, was a skilled boxer, especially popular with the ladies, and a hero of the people. They say Ol Joe had a big pet frog, bigger than a horse and he'd bark like a dog! Some of exploits include singlehandedly holding off a mob of 150 Shiners, a local group of ruffians who wanted to rob Mufferaw and his friends, putting out a forest fire with his spit, and accidentially creating the Rideau canal by just walking on a path so many times. "
 
- deity_heikki_lunta:0 "$omen_heikki_lunta$"
- omen_heikki_lunta:0 "Heikki Lunta"
- omen_heikki_lunta_desc:0 "#Y Lakeshore Spirit#!\nEqually a blessing and a curse, Heikki Lunta is the god of snow. It is common to perform a chant to the god, in the hopes that he brings down abundant snowfall. But, too much of anything can be a bad thing. If he brings too much snowfall, you would chant 'Heikki Lunta go away', in the hopes that this primordial deity will abate his wrath."
-
- deity_polaris:0 "$omen_polaris$"
- omen_polaris:0 "Polaris"
- omen_polaris_desc:0 "#Y Lakeshore Spirit#!\nPolaris, the guiding star, will shine their light upon our people, as they go throughout the great cycle of life."
-
  deity_father_twain:0 "$omen_father_twain$"
  omen_father_twain:0 "Father Twain"
  omen_father_twain_desc:0 "#Y Tall-Taler Teacher#!\nThe wisest and most ancient of men, Father Twain and his wife, Mother Mississippi, parented 10 children. Each of these children went their own way, settling along the Mississippi. Father Twain was also a prolific writer, creating many of the texts that are still around today."
@@ -74,3 +66,12 @@
  deity_brewer:0 "$omen_brewer$"
  omen_brewer:0 "Brewer"
  omen_brewer_desc:0 "#Y Tall-Taler Hero#!\nThe Brewer is lauded across all of Wisconsin for his talent in the art of alcohol making. It was him who first taught the people of Milwaukee the gift of brewing, a process which was named after him. Every October, an 'Oktoberfest' his held in his honor - a festival where people drink, eat, and be merry."
+
+ #Lakeshore
+ deity_heikki_lunta:0 "$omen_heikki_lunta$"
+ omen_heikki_lunta:0 "Heikki Lunta"
+ omen_heikki_lunta_desc:0 "#Y Lakeshore Spirit#!\nEqually a blessing and a curse, Heikki Lunta is the god of snow. It is common to perform a chant to the god, in the hopes that he brings down abundant snowfall. But, too much of anything can be a bad thing. If he brings too much snowfall, you would chant 'Heikki Lunta go away', in the hopes that this primordial deity will abate his wrath."
+
+ deity_polaris:0 "$omen_polaris$"
+ omen_polaris:0 "Polaris"
+ omen_polaris_desc:0 "#Y Lakeshore Spirit#!\nPolaris, the guiding star, will shine their light upon our people, as they go throughout the great cycle of life."

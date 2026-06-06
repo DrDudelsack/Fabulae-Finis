@@ -1414,6 +1414,7 @@ country = {
 			primary_culture = minnesotan
 			religion = promethean
 			capital = 8025
+			family=2
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1467,6 +1468,7 @@ country = {
 			primary_culture = minnesotan
 			religion = viking
 			capital = 8648
+			family=3
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -1498,7 +1500,7 @@ country = {
 		}
 		DUL = { #Duluth
 			government = plutocratic_republic
-			primary_culture = northlander
+			primary_culture = copperhead
 			religion = lakeshore
 			capital = 2711
 

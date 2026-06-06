@@ -1,7 +1,7 @@
 family={
 	families={
 		#Numbers do not have to appear in numerical order but do have to be unique:
-		#Next available family number: 2
+		#Next available family number: 3
 		0 = {
 			key="Busch"
 			owner=STL
@@ -14,7 +14,20 @@ family={
 			owner=UTC
 			culture=upstater
 			prestige=200
-			color = 0
+			color = 3
+		}
+		2 = {
+			key="Pederson"
+			owner=MPL
+			culture=cheesehead
+			prestige=150
+			color = 5
+		}
+		3 = {
+			key="Hicks"
+			owner=ALX
+			culture=minnesotan
+			prestige=100
 		}
 	}
 }

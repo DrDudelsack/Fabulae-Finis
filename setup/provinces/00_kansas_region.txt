@@ -1,4 +1,4 @@
-﻿101={ #
+﻿101={ #Scottsbluff
 	terrain="hills"
 	culture="grangelander"
 	religion="loneranger"
@@ -11,7 +11,7 @@
 	}
 }
 
-102={ #
+102={ #Oshkosh
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -24,7 +24,7 @@
 	}
 }
 
-103={ #
+103={ #Alliance
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -37,7 +37,7 @@
 	}
 }
 
-104={ #
+104={ #Sidney
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -50,7 +50,7 @@
 	}
 }
 
-376={ #
+376={ #Scott City
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -63,7 +63,7 @@
 	}
 }
 
-377={ #
+377={ #Lakin
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -76,7 +76,7 @@
 	}
 }
 
-378={ #
+378={ #Garden City
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -89,7 +89,7 @@
 	}
 }
 
-495={ #
+495={ #Arthur
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -102,7 +102,7 @@
 	}
 }
 
-496={ #
+496={ #Ogallala
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -115,7 +115,7 @@
 	}
 }
 
-497={ #
+497={ #Arnold
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -154,7 +154,33 @@
 	}
 }
 
-657={ #
+657={ #Wayne
+	terrain="steppes"
+	culture="dakota"
+	religion="ozymandism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+658={ #Hartington
+	terrain="steppes"
+	culture="dakota"
+	religion="ozymandism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+659={ #Norfolk
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -167,7 +193,7 @@
 	}
 }
 
-658={ #
+959={ #Schuyler
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -180,35 +206,9 @@
 	}
 }
 
-659={ #
-	terrain="steppes"
-	culture="grangelander"
-	religion="ozymandism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-959={ #
-	terrain="steppes"
-	culture="grangelander"
-	religion="ozymandism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-960={ #
+960={ #South Sioux City
 	terrain="plains"
-	culture="grangelander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -219,7 +219,7 @@
 	}
 }
 
-961={ #
+961={ #Fremont
 	terrain="plains"
 	culture="dhegihan"
 	religion="lutheran"
@@ -232,7 +232,7 @@
 	}
 }
 
-1458={ #
+1458={ #O'Neill
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -245,7 +245,7 @@
 	}
 }
 
-1459={ #
+1459={ #Neligh
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -258,7 +258,7 @@
 	}
 }
 
-1460={ #
+1460={ #Creighton
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -271,7 +271,7 @@
 	}
 }
 
-1515={ #
+1515={ #Wichita
 	terrain="farmland"
 	culture="grangelander"
 	religion="heartful"
@@ -284,7 +284,7 @@
 	}
 }
 
-1516={ #
+1516={ #Hutchinson
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -297,7 +297,7 @@
 	}
 }
 
-1517={ #
+1517={ #Kingman
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -310,7 +310,7 @@
 	}
 }
 
-2117={ #
+2117={ #Concordia
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -323,7 +323,7 @@
 	}
 }
 
-2118={ #
+2118={ #Belleville
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -336,7 +336,7 @@
 	}
 }
 
-2119={ #
+2119={ #Beatrice
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -349,7 +349,7 @@
 	}
 }
 
-2247={ #
+2247={ #Hill City
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -362,7 +362,7 @@
 	}
 }
 
-2248={ #
+2248={ #Colby
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -375,7 +375,7 @@
 	}
 }
 
-2249={ #
+2249={ #Oakley
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -388,7 +388,7 @@
 	}
 }
 
-2266={ #
+2266={ #Winfield
 	terrain="plains"
 	culture="dhegihan"
 	religion="catholic"
@@ -401,7 +401,7 @@
 	}
 }
 
-3584={ #
+3584={ #Hoisington
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -414,7 +414,7 @@
 	}
 }
 
-3585={ #
+3585={ #Larned
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -427,7 +427,7 @@
 	}
 }
 
-3586={ #
+3586={ #Hays
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -440,7 +440,7 @@
 	}
 }
 
-3779={ #
+3779={ #Liberal
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -453,7 +453,7 @@
 	}
 }
 
-3780={ #
+3780={ #Hugoton
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -466,7 +466,7 @@
 	}
 }
 
-3897={ #
+3897={ #Lexington
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -479,7 +479,7 @@
 	}
 }
 
-3898={ #
+3898={ #Grand Island
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -492,7 +492,7 @@
 	}
 }
 
-3899={ #
+3899={ #Hastings
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -505,7 +505,7 @@
 	}
 }
 
-4145={ #
+4145={ #Pratt
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -518,7 +518,7 @@
 	}
 }
 
-4146={ #
+4146={ #Anthony
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -531,7 +531,7 @@
 	}
 }
 
-4147={ #
+4147={ #Medicine Lodge
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -544,7 +544,7 @@
 	}
 }
 
-4212={ #
+4212={ #Hyannis
 	terrain="hills"
 	culture="grangelander"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-4386={ #
+4386={ #Dodge City
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -570,7 +570,7 @@
 	}
 }
 
-4387={ #
+4387={ #Cimarron
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -583,7 +583,7 @@
 	}
 }
 
-4388={ #
+4388={ #Kinsley
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -596,7 +596,7 @@
 	}
 }
 
-5146={ #
+5146={ #Ainsworth
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -609,7 +609,7 @@
 	}
 }
 
-5147={ #
+5147={ #Brownlee
 	terrain="hills"
 	culture="grangelander"
 	religion="loneranger"
@@ -622,7 +622,7 @@
 	}
 }
 
-5148={ #
+5148={ #Brewster
 	terrain="hills"
 	culture="grangelander"
 	religion="ozymandism"
@@ -635,7 +635,7 @@
 	}
 }
 
-5880={ #
+5880={ #Omaha
 	terrain="farmland"
 	culture="dhegihan"
 	religion="lutheran"
@@ -648,7 +648,7 @@
 	}
 }
 
-5881={ #
+5881={ #Nebraska City
 	terrain="plains"
 	culture="dhegihan"
 	religion="lutheran"
@@ -661,7 +661,7 @@
 	}
 }
 
-5882={ #
+5882={ #Lincoln
 	terrain="farmland"
 	culture="grangelander"
 	religion="ozymandism"
@@ -674,7 +674,7 @@
 	}
 }
 
-5883={ #
+5883={ #Wahoo
 	terrain="plains"
 	culture="dhegihan"
 	religion="lutheran"
@@ -687,7 +687,7 @@
 	}
 }
 
-5943={ #
+5943={ #Tribune
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -700,7 +700,7 @@
 	}
 }
 
-6358={ #
+6358={ #Clay Center
 	terrain="plains"
 	culture="grangelander"
 	religion="heartful"
@@ -713,7 +713,7 @@
 	}
 }
 
-6359={ #
+6359={ #Burlington
 	terrain="plains"
 	culture="grangelander"
 	religion="heartful"
@@ -726,7 +726,7 @@
 	}
 }
 
-6360={ #
+6360={ #Fredonia
 	terrain="plains"
 	culture="grangelander"
 	religion="catholic"
@@ -739,7 +739,7 @@
 	}
 }
 
-6636={ #
+6636={ #Coffeyville
 	terrain="plains"
 	culture="grangelander"
 	religion="revelationist"
@@ -752,7 +752,7 @@
 	}
 }
 
-6637={ #
+6637={ #Labette
 	terrain="plains"
 	culture="grangelander"
 	religion="revelationist"
@@ -765,7 +765,7 @@
 	}
 }
 
-6778={ #
+6778={ #McCook
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -778,7 +778,7 @@
 	}
 }
 
-6779={ #
+6779={ #Holdrege
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -791,7 +791,7 @@
 	}
 }
 
-6780={ #
+6780={ #North Platte
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -903,7 +903,7 @@
 	}
 }
 
-7158={ #
+7158={ #Oberlin
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -916,7 +916,7 @@
 	}
 }
 
-7159={ #
+7159={ #Bird City
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -929,7 +929,7 @@
 	}
 }
 
-7160={ #
+7160={ #Trenton
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -942,7 +942,7 @@
 	}
 }
 
-7311={ #
+7311={ #Tecumseh
 	terrain="plains"
 	culture="ioway"
 	religion="catholic"
@@ -955,7 +955,7 @@
 	}
 }
 
-7312={ #
+7312={ #Falls City
 	terrain="plains"
 	culture="ioway"
 	religion="lutheran"
@@ -968,7 +968,7 @@
 	}
 }
 
-7313={ #
+7313={ #Atchinson
 	terrain="plains"
 	culture="ioway"
 	religion="catholic"
@@ -1027,7 +1027,7 @@
 	holy_site=omen_eisenhower
 }
 
-7411={ #
+7411={ #Ellsworth
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -1094,7 +1094,7 @@
 	}
 }
 
-7466={ #
+7466={ #Albion
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -1107,7 +1107,7 @@
 	}
 }
 
-7467={ #
+7467={ #Greeley
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -1120,7 +1120,7 @@
 	}
 }
 
-7468={ #
+7468={ #Saint Paul
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -1133,7 +1133,7 @@
 	}
 }
 
-7648={ #
+7648={ #Geneva
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -1146,7 +1146,7 @@
 	}
 }
 
-7649={ #
+7649={ #York
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -1159,7 +1159,7 @@
 	}
 }
 
-7650={ #
+7650={ #Columbus
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
@@ -1172,7 +1172,7 @@
 	}
 }
 
-7676={ #
+7676={ #Norton
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -1185,7 +1185,7 @@
 	}
 }
 
-7677={ #
+7677={ #Plainville
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -1198,7 +1198,7 @@
 	}
 }
 
-7678={ #
+7678={ #Phillipsburg
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -1211,7 +1211,7 @@
 	}
 }
 
-7744={ #
+7744={ #Akron
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -1224,7 +1224,7 @@
 	}
 }
 
-7746={ #
+7746={ #Sterling
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -1237,7 +1237,7 @@
 	}
 }
 
-7896={ #
+7896={ #Herington
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -1250,7 +1250,7 @@
 	}
 }
 
-7897={ #
+7897={ #Grandview Plaza
 	terrain="plains"
 	culture="grangelander"
 	religion="heartful"
@@ -1263,7 +1263,7 @@
 	}
 }
 
-7898={ #
+7898={ #Manhattan
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -1276,7 +1276,7 @@
 	}
 }
 
-7899={ #
+7899={ #Wamego
 	terrain="plains"
 	culture="grangelander"
 	religion="heartful"
@@ -1289,7 +1289,7 @@
 	}
 }
 
-7900={ #
+7900={ #Junction City
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
@@ -1302,7 +1302,7 @@
 	}
 }
 
-9138={ #
+9138={ #Holyoke
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -1315,7 +1315,7 @@
 	}
 }
 
-9139={ #
+9139={ #Imperial
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
@@ -1328,7 +1328,7 @@
 	}
 }
 
-9140={ #
+9140={ #Yuma
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"

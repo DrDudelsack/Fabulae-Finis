@@ -180,7 +180,7 @@
 	}
 }
 
-2264={ #
+2264={ #Fairfax
 	terrain="plains"
 	culture="dhegihan"
 	religion="catholic"
@@ -193,7 +193,7 @@
 	}
 }
 
-2265={ #
+2265={ #Skiatook
 	terrain="plains"
 	culture="dhegihan"
 	religion="unitarian_universialism"

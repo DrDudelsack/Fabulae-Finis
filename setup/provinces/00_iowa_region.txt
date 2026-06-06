@@ -39,7 +39,7 @@
 
 868={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods="maize"
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 869={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods="cattle"
 	civilization_value=10
@@ -250,7 +250,7 @@
 
 5626={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods="tubers"
 	civilization_value=10
@@ -263,7 +263,7 @@
 
 5627={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10

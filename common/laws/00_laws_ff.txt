@@ -1,4 +1,4 @@
-﻿steppe_horde_levy_size_laws = {
+steppe_horde_levy_size_laws = {
 	potential = {
 		government = steppe_horde
 	}
@@ -231,7 +231,7 @@ republic_election_reforms_federal = { # Electoral Reforms
 				party_type = oligarchic_party
 			}
 		}
-		set_ignore_senate_approval = yes
+		
 		modifier = {
 			election_term_duration = 50
 			monthly_tyranny = 0.03

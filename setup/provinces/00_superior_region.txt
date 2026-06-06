@@ -156,7 +156,7 @@
 
 1304={ #Grand Marais
 	terrain="hills"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="base_metals"
 	civilization_value=17
@@ -175,7 +175,7 @@
 
 1305={ #Lutsen
 	terrain="hills"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="precious_metals"
 	civilization_value=17
@@ -194,7 +194,7 @@
 
 1306={ #Silver Bay
 	terrain="hills"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="base_metals"
 	civilization_value=17
@@ -252,7 +252,7 @@
 
 1739={ #
 	terrain="forest"
-	culture="yooper"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -330,7 +330,7 @@
 
 2710={ #Superior
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="glass"
 	civilization_value=22
@@ -364,7 +364,7 @@
 
 2711={ #Duluth
 	terrain="hills"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="clay"
 	civilization_value=24
@@ -401,9 +401,9 @@
 	port_building=1
 }
 
-2712={ #
+2712={ #Amnicon
 	terrain="forest"
-	culture="odawa"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=16
@@ -417,9 +417,9 @@
 	}
 }
 
-2713={ #
+2713={ #Saint Louis
 	terrain="hills"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="stone"
 	civilization_value=16
@@ -888,7 +888,7 @@
 	}
 }
 
-7451={ #
+7451={ #Sanborn
 	terrain="forest"
 	culture="odawa"
 	religion="lakeshore"
@@ -916,7 +916,7 @@
 
 7453={ #Washburn
 	terrain="forest"
-	culture="odawa"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=16
@@ -935,7 +935,7 @@
 
 7455={ #Virginia
 	terrain="hills"
-	culture="northlander"
+	culture="copperhead"
 	religion="viking"
 	trade_goods="rice"
 	civilization_value=20
@@ -1140,7 +1140,7 @@
 
 9391={ #
 	terrain="forest"
-	culture="yooper"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="amber"
 	civilization_value=10
