@@ -86,8 +86,8 @@
 		amount=3
 	}
 	slaves={
-		amount=1
 		religion="lutheran"
+		amount=1
 	}
 }
 
@@ -485,7 +485,7 @@
 
 5676={ #Warren
 	terrain="forest"
-	culture="northlander"
+	culture="metis"
 	religion="midewiwin"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -498,7 +498,7 @@
 
 5677={ #Thief River Falls
 	terrain="forest"
-	culture="northlander"
+	culture="metis"
 	religion="midewiwin"
 	trade_goods="tubers"
 	civilization_value=10
@@ -563,7 +563,7 @@
 
 7342={ #Bagley
 	terrain="forest"
-	culture="northlander"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -631,7 +631,7 @@
 
 7456={ #International Falls
 	terrain="marsh"
-	culture="copperhead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="fish"
 	civilization_value=4
@@ -796,7 +796,7 @@
 
 8306={ #Deer River
 	terrain="marsh"
-	culture="copperhead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=4
@@ -851,7 +851,7 @@
 
 8373={ #Oklee
 	terrain="forest"
-	culture="northlander"
+	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="wood"
 	civilization_value=10

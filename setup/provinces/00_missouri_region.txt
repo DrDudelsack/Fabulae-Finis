@@ -274,7 +274,7 @@
 
 4000={ #Cape Giradeau
 	terrain="flood_plain"
-	culture="riverlander"
+	culture="gatewayan"
 	religion="twainist"
 	trade_goods="tobacco"
 	civilization_value=25
@@ -686,7 +686,7 @@
 
 6620={ #Sedalia
 	terrain="plains"
-	culture="heartlander"
+	culture="gatewayan"
 	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10

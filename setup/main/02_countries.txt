@@ -2505,7 +2505,7 @@ country = {
 		}
 		HAY = { #Hayward
 			government = tribal_kingdom
-			primary_culture = odawa
+			primary_culture = ojibwe
 			religion = lakeshore
 			capital = 1097
 

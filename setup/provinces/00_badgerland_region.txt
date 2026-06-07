@@ -52,7 +52,7 @@
 
 1095={ #
 	terrain="forest"
-	culture="odawa"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 1096={ #
 	terrain="forest"
-	culture="cheesehead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 1098={ #
 	terrain="forest"
-	culture="odawa"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="iron"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 3995={ #
 	terrain="forest"
-	culture="cheesehead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="tubers"
 	civilization_value=10

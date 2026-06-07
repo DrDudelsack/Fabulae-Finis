@@ -143,7 +143,7 @@
 
 1097={ #
 	terrain="forest"
-	culture="odawa"
+	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
@@ -265,7 +265,7 @@
 
 1740={ #
 	terrain="forest"
-	culture="yooper"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10
@@ -304,7 +304,7 @@
 
 2457={ #
 	terrain="forest"
-	culture="yooper"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=10
@@ -877,7 +877,7 @@
 
 6730={ #
 	terrain="forest"
-	culture="francontarien"
+	culture="ojibwe"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -890,7 +890,7 @@
 
 7451={ #Sanborn
 	terrain="forest"
-	culture="odawa"
+	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=10
@@ -903,7 +903,7 @@
 
 7452={ #Ashlandd
 	terrain="forest"
-	culture="odawa"
+	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods="cloth"
 	civilization_value=10
@@ -1205,7 +1205,7 @@
 
 9519={ #
 	terrain="forest"
-	culture="shieldshorer"
+	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=10
