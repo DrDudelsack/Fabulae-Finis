@@ -20,7 +20,7 @@ family={
 			key="Pederson"
 			owner=MPL
 			culture=cheesehead
-			prestige=150
+			prestige=100
 			color = 5
 		}
 		3 = {
@@ -28,6 +28,12 @@ family={
 			owner=ALX
 			culture=minnesotan
 			prestige=100
+		}
+		4 = {
+			key="Patterson-Bonaparte"
+			owner=ATJ
+			culture=youser
+			prestige=150
 		}
 	}
 }

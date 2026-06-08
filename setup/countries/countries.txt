@@ -171,6 +171,7 @@ AKR = "setup/countries/south/arkansas.txt"
 KSS = "setup/countries/south/kisatchie.txt"
 TMB = "setup/countries/south/timberland.txt"
 TXR = "setup/countries/south/texarkana.txt"
+SHR = "setup/countries/south/shreveport.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

@@ -337,6 +337,8 @@
  TMB_ADJ:0 "Timberlander"
  TXR:0 "Texarkana"
  TXR_ADJ:0 "Texarkanan"
+ SHR:0 "Shreveport"
+ SHR_ADJ:0 "Shreveportian"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

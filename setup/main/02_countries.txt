@@ -84,11 +84,12 @@ country = {
 			}
 		}
 		ATJ = {
-			government = plutocratic_republic
+			government = aristocratic_republic
 			primary_culture = youser
 			religion = americanist
 			capital = 746 
 			republic_election_reforms = republican_election_4
+			family=4
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -585,7 +586,7 @@ country = {
 		LAF = { #Acadiana
 			government = tribal_federation
 			primary_culture = louisianais
-			religion = catholic
+			religion = traiteurism
 			capital = 9500
 
 			technology={
@@ -2064,7 +2065,7 @@ country = {
 		OUA = { #Ouachita
 			government = tribal_kingdom
 			primary_culture = arkalatexan
-			religion = catholic
+			religion = traiteurism
 			capital = 8803
 
 			technology={
@@ -2082,7 +2083,7 @@ country = {
 		KSS = { #Kisatchie
 			government = tribal_kingdom
 			primary_culture = arkalatexan
-			religion = catholic
+			religion = traiteurism
 			capital = 3291
 
 			technology={
@@ -2145,6 +2146,23 @@ country = {
 
 			own_control_core = {
 				774 776 5525 5058 775 777
+			}
+		}
+		SHR = { # Shreveport
+			government = plutocratic_monarchy
+			primary_culture = arkalatexan
+			religion = catholic
+			capital = 5525
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5525
 			}
 		}
 		VKS = { #Vicksburg

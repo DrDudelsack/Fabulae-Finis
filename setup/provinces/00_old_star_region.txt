@@ -1,7 +1,7 @@
 ﻿530={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 531={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 532={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1373={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3118={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 7195={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 7196={ #
 	terrain="plains"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 7197={ #
 	terrain="plains"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 7888={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 7889={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 7890={ #
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1223,7 +1223,7 @@
 9220={ #
 	terrain="plains"
 	culture="texan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

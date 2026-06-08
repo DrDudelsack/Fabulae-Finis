@@ -41,6 +41,9 @@
  bostonian:0 "Bostonian"
  desc_bostonian:0 "Splitting from the Conclavian Catholic Church shortly after the Ecumenical Council of The Americas in the mid 22nd century, a new council was held in Boston, and these Bostonians opted for a more decentrlaized system; autocephpaly, or bishops who do not answer to a higher authority, akin to the Eastern Orthodox church of the old world. These 'Bostonians' thus founded the American Free Catholic Church of Boston. Many Catholics dislike the Bostonian's amicability with the Americanists, accusing them of being nothing more than their puppet. These accusations are of course, unfounded."
 
+ traiteurism:0 "Traiteurist"
+ desc_traiteurism:0 "Surviving for centuries despite oppression and adversity, Traiteurists believe that the tribulations delivered upon mankind, be it through pestilence or desolation, purify the souls of the faithful and bring them closer to their Lord through His grace. In reward for their endurance, God grants believers the natural bounties of the Earth as a refuge. Named after their method for treating and cleansing the souls of the suffering with prayer and local herbs called "traitement", traiteurs and traiteuses fulfill the spiritual needs of their community. These skilled healers administer the seven sacraments and absolve the sins of the sick through traitement so that they may go directly to Heaven. Additionally, many folk beliefs have been integrated into the faith's canon, such as Jesus being born in Acadia and the veneration of the Archangel Gabriel Lajeunesse."
+
  ## Industrialist ##
  promethean:0 "Promethean"
  desc_promethean:0 "One of the first faiths to emerge after the Great Rusting, the Prometheans seek to restore the Gilded Age through the powers of the Titan Kings. They believe that during that time, the world was divided amongst the titans, who served as intermediaries between Industry and the workers. They channeled the labor of the people to Industry and the prosperity of Industry back to the workers. Now that responsibility falls to their descendants, who seek to recreate the ancient society in all its forms and usher in a new Gilded Age."
@@ -193,8 +196,8 @@
  desc_twainist:0 "The Twainists view the Mississippi as the soul and lifeblood of America, and to a greater extent the world. Twain, Muir, Whitman and other Authors were guided with knowledge that allowed them to ascertain the nature of the Great River, granting them divine insight. Twainists dedicate their life to discovering the Great Truth that all Authors seemed to understand. It is commonly understood that the only way to do this is to further one's relationship with the Great River - Mississippi, and the coexistence between Man and Nature."
 
  ## Capitalist ##
- capitalist:0 "Consumerism"
- desc_capitalist:0 "Consumerists believe that Capital can only be conveyed to The Free Market via the ritual of Shopping, and that accumulating Signs of the Dollar is simply a means to achieve this end. Consumerist Shopping rituals are highly extravagant, and achieve the dual goals of relieving earthly stress and injecting Capital into the Market. Consumerists respect those who conspicuously display and spend their wealth, as these acts provide the Market with an abundance of Capital."
+ capitalist:0 "Decadentist"
+ desc_capitalist:0 "Letting the good times roll, the Decadentists posit that The Free Market gains Capital not through moving wealth, but via the cultivation of pleasure. The faithful focus their worship towards a feminine sun goddess called Fortune, who distributes the blessings of the Free Market in proportion to the Capital a person has accrued so far in their life. However, the boons of Fortune are always given out by way of chance. To cope with the inherent randomness of Fortune's favor, Decadentists embrace the whims of their goddess and refuse to stay rooted in any single approach to life. Basking in the grace of their fickle mistress, the glory and exaltation which she can bestow are unrivaled, as are the times of hardship and scarcity she may enable. Just the same, the faithful bet on her."
 
  ## Universal ##
  unitarian_universialism:0 "Unitarian"

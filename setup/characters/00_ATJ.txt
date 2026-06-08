@@ -1,0 +1,28 @@
+﻿"ATJ"={
+	country="ATJ"
+	10={ #Lord Micheal Patterson-Bonaparte, Grand Protector of New Jersey and Emperor of the French
+		first_name="Micheal"
+		nickname="NICKNAME_PROTECTOR"
+		family = c:ATJ.fam:Patterson-Bonaparte
+		birth_date=2299.12.2
+		culture="youser"
+		religion="bostonian"
+		no_stats=yes
+		add_martial=10
+		add_charisma=5
+		add_finesse=5
+		add_zeal=8
+		no_traits=yes
+		add_trait="conqueror"
+		add_trait="ambitious"
+		add_trait="disciplined"
+		add_trait="charming"
+		#add FF easter egg character/dev trait
+		add_gold=500
+		add_popularity=70
+		c:ATJ={
+			set_as_ruler=char:10
+		}
+		dna = "hKMb9WWngn/T5NPkAm8CbwKHAocCkQKRAnMCcwJ3AncCeAJ4AV0BXQKDAoMCaAJoA6gDqAJnAmcCiwKLApYClgKNAo0CZwJnApYClgKXApcCeQJ5Am8CbwKOAo4CcgJyAoQChAJ4AngCiwKLAoICggKDAoMBYwFjAn4CfgJ4AngCZwJnAoUChQJoAmgCkgKSA6cDpwJ6AnoClgKWAogCiAObA5sCfQJ9AokCiQJxAnECmAKYA7EDsQJzAnMCigKKBOME4wKIAogBUwFTAVQBVAKIAogCmAKYAm0CbQJpAmkCaAJoAn0CfQL/Av8AaQBpADIAMgA3ADcBVQFVAAgACACVAJUAHAAcARkBGQCiAKIAQABAAFkAWQB/AH8AFgAWAM4AzgFaAVoBOAE4AEoASgFRAVECKAIoAEcARwB/AH8CvQK9AVcBVwEOAQ4BWgFaAsECwQBNAE0A9QD1ADYANgDAAMABUgFSA1QDVANlA2UAKwTWAH8AfwKIAogViQWHAFMAUwrLBXk4oQJAAtYC1gAAAAAAAAAAAAAAAA=="
+	}
+}

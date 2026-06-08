@@ -53,7 +53,7 @@
 2164={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 2165={ #
 	terrain="plains"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 2166={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -89,10 +89,10 @@
 	}
 }
 
-2411={ #
+2411={ #Hackberry
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -102,10 +102,10 @@
 	}
 }
 
-2412={ #
+2412={ #Lake Charles
 	terrain="plains"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -115,10 +115,10 @@
 	}
 }
 
-2413={ #
+2413={ #Welsh
 	terrain="plains"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -128,10 +128,10 @@
 	}
 }
 
-2696={ #
+2696={ #Woodville
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -141,10 +141,10 @@
 	}
 }
 
-3291={ #
+3291={ #Alexandria
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -154,10 +154,10 @@
 	}
 }
 
-3292={ #
+3292={ #Boyce
 	terrain="plains"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -167,10 +167,10 @@
 	}
 }
 
-3293={ #
+3293={ #Fort Polk South
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -180,10 +180,10 @@
 	}
 }
 
-3573={ #
+3573={ #Oakdale
 	terrain="forest"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -193,10 +193,10 @@
 	}
 }
 
-3574={ #
+3574={ #Deridder
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 3575={ #
 	terrain="forest"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 5479={ #
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 5480={ #
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 5481={ #
 	terrain="flood_plain"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 5482={ #
 	terrain="flood_plain"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 5505={ #
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 5506={ #
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 5708={ #
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -349,10 +349,10 @@
 	}
 }
 
-5709={ #
+5709={ #Jena
 	terrain="flood_plain"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -362,10 +362,10 @@
 	}
 }
 
-5710={ #
+5710={ #Monterey
 	terrain="marsh"
 	culture="deltaic"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -375,10 +375,10 @@
 	}
 }
 
-5711={ #
+5711={ #Ball
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -388,10 +388,10 @@
 	}
 }
 
-5954={ #
+5954={ #Ville Platte
 	terrain="forest"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -401,10 +401,10 @@
 	}
 }
 
-5955={ #
+5955={ #Opoelousas
 	terrain="plains"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -414,10 +414,10 @@
 	}
 }
 
-5956={ #
+5956={ #Marksville
 	terrain="forest"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 6325={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 6982={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 6983={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 6984={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 7232={ #
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 7233={ #
 	terrain="forest"
 	culture="deltaic"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 7517={ #
 	terrain="flood_plain"
 	culture="nolan"
-	religion="vodou"
+	religion="traiteurism"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 7518={ #
 	terrain="marsh"
 	culture="nolan"
-	religion="revelationist"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 7519={ #
 	terrain="forest"
 	culture="nolan"
-	religion="vodou"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -609,10 +609,10 @@
 	}
 }
 
-7718={ #
+7718={ #Crowley
 	terrain="forest"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -622,10 +622,10 @@
 	}
 }
 
-7719={ #
+7719={ #Lake Arthur
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -635,10 +635,10 @@
 	}
 }
 
-7720={ #
+7720={ #Abbeville
 	terrain="marsh"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 8212={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 8213={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 8801={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 8802={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 8803={ #
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -778,10 +778,10 @@
 	}
 }
 
-9499={ #
+9499={ #Breax Bridge
 	terrain="flood_plain"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -791,10 +791,10 @@
 	}
 }
 
-9500={ #
+9500={ #Lafayette
 	terrain="farmland"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -804,10 +804,10 @@
 	}
 }
 
-9501={ #
+9501={ #Franklin
 	terrain="farmland"
 	culture="louisianais"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0

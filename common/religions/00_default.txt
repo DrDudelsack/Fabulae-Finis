@@ -165,6 +165,17 @@ bostonian = { # Bostonian Catholic
 	sacrifice_icon = sacrifice_conclavian
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+traiteurism = { # Traiteurism
+	color = rgb  { 1 68 123 }
+	modifier = {
+		enact_holy_site_cost_modifier = -0.15
+		global_population_growth = 0.03
+		global_pop_promotion_speed_modifier = -0.05
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Islamic ##
 # todo - religion modifiers
 sunni = { # Sunni

@@ -53,7 +53,7 @@
 887={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -310,7 +310,7 @@
 	}
 }
 
-2694={ #
+2694={ #Bude
 	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
@@ -323,7 +323,7 @@
 	}
 }
 
-2695={ #
+2695={ #Natchez
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
