@@ -38,7 +38,7 @@
 }
 
 396={ #
-	terrain="forest"
+	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 2165={ #
-	terrain="forest"
+	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
 	trade_goods=""
@@ -90,7 +90,7 @@
 }
 
 2411={ #
-	terrain="flood_plain"
+	terrain="marsh"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods="fish"
@@ -103,7 +103,7 @@
 }
 
 2412={ #
-	terrain="jungle"
+	terrain="plains"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -116,7 +116,7 @@
 }
 
 2413={ #
-	terrain="jungle"
+	terrain="plains"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 3292={ #
-	terrain="forest"
+	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 3573={ #
-	terrain="jungle"
+	terrain="forest"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 3575={ #
-	terrain="jungle"
+	terrain="forest"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 5479={ #
-	terrain="flood_plain"
+	terrain="marsh"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 5480={ #
-	terrain="flood_plain"
+	terrain="marsh"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -272,7 +272,7 @@
 }
 
 5503={ #
-	terrain="flood_plain"
+	terrain="marsh"
 	culture="nolan"
 	religion="catholic"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 5955={ #
-	terrain="jungle"
+	terrain="plains"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 6324={ #
-	terrain="forest"
+	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 7230={ #
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="nolan"
 	religion="vodou"
 	trade_goods=""
@@ -597,7 +597,7 @@
 }
 
 7519={ #
-	terrain="flood_plain"
+	terrain="forest"
 	culture="nolan"
 	religion="vodou"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 7718={ #
-	terrain="jungle"
+	terrain="forest"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -623,7 +623,7 @@
 }
 
 7719={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods="fish"
@@ -636,7 +636,7 @@
 }
 
 7720={ #
-	terrain="jungle"
+	terrain="marsh"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -792,7 +792,7 @@
 }
 
 9500={ #
-	terrain="marsh"
+	terrain="farmland"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods=""
@@ -805,7 +805,7 @@
 }
 
 9501={ #
-	terrain="marsh"
+	terrain="farmland"
 	culture="louisianais"
 	religion="catholic"
 	trade_goods="rice"

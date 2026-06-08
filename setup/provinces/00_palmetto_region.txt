@@ -116,7 +116,7 @@
 }
 
 1780={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 1781={ #
-	terrain="marsh"
+	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
 	trade_goods=""

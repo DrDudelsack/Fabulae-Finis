@@ -181,7 +181,7 @@
 }
 
 3795={ #Honesdale
-	terrain="forest"
+	terrain="mountain"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="clay"
@@ -194,7 +194,7 @@
 }
 
 3796={ #Port Jervis
-	terrain="forest"
+	terrain="hills"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="fish"
@@ -259,7 +259,7 @@
 }
 
 5495={ #Tunkhannock
-	terrain="forest"
+	terrain="hills"
 	culture="pocono"
 	religion="bostonian"
 	trade_goods="wild_game"
@@ -298,7 +298,7 @@
 }
 
 6214={ #Scranton
-	terrain="forest"
+	terrain="hills"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="wood"
@@ -493,7 +493,7 @@
 }
 
 9589={ #East Stroudsburg
-	terrain="forest"
+	terrain="hills"
 	culture="pocono"
 	religion="americanist"
 	trade_goods="cattle"

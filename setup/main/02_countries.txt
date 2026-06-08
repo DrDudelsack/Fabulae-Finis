@@ -2130,6 +2130,23 @@ country = {
 				2793 3016 2794 2792 2795 2794 5833 395 5831 394 3015 3014 5832
 			}
 		}
+		TXR = { # Texarkana
+			government = despotic_monarchy
+			primary_culture = arkalatexan
+			religion = catholic
+			capital = 774
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				774 776 5525 5058 775 777
+			}
+		}
 		VKS = { #Vicksburg
 			government = despotic_monarchy
 			primary_culture = deltaic

@@ -1727,6 +1727,8 @@
 			Z_e_act_ph_e_act_rine Zelianne Zelide Zelmire Zita
 			}
 		}
+		cadjin = {}
+		creole = {}
 	}
 	
 	barbarian_names = { 

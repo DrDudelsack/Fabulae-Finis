@@ -285,7 +285,7 @@
 }
 
 6378={ #Buchanan
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
@@ -363,7 +363,7 @@
 }
 
 7352={ #Big Stone Gap
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="omenteller"
 	trade_goods="clay"
@@ -389,7 +389,7 @@
 }
 
 7354={ #Lee
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="omenteller"
 	trade_goods="wood"
@@ -402,7 +402,7 @@
 }
 
 7355={ #Scott
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"

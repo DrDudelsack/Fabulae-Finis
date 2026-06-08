@@ -168,7 +168,7 @@
 }
 
 4406={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="omenteller"
 	trade_goods="stone"

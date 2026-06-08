@@ -142,6 +142,19 @@ haudenosaunee_heritage = {
        primary_culture = haudenosaunee
    }
 }
+louisianais_heritage = {
+   	modifier = {
+        #good
+        ruler_popularity_gain = 0.04
+        heavy_cavalry_offensive = 0.10
+       #bad
+        general_loyalty = -3
+   }
+
+   trigger = {
+       primary_culture = louisianais
+   }
+}
 
 #Culture Group
 mid_atlantic_heritage = {

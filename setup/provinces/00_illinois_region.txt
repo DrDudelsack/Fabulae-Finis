@@ -25,7 +25,7 @@
 }
 
 322={ #
-	terrain="flood_plain"
+	terrain="plains"
 	culture="butternutter"
 	religion="egyptology"
 	trade_goods="grain"
@@ -509,7 +509,7 @@
 }
 
 6429={ #Chester
-	terrain="flood_plain"
+	terrain="plains"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="clay"

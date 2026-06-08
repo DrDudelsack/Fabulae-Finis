@@ -188,7 +188,7 @@
 }
 
 1691={ #Walton
-	terrain="hills"
+	terrain="mountain"
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wild_game"
@@ -201,7 +201,7 @@
 }
 
 1692={ #Thompson
-	terrain="plains"
+	terrain="mountain"
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wood"
@@ -1394,7 +1394,7 @@
 }
 
 7968={ #Wallkill
-	terrain="plains"
+	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods=""
@@ -1511,7 +1511,7 @@
 }
 
 9420={ #Kingston
-	terrain="plains"
+	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wood"

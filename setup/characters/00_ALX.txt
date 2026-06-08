@@ -54,8 +54,5 @@
 		add_finesse=6
 		add_zeal=6
 		no_traits=yes
-		add_trait="tactician"
-		add_trait="conqueror"
-		add_trait="cruel"
 	}
 }

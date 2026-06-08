@@ -436,6 +436,7 @@
 			}
 		}
 		quebecois = {}
+		chiac = {}
 		michiganais = {} #Muskrat French
 		nouvelle_angleterrais = { #Kermasseaiss
 			male_names = { #Acadien Namelist + some additions

@@ -1,5 +1,5 @@
 ﻿794={ #Youngstown
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -12,7 +12,7 @@
 }
 
 795={ #Steubenville
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -25,7 +25,7 @@
 }
 
 2007={ #Weirton
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="fissionist"
 	trade_goods=""
@@ -168,7 +168,7 @@
 }
 
 3775={ #Meadville
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 4011={ #Beaver Falls
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 4012={ #Homeacre Lyndora
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 4013={ #Hermitage
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 9037={ #Cranberry
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -571,7 +571,7 @@
 }
 
 11648={ #Butler
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 11664={ #Aliquippa
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""

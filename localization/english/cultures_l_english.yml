@@ -20,6 +20,8 @@
  ## Louisianais ##
  louisianais:0 "Louisianais"
  nolan:0 "Nolan"
+ cadjin:0 "Cadjin"
+ creole:0 "Creole"
  
  ## Mid-Atlantic ##
  yankee:0 "Mid-Atlantic"
@@ -58,7 +60,7 @@
  cheesehead:0 "Badgerlander"
  northlander:0 "Northlander"
  upnorther:0 "Upnorther"
- copperhead:0 "Copperhead"
+ copperhead:0 "Copperlander"
 
  ## Midwestern ##
  midwestern:0 "Midwestern"
@@ -82,12 +84,13 @@
  quebecois:0 "Quebecois"
  michiganais:0 "Détrois"
  nouvelle_angleterrais:0 "Kermesseais"
+ chiac:0 "Chiac"
 
  ## Amish ##
  amish:0 "Amish"
  deitsch:0 "Deitsch"
 
- ## Lakelander ##
+ ## Steelfolk ##
  lakelander:0 "Steelfolk"
  motowner:0 "Motowner"
  michigander:0 "Michigander"

@@ -389,7 +389,7 @@
 }
 
 2266={ #Winfield
-	terrain="plains"
+	terrain="forest"
 	culture="dhegihan"
 	religion="catholic"
 	trade_goods=""
@@ -701,7 +701,7 @@
 }
 
 6358={ #Clay Center
-	terrain="plains"
+	terrain="forest"
 	culture="grangelander"
 	religion="heartful"
 	trade_goods=""
@@ -727,7 +727,7 @@
 }
 
 6360={ #Fredonia
-	terrain="plains"
+	terrain="forest"
 	culture="grangelander"
 	religion="catholic"
 	trade_goods=""
@@ -865,7 +865,7 @@
 }
 
 7049={ #El Dorado
-	terrain="plains"
+	terrain="forest"
 	culture="grangelander"
 	religion="heartful"
 	trade_goods=""

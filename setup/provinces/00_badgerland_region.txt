@@ -155,7 +155,7 @@
 }
 
 2025={ #
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="tobacco"
@@ -376,7 +376,7 @@
 }
 
 3994={ #Kaaghi Hoci
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="horses"
@@ -402,7 +402,7 @@
 }
 
 3996={ #New Richmond
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="honey"
@@ -662,7 +662,7 @@
 }
 
 7025={ #Manetōwak
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods=""
@@ -675,7 +675,7 @@
 }
 
 7026={ #Ākem
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="catholic"
 	trade_goods="base_metals"
@@ -857,7 +857,7 @@
 }
 
 11734={ #Reegaci Hoxawani
-	terrain="plains"
+	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="maple"

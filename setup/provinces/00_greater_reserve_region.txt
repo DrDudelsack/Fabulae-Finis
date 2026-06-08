@@ -1,5 +1,5 @@
 ﻿793={ #Alliance
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 2955={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -103,7 +103,7 @@
 }
 
 3462={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 3465={ #
-	terrain="plains"
+	terrain="hills"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="maple"
@@ -220,7 +220,7 @@
 }
 
 6583={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 6584={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 8611={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
@@ -402,7 +402,7 @@
 }
 
 8612={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
@@ -415,7 +415,7 @@
 }
 
 8613={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
@@ -428,7 +428,7 @@
 }
 
 8614={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="clay"
@@ -441,7 +441,7 @@
 }
 
 8615={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 8616={ #
-	terrain="plains"
+	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 11642={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -623,7 +623,7 @@
 }
 
 11643={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""
@@ -636,7 +636,7 @@
 }
 
 11657={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods=""

@@ -1231,7 +1231,7 @@
 }
 
 6167={ #Sparta
-	terrain="plains"
+	terrain="hills"
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"

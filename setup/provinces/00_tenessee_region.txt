@@ -1,5 +1,5 @@
 ﻿334={ #Arlington
-	terrain="forest"
+	terrain="plains"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods="cotton"
@@ -25,7 +25,7 @@
 }
 
 336={ #
-	terrain="forest"
+	terrain="plains"
 	culture="deltaic"
 	religion="egyptology"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 337={ #
-	terrain="forest"
+	terrain="plains"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 1732={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="omenteller"
 	trade_goods="wood"
@@ -194,7 +194,7 @@
 }
 
 1850={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 1851={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods=""
@@ -220,7 +220,7 @@
 }
 
 1852={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 2074={ #
-	terrain="forest"
+	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="clay"
@@ -311,7 +311,7 @@
 }
 
 4620={ #
-	terrain="marsh"
+	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 6151={ #
-	terrain="forest"
+	terrain="plains"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 6152={ #
-	terrain="forest"
+	terrain="plains"
 	culture="riverlander"
 	religion="egyptology"
 	trade_goods=""

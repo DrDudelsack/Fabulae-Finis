@@ -51,7 +51,7 @@
 }
 
 1044={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="atlantean"
 	religion="americanist"
 	trade_goods=""
@@ -103,7 +103,7 @@
 }
 
 1253={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods="tobacco"
@@ -129,7 +129,7 @@
 }
 
 1835={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods="cotton"
@@ -142,7 +142,7 @@
 }
 
 1836={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods=""
@@ -168,7 +168,7 @@
 }
 
 1869={ #
-	terrain="marsh"
+	terrain="forest"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 2354={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods="cotton"
@@ -194,7 +194,7 @@
 }
 
 2355={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods=""
@@ -285,7 +285,7 @@
 }
 
 3435={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="atlantean"
 	religion="americanist"
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 4986={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods=""
@@ -454,7 +454,7 @@
 }
 
 4987={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
 	trade_goods=""
@@ -753,7 +753,7 @@
 }
 
 7115={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="atlantean"
 	religion="americanist"
 	trade_goods="fruits"
@@ -974,7 +974,7 @@
 }
 
 9434={ #
-	terrain="marsh"
+	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
 	trade_goods="rice"
@@ -1000,7 +1000,7 @@
 }
 
 9436={ #
-	terrain="marsh"
+	terrain="plains"
 	culture="dixie"
 	religion="revelationist"
 	trade_goods=""
