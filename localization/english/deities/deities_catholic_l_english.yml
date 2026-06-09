@@ -2,18 +2,69 @@
  ## Catholic ##
  deity_god:0 "$omen_god$"
  omen_god:0 "God"
- omen_god_desc:0 "#Y Christian Deity#!\n\nThe supreme and singular God, creator of all things and ultimate source of authority, believed to guide history through providence and to have preserved the Church through the Deluge and the age of collapse."
+ omen_god_desc:0 "#Y Christian Deity#!\nThe supreme and singular God, creator of all things and ultimate source of authority, believed to guide history through providence and to have preserved the Church through the Deluge and the age of collapse."
+ omen_god_desc_traiteurism:0 "#Y Christian Deity#!\nThe singular and almighty Lord who tests humanity through suffering and tribulation, purifying souls so they may draw closer to Him through endurance and grace."
 
  deity_jesus:0 "$omen_jesus$"
  omen_jesus:0 "Jesus"
- omen_jesus_desc:0 "#Y Christian Deity#!\n\nThe incarnate Son of God and redeemer of humanity, whose life, death, and resurrection are believed to shape the destiny of nations as well as souls."
- omen_jesus_desc_heartful:0 "#Y Christian Deity#!\n\nJesus is the healer of both body and soul, whose teachings of compassion, humility, and sacrifice form the moral heart of America's covenant with God."
+ omen_jesus_desc:0 "#Y Christian Deity#!\nThe incarnate Son of God and redeemer of humanity, whose life, death, and resurrection are believed to shape the destiny of nations as well as souls."
+ omen_jesus_desc_heartful:0 "#Y Christian Deity#!\nJesus is the healer of both body and soul, whose teachings of compassion, humility, and sacrifice form the moral heart of America's covenant with God."
 
  deity_joan_of_arc:0 "$omen_joan_of_arc$"
  omen_joan_of_arc:0 "Jeanne D'Arc"
- omen_joan_of_arc_desc:0 "#Y Christian Saint#!\n\nThe patron saint of France, Jeanne D'Arc recieved divine visions, becoming a military commander during the Hundred Years' War. She was accused of blasphemy and witchcraft, and for that she was burned alive by the English."
+ omen_joan_of_arc_desc:0 "#Y Christian Saint#!\nThe patron saint of France, Jeanne D'Arc recieved divine visions, becoming a military commander during the Hundred Years' War. She was accused of blasphemy and witchcraft, and for that she was burned alive by the English."
  omen_joan_of_arc_twainist:0 "Joan of Arc"
- omen_joan_of_arc_desc_twainist:0 "#Y Christian Saint#!\n\nJoan of Arc defended her country from the invading English, and although her efforts were not enough, she stands as the example of a chivalrous, noble and dedicated person."
+ omen_joan_of_arc_desc_twainist:0 "#Y Christian Saint#!\nJoan of Arc defended her country from the invading English, and although her efforts were not enough, she stands as the example of a chivalrous, noble and dedicated person."
+
+ #Traiteurist
+ deity_st_charlene:0 "$omen_st_charlene$"
+ omen_st_charlene:0 "Saint Charlene Richard"
+ omen_st_charlene_desc:0 "#Y Traiteurist Saint#!\nThe blessed Saint Charlene Richard recieved a divine gift on her deathbed; she began to heal those around her, even as she was dying. Although she died as a young child, many venerate her, in the hope that she will heal those who pray to her."
+
+ deity_st_evangeline:0 "$omen_st_evangeline$"
+ omen_st_evangeline:0 "Saint Evangeline"
+ omen_st_evangeline_desc:0 "#Y Traiteurist Saint#!\nThe tragic Saint Evangeline was separated from her lover for a lifetime, seeking for them in vain. She turned to God, but eventually embraced them, as they died in her arms. She is a symbol of enduring love, loss, and renewal, invoked for the preservation of family, continuity of the people, and the fertility of land and lineage."
+
+ deity_st_expedite:0 "$omen_st_expedite$"
+ omen_st_expedite:0 "Saint Expédit"
+ omen_st_expedite_desc:0 "#Y Traiteurist Saint#!\nSaint Expédit is the patron of packages, merchants, and all those who travel. He is called upon to secure trade, safe journeys, and God's earthly blessings as refuge from hardship."
+
+ deity_st_joseph:0 "$omen_st_joseph$"
+ omen_st_joseph:0 "Saint Joseph"
+ omen_st_joseph_desc:0 "#Y Traiteurist Saint#!\nThe husband of the Virgin Mary, Saint Joseph is the divine guardian of home and labor, exemplifying humble service, family devotion, and righteous perseverance through hardship."
+
+ deity_our_lady_of_prompt_succor:0 "$omen_our_lady_of_prompt_succor$"
+ omen_our_lady_of_prompt_succor:0 "Our Lady of Prompt Succor"
+ omen_our_lady_of_prompt_succor_desc:0 "#Y Traiteurist Saint#!\nOur Lady of Prompt Succor is the one who intervenes swiftly in moments of danger and guides the destiny of the faithful through peril and uncertainty. She is the patroness of New Orleans, once saving the city from being conquered by fierce enemies."
+
+ deity_gabriel_lajeunesse:0 "$omen_gabriel_lajeunesse$"
+ omen_gabriel_lajeunesse:0 "Archangel Gabriel Lajeunesse"
+ omen_gabriel_lajeunesse_desc:0 "#Y Traiteurist Saint#!\nArchangel Gabriel Lajeunesse is the messenger of divine wisdom who revealed sacred truths to the Acadian people and continues to guide the faithful through revelation and instruction."
+
+ deity_traiteurist_micheal:0 "$omen_traiteurist_micheal$"
+ omen_traiteurist_micheal:0 "Archangel Michael"
+ omen_traiteurist_micheal_desc:0 "#Y Traiteurist Saint#!\nHe is the celestial defender who wages holy war against evil and safeguards the faithful against spiritual and worldly threats."
+
+ deity_rougarou:0 "$omen_rougarou$"
+ omen_rougarou:0 "Rougarou"
+ omen_rougarou_desc:0 "#Y Lousianais Folk Figure#!\nA fearsome wolf-like figure, the Rogarou is said to prey on those who stray away from holy practices, especially during lent."
+
+ deity_st_anthony:0 "$omen_st_anthony$"
+ omen_st_anthony:0 "Saint Anthony"
+ omen_st_anthony_desc:0 "#Y Traiteurist Saint#!\nSaint Anthony is a holy guide of rivers, fishing, and lost souls, invoked for protection along waterways and the recovery of what has been taken by hardship."
+
+ deity_our_lady_death:0 "$omen_our_lady_death$"
+ omen_our_lady_death:0 "Our Lady Death"
+ omen_our_lady_death_desc:0 "#Y Traiteurist Saint#!\nShe is the compassionate steward of the final passage, ensuring that cleansed souls who endured suffering may pass directly into Heaven."
+
+ deity_saint_marie_laveau:0 "$omen_saint_marie_laveau$"
+ omen_saint_marie_laveau:0 "Saint Marie Laveau"
+ omen_saint_marie_laveau_desc:0 "#Y Traiteurist Saint#!\nA powerful intercessor between the sacred and the hidden, embodying sanctioned spiritual practice, folk magic, and divine authority beyond the church walls."
+ 
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 "#Y Traiteurist Saint#!\n"
+
 
  
 

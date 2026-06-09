@@ -7,6 +7,9 @@
 			common_deity_trigger = {
 				RELIGION = catholic
 			}
+			common_deity_trigger = {
+				RELIGION = traiteurism
+			}
 			deity:omen_god = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -106,13 +109,9 @@ deity_joan_of_arc = {
 				CULTURE = paw_paw 
 				RELIGION = catholic
 			}
-			common_deity_culture_trigger = {
-				RELIGION = catholic
+			common_deity_trigger = {
+				RELIGION = traiteurism
 				CULTURE = louisianais
-			}
-			common_deity_culture_trigger = {
-				RELIGION = catholic
-				CULTURE = nolan
 			}
 			common_deity_culture_trigger = {
 				CULTURE = paw_paw 
@@ -126,7 +125,7 @@ deity_joan_of_arc = {
 			}
 		}
 	}
-	icon = deity_eloquence
+	icon = deity_war
 	passive_modifier = { global_defensive = omen_global_defensive_svalue }
 	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
 	religion = catholic
@@ -138,4 +137,280 @@ deity_joan_of_arc = {
 	on_activate = {
 		military_apotheosis_capital_freemen_effect = yes
 	}
+}
+## Traiteurist Pantheon ##
+deity_st_charlene = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_st_charlene = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_growth = omen_global_population_growth }
+	omen = { health = 2 } #Bonus from Omen
+	religion = traiteurism
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_st_evangeline = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_st_evangeline = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_freemen_output = deity_global_freemen_output_svalue }
+	omen = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue }
+	religion = traiteurism
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_characters_effect = yes
+	}
+}
+deity_st_expedite = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_st_expedite = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
+	omen = { monthly_wage_modifier = omen_monthly_wage_modifier_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_income_effect = yes
+	}
+}
+deity_st_joseph = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_st_joseph = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { build_cost = deity_build_cost_svalue }
+	omen = { global_manpower_modifier = deity_global_manpower_modifier_svalue} #Bonus from Omen
+	religion = traiteurism
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}
+deity_our_lady_of_prompt_succor = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_our_lady_of_prompt_succor = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { stability_cost_modifier = deity_stability_cost_modifier }
+	omen = { global_defensive = omen_global_defensive_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = culture 
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_gabriel_lajeunesse = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_gabriel_lajeunesse = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_citizen_happyness = deity_global_citizen_happiness_svalue }
+	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_traiteurist_micheal = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_traiteurist_micheal = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { war_score_cost = deity_war_score_cost_svalue }
+	omen = { fort_maintenance_cost = omen_fort_maintenance_cost_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_rougarou = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_rougarou = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_pop_promotion_speed_modifier = 0.1 }
+	omen = { hostile_attrition = omen_hostile_attrition_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_st_anthony = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_st_anthony = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue }
+	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = traiteurism
+	deity_category = fertility 
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        fertility_apotheosis_capital_slaves_effect = yes
+    }
+}
+deity_our_lady_death = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_our_lady_death = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
+	omen = { global_freemen_happyness = omen_global_freemen_happiness_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_saint_marie_laveau = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = traiteurism
+			}
+			deity:omen_saint_marie_laveau = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { stability_monthly_change = deity_stability_monthly_change }
+	 omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
+	religion = traiteurism
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        fertility_apotheosis_capital_effect = yes
+    }
 }

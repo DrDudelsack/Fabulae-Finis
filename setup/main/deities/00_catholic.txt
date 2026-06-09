@@ -12,5 +12,49 @@ deity_manager = {
 			key = omen_joan_of_arc
 			deity = deity_joan_of_arc
 		}
+		603 = {
+			key = omen_st_charlene
+			deity = deity_st_charlene
+		}
+		604 = {
+			key = omen_st_evangeline
+			deity = deity_st_evangeline
+		}
+		605 = {
+			key = omen_st_expedite
+			deity = deity_st_expedite
+		}
+		606 = {
+			key = omen_st_joseph
+			deity = deity_st_joseph
+		}
+		607 = {
+			key = omen_our_lady_of_prompt_succor
+			deity = deity_our_lady_of_prompt_succor
+		}
+		608 = {
+			key = omen_gabriel_lajeunesse
+			deity = deity_gabriel_lajeunesse
+		}
+		609 = {
+			key = omen_traiteurist_micheal
+			deity = deity_traiteurist_micheal
+		}
+		610 = {
+			key = omen_rougarou
+			deity = deity_rougarou
+		}
+		611 = {
+			key = omen_st_anthony
+			deity = deity_st_anthony
+		}
+		612 = {
+			key = omen_our_lady_death
+			deity = deity_our_lady_death
+		}
+		613 = {
+			key = omen_saint_marie_laveau
+			deity = deity_saint_marie_laveau
+		}
 	}
 }

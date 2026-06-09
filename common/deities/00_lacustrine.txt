@@ -71,7 +71,7 @@ deity_green_giant= {
 			}
 		}
 	}
-	icon = deity_tribal_fertility
+	icon = deity_tribal_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
 	religion = viking
@@ -99,7 +99,7 @@ deity_urho= {
 			}
 		}
 	}
-	icon = deity_tribal_fertility
+	icon = deity_tribal_love
 	passive_modifier = { global_food_capacity = deity_global_food_capacity_svalue }
 	omen = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue } #Bonus from Omen
 	religion = viking
@@ -523,7 +523,7 @@ deity_polaris = {
 			}
 		}
 	}
-	icon = deity_tribal_fertility
+	icon = deity_tribal_love
 	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
 	omen = { global_tribesmen_output = global_tribesmen_output_svalue }  #Bonus from Omen
 	religion = lakeshore
