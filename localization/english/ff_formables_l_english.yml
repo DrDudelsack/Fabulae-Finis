@@ -7,6 +7,13 @@
  HDD_ADJ:0 "Hudsonian"
  hudsonia_does_not_exist:0 "#Y Hudsonia#! does not exist."
  hudsonia_claims_tooltip:0 "Hudsonia will gain claims on the region of #Y Hudsonia#! and the province of #Y Buffalo#!."
+ 
+ form_lwizyan:0 "Form Lwizyan"
+ form_lwizyan_desc:0 "Once ruled by venerable and mighty kings, from the mighty Lanpero Napoleon, to the champion of the people, Rwa Long, the swamps and bayous of Lwizyan stand in comparison to no other. The Pelican State must be reunited!"
+ LWZ_NAME:0 "Lwizyan" 
+ LWZ_ADJ:0 "Lwizyanais"
+ lwizyan_does_not_exist:0 "#Y Lwizyan#! does not exist."
+ lwizyan_claims_tooltip:0 "Lwizyan will gain claims on the region of #Y Lwizyan#!."
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"
  ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."

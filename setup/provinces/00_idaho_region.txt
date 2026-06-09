@@ -337,7 +337,7 @@
 }
 
 3615={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -428,7 +428,7 @@
 }
 
 4927={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -441,7 +441,7 @@
 }
 
 4928={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -467,7 +467,7 @@
 }
 
 5398={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="mormon"
 	trade_goods=""
@@ -480,7 +480,7 @@
 }
 
 5399={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="mormon"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 5400={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 5402={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="mormon"
 	trade_goods=""
@@ -714,7 +714,7 @@
 }
 
 8441={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="mormon"
 	trade_goods=""
@@ -727,7 +727,7 @@
 }
 
 8442={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -740,7 +740,7 @@
 }
 
 8443={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="mormon"
 	trade_goods=""
@@ -779,7 +779,7 @@
 }
 
 8859={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods="salt"
@@ -844,7 +844,7 @@
 }
 
 9552={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -870,7 +870,7 @@
 }
 
 9554={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
@@ -883,7 +883,7 @@
 }
 
 9555={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""

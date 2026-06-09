@@ -38,7 +38,7 @@
 }
 
 842={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -51,7 +51,7 @@
 }
 
 843={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 844={ #
-	terrain="hills"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 1396={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -168,7 +168,7 @@
 }
 
 1397={ #
-	terrain="hills"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 1398={ #
-	terrain="hills"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -246,7 +246,7 @@
 }
 
 1756={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 1757={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 2501={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -363,7 +363,7 @@
 }
 
 2887={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -376,7 +376,7 @@
 }
 
 2888={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 2889={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods="salt"
@@ -480,7 +480,7 @@
 }
 
 4639={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -493,7 +493,7 @@
 }
 
 4640={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -506,7 +506,7 @@
 }
 
 4641={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -597,7 +597,7 @@
 }
 
 5585={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -610,7 +610,7 @@
 }
 
 5586={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -623,7 +623,7 @@
 }
 
 5920={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -753,7 +753,7 @@
 }
 
 8342={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -766,7 +766,7 @@
 }
 
 8343={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""
@@ -779,7 +779,7 @@
 }
 
 8344={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
 	trade_goods=""

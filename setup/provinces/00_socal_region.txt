@@ -298,7 +298,7 @@
 }
 
 5516={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="spices"
@@ -311,7 +311,7 @@
 }
 
 5517={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="olive"
@@ -337,7 +337,7 @@
 }
 
 5519={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="leather"
@@ -363,7 +363,7 @@
 }
 
 5521={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="socaleno"
 	religion="caesarist"
 	trade_goods="olive"

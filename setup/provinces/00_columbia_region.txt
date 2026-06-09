@@ -51,7 +51,7 @@
 }
 
 2104={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
@@ -64,7 +64,7 @@
 }
 
 2105={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
@@ -77,7 +77,7 @@
 }
 
 2106={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
@@ -142,7 +142,7 @@
 }
 
 2507={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="dreamer"
 	trade_goods=""
@@ -155,7 +155,7 @@
 }
 
 2508={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="dreamer"
 	trade_goods=""
@@ -324,7 +324,7 @@
 }
 
 6470={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
@@ -337,7 +337,7 @@
 }
 
 6471={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="catholic"
 	trade_goods=""

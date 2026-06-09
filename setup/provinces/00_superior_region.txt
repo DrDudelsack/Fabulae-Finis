@@ -577,7 +577,7 @@
 }
 
 5906={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="ojibwe"
 	religion="lakeshore"
 	trade_goods=""

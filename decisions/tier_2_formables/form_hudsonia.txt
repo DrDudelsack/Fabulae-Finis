@@ -15,7 +15,7 @@
 			}
 			OR = {
 				is_ai = no
-				num_of_cities >= 12
+				num_of_cities >= 1
 			}
 			NOR = {
 					tag = HDD
@@ -64,6 +64,7 @@
 			owns_or_subject_owns = 2698
 			owns_or_subject_owns = 2313
 			owns_or_subject_owns = 7826
+			owns_or_subject_owns = 5618
 		}
 		
 		

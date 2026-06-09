@@ -1,4 +1,4 @@
-﻿530={ #
+﻿530={ #Jasper
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
@@ -11,7 +11,7 @@
 	}
 }
 
-531={ #
+531={ #Newton
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
@@ -24,7 +24,7 @@
 	}
 }
 
-532={ #
+532={ #Milam
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
@@ -50,7 +50,7 @@
 	}
 }
 
-774={ #
+774={ #Texarkana
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
@@ -63,7 +63,7 @@
 	}
 }
 
-775={ #
+775={ #Daingerfield
 	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
@@ -76,7 +76,7 @@
 	}
 }
 
-776={ #
+776={ #Atlanta
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
@@ -89,7 +89,7 @@
 	}
 }
 
-777={ #
+777={ #DeKalb
 	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
@@ -518,7 +518,7 @@
 	}
 }
 
-5058={ #
+5058={ #Marshall
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
@@ -531,7 +531,7 @@
 	}
 }
 
-5059={ #
+5059={ #Houston
 	terrain="farmland"
 	culture="texan"
 	religion="americanist"
@@ -648,7 +648,7 @@
 	}
 }
 
-5522={ #
+5522={ #Kilgore
 	terrain="forest"
 	culture="texan"
 	religion="catholic"
@@ -661,7 +661,7 @@
 	}
 }
 
-5523={ #
+5523={ #Carthage
 	terrain="forest"
 	culture="texan"
 	religion="catholic"
@@ -674,7 +674,7 @@
 	}
 }
 
-5524={ #
+5524={ #Longview
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
@@ -856,7 +856,7 @@
 	}
 }
 
-7195={ #
+7195={ #Lumberton
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
@@ -869,7 +869,7 @@
 	}
 }
 
-7196={ #
+7196={ #Beaumont
 	terrain="plains"
 	culture="texan"
 	religion="traiteurism"
@@ -882,7 +882,7 @@
 	}
 }
 
-7197={ #
+7197={ #Orange
 	terrain="plains"
 	culture="texan"
 	religion="traiteurism"
@@ -1194,7 +1194,7 @@
 	}
 }
 
-9218={ #
+9218={ #Sour Lake
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
@@ -1207,7 +1207,7 @@
 	}
 }
 
-9219={ #
+9219={ #Cleveland
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
@@ -1220,7 +1220,7 @@
 	}
 }
 
-9220={ #
+9220={ #Winnie
 	terrain="plains"
 	culture="texan"
 	religion="traiteurism"
@@ -1233,7 +1233,7 @@
 	}
 }
 
-9221={ #
+9221={ #Mont Belvieu
 	terrain="forest"
 	culture="texan"
 	religion="americanist"

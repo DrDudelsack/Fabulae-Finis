@@ -64,7 +64,7 @@
 }
 
 10={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
 	trade_goods=""
@@ -844,7 +844,7 @@
 }
 
 79={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -857,7 +857,7 @@
 }
 
 80={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -1156,7 +1156,7 @@
 }
 
 116={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -1182,7 +1182,7 @@
 }
 
 118={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -1455,7 +1455,7 @@
 }
 
 139={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -1468,7 +1468,7 @@
 }
 
 140={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -1481,7 +1481,7 @@
 }
 
 141={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -1494,7 +1494,7 @@
 }
 
 142={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -1507,7 +1507,7 @@
 }
 
 143={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -1520,7 +1520,7 @@
 }
 
 144={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
 	trade_goods=""
@@ -1533,7 +1533,7 @@
 }
 
 145={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
 	trade_goods=""
@@ -3067,7 +3067,7 @@
 }
 
 317={ #
-	terrain="hills"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -3080,7 +3080,7 @@
 }
 
 318={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -3093,7 +3093,7 @@
 }
 
 319={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -3483,7 +3483,7 @@
 }
 
 363={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -3496,7 +3496,7 @@
 }
 
 364={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -3509,7 +3509,7 @@
 }
 
 365={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -3522,7 +3522,7 @@
 }
 
 366={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -4796,7 +4796,7 @@
 }
 
 516={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="midewiwin"
 	trade_goods=""
@@ -5017,7 +5017,7 @@
 }
 
 539={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -5030,7 +5030,7 @@
 }
 
 540={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -5043,7 +5043,7 @@
 }
 
 541={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -5056,7 +5056,7 @@
 }
 
 542={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="catholic"
 	trade_goods=""
@@ -5069,7 +5069,7 @@
 }
 
 543={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -5082,7 +5082,7 @@
 }
 
 544={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -5095,7 +5095,7 @@
 }
 
 545={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -5108,7 +5108,7 @@
 }
 
 546={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="catholic"
 	trade_goods=""
@@ -5121,7 +5121,7 @@
 }
 
 547={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="catholic"
 	trade_goods=""
@@ -5134,7 +5134,7 @@
 }
 
 548={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -5147,7 +5147,7 @@
 }
 
 549={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="catholic"
 	trade_goods=""
@@ -5589,7 +5589,7 @@
 }
 
 599={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -7760,7 +7760,7 @@
 }
 
 823={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
 	trade_goods=""
@@ -8397,7 +8397,7 @@
 }
 
 909={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -8410,7 +8410,7 @@
 }
 
 910={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="quebecois"
 	religion="midewiwin"
 	trade_goods=""
@@ -8423,7 +8423,7 @@
 }
 
 911={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="quebecois"
 	religion="midewiwin"
 	trade_goods=""
@@ -10334,7 +10334,7 @@
 }
 
 1160={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="catholic"
 	trade_goods=""
@@ -12544,7 +12544,7 @@
 }
 
 1389={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="midewiwin"
 	trade_goods=""
@@ -14988,7 +14988,7 @@
 }
 
 1663={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -15001,7 +15001,7 @@
 }
 
 1664={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -17354,7 +17354,7 @@
 }
 
 1968={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -17367,7 +17367,7 @@
 }
 
 1969={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -17380,7 +17380,7 @@
 }
 
 1970={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -17393,7 +17393,7 @@
 }
 
 1971={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -19226,7 +19226,7 @@
 }
 
 2175={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -19239,7 +19239,7 @@
 }
 
 2176={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -19252,7 +19252,7 @@
 }
 
 2177={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -19837,7 +19837,7 @@
 }
 
 2250={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -19850,7 +19850,7 @@
 }
 
 2251={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -19863,7 +19863,7 @@
 }
 
 2252={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -20305,7 +20305,7 @@
 }
 
 2293={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -20318,7 +20318,7 @@
 }
 
 2294={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -20331,7 +20331,7 @@
 }
 
 2295={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -20669,7 +20669,7 @@
 }
 
 2340={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -20682,7 +20682,7 @@
 }
 
 2341={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -20695,7 +20695,7 @@
 }
 
 2342={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -20708,7 +20708,7 @@
 }
 
 2343={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -20851,7 +20851,7 @@
 }
 
 2356={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nehiyaw"
 	religion="catholic"
 	trade_goods=""
@@ -20864,7 +20864,7 @@
 }
 
 2357={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nehiyaw"
 	religion="catholic"
 	trade_goods=""
@@ -21176,7 +21176,7 @@
 }
 
 2390={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21189,7 +21189,7 @@
 }
 
 2391={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21202,7 +21202,7 @@
 }
 
 2392={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21306,7 +21306,7 @@
 }
 
 2407={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21319,7 +21319,7 @@
 }
 
 2408={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21332,7 +21332,7 @@
 }
 
 2409={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21345,7 +21345,7 @@
 }
 
 2410={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -21631,7 +21631,7 @@
 }
 
 2438={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="midewiwin"
 	trade_goods=""
@@ -21657,7 +21657,7 @@
 }
 
 2443={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="fogsong"
 	trade_goods=""
@@ -21670,7 +21670,7 @@
 }
 
 2444={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="fogsong"
 	trade_goods=""
@@ -21683,7 +21683,7 @@
 }
 
 2445={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="fogsong"
 	trade_goods=""
@@ -22476,7 +22476,7 @@
 }
 
 2531={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -22489,7 +22489,7 @@
 }
 
 2532={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -22502,7 +22502,7 @@
 }
 
 2533={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -22515,7 +22515,7 @@
 }
 
 2534={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -22957,7 +22957,7 @@
 }
 
 2582={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="midewiwin"
 	trade_goods=""
@@ -27234,7 +27234,7 @@
 }
 
 3091={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -27247,7 +27247,7 @@
 }
 
 3092={ #
-	terrain="forest"
+	terrain="mountain"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -28378,7 +28378,7 @@
 }
 
 3218={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -28404,7 +28404,7 @@
 }
 
 3220={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -28859,7 +28859,7 @@
 }
 
 3271={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -28872,7 +28872,7 @@
 }
 
 3272={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -28885,7 +28885,7 @@
 }
 
 3273={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -32122,7 +32122,7 @@
 }
 
 3635={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -33240,7 +33240,7 @@
 }
 
 3742={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -33253,7 +33253,7 @@
 }
 
 3743={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -33266,7 +33266,7 @@
 }
 
 3744={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -35840,7 +35840,7 @@
 }
 
 4005={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -35853,7 +35853,7 @@
 }
 
 4006={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -37712,7 +37712,7 @@
 }
 
 4199={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -37725,7 +37725,7 @@
 }
 
 4200={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -39818,7 +39818,7 @@
 }
 
 4414={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="midewiwin"
 	trade_goods=""
@@ -41326,7 +41326,7 @@
 }
 
 4564={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
 	trade_goods=""
@@ -41339,7 +41339,7 @@
 }
 
 4565={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
 	trade_goods=""
@@ -41352,7 +41352,7 @@
 }
 
 4566={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
 	trade_goods=""
@@ -41963,7 +41963,7 @@
 }
 
 4659={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="anisininew"
 	religion="midewiwin"
 	trade_goods=""
@@ -41976,7 +41976,7 @@
 }
 
 4660={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="anisininew"
 	religion="midewiwin"
 	trade_goods=""
@@ -42002,7 +42002,7 @@
 }
 
 4662={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="anisininew"
 	religion="midewiwin"
 	trade_goods=""
@@ -45824,7 +45824,7 @@
 }
 
 5072={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45850,7 +45850,7 @@
 }
 
 5074={ #
-	terrain="hills"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -45967,7 +45967,7 @@
 }
 
 5091={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46071,7 +46071,7 @@
 }
 
 5099={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46084,7 +46084,7 @@
 }
 
 5100={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46097,7 +46097,7 @@
 }
 
 5101={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46110,7 +46110,7 @@
 }
 
 5102={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -46305,7 +46305,7 @@
 }
 
 5120={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -46695,7 +46695,7 @@
 }
 
 5165={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="metis"
 	religion="catholic"
 	trade_goods=""
@@ -49594,7 +49594,7 @@
 }
 
 5526={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -49607,7 +49607,7 @@
 }
 
 5527={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -49620,7 +49620,7 @@
 }
 
 5528={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -49633,7 +49633,7 @@
 }
 
 5529={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -50140,7 +50140,7 @@
 }
 
 5582={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
 	trade_goods=""
@@ -51505,7 +51505,7 @@
 }
 
 5740={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -51518,7 +51518,7 @@
 }
 
 5741={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -52779,7 +52779,7 @@
 }
 
 5894={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -52792,7 +52792,7 @@
 }
 
 5895={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
 	trade_goods=""
@@ -52805,7 +52805,7 @@
 }
 
 5896={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -52818,7 +52818,7 @@
 }
 
 5897={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -52909,7 +52909,7 @@
 }
 
 5904={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="ojibwe"
 	religion="viking"
 	trade_goods=""
@@ -53104,7 +53104,7 @@
 }
 
 5935={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -53117,7 +53117,7 @@
 }
 
 5936={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -53130,7 +53130,7 @@
 }
 
 5937={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -55522,7 +55522,7 @@
 }
 
 6207={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -55535,7 +55535,7 @@
 }
 
 6208={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -55548,7 +55548,7 @@
 }
 
 6209={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -57381,7 +57381,7 @@
 }
 
 6411={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -57394,7 +57394,7 @@
 }
 
 6412={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -57407,7 +57407,7 @@
 }
 
 6413={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -58863,7 +58863,7 @@
 }
 
 6596={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -58876,7 +58876,7 @@
 }
 
 6597={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -58889,7 +58889,7 @@
 }
 
 6598={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -59617,7 +59617,7 @@
 }
 
 6682={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -59630,7 +59630,7 @@
 }
 
 6683={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -59643,7 +59643,7 @@
 }
 
 6684={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -59656,7 +59656,7 @@
 }
 
 6685={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -60410,7 +60410,7 @@
 }
 
 6769={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -60423,7 +60423,7 @@
 }
 
 6770={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -61606,7 +61606,7 @@
 }
 
 6880={ #
-	terrain="desert"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -64336,7 +64336,7 @@
 }
 
 7179={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -64349,7 +64349,7 @@
 }
 
 7180={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -64362,7 +64362,7 @@
 }
 
 7181={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -66988,7 +66988,7 @@
 }
 
 7472={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
 	trade_goods=""
@@ -67001,7 +67001,7 @@
 }
 
 7473={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
 	trade_goods=""
@@ -67287,7 +67287,7 @@
 }
 
 7499={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -67300,7 +67300,7 @@
 }
 
 7500={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -70394,7 +70394,7 @@
 }
 
 7906={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -70407,7 +70407,7 @@
 }
 
 7907={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -70420,7 +70420,7 @@
 }
 
 7908={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -70433,7 +70433,7 @@
 }
 
 7909={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -70563,7 +70563,7 @@
 }
 
 7929={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -70576,7 +70576,7 @@
 }
 
 7930={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -70589,7 +70589,7 @@
 }
 
 7931={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -71421,7 +71421,7 @@
 }
 
 8014={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -71434,7 +71434,7 @@
 }
 
 8015={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -71837,7 +71837,7 @@
 }
 
 8056={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -71863,7 +71863,7 @@
 }
 
 8058={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -71993,7 +71993,7 @@
 }
 
 8073={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -72006,7 +72006,7 @@
 }
 
 8074={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -72721,7 +72721,7 @@
 }
 
 8138={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nehiyaw"
 	religion="catholic"
 	trade_goods=""
@@ -72747,7 +72747,7 @@
 }
 
 8140={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -73072,7 +73072,7 @@
 }
 
 8174={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -73085,7 +73085,7 @@
 }
 
 8175={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -73098,7 +73098,7 @@
 }
 
 8176={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -73111,7 +73111,7 @@
 }
 
 8177={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
 	trade_goods=""
@@ -73956,7 +73956,7 @@
 }
 
 8255={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -73969,7 +73969,7 @@
 }
 
 8256={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -73982,7 +73982,7 @@
 }
 
 8257={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -73995,7 +73995,7 @@
 }
 
 8258={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -74502,7 +74502,7 @@
 }
 
 8333={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -74749,7 +74749,7 @@
 }
 
 8367={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -74762,7 +74762,7 @@
 }
 
 8368={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
 	trade_goods=""
@@ -75607,7 +75607,7 @@
 }
 
 8462={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -75620,7 +75620,7 @@
 }
 
 8463={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -75737,7 +75737,7 @@
 }
 
 8475={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -75750,7 +75750,7 @@
 }
 
 8476={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -75763,7 +75763,7 @@
 }
 
 8477={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -77999,7 +77999,7 @@
 }
 
 8723={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -78077,7 +78077,7 @@
 }
 
 8740={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -78090,7 +78090,7 @@
 }
 
 8741={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -78636,7 +78636,7 @@
 }
 
 8799={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -78649,7 +78649,7 @@
 }
 
 8800={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -80521,7 +80521,7 @@
 }
 
 9004={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -80534,7 +80534,7 @@
 }
 
 9005={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -80547,7 +80547,7 @@
 }
 
 9006={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -82419,7 +82419,7 @@
 }
 
 9208={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -82445,7 +82445,7 @@
 }
 
 9210={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -82458,7 +82458,7 @@
 }
 
 9211={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -82562,7 +82562,7 @@
 }
 
 9223={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -82575,7 +82575,7 @@
 }
 
 9224={ #
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -82588,7 +82588,7 @@
 }
 
 9225={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="tejano"
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -82744,7 +82744,7 @@
 }
 
 9243={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
 	trade_goods=""
@@ -84057,7 +84057,7 @@
 }
 
 9384={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -84070,7 +84070,7 @@
 }
 
 9385={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -84083,7 +84083,7 @@
 }
 
 9386={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -84096,7 +84096,7 @@
 }
 
 9387={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -84109,7 +84109,7 @@
 }
 
 9388={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -84122,7 +84122,7 @@
 }
 
 9389={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -85071,7 +85071,7 @@
 }
 
 9538={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -85084,7 +85084,7 @@
 }
 
 9539={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -85097,7 +85097,7 @@
 }
 
 9540={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
@@ -85448,7 +85448,7 @@
 }
 
 9585={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -85461,7 +85461,7 @@
 }
 
 9586={ #
-	terrain="forest"
+	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
 	trade_goods=""
@@ -85708,7 +85708,7 @@
 }
 
 9611={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -85721,7 +85721,7 @@
 }
 
 9612={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -85734,7 +85734,7 @@
 }
 
 9613={ #
-	terrain="forest"
+	terrain="taiga"
 	culture=""
 	religion="catholic"
 	trade_goods=""
@@ -101971,7 +101971,7 @@
 }
 
 10872={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""

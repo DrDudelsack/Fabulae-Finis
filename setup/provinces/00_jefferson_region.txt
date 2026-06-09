@@ -168,7 +168,7 @@
 }
 
 4081={ #Susanville
-	terrain="hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="dreamer"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 4082={ #Litchfield
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="dreamer"
 	trade_goods=""
@@ -194,7 +194,7 @@
 }
 
 4083={ #California Pines
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="dreamer"
 	trade_goods=""
@@ -207,7 +207,7 @@
 }
 
 4084={ #Burney
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="jeffersonian"
 	religion="dreamer"
 	trade_goods=""
@@ -532,7 +532,7 @@
 }
 
 6718={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="jeffersonian"
 	religion="caesarist"
 	trade_goods=""
@@ -545,7 +545,7 @@
 }
 
 6719={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""
@@ -558,7 +558,7 @@
 }
 
 6720={ #
-	terrain="hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
 	trade_goods=""

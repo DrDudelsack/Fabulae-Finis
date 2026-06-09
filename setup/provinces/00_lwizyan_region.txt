@@ -2,12 +2,15 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -15,12 +18,15 @@
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fruits"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -28,12 +34,15 @@
 	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -41,51 +50,63 @@
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fruits"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-2164={ #
+2164={ #Mansfield
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-2165={ #
+2165={ #Natchitoches
 	terrain="plains"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-2166={ #
+2166={ #Many
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -94,11 +115,14 @@
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -106,12 +130,18 @@
 	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="woad"
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -119,12 +149,12 @@
 	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="salt"
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -132,12 +162,15 @@
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="beans"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -145,12 +178,22 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		culture="louisianais"
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -158,12 +201,15 @@
 	terrain="plains"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fish"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -171,12 +217,19 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		culture="louisianais"
+		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -184,12 +237,12 @@
 	terrain="forest"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -197,155 +250,233 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wild_game"
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	tribesmen={
+		culture="louisianais"
+		amount=2
 	}
 }
 
-3575={ #
+3575={ #DeQuincy
 	terrain="forest"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fur"
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
-5479={ #
+5479={ #Pierre Part
 	terrain="marsh"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5480={ #
-	terrain="marsh"
-	culture="louisianais"
-	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5481={ #
-	terrain="flood_plain"
-	culture="louisianais"
-	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5482={ #
-	terrain="flood_plain"
-	culture="louisianais"
-	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5503={ #
-	terrain="marsh"
-	culture="nolan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5504={ #
-	terrain="marsh"
-	culture="nolan"
-	religion="catholic"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
-5505={ #
+5480={ #Donaldsonville
+	terrain="marsh"
+	culture="louisianais"
+	religion="traiteurism"
+	trade_goods=""
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5481={ #Gardere
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="traiteurism"
+	trade_goods="incense"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5482={ #Port Allen
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="traiteurism"
+	trade_goods="clay"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5503={ #Luling
+	terrain="marsh"
+	culture="nolan"
+	religion="traiteurism"
+	trade_goods="wood"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="vodou"
+		amount=2
+	}
+	tribesmen={
+		culture="louisianais"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5504={ #Grand Isle
+	terrain="marsh"
+	culture="nolan"
+	religion="traiteurism"
+	trade_goods="fruits"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		culture="louisianais"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5505={ #Morgan City
 	terrain="marsh"
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
-5506={ #
+5506={ #Houma
 	terrain="marsh"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods="rice"
-	civilization_value=10
+	trade_goods="vegetables"
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
-5525={ #
+5525={ #Shreveport
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="earthware"
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="traiteurism"
+		culture="louisianais"
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		religion="trailwaker"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
-5708={ #
+5708={ #Ferriday
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -353,12 +484,15 @@
 	terrain="flood_plain"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fish"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -366,12 +500,19 @@
 	terrain="marsh"
 	culture="deltaic"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="clay"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="louisianais"
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -379,12 +520,19 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="salt"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="louisianais"
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -392,12 +540,18 @@
 	terrain="forest"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="sugar"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -405,12 +559,15 @@
 	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="sugar"
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -418,194 +575,295 @@
 	terrain="forest"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6323={ #
+6323={ #Newellton
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods="cotton"
-	civilization_value=10
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6324={ #
+6324={ #Tallulah
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="vegetables"
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6325={ #
+6325={ #Olla
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="woad"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6326={ #
+6326={ #Winsboro
 	terrain="flood_plain"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="beans"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6982={ #
+6982={ #West Monroe
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="hemp"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6983={ #
+6983={ #Farmerville
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="cotton"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-6984={ #
+6984={ #Ruston
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="cattle"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-7230={ #
+7230={ #LaPlace
 	terrain="farmland"
 	culture="nolan"
 	religion="vodou"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="shells"
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
-7231={ #
+7231={ #Baton Rouge
 	terrain="farmland"
 	culture="nolan"
 	religion="vodou"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
+	}
+	freemen={
+		religion="ursuline"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
-7232={ #
+7232={ #Zachary
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="leather"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-7233={ #
+7233={ #Centreville
 	terrain="forest"
 	culture="deltaic"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="hemp"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-7517={ #
+7517={ #Hammond
 	terrain="flood_plain"
 	culture="nolan"
 	religion="traiteurism"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-7518={ #
+7518={ #Bogalusa
 	terrain="marsh"
 	culture="nolan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fruits"
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-7519={ #
+7519={ #Slidell
 	terrain="forest"
 	culture="nolan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fish"
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -613,12 +871,15 @@
 	terrain="forest"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="cattle"
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -627,11 +888,14 @@
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -639,51 +903,72 @@
 	terrain="marsh"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-8211={ #
+8211={ #Springhill
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="beans"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-8212={ #
+8212={ #Red Chute
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="beans"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-8213={ #
+8213={ #Minden
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="cotton"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -692,11 +977,37 @@
 	culture="nolan"
 	religion="vodou"
 	trade_goods="dye"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=5
+	}
+	citizen={
+		religion="ursuline"
+		amount=2
+	}
+	freemen={
+		religion="revelationist"
+		amount=3
+	}
+	freemen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	slaves={
+		religion="traiteurism"
+		amount=2
 	}
 }
 
@@ -705,76 +1016,112 @@
 	culture="nolan"
 	religion="vodou"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
+		culture="louisianais"
+		religion="traiteurism"
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
-8484={ #
+8484={ #Marrero
 	terrain="marsh"
 	culture="nolan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
+		culture="louisianais"
+		religion="traiteurism"
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
-8485={ #
+8485={ #Buras
 	terrain="marsh"
 	culture="nolan"
 	religion="vodou"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
 	}
 }
 
-8801={ #
+8801={ #Jonesboro
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="cattle"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-8802={ #
+8802={ #Coushatta
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="leather"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
-8803={ #
+8803={ #Winnfield
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="earthware"
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		culture="louisianais"
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -782,12 +1129,12 @@
 	terrain="flood_plain"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="tubers"
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -795,12 +1142,21 @@
 	terrain="farmland"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="cloth"
+	civilization_value=20
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -809,11 +1165,11 @@
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 

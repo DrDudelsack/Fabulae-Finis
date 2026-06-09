@@ -1,11 +1,11 @@
 ﻿louisianais = {
 	color = hsv { 0.65  0.7  0.8 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_louisianais
 	
 	primary = light_infantry
 	second = heavy_cavalry
-	flank = horse_archers
+	flank = archers
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -1632,6 +1632,7 @@
 	culture = {
 		louisianais = {} #culture group names are Louisianais
 		nolan = {
+			levy_template = levy_nolan
 			male_names = {
 			Albin Aldus Alton Amand Andoche Anicet Anselme Antoine Apollinaire Apollos Arcis Aristide Armand Armel Arnaud Arthelus Arthur Ashton Athanase Audley August Augustin Aur_e_act_lien Aza_e_uml_l
 			Aaron Abraham Achilles Albert Alexander Alfonso Artemis Ali Alonso Amado Andrew Angelo Anthony Antonio Ardolph Ari Arnold Arturo Astor Aurelio Averell Atticus Augustus Aurelius Baldwin

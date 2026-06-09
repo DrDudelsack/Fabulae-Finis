@@ -363,7 +363,7 @@
 }
 
 8732={ #
-	terrain="plains"
+	terrain="dry_plains"
 	culture="socaleno"
 	religion="quetzaltec"
 	trade_goods="cotton"

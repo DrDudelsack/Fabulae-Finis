@@ -1,0 +1,86 @@
+﻿country_decisions = {
+	form_lwizyan = {
+		
+		potential = {
+			num_of_cities >= 1
+			country_culture_group = louisianais
+			OR = {
+				is_ai = no
+				num_of_cities >= 1
+			}
+			NOR = {
+					tag = LWZ
+					is_tier_2_formable_trigger = yes
+					is_endgame_tag_trigger = yes
+				}
+			}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 9500 
+					province_id = 7231
+					province_id = 8216
+					province_id = 5506
+					province_id = 2412
+					province_id = 3291
+					province_id = 5525
+					province_id = 8803
+					province_id = 6326
+					province_id = 6984
+					province_id = 5710
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = lwizyan_does_not_exist
+				NOT = {
+					any_country = {
+						tag = LWZ
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 9500
+			owns_or_subject_owns = 7231
+			owns_or_subject_owns = 8216
+			owns_or_subject_owns = 5506
+			owns_or_subject_owns = 2412
+			owns_or_subject_owns = 3291
+			owns_or_subject_owns = 5525
+			owns_or_subject_owns = 8803
+			owns_or_subject_owns = 6326
+			owns_or_subject_owns = 6984
+			owns_or_subject_owns = 5710
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = aristocratic_monarchy tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "LWZ_NAME"
+			hidden_effect = {
+				change_country_adjective = "LWZ_ADJ"
+				change_country_color = "lwizyan_blue"
+				change_country_tag = LWZ
+				change_country_flag = LWIZYAN_FLAG
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = lwizyan_claims_tooltip
+			hidden_effect = {
+				region:lwizyan_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

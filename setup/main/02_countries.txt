@@ -2160,7 +2160,7 @@ country = {
 			}
 		}
 		SHR = { # Shreveport
-			government = plutocratic_monarchy
+			government = plutocratic_republic
 			primary_culture = arkalatexan
 			religion = catholic
 			capital = 5525

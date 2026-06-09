@@ -25,7 +25,7 @@
 }
 
 344={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="dreamer"
 	trade_goods=""
@@ -38,7 +38,7 @@
 }
 
 345={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 2814={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""
@@ -343,7 +343,7 @@
 }
 
 6145={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""
@@ -395,7 +395,7 @@
 }
 
 7903={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""
@@ -408,7 +408,7 @@
 }
 
 7904={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
 	trade_goods=""
@@ -421,7 +421,7 @@
 }
 
 7905={ #
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
 	trade_goods=""

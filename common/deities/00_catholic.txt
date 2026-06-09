@@ -109,7 +109,7 @@ deity_joan_of_arc = {
 				CULTURE = paw_paw 
 				RELIGION = catholic
 			}
-			common_deity_trigger = {
+			common_deity_culture_trigger = {
 				RELIGION = traiteurism
 				CULTURE = louisianais
 			}

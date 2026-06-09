@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
