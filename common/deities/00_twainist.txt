@@ -254,3 +254,28 @@ deity_sawyer = { # Tom Sawyer and Huckleberry Finn
 		military_apotheosis_manpower_effect = yes
 	}
 }
+deity_faulkner = { #William Faulkner
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_faulkner = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { religious_tech_investment = deity_religious_tech_investment_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue }
+	religion = twainist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_oratory_tech_effect = yes
+	}
+}

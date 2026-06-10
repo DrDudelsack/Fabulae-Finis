@@ -435,6 +435,31 @@ deity_brewer = { # Milauwkee Brewer's mascot
 		fertility_apotheosis_capital_effect = yes
 	}
 }
+deity_leif_erikson= {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = viking
+			}
+			deity:omen_leif_erikson = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { naval_damage_taken = deity_naval_damage_taken_svalue }
+	omen = { navy_maintenance_cost = -0.05 } # Bonus from Omen
+	religion = viking
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
 #Lakeshore
 deity_heikki_lunta= { 
 	trigger = {
@@ -528,6 +553,184 @@ deity_polaris = {
 	omen = { global_tribesmen_output = global_tribesmen_output_svalue }  #Bonus from Omen
 	religion = lakeshore
 	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_great_turtle = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_great_turtle = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_manpower_modifier = deity_global_manpower_modifier_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
+	religion = lakeshore
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_sleeping_bear = { #To Do
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_sleeping_bear = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_tribesmen_output = global_tribesmen_output_svalue }  #Bonus from Omen
+	religion = lakeshore
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_minnehaha = { # To Do
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_minnehaha = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_tribesmen_output = global_tribesmen_output_svalue }  #Bonus from Omen
+	religion = lakeshore
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_ole_fitz = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			rare_deity_trigger = {
+				RELIGION = viking
+			}
+			deity:omen_ole_fitz = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { naval_damage_taken = deity_naval_damage_taken_svalue }
+	omen = { global_defensive = omen_global_defensive_svalue } #Bonus from Omen
+	religion = lakeshore
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_capital_freemen_effect = yes
+    }
+}
+deity_thunderbird = { #To Do
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_thunderbird = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_tribesmen_output = global_tribesmen_output_svalue }  #Bonus from Omen
+	religion = lakeshore
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_the_lady = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_the_lady = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
+	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = lakeshore
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        culture_apotheosis_capital_effect = yes
+    }
+}
+deity_the_witch = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = lakeshore
+			}
+			deity:omen_the_witch = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { stability_cost_modifier = deity_stability_cost_modifier }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = lakeshore
+	deity_category = culture 
 	deification_trigger = {
 		can_deify_trigger = yes
 	}

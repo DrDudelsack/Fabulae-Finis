@@ -72,5 +72,37 @@ deity_manager = {
 			key = omen_brewer
 			deity = deity_brewer
 		}
+		518 = {
+			key = omen_leif_erikson
+			deity = deity_leif_erikson
+		}
+		519 = {
+			key = omen_great_turtle
+			deity = deity_great_turtle
+		}
+		520 = {
+			key = omen_sleeping_bear
+			deity = deity_sleeping_bear
+		}
+		521 = {
+			key = omen_minnehaha
+			deity = deity_minnehaha
+		}
+		522 = {
+			key = omen_ole_fitz
+			deity = deity_ole_fitz
+		}
+		523 = {
+			key = omen_thunderbird
+			deity = deity_thunderbird
+		}
+		524 = {
+			key = omen_the_lady
+			deity = deity_the_lady
+		}
+		525 = {
+			key = omen_the_witch
+			deity = deity_the_witch
+		}
 	}
 }
