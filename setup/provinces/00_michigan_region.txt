@@ -3,11 +3,14 @@
 	culture="chicagoan"
 	religion="promethean"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -16,11 +19,14 @@
 	culture="chicagoan"
 	religion="promethean"
 	trade_goods="silk"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -29,11 +35,14 @@
 	culture="potowatomi"
 	religion="catholic"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -42,11 +51,14 @@
 	culture="potowatomi"
 	religion="catholic"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -55,11 +67,14 @@
 	culture="potowatomi"
 	religion="catholic"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -68,11 +83,14 @@
 	culture="potowatomi"
 	religion="catholic"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -133,11 +151,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -146,10 +167,16 @@
 	culture="upnorther"
 	religion="arsenalist"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
 		amount=1
 	}
 }
@@ -159,11 +186,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="woad"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -172,11 +202,15 @@
 	culture="motowner"
 	religion="promethean"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	slaves={
+		religion="twelver"
+		amount=2
 	}
 }
 
@@ -185,9 +219,17 @@
 	culture="michigander"
 	religion="lakeshore"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		religion="catholic"
+		culture="michiganais"
+		amount=1
+	}
 	tribesmen={
 		amount=1
 	}
@@ -198,9 +240,17 @@
 	culture="motowner"
 	religion="lakeshore"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		religion="catholic"
+		culture="michiganais"
+		amount=1
+	}
 	tribesmen={
 		amount=1
 	}
@@ -211,9 +261,15 @@
 	culture="michigander"
 	religion="lakeshore"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
 		amount=1
 	}
@@ -224,11 +280,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -237,11 +296,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -499,11 +561,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -512,11 +577,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -525,11 +593,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -538,11 +609,20 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -550,12 +630,13 @@
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="fish"
+	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		religion="mormon"
+		amount=2
 	}
 }
 
@@ -564,11 +645,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -577,11 +661,14 @@
 	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -590,11 +677,14 @@
 	culture="upnorther"
 	religion="arsenalist"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -884,11 +974,14 @@
 	culture="michigander"
 	religion="promethean"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -897,11 +990,14 @@
 	culture="motowner"
 	religion="promethean"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -910,11 +1006,14 @@
 	culture="motowner"
 	religion="promethean"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 

@@ -145,12 +145,18 @@
 	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -159,9 +165,15 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
 		amount=1
 	}
@@ -711,11 +723,22 @@
 	culture="ontarian"
 	religion="promethean"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="michiganais"
+		religion="ahl_al_qibla"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -756,11 +779,22 @@
 	culture="ontarian"
 	religion="promethean"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -769,11 +803,22 @@
 	culture="ontarian"
 	religion="promethean"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -1224,11 +1269,22 @@
 	culture="ontarian"
 	religion="promethean"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="michiganais"
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -1237,11 +1293,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="promethean"
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 

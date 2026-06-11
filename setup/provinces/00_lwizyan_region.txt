@@ -450,8 +450,8 @@
 		amount=2
 	}
 	freemen={
-		religion="traiteurism"
 		culture="louisianais"
+		religion="traiteurism"
 		amount=2
 	}
 	freemen={
@@ -1119,6 +1119,7 @@
 	}
 	tribesmen={
 		culture="louisianais"
+		amount=3
 	}
 	tribesmen={
 		amount=4

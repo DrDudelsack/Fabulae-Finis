@@ -858,7 +858,7 @@
 
 7195={ #Lumberton
 	terrain="forest"
-	culture="texan"
+	culture="louisianais"
 	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 7196={ #Beaumont
 	terrain="plains"
-	culture="texan"
+	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 7197={ #Orange
 	terrain="plains"
-	culture="texan"
+	culture="louisianais"
 	religion="traiteurism"
 	trade_goods=""
 	civilization_value=10
