@@ -298,3 +298,9 @@ utah_region = { #7
 		washington_utah_area green_river_area wasatch_area uintah_area cache_area sweetwater_area sevier_area
 	}
 }
+greenland_region = { #7
+	color = rgb { 190 58 82 }
+	areas = {
+		east_greenland_area south_greenland_area southeast_greenland_area southwest_greenland_area
+	}
+}

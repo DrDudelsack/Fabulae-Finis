@@ -40,7 +40,7 @@
 832={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 833={ #
 	terrain="desert_hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 3867={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 3868={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 3869={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 4717={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 4718={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 4719={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 4720={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 7164={ #
 	terrain="desert_hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 7165={ #
 	terrain="desert_hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 7166={ #
 	terrain="desert_hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 7167={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 7361={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 7362={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 7363={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 7926={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 7927={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 7928={ #
 	terrain="hills"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

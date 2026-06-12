@@ -846,7 +846,7 @@
 6570={ #
 	terrain="marsh"
 	culture="tejano"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 8280={ #
 	terrain="steppes"
 	culture="texan"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1249,7 +1249,7 @@
 9227={ #
 	terrain="plains"
 	culture="tejano"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

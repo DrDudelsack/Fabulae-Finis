@@ -1,4 +1,4 @@
-﻿federal = { #Federal Government
+federal = { #Federal Government
 	military_ideas = 1
 	civic_ideas = 1
 	oratory_ideas = 1
@@ -289,7 +289,7 @@ pirate_republic = { #Pirate Republic
 	can_deify_ruler = no
 }
 
-gaul_tribal_kingdom = { # kinship????
+range_tribal_kingdom = { # I want to be a cowboy
 	oratory_ideas = 1
 	civic_ideas = 1
 	military_ideas = 1
@@ -297,7 +297,7 @@ gaul_tribal_kingdom = { # kinship????
 	
 	has_co_ruler = yes 
 
-	ruler_consort_benefits = yes
+	#ruler_consort_benefits = yes
 	use_regnal_numbers = yes
 
 	bonus = {
@@ -306,7 +306,7 @@ gaul_tribal_kingdom = { # kinship????
 		global_pop_promotion_speed_modifier = 0.25
 	}
 	base = {
-		country_civilization_value = 10
+		country_civilization_value = 15
 		global_tribesmen_happyness = 0.08
 	}
 

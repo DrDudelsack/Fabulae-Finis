@@ -53,7 +53,7 @@
 379={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 380={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 381={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1667={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1668={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4955={ #
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 6170={ #
 	terrain="plains"
 	culture="gulfard"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -967,3 +967,15 @@ cache_area = {
 sweetwater_area = { 
 	provinces = { 8479 8480 8478 4811 4812 4813 7797 1673 1675 1674 1676 }
 }
+east_greenland_area = { 
+	provinces = { 8135 247 6486 6485 6487 2207 }
+}
+southeast_greenland_area = { 
+	provinces = { 8136 4632 3033 5500 7994 8042 7995 7338 }
+}
+south_greenland_area = { 
+	provinces = { 7339 5303 2801 7902 8076 8137 7902 8075 7901 4633  }
+}
+southwest_greenland_area = { 
+	provinces = { 248 249 7325 7327 2802 6527 6526  }
+}

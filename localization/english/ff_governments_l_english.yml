@@ -72,6 +72,12 @@
  tribal_federation_ruler_longhouse:0 "Royaner"
  tribal_chiefdom_ruler_longhouse:0 "Royaner"
  
+ range_tribal_kingdom:0 "Range"
+ range_tribal_kingdom_desc:0 "A collection of many semi-nomadic tribes, sedentary townships, and the odd proper city or two, a Range is ruled by an elected Sheriff and his Deputy, who are appointed by representatives of these settlements."
+ range_tribal_kingdom_ruler:0 "Sheriff"
+ range_tribal_kingdom_co_ruler:0 "Deputy"
+ range_tribal_kingdom_ruler_female:0 "Sheriff"
+ range_tribal_kingdom_co_ruler_female:0 "Deputy"
  
  plutocratic_republic_ruler:0 "Speaker"
  democratic_republic_ruler:0 "Speaker"
