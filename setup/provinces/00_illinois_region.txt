@@ -27,7 +27,7 @@
 322={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="egyptology"
+	religion="twainist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -40,8 +40,8 @@
 323={ #
 	terrain="flood_plain"
 	culture="butternutter"
-	religion="egyptology"
-	trade_goods=""
+	religion="twainist"
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -428,7 +428,7 @@
 6033={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -695,7 +695,7 @@
 7924={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -813,7 +813,7 @@
 9204={ #Quincy
 	terrain="farmland"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="gems"
 	civilization_value=25
 	barbarian_power=0

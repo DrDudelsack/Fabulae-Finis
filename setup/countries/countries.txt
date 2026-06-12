@@ -180,6 +180,7 @@ REN = "setup/countries/west_coast/reno.txt"
 PUG = "setup/countries/west_coast/puget.txt"
 TUC = "setup/countries/west_coast/tucson.txt"
 VEG = "setup/countries/west_coast/vegas.txt"
+CLA = "setup/countries/west_coast/elton_california.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

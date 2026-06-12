@@ -54,7 +54,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

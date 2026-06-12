@@ -353,6 +353,8 @@
  TUC_ADJ:0 "Tucsonian"
  VEG:0 "The Strip"
  VEG_ADJ:0 "Vegasite"
+ CLA:0 "California Liberation Army"
+ CLA_ADJ:0 "Californian"
 
  ## East Canada ##
  FRO:0 "Francontario"

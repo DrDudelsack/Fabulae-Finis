@@ -171,7 +171,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="hills"
 	culture="pocono"
 	religion="bostonian"
-	trade_goods="wood"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

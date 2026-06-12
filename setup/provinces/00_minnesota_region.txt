@@ -76,7 +76,7 @@
 
 238={ #Grand Rapids
 	terrain="forest"
-	culture="copperhead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=6
@@ -110,7 +110,7 @@
 
 240={ #Walker
 	terrain="forest"
-	culture="northlander"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -369,7 +369,7 @@
 
 3555={ #Crosby
 	terrain="forest"
-	culture="northlander"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -382,9 +382,9 @@
 
 3556={ #Mato
 	terrain="forest"
-	culture="copperhead"
+	culture="ojibwe"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -395,7 +395,7 @@
 
 3557={ #Mní wa
 	terrain="forest"
-	culture="copperhead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="leather"
 	civilization_value=10
@@ -408,7 +408,7 @@
 
 3558={ #Wakan
 	terrain="forest"
-	culture="copperhead"
+	culture="ojibwe"
 	religion="viking"
 	trade_goods="fish"
 	civilization_value=10
@@ -423,7 +423,7 @@
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
@@ -565,7 +565,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -591,7 +591,7 @@
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="earthware"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
@@ -827,7 +827,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -853,7 +853,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

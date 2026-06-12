@@ -105,7 +105,7 @@
 1036={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1038={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -436,7 +436,7 @@
 2908={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="lakeshore"
+	religion="promethean"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -475,7 +475,7 @@
 2911={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="lakeshore"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -488,7 +488,7 @@
 3030={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -514,7 +514,7 @@
 3032={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -540,7 +540,7 @@
 5110={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -579,7 +579,7 @@
 5906={ #
 	terrain="taiga"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -592,7 +592,7 @@
 5907={ #
 	terrain="marsh"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -657,7 +657,7 @@
 6115={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -852,7 +852,7 @@
 6728={ #
 	terrain="marsh"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -865,7 +865,7 @@
 6729={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -878,7 +878,7 @@
 6730={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="promethean"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -959,7 +959,7 @@
 7871={ #
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

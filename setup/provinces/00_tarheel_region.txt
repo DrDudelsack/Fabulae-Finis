@@ -236,7 +236,7 @@
 	terrain="marsh"
 	culture="sandlapper"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -769,7 +769,7 @@
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
-	trade_goods="cotton"
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -899,7 +899,7 @@
 	terrain="forest"
 	culture="hoi_toider"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -119,7 +119,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="marsh"
 	culture="sandlapper"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -315,7 +315,7 @@
 4002={ #
 	terrain="plains"
 	culture="riverlander"
-	religion="egyptology"
+	religion="twainist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
