@@ -797,9 +797,9 @@ country = {
 		}
 
 		FRO = { #Francontario
-			government = titanate
+			government = aristocratic_monarchy
 			primary_culture = francontarien
-			religion = promethean
+			religion = ursuline
 			capital = 640
 
 			technology={
@@ -3268,6 +3268,31 @@ country = {
 
 			own_control_core = {
 				4984 5460 5461 5912 
+			}
+		}
+		MRI = { # Maritimes
+			government = stratocratic_monarchy
+			primary_culture = maritimer
+			religion = veteranic
+			capital = 2133
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1084 1082 1080 176 2760 2758 177 174 175 1130 2757 2761 2759
+				48 7367 7368 941 943 942 1881
+				1128 7292 6448 6450 6449 6451 7291 1129 7290
+				7288 6696 7287 7289 6698 2133 7286 2135 2134 2136
+				6391 7142 4859 4860 4861 11929 6394 6392 6393 11928 7141 7140
+				8069 8068 8067 3703 3702 3704 674
+				3163 3236 3164 3237 3238 1882 1880 
+				1721 1719 11930 8934 8932 8933 8931 1720 1722 6697
+				6582 6581 6580 1145 6670 1146 6671 1147
 			}
 		}
 	}

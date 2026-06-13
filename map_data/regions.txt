@@ -196,10 +196,10 @@ bas_quebec_region = { #6
 		quebec_area bas_saint_laurent_area chaudiere_appalaches_area cote_nord_area gaspesie_area sept_rivieres_area saguenay_area
 	}
 }
-maritimes_region = { #6
+maritimes_region = { #9
 	color = rgb { 60 66 132 }
 	areas = {
-		petitcodiac_area miramichi_area new_brunswick_area restigouche_area
+		petitcodiac_area miramichi_area new_brunswick_area restigouche_area new_france_area tatamagouche_area nova_scotia_area iverness_area stratford_area
 	}
 }
 socal_region = { #7
@@ -302,5 +302,11 @@ greenland_region = { #7
 	color = rgb { 190 58 82 }
 	areas = {
 		east_greenland_area south_greenland_area southeast_greenland_area southwest_greenland_area
+	}
+}
+nueva_navarra_region = { #7
+	color = rgb { 196 70 70 }
+	areas = {
+		cortes_area nogales_area sonora_area hiakim_area hiakim_south_area
 	}
 }

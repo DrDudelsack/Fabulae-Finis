@@ -192,7 +192,7 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=20
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -203,7 +203,17 @@
 		amount=1
 	}
 	freemen={
+		culture="bosniak"
+		religion="ismaili"
+		amount=1
+	}
+	freemen={
 		amount=2
+	}
+	slaves={
+		culture="paw_paw"
+		religion="catholic"
+		amount=1
 	}
 	slaves={
 		amount=4
@@ -325,7 +335,7 @@
 	}
 }
 
-4206={ #Saint Louis
+4206={ #St. Louis
 	terrain="farmland"
 	culture="gatewayan"
 	religion="promethean"
@@ -345,6 +355,16 @@
 	}
 	citizen={
 		religion="catholic"
+		amount=2
+	}
+	citizen={
+		culture="bosniak"
+		religion="ismaili"
+		amount=2
+	}
+	freemen={
+		culture="bosniak"
+		religion="ismaili"
 		amount=2
 	}
 	freemen={
@@ -401,6 +421,8 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		culture="bosniak"
+		religion="ismaili"
 		amount=2
 	}
 	freemen={
@@ -410,6 +432,11 @@
 	freemen={
 		religion="twainist"
 		amount=1
+	}
+	slaves={
+		culture="paw_paw"
+		religion="catholic"
+		amount=2
 	}
 	slaves={
 		amount=3
@@ -424,6 +451,11 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="bosniak"
+		religion="ismaili"
+		amount=2
+	}
 	freemen={
 		amount=2
 	}
@@ -434,6 +466,11 @@
 	freemen={
 		religion="twainist"
 		amount=1
+	}
+	slaves={
+		culture="paw_paw"
+		religion="catholic"
+		amount=2
 	}
 	slaves={
 		amount=3

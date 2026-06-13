@@ -487,7 +487,7 @@
 
 3030={ #
 	terrain="forest"
-	culture="ojibwe"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -513,7 +513,7 @@
 
 3032={ #
 	terrain="forest"
-	culture="ojibwe"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -526,7 +526,7 @@
 
 5109={ #
 	terrain="forest"
-	culture="ojibwe"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -539,7 +539,7 @@
 
 5110={ #
 	terrain="forest"
-	culture="ojibwe"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -552,7 +552,7 @@
 
 5111={ #
 	terrain="forest"
-	culture="ojibwe"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
