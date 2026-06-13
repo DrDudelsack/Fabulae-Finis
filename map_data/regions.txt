@@ -310,3 +310,15 @@ nueva_navarra_region = { #7
 		cortes_area nogales_area sonora_area hiakim_area hiakim_south_area
 	}
 }
+nunavik_region = { 
+	color = rgb { 121 143 163 }
+	areas = {
+		salluit_area kativik_area james_bay_area eyou_itchee_area abitibi_area
+	}
+}
+newfoundland_region = { 
+	color = rgb { 250 90 160 }
+	areas = {
+		long_range_area notre_dame_bay_area avalon_area southwest_labrador_area labrador_area
+	}
+}

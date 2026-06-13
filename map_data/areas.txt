@@ -1009,3 +1009,33 @@ hiakim_area = {
 hiakim_south_area = { 
 	provinces = { 6781 11974 6782 5684 5682 5683 6783 }
 }
+abitibi_area = { 
+	provinces = { 6304 6303 282 284 283 601 600 599 602 }
+}
+eyou_itchee_area = { 
+	provinces = { 5120 910 909 911 5937 5936 5935 }
+}
+james_bay_area = { 
+	provinces = { 8530 8529 1718 1716 1717 9242 9244 9243 2531 2534 2533 }
+}
+labrador_area = { 
+	provinces = { 9301 4414 516 5582 5583 7473 7472 144 145 2443 4415 2444 2445 559 558 }
+}
+kativik_area = { 
+	provinces = { 2532 6598 6598 6596 6597 6769 6770 8014 }
+}
+salluit_area = { 
+	provinces = { 8015 1664 1663 4005 8368 8367 319 317 318 4006 }
+}
+long_range_area = { 
+	provinces = { 3035 7036 3034 7034 7033 7035 5717 2188 3519 2186 }
+}
+notre_dame_bay_area = { 
+	provinces = { 7037 3335 2187 3334 3336 6867 6869 6866 6868 }
+}
+avalon_area = { 
+	provinces = { 6937 4935 4933 4934 11957 5715 5716 5714 1202 1201 3518}
+}
+southwest_labrador_area = { 
+	provinces = { 1200 5396 2520 5396 5397 3522 2185 7326 3520 5395 }
+}
