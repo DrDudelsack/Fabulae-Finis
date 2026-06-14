@@ -281,7 +281,7 @@ pine_city_area = {
 	provinces = { 3558 3556 3557 3555 7074 7075 7076 }
 }
 boundary_waters_area = { 
-	provinces = { 7454 8306 3939 3938 7456 9518 }
+	provinces = { 7454 8306 3939 3938 7456 }
 }
 gary_area = { 
 	provinces = { 8807 8808 111 11635 2303 2305 8806 }
@@ -1038,4 +1038,61 @@ avalon_area = {
 }
 southwest_labrador_area = { 
 	provinces = { 1200 5396 2520 5396 5397 3522 2185 7326 3520 5395 }
+}
+winnipeg_area = { 
+	provinces = { 9282 1494 1497 1496 1493 3792 9281 1495 }
+}
+east_winnipeg_area = { 
+	provinces = { 2122 2121 3331 3333 3332 2120 6406 6405 }
+}
+kenora_area = { 
+	provinces = { 9460 9459 9458 2066 9461 2067 9518 }
+}
+sioux_lookout_area = { 
+	provinces = { 2068 2065 5904 2075 2078 2077 2076 1390 }
+}
+interlake_area = { 
+	provinces = { 5548 5550 5551 5549 2748 2746 2747 }
+}
+whitmore_area = { 
+	provinces = { 6816 3794 3793 2350 2349 8898 8456 186 2348 187 }
+}
+manitou_area = { 
+	provinces = { 9283 9085 9086 9085 6716 6714 6717 6715 8897 }
+}
+berens_river_area = { 
+	provinces = { 2437 2439 2438 1391 1389 1392 }
+}
+port_nelson_area = { 
+	provinces = { 545 8741 8740 544 543 5896 5895 5894 5897 }
+}
+cat_lake_area = { 
+	provinces = { 4661 4660 4662 4649 363 366 364 365 4659 }
+}
+norway_house_area = { 
+	provinces = { 1028 1026 1027 1800 1799 8175 8174 8176 8177 }
+}
+warren_landing_area = { 
+	provinces = { 1159 1161 2582 546 547 548 549 2580 2581  }
+}
+flin_flon_area = { 
+	provinces = { 539 541 540 5165 542 1160 5167 5166 2222 2221 2220 }
+}
+langbank_area = { 
+	provinces = { 5980 7526 7525 7524 5983 3012 3013 3011 8457 8454 3010 }
+}
+iqaluit_area = { 
+	provinces = { 4901 4899 2198 2200 2197 1633 1632 1634 4900 2199 }
+}
+iglulik_area = { 
+	provinces = { 2860 2861 2862 2525 2526 3534 8055 8057 3536 3535 8058 }
+}
+kivalliq_area = { 
+	provinces = { 8333 9005 9004 8462 9006 3218 3219 3220 8056 }
+}
+kitikmeot_area = { 
+	provinces = { 9586 9585 7181 7180 7179 8463 3271 3272 3273 }
+}
+nde_area = { 
+	provinces = { 8074 8073 2340 2342 2343 4200 4199 6685 6682 6683 6684 2341 }
 }

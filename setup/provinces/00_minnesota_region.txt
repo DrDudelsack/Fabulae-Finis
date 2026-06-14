@@ -3,11 +3,11 @@
 	culture="minnesotan"
 	religion="heartful"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -19,8 +19,11 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -29,11 +32,18 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		religion="viking"
 		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -113,7 +123,7 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -131,11 +141,25 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -144,11 +168,25 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -156,12 +194,27 @@
 	terrain="farmland"
 	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
+	trade_goods="leather"
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	citizen={
+		religion="promethean"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="viking"
+		amount=3
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -170,11 +223,25 @@
 	culture="minnesotan"
 	religion="twainist"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -183,9 +250,15 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
 		amount=1
 	}
@@ -196,11 +269,11 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -209,11 +282,11 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -222,11 +295,15 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="hallucinogenics"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		religion="viking"
 		amount=1
+	}
+	tribesmen={
+		amount=6
 	}
 }
 
@@ -235,11 +312,11 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -248,11 +325,11 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -261,11 +338,11 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -274,11 +351,11 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -287,11 +364,11 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -300,11 +377,25 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -312,12 +403,35 @@
 	terrain="farmland"
 	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
+	trade_goods="cloth"
+	civilization_value=24
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	citizen={
+		religion="promethean"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="viking"
 		amount=1
+	}
+	freemen={
+		religion="heartful"
+		amount=1
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	freemen={
+		culture="dakota"
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -359,11 +473,15 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		religion="viking"
+		amount=2
 	}
 }
 
@@ -372,11 +490,11 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -385,11 +503,11 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -398,11 +516,11 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -411,11 +529,11 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -488,11 +606,11 @@
 	culture="metis"
 	religion="midewiwin"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -501,11 +619,11 @@
 	culture="metis"
 	religion="midewiwin"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -514,11 +632,25 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -527,11 +659,25 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -540,11 +686,25 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -553,11 +713,25 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="viking"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -566,11 +740,11 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -579,11 +753,11 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -592,7 +766,7 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="earthware"
-	civilization_value=17
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -699,16 +873,12 @@
 		amount=4
 	}
 	freemen={
-		religion="capitalist"
-		amount=1
-	}
-	freemen={
 		religion="arsenalist"
-		amount=1
+		amount=3
 	}
 	freemen={
 		religion="lutheran"
-		amount=3
+		amount=4
 	}
 	freemen={
 		religion="viking"
@@ -720,9 +890,6 @@
 	}
 	slaves={
 		amount=8
-	}
-	tribesmen={
-		amount=1
 	}
 	holy_site=omen_prince
 }
@@ -760,11 +927,11 @@
 	culture="minnesotan"
 	religion="heartful"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -773,11 +940,25 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="viking"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -786,11 +967,24 @@
 	culture="minnesotan"
 	religion="heartful"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		religion="viking"
+		amount=2
 	}
 }
 
@@ -815,11 +1009,11 @@
 	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -828,11 +1022,11 @@
 	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -841,11 +1035,11 @@
 	culture="northlander"
 	religion="lutheran"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -854,11 +1048,11 @@
 	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -867,11 +1061,15 @@
 	culture="northlander"
 	religion="lutheran"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=7
+	}
+	slaves={
+		religion="viking"
+		amount=2
 	}
 }
 
@@ -880,11 +1078,22 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="dakota"
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		religion="viking"
+		amount=2
 	}
 }
 
@@ -893,11 +1102,17 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -906,11 +1121,25 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="viking"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -975,11 +1204,11 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -988,11 +1217,11 @@
 	culture="ojibwe"
 	religion="viking"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 

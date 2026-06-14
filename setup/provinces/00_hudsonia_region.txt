@@ -165,7 +165,7 @@
 	terrain="hills"
 	culture="vermonter"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1015,7 +1015,7 @@
 	terrain="forest"
 	culture="vermonter"
 	religion="bostonian"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1028,7 +1028,7 @@
 	terrain="forest"
 	culture="hudsonian"
 	religion="bostonian"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1371,7 +1371,7 @@
 	terrain="hills"
 	culture="vermonter"
 	religion="ursuline"
-	trade_goods="wood"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1384,7 +1384,7 @@
 	terrain="hills"
 	culture="vermonter"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1397,7 +1397,7 @@
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1436,7 +1436,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

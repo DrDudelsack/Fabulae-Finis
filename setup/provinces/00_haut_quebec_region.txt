@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
-	trade_goods="wood"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

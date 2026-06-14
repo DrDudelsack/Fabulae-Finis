@@ -1,7 +1,46 @@
-﻿231={ #
+﻿144={ #
+	terrain="taiga"
+	culture="innu"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+145={ #
+	terrain="taiga"
+	culture="innu"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+516={ #
+	terrain="taiga"
+	culture="innu"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+558={ #
 	terrain="mountain"
-	culture="okanaganer"
-	religion="catholic"
+	culture="inuit"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11,179 +50,10 @@
 	}
 }
 
-1054={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1055={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1056={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2104={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2105={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2106={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2240={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2241={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2242={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2506={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="dreamer"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2507={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="dreamer"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2508={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="dreamer"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2817={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2818={ #
+559={ #
 	terrain="mountain"
-	culture="doukhobor"
-	religion="dreamer"
+	culture="inuit"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -193,10 +63,49 @@
 	}
 }
 
-2819={ #
+1200={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1201={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1202={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2185={ #
 	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+	culture="mikmaw"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -206,101 +115,10 @@
 	}
 }
 
-2820={ #
-	terrain="mountain"
-	culture="doukhobor"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4656={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4657={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4658={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4950={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4951={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5530={ #
-	terrain="mountain"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5531={ #
+2186={ #
 	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+	culture="newfie"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -310,10 +128,10 @@
 	}
 }
 
-5834={ #
-	terrain="mountain"
-	culture="doukhobor"
-	religion="dreamer"
+2187={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -323,10 +141,179 @@
 	}
 }
 
-5836={ #
+2188={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2443={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2444={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2445={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2520={ #
+	terrain="plains"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3034={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3035={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3334={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3335={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3336={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3518={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3519={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3520={ #
+	terrain="forest"
+	culture="mikmaw"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3522={ #
 	terrain="hills"
-	culture="doukhobor"
-	religion="dreamer"
+	culture="mikmaw"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -336,10 +323,10 @@
 	}
 }
 
-6470={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
+4414={ #
+	terrain="taiga"
+	culture="innu"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -349,10 +336,10 @@
 	}
 }
 
-6471={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
+4415={ #
+	terrain="marsh"
+	culture="innu"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -362,10 +349,10 @@
 	}
 }
 
-6784={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+4933={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -375,10 +362,10 @@
 	}
 }
 
-6785={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+4934={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -388,10 +375,49 @@
 	}
 }
 
-6786={ #
+4935={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5395={ #
+	terrain="forest"
+	culture="mikmaw"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5396={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5397={ #
 	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+	culture="mikmaw"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -401,10 +427,10 @@
 	}
 }
 
-7256={ #
-	terrain="desert_hills"
-	culture="meseteno"
-	religion="catholic"
+5582={ #
+	terrain="taiga"
+	culture="innu"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -414,10 +440,10 @@
 	}
 }
 
-7257={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+5583={ #
+	terrain="forest"
+	culture="innu"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -427,10 +453,10 @@
 	}
 }
 
-7258={ #
-	terrain="desert_hills"
-	culture="meseteno"
-	religion="catholic"
+5714={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -440,10 +466,179 @@
 	}
 }
 
-8085={ #
+5715={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5716={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5717={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6866={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6867={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6868={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6869={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6937={ #Saint-Pierre-et-Miquelon
+	terrain="forest"
+	culture="pierrais"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7033={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7034={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7035={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7036={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7037={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7326={ #
 	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+	culture="mikmaw"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -453,10 +648,10 @@
 	}
 }
 
-8086={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+7472={ #
+	terrain="taiga"
+	culture="innu"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -466,10 +661,10 @@
 	}
 }
 
-8421={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+7473={ #
+	terrain="taiga"
+	culture="innu"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -479,10 +674,10 @@
 	}
 }
 
-8422={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+9301={ #
+	terrain="marsh"
+	culture="innu"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -492,49 +687,10 @@
 	}
 }
 
-9429={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9430={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9431={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9432={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+11957={ #
+	terrain="forest"
+	culture="newfie"
+	religion="fogsong"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

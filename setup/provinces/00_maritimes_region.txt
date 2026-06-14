@@ -63,6 +63,19 @@
 	}
 }
 
+674={ #
+	terrain="forest"
+	culture="mikmaw"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 941={ #
 	terrain="forest"
 	culture="acadien"
@@ -206,6 +219,84 @@
 	}
 }
 
+1146={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1147={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1719={ #
+	terrain="forest"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1720={ #
+	terrain="forest"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1721={ #
+	terrain="forest"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1722={ #
+	terrain="forest"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 1880={ #
 	terrain="plains"
 	culture="acadien"
@@ -236,6 +327,58 @@
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2133={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2134={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2135={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2136={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -388,6 +531,136 @@
 	}
 }
 
+3702={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3703={ #
+	terrain="farmland"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3704={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4859={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4860={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4861={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6391={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6392={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6393={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6394={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 6448={ #
 	terrain="plains"
 	culture="chiac"
@@ -479,6 +752,162 @@
 	}
 }
 
+6670={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6671={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6696={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6697={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6698={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7140={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7141={ #
+	terrain="hills"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7142={ #
+	terrain="hills"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7286={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7287={ #
+	terrain="farmland"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7288={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7289={ #
+	terrain="farmland"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 7290={ #
 	terrain="plains"
 	culture="chiac"
@@ -532,6 +961,136 @@
 }
 
 7368={ #
+	terrain="forest"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8067={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8068={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8069={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8931={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8932={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8933={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8934={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11928={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11929={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11930={ #
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"

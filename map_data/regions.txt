@@ -52,10 +52,10 @@ florida_region = { #9
 		norflo_area tallahassee_area panhandle_area st_augustine_area soflo_area everglades_area disneyland_area tampa_bay_area fort_meyers_area
 	}
 }
-superior_region = { #8
+superior_region = { #10
 	color = rgb { 93 61 166 }
 	areas = {
-		duluth_area marquette_area marathon_area thunder_bay_area sault_ste_marie_area north_ontario_area ironwood_area west_ontario_area
+		duluth_area marquette_area marathon_area thunder_bay_area sault_ste_marie_area north_ontario_area ironwood_area west_ontario_area kenora_area sioux_lookout_area
 	}
 }
 badgerland_region = { #9
@@ -310,15 +310,33 @@ nueva_navarra_region = { #7
 		cortes_area nogales_area sonora_area hiakim_area hiakim_south_area
 	}
 }
-nunavik_region = { 
+nunavik_region = { #5
 	color = rgb { 121 143 163 }
 	areas = {
 		salluit_area kativik_area james_bay_area eyou_itchee_area abitibi_area
 	}
 }
-newfoundland_region = { 
+newfoundland_region = { #5
 	color = rgb { 250 90 160 }
 	areas = {
 		long_range_area notre_dame_bay_area avalon_area southwest_labrador_area labrador_area
+	}
+}
+manitoba_region = { #6
+	color = rgb { 30 120 130 }
+	areas = {
+		interlake_area whitmore_area berens_river_area manitou_area winnipeg_area east_winnipeg_area
+	}
+}
+keewatin_region = { #5
+	color = rgb { 176 86 198 }
+	areas = {
+		port_nelson_area warren_landing_area flin_flon_area norway_house_area cat_lake_area
+	}
+}
+nunavut_region = { #4
+	color = rgb { 189 194 170 }
+	areas = {
+		iqaluit_area iglulik_area kivalliq_area kitikmeot_area
 	}
 }

@@ -1,7 +1,7 @@
-﻿231={ #
-	terrain="mountain"
-	culture="okanaganer"
-	religion="catholic"
+﻿282={ #
+	terrain="forest"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11,10 +11,10 @@
 	}
 }
 
-1054={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+283={ #
+	terrain="forest"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24,10 +24,10 @@
 	}
 }
 
-1055={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+284={ #
+	terrain="forest"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -37,10 +37,10 @@
 	}
 }
 
-1056={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="loneranger"
+317={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -50,10 +50,10 @@
 	}
 }
 
-2104={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
+318={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -63,10 +63,10 @@
 	}
 }
 
-2105={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
+319={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -76,10 +76,10 @@
 	}
 }
 
-2106={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
+599={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -89,10 +89,10 @@
 	}
 }
 
-2240={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+600={ #
+	terrain="marsh"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -102,10 +102,10 @@
 	}
 }
 
-2241={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="loneranger"
+601={ #
+	terrain="marsh"
+	culture="algonquin"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -115,10 +115,10 @@
 	}
 }
 
-2242={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+602={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -128,10 +128,10 @@
 	}
 }
 
-2506={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="dreamer"
+909={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -141,10 +141,10 @@
 	}
 }
 
-2507={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="dreamer"
+910={ #
+	terrain="taiga"
+	culture="quebecois"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -154,10 +154,10 @@
 	}
 }
 
-2508={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="dreamer"
+911={ #
+	terrain="taiga"
+	culture="quebecois"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -167,10 +167,218 @@
 	}
 }
 
-2817={ #
+1663={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1664={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1716={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1717={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1718={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2531={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2532={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2533={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2534={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4005={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4006={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5120={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5935={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5936={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5937={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6303={ #
+	terrain="forest"
+	culture="algonquin"
+	religion="ursuline"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6304={ #
 	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+	culture="algonquin"
+	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -180,10 +388,10 @@
 	}
 }
 
-2818={ #
-	terrain="mountain"
-	culture="doukhobor"
-	religion="dreamer"
+6596={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -193,10 +401,10 @@
 	}
 }
 
-2819={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+6597={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -206,10 +414,10 @@
 	}
 }
 
-2820={ #
-	terrain="mountain"
-	culture="doukhobor"
-	religion="catholic"
+6598={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -219,10 +427,10 @@
 	}
 }
 
-4656={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+6769={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -232,10 +440,10 @@
 	}
 }
 
-4657={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+6770={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -245,10 +453,10 @@
 	}
 }
 
-4658={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+8014={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -258,10 +466,10 @@
 	}
 }
 
-4950={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+8015={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -271,10 +479,10 @@
 	}
 }
 
-4951={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+8367={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -284,10 +492,10 @@
 	}
 }
 
-5530={ #
-	terrain="mountain"
-	culture="inlander"
-	religion="catholic"
+8368={ #
+	terrain="taiga"
+	culture="inuit"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -297,10 +505,10 @@
 	}
 }
 
-5531={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
+8529={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -310,10 +518,10 @@
 	}
 }
 
-5834={ #
-	terrain="mountain"
-	culture="doukhobor"
-	religion="dreamer"
+8530={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -323,10 +531,10 @@
 	}
 }
 
-5836={ #
-	terrain="hills"
-	culture="doukhobor"
-	religion="dreamer"
+9242={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -336,10 +544,10 @@
 	}
 }
 
-6470={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
+9243={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -349,192 +557,10 @@
 	}
 }
 
-6471={ #
-	terrain="dry_hills"
-	culture="meseteno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6784={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6785={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6786={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7256={ #
-	terrain="desert_hills"
-	culture="meseteno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7257={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7258={ #
-	terrain="desert_hills"
-	culture="meseteno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8085={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8086={ #
-	terrain="hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8421={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8422={ #
-	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9429={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9430={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9431={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9432={ #
-	terrain="desert"
-	culture="inlander"
-	religion="loneranger"
+9244={ #
+	terrain="marsh"
+	culture="eeyou"
+	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

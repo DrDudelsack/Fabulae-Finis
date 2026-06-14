@@ -3,11 +3,17 @@
 	culture="gothamite"
 	religion="transcendentalist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -35,11 +41,17 @@
 	culture="gothamite"
 	religion="transcendentalist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -230,11 +242,17 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -275,11 +293,17 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -288,11 +312,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -301,11 +331,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -314,11 +350,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -327,11 +369,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -340,11 +388,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -375,11 +429,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="shells"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -388,11 +448,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -401,11 +467,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -414,11 +486,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -427,11 +505,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -440,11 +524,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -453,11 +543,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="dye"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -466,11 +562,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -479,11 +581,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -492,11 +600,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -505,11 +619,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -518,11 +638,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -639,11 +765,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -652,11 +784,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -665,11 +803,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -678,11 +822,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -691,11 +841,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -704,11 +860,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -717,11 +879,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -730,11 +898,17 @@
 	culture="vermonter"
 	religion="transcendentalist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -743,11 +917,17 @@
 	culture="vermonter"
 	religion="transcendentalist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -756,11 +936,17 @@
 	culture="bayfolk"
 	religion="americanist"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -769,11 +955,17 @@
 	culture="bayfolk"
 	religion="transcendentalist"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -782,11 +974,17 @@
 	culture="bayfolk"
 	religion="transcendentalist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -795,11 +993,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -808,11 +1012,17 @@
 	culture="youser"
 	religion="quaker"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -962,11 +1172,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -975,11 +1191,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -988,11 +1210,17 @@
 	culture="bayfolk"
 	religion="transcendentalist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1001,11 +1229,17 @@
 	culture="bayfolk"
 	religion="americanist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1014,11 +1248,17 @@
 	culture="bayfolk"
 	religion="continental"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1027,11 +1267,17 @@
 	culture="vermonter"
 	religion="continental"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1040,11 +1286,17 @@
 	culture="vermonter"
 	religion="transcendentalist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1053,11 +1305,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1066,11 +1324,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1079,11 +1343,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1092,11 +1362,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1105,11 +1381,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1118,11 +1400,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1131,11 +1419,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1144,11 +1438,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="shells"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1157,11 +1457,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1170,11 +1476,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1183,11 +1495,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1196,11 +1514,17 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="dye"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1209,11 +1533,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1222,11 +1552,17 @@
 	culture="bayfolk"
 	religion="americanist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1235,11 +1571,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1248,11 +1590,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1261,11 +1609,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1274,11 +1628,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1287,11 +1647,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1332,11 +1698,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="silk"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1345,11 +1717,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1358,11 +1736,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="dye"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1371,11 +1755,17 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
