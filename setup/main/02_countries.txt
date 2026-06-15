@@ -234,7 +234,7 @@ country = {
 			}
 
 			own_control_core = {
-				5482 5481 5479 5505 5506 5480 5503 5504 8484 8217 8216 8485
+				5482 5481 5479 5480 5503 5504 8484 8217 8216 8485
 				2696 7232 7231 7230 7517 7233 7518 7519
 				887
 			}
@@ -610,6 +610,24 @@ country = {
 			own_control_core = {
 				9500 9501 9499 5955 7718 7719 7720 2413 
 				3575 2412 2411 7197 530 531 
+			}
+		}
+
+		HOM = { #Houma
+			government = tribal_federation
+			primary_culture = houma
+			religion = traiteurism
+			capital = 5506
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5506 5505
 			}
 		}
 

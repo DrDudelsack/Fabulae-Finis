@@ -285,6 +285,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=1
+	}
+	freemen={
 		amount=2
 	}
 	slaves={
@@ -297,7 +302,7 @@
 
 5480={ #Donaldsonville
 	terrain="marsh"
-	culture="louisianais"
+	culture="houma"
 	religion="traiteurism"
 	trade_goods=""
 	civilization_value=16
@@ -307,6 +312,10 @@
 		culture="nolan"
 		religion="vodou"
 		amount=2
+	}
+	tribesmen={
+		culture="louisianais"
+		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -357,7 +366,7 @@
 
 5503={ #Luling
 	terrain="marsh"
-	culture="nolan"
+	culture="houma"
 	religion="traiteurism"
 	trade_goods="wood"
 	civilization_value=17
@@ -366,6 +375,11 @@
 	freemen={
 		religion="vodou"
 		amount=2
+	}
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=1
 	}
 	tribesmen={
 		culture="louisianais"
@@ -378,7 +392,7 @@
 
 5504={ #Grand Isle
 	terrain="marsh"
-	culture="nolan"
+	culture="houma"
 	religion="traiteurism"
 	trade_goods="fruits"
 	civilization_value=16
@@ -386,6 +400,11 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
+	}
+	freemen={
+		culture="nolan"
+		religion="vodou"
+		amount=1
 	}
 	tribesmen={
 		culture="louisianais"
@@ -398,16 +417,23 @@
 
 5505={ #Morgan City
 	terrain="marsh"
-	culture="louisianais"
+	culture="houma"
 	religion="traiteurism"
 	trade_goods="rice"
-	civilization_value=16
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		culture="nolan"
 		religion="vodou"
+		amount=1
+	}
+	slaves={
 		amount=2
+	}
+	tribesmen={
+		culture="louisianais"
+		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -416,19 +442,26 @@
 
 5506={ #Houma
 	terrain="marsh"
-	culture="louisianais"
+	culture="houma"
 	religion="traiteurism"
 	trade_goods="vegetables"
-	civilization_value=17
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=4
+	}
+	freemen={
 		culture="nolan"
 		religion="vodou"
-		amount=2
+		amount=1
 	}
 	tribesmen={
+		culture="louisianais"
 		amount=3
+	}
+	tribesmen={
+		amount=4
 	}
 }
 

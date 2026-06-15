@@ -1118,3 +1118,21 @@ WMS = { # Mohawk
 	}
 }
 
+HOM = { # Houma - based on the flag of the United Houma Nation
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 163 13 13 }
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "offwhite"
+		instance = {  scale = { 1.10 1.10 } position = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_houma.dds"
+		color1 = rgb { 163 13 13 }
+		color2 = rgb { 231 218 37 }
+		instance = { scale = { 1.10 1.10 } position = { 0.5 0.5 } }
+	}
+}
+
