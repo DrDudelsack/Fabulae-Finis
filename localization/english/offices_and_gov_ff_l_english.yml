@@ -72,6 +72,36 @@
  tribal_hegemony_consort_:0 ""
  tribal_hegemony_consort_female_:0 ""
 
+ #Monarchy Offices
+ office_foreign_minister_:0 ""
+ office_royal_tutor_:0 ""
+ office_marshal_:0 ""
+ office_master_of_the_guard_:0 ""
+ office_high_priest_monarchy_:0 ""
+ office_philosopher_:0 ""
+ office_steward_:0 ""
+ office_physician_:0 ""
+
+ #Republic Offices
+ office_augur_:0 ""
+ office_plebeian_aedile_:0 ""
+ office_censor_:0 ""
+ office_tribune_of_the_soldiers_:0 ""
+ office_pontifex_:0 ""
+ office_republic_physician_:0 ""
+ office_praetor_:0 "S"
+ office_tribune_of_the_treasury_:0 ""
+ 
+ #Tribal Offices
+ office_bodyguard_:0 ""
+ office_high_priest_:0 ""
+ office_magistrate_:0 ""
+ office_arbitrator_:0 ""
+ office_warchief_:0 ""
+ office_elder_:0 ""
+ office_apothecary_:0 ""
+ office_wise_person_:0 ""
+
  ## Religion Specific Office Names ##
 
  #Clairvoyant Monarchy Ruler Titles
@@ -356,3 +386,33 @@
  tribal_federation_ruler_female_louisianais:0 "Gro Chyen"
  tribal_federation_consort_louisianais:0 "Épouse"
  tribal_federation_consort_female_louisianais:0 "Épouse"
+
+ #Louisianais Monarchy Offices
+ office_foreign_minister_louisianais:0 ""
+ office_royal_tutor_louisianais:0 ""
+ office_marshal_louisianais:0 "Cheval" #Common French for Knight
+ office_master_of_the_guard_louisianais:0 "Wachman Kapitènn" #Watchman Captain?
+ office_high_priest_monarchy_louisianais:0 "Bishop"
+ office_philosopher_louisianais:0 "Filozòf" #Kouri-Vini for Philospher
+ office_steward_louisianais:0 ""
+ office_physician_:0 "Docteur"
+
+ #Louisianais Republic Offices
+ office_augur_louisianais:0 "Padré" #Kouri-Vini for Priest
+ office_plebeian_aedile_louisianais:0 "Juj" #Kouri-Vini for Judge
+ office_censor_louisianais:0 "Mannéjé" #Kouri-Vini for Manager
+ office_tribune_of_the_soldiers_louisianais:0 "Wachman Kapitènn" #Kouri-Vini for Head Watchman?
+ office_pontifex_louisianais:0 "Bishop"
+ office_republic_physician_louisianais:0 "Docteur"
+ office_praetor_louisianais:0 "Gréffé" Kouri-Vini for Court Clerk
+ office_tribune_of_the_treasury_louisianais:0 "Konsontiman" #Kouri-Vini for Justice of the Peace
+ 
+ #Louisianais Tribal Offices
+ office_bodyguard_louisianais:0 "Konsontiman" #Justice of the Peace
+ office_high_priest_louisianais:0 "Bishop"
+ office_magistrate_louisianais:0 "Juj" #Kouri-Vini for Judge
+ office_arbitrator_louisianais:0 "Mannéjé" #Kouri-Vini for Manager
+ office_warchief_louisianais:0 "Cheval" #Common French word for Knight
+ office_elder_louisianais:0 "Siro"  #Kouri-Vini for Elder (?)
+ office_apothecary_louisianais:0 "Traiteuse"
+ office_wise_person_louisianais:0 "Sòrshyé" #Kouri-Vini for Warlock
