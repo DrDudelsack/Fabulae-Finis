@@ -206,6 +206,13 @@ MCI = "setup/countries/east_canada/mauricie.txt"
 MTG = "setup/countries/east_canada/monteregie.txt"
 MEP = "setup/countries/east_canada/memphremagog.txt"
 MRI = "setup/countries/east_canada/maritimes.txt"
+SPR = "setup/countries/east_canada/sept_rivieres.txt"
+EST = "setup/countries/east_canada/estrie.txt"
+BAS = "setup/countries/east_canada/bas_saint_laurent.txt"
+BCC = "setup/countries/east_canada/beauce.txt"
+SGY = "setup/countries/east_canada/saguenay.txt"
+MNW = "setup/countries/east_canada/manawan.txt"
+GSP = "setup/countries/east_canada/gaspesie.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"

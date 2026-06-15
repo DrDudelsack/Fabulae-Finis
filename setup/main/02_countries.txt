@@ -2535,7 +2535,7 @@ country = {
 			government = aristocratic_monarchy
 			primary_culture = montrealais
 			religion = ursuline
-			capital = 2254
+			capital = 2253
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2572,7 +2572,126 @@ country = {
 			capital = 1052
 
 			own_control_core = {
-				1052 1051 1053 2782 5269 8916 5270 5267
+				1052 1051 1053 2782 5269 5270 5267
+			}
+		}
+		SPR = { # Sept-Rivieres
+			government = despotic_monarchy
+			primary_culture = quebecois
+			religion = ursuline
+			capital = 4368
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4368 4370 4369 918 916 917 5798 5799 5472 5470 5471
+			}
+		}
+		EST = { # Estrie
+			government = aristocratic_monarchy
+			primary_culture = quebecois
+			religion = ursuline
+			capital = 8916
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8916 8915 8913 9505 6473 6474 8907 8904 8914
+			}
+		}
+		BAS = { # Bas-Saint-Laurent
+			government = aristocratic_monarchy
+			primary_culture = quebecois
+			religion = ursuline
+			capital = 4888
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4888 4887 4889 2895 2893 2894 9465 9462 9464 9463
+			}
+		}
+		SGY = { # Saguenay
+			government = aristocratic_monarchy
+			primary_culture = quebecois
+			religion = ursuline
+			capital = 3648
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3648 3649 3647 7981 7979 8589 8588 8587 7980
+			}
+		}
+		BCC = { # Beauce
+			government = aristocratic_monarchy
+			primary_culture = quebecois
+			religion = ursuline
+			capital = 5635
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5635 5634 3917 3918 3919 8906 8905 3916 
+			}
+		}
+		MNW = { # Manawan
+			government = tribal_federation
+			primary_culture = innu
+			religion = ursuline
+			capital = 6322
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6322 6320 6321
+			}
+		}
+		GSP = { # Gaspésie
+			government = despotic_monarchy
+			primary_culture = quebecois
+			religion = ursuline
+			capital = 2421
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2421 4266 4268 4267 748 747 845 847 846 2422 2420
 			}
 		}
 		WTH = { #Worthington
