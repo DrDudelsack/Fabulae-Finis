@@ -205,3 +205,6 @@ MCI = "setup/countries/east_canada/mauricie.txt"
 MTG = "setup/countries/east_canada/monteregie.txt"
 MEP = "setup/countries/east_canada/memphremagog.txt"
 MRI = "setup/countries/east_canada/maritimes.txt"
+
+#West Canada
+WNP = "setup/countries/west_canada/winnipeg.txt"

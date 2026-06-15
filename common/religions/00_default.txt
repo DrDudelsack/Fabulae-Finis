@@ -176,6 +176,17 @@ traiteurism = { # Traiteurism
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+exovedate = { # Exovedate 
+	color = rgb  { 244 168 150 }
+	modifier = {
+		happiness_for_same_culture_modifier = 0.03
+		global_pop_conversion_speed_modifier = 0.10
+		global_manpower_modifier = -0.05
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Islamic ##
 # todo - religion modifiers
 sunni = { # Sunni
@@ -496,6 +507,15 @@ real_roader = { # Real Roader
 		hostile_attrition = 0.05
 		global_population_growth = 0.03
 		change_pantheon_cost_modifier = 0.15
+	}
+	religion_category = pantheon
+}
+rivertracer = { # Rivertracer
+	color = rgb { 30 27 124 }
+	modifier = { 
+		army_weight_modifier = -0.10
+		global_capital_trade_routes = 2
+		price_state_investment_oratory_cost_modifier = 0.25
 	}
 	religion_category = pantheon
 }

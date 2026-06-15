@@ -1,0 +1,611 @@
+﻿363={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+364={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+365={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+366={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+539={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+540={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+541={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+542={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+543={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+544={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+545={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+546={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+547={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+548={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+549={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1026={ #
+	terrain="marsh"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1027={ #
+	terrain="marsh"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1028={ #
+	terrain="marsh"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1159={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1160={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1161={ #
+	terrain="marsh"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1799={ #
+	terrain="marsh"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1800={ #
+	terrain="marsh"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2220={ #
+	terrain="forest"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2221={ #
+	terrain="forest"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2222={ #
+	terrain="forest"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2580={ #
+	terrain="marsh"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2581={ #
+	terrain="marsh"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2582={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4649={ #
+	terrain="desert"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4659={ #
+	terrain="taiga"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4660={ #
+	terrain="taiga"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4661={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4662={ #
+	terrain="taiga"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5165={ #
+	terrain="taiga"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5166={ #
+	terrain="forest"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5167={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5894={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5895={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5896={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5897={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8174={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8175={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8176={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8177={ #
+	terrain="taiga"
+	culture="nihithaw"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8740={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8741={ #
+	terrain="taiga"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

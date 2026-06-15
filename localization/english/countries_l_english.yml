@@ -402,6 +402,10 @@
  MRI:0 "Maritimes"
  MRI_ADJ:0 "Maritimer"
 
+# West Canada #
+WNP:0 "Winnipeg"
+WNP_ADJ:0 "Winnipegais"
+
 # Gaelic #
  AUTINI:0 "Autinia"
  AUTINI_ADJ:0 "Autinian"

@@ -53,7 +53,7 @@
 972={ #
 	terrain="steppes"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 973={ #
 	terrain="steppes"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 974={ #
 	terrain="steppes"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3932={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3934={ #
 	terrain="steppes"
 	culture="badlander"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 7147={ #
 	terrain="hills"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 7148={ #
 	terrain="steppes"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 7149={ #
 	terrain="steppes"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 9087={ #
 	terrain="steppes"
 	culture="mandaree"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -250,6 +250,19 @@
 	}
 }
 
+1390={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 1739={ #
 	terrain="forest"
 	culture="copperhead"
@@ -281,6 +294,110 @@
 	culture="yooper"
 	religion="lakeshore"
 	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2065={ #
+	terrain="marsh"
+	culture="ojibwe"
+	religion="midewiwin"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2066={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2067={ #
+	terrain="marsh"
+	culture="ojibwe"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2068={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2075={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2076={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2077={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2078={ #
+	terrain="marsh"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -553,6 +670,19 @@
 5111={ #
 	terrain="forest"
 	culture="francontarien"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5904={ #
+	terrain="taiga"
+	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10
@@ -936,7 +1066,7 @@
 7455={ #Virginia
 	terrain="hills"
 	culture="copperhead"
-	religion="viking"
+	religion="rivertracer"
 	trade_goods="rice"
 	civilization_value=20
 	barbarian_power=0
@@ -1190,16 +1320,81 @@
 	}
 }
 
+9458={ #
+	terrain="forest"
+	culture="anisininew"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9459={ #
+	terrain="forest"
+	culture="anisininew"
+	religion="rivertracer"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9460={ #
+	terrain="marsh"
+	culture="ojibwe"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9461={ #
+	terrain="forest"
+	culture="ojibwe"
+	religion="rivertracer"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 9517={ #
 	terrain="forest"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="rivertracer"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
 		amount=1
+	}
+}
+
+9518={ #
+	terrain="marsh"
+	culture="ojibwe"
+	religion="rivertracer"
+	trade_goods="wild_game"
+	civilization_value=4
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
 	}
 }
 

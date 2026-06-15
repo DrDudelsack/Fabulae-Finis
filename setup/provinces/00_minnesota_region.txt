@@ -806,7 +806,7 @@
 7456={ #International Falls
 	terrain="marsh"
 	culture="ojibwe"
-	religion="viking"
+	religion="rivertracer"
 	trade_goods="fish"
 	civilization_value=4
 	barbarian_power=0
@@ -1204,19 +1204,6 @@
 	culture="northlander"
 	religion="viking"
 	trade_goods="grain"
-	civilization_value=4
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=4
-	}
-}
-
-9518={ #
-	terrain="marsh"
-	culture="ojibwe"
-	religion="viking"
-	trade_goods="wild_game"
 	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"

@@ -1067,7 +1067,7 @@ port_nelson_area = {
 	provinces = { 545 8741 8740 544 543 5896 5895 5894 5897 }
 }
 cat_lake_area = { 
-	provinces = { 4661 4660 4662 4649 363 366 364 365 4659 }
+	provinces = { 4661 4660 4662 363 366 364 365 4659 }
 }
 norway_house_area = { 
 	provinces = { 1028 1026 1027 1800 1799 8175 8174 8176 8177 }

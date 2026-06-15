@@ -44,6 +44,9 @@
  traiteurism:0 "Traiteurist"
  desc_traiteurism:0 "Surviving for centuries despite oppression and adversity, Traiteurists believe that the tribulations delivered upon mankind, be it through pestilence or desolation, purify the souls of the faithful and bring them closer to their Lord through His grace. In reward for their endurance, God grants believers the natural bounties of the Earth as a refuge. Named after their method for treating and cleansing the souls of the suffering with prayer and local herbs called "traitement", traiteurs and traiteuses fulfill the spiritual needs of their community. These skilled healers administer the seven sacraments and absolve the sins of the sick through traitement so that they may go directly to Heaven. Additionally, many folk beliefs have been integrated into the faith's canon, such as Jesus being born in Acadia and the veneration of the Archangel Gabriel Lajeunesse."
 
+ exovedate:0 "Exovedate"
+ desc_exovedate:0 "The Exovedate are the torchbearers of the teachings of pre-Event prophet, priest-king, and Infallible Pontiff, Louis “David” Riel. Riel saw Native Americans and the Métis as the descendants of the Hebrews and therefore God's chosen people, and tasked himself with building a reconstructed Catholic Church that would bind the people of the New World together. He led a coalition of Métis and other tribes to battle L'Awnglitayr, an oppressive regime from across the sea, in what became known as the Great Parleys. While Riel was defeated, executed, and decried as a madman in his own time, in the centuries since the faithful have come to recognize Riel's prophecies and restore his neglected teachings, including the enforcement of Mosaic law and reinstatement of polygamy and clerical marriage."  
+
  ## Industrialist ##
  promethean:0 "Promethean"
  desc_promethean:0 "One of the first faiths to emerge after the Great Rusting, the Prometheans seek to restore the Gilded Age through the powers of the Titan Kings. They believe that during that time, the world was divided amongst the titans, who served as intermediaries between Industry and the workers. They channeled the labor of the people to Industry and the prosperity of Industry back to the workers. Now that responsibility falls to their descendants, who seek to recreate the ancient society in all its forms and usher in a new Gilded Age."
@@ -98,6 +101,7 @@
 
  quetzaltec:0 "Quetzaltec"
  desc_quetzaltec:0 "Arising from the subterranean Chicomóztoc, the civilization of Aztlán prospered until it fell during the First Ruination, ending the age of the Fourth Sun, and forcing Quetzalcóatl to flee across the sea with his few remaining subjects, where he founded the Aztec Empire. There, he established the Toltecayotl to ensure the survival of his people's knowledge, however this did not last, as the Second Ruination brought forth the end of the Fifth Sun in an epic confrontation. With the dawn of the Sixth Sun, the Order of Quetzalcóatl still worships their namesake god, as well as the other Aztec deities alongside him. The destiny of the faith is to restore the advanced Aztec Empire and the ancient Toltecayotl wisdom, thereby freeing the Sixth Root Race, la Raza Cósmica."
+
  ## Veteranic ##
  
  veteranic:0 "Veteranic"
@@ -131,6 +135,9 @@
 
  real_roader:0 "Real Roader"
  desc_real_roader:0 "Deeply rooted in the folklore and traditions of the Great Plains, the Real Roaders follow the pantheon known as the Great Council and the moral guidelines they established after the Pioneer families followed the eponymous Real Road to settle in the Range, the material world. As set out by the Great Spirit of the West himself, in order to return to the Frontier, practitioners must follow the orthodox Trails represented by the challenges Iron Horse and Silent Spike overcame in the creation of the Real Road. Those who retread the path their ancestors took with honor will, after death, be able to join the Great Council in their esteemed Homestead. As a result, Real Roaders place great emphasis on the sanctity and preservation of tradition, as it is the key by which they might find a divine destination beyond mortal existence."
+
+ rivertracer:0 "Rivertracer"
+ desc_rivertracer:0 "According to the old northern legends of the Rivertracers, the almighty Living Sky created the earth and brought warmth and song to humanity. But the Frost came and covered the land in cold and ice, pushing the Living Sky into the heavens, beginning the cycle of summer and winter. In the wake of this great battle, the Living Sky's tears fell and formed the Portages, the last vestiges of its material form, to lead man back towards it. With great loads sashed to their backs they explore all the lands under the Living Sky, seeking the mysteries of hidden tributaries and enlightenment through their laborious travels. Inevitably, the great cycles ebb and flow, the Living Sky wanes and the Frost waxes, and those paths leading to the Living Sky are frozen for a time. Yet those who are patient will see them opened once more to be followed, and those who are faithful will cross the Northwest Passage where they shall dance forever with the auroras."
 
  ## Quantum ##
  atomicist:0 "Atomicist"

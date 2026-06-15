@@ -367,11 +367,25 @@
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -380,11 +394,25 @@
 	culture="cheesehead"
 	religion="viking"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 

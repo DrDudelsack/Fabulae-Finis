@@ -1,0 +1,611 @@
+﻿186={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+187={ #
+	terrain="marsh"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1389={ #
+	terrain="taiga"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1391={ #
+	terrain="forest"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1392={ #
+	terrain="forest"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1493={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1494={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1495={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1496={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1497={ #
+	terrain="farmland"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2120={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2121={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2122={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2348={ #
+	terrain="forest"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2349={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2350={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2437={ #
+	terrain="forest"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2438={ #
+	terrain="taiga"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2439={ #
+	terrain="forest"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2746={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2747={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2748={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3331={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3332={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3333={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3792={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3793={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3794={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5548={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5549={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5550={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5551={ #
+	terrain="forest"
+	culture="metis"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6405={ #
+	terrain="forest"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6406={ #
+	terrain="marsh"
+	culture="metis"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6714={ #
+	terrain="steppes"
+	culture="dakota"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6715={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6716={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6717={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6816={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8456={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8897={ #
+	terrain="steppes"
+	culture="dakota"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8898={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="rivertracer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9085={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="peyotist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9086={ #
+	terrain="hills"
+	culture="mandaree"
+	religion="peyotist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9281={ #
+	terrain="forest"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9282={ #
+	terrain="steppes"
+	culture="metis"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9283={ #
+	terrain="steppes"
+	culture="preiryansky"
+	religion="exovedate"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
