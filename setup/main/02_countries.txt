@@ -871,7 +871,7 @@ country = {
 				1868 1869 8762 8763 8764 #savannah_area
 				6349 6350 6351 6352 #st_marys_area
 				3540 3541 6351 #charleston_sc_area
-				1781
+				1781 4987
 			}
 		}
 		COL = { # Columbus
@@ -891,6 +891,7 @@ country = {
 				7205 7206 #albany_ga_area
 				8935 #tuskegee_area
 				8349 8350 8351 #macon_area
+				3570 3568 3569 5207 3809 3808 3807 9435 9436
 			}
 		}
 		AUG = { # Augusta
@@ -910,7 +911,7 @@ country = {
 				1253 8701 #savannah_area
 				8700 8938 8939 #sparta_area
 				8117 8118 #lexington_sc_area
-				1780
+				1780 6499 2355 1252 2354
 			}
 		}
 		MAC = { # Macon
@@ -929,6 +930,7 @@ country = {
 			own_control_core = {
 				3817 3818 3819 3820 #macon_area
 				3434 6498 #jackson_area
+				6497 1835 5209 5208 1836 4986 4985 5206 9437
 			}
 		}
 		ATH = { # Athens
@@ -981,6 +983,7 @@ country = {
 
 			own_control_core = {
 				1189 11931 7315 11933 7316 7314 1188 1191 1190 11932
+				9434 9102 6756 9433
 			}
 		}
 		MOS = { # The Mouse
@@ -1008,6 +1011,7 @@ country = {
 
 			own_control_core = {
 				4816 11935 11936 4817 11937 11938 4819 4818 5457 5458 11934 4814 4815 6757 1715 1714 11939 244 11943 
+				9100
 			}
 		}
 		SFL = { #Soflo
@@ -1382,7 +1386,7 @@ country = {
 
 			own_control_core = {
 				7000 6999 6998 6997 381 379 380 1667
-				6996 1713 
+				6996 1713 9101
 			}
 		}
 

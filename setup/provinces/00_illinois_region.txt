@@ -167,7 +167,7 @@
 
 2796={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -180,7 +180,7 @@
 
 2797={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="hemp"
 	civilization_value=10
@@ -193,7 +193,7 @@
 
 2798={ #
 	terrain="farmland"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="dye"
 	civilization_value=10
@@ -206,7 +206,7 @@
 
 2799={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
@@ -219,7 +219,7 @@
 
 2800={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
@@ -427,7 +427,7 @@
 
 6033={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="horses"
 	civilization_value=10
@@ -440,7 +440,7 @@
 
 6034={ #
 	terrain="farmland"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="fish"
 	civilization_value=20
@@ -471,7 +471,7 @@
 
 6035={ #
 	terrain="farmland"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="stone"
 	civilization_value=22
@@ -681,7 +681,7 @@
 
 7923={ #
 	terrain="flood_plain"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="clay"
 	civilization_value=10
@@ -694,7 +694,7 @@
 
 7924={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="grain"
 	civilization_value=10
@@ -707,7 +707,7 @@
 
 7925={ #
 	terrain="flood_plain"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="leather"
 	civilization_value=10

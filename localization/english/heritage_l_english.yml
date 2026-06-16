@@ -54,8 +54,6 @@
  yankee_heritage_desc:0 "As the old adage goes, 'To Northerners, a Yankee is an Easterner. To Easterners, a Yankee is a New Englander. To New Englanders, a Yankee is a Vermonter. And in Vermont, a Yankee is somebody who eats pie for breakfast.' Yankees are famous for their Puritan work ethic, their populous urban centers, and of course the small rural communities that form the centerpiece of Yankee culture."
  northlake_heritage:0 "Northlake Heritage"
  northlake_heritage_desc:0 "Shaped by the Great Lakes that these people make their homes next to, many amongst them have taken up to raiding the shores of the rich Promethean Titantes, and as far east as New York. And yet many of these people remain sedentary farmers, working the earth for a living."
- laurentian_heritage:0 "Laurentian Heritage"
- laurentian_heritage_desc:0 "Residing in a dense, urbanized region, the Laurentians group themselves into many different city states and leagues. They are quick to band together for mutual defense, but their disorganized and loose governments make large-scale expansion difficult."
  old_southern_heritage:0 "Old Southern Heritage"
  old_southern_heritage_desc:0 "A deeply chivalric and equestrian people, the Old Southerners are famed for their heavy cavalry, and rich urban centers."
  deep_southern_heritage:0 "Deep Southern Heritage"
@@ -98,6 +96,18 @@
  louisianais_heritage_desc:0 "Formed from an ethnogenesis of the Cadjin and Creole cultures, the Louisianais have enjoyed an unexpected revival in the wake of the wake of the Event. Inhabiting the southermost forest and swamplands of Louisiana, They are known for their fearsome Mardi-Gras riders, heavy cavalry adorned in garish colors of purple, yellow, and green."
  houma_heritage:0 "Houma Heritage"
  houma_heritage_desc:0 "The Houma, meaning 'Red' have inhabited the lands of what is now Lousiana since time immemorial. Over time, they have intermarried with and adopted many Louisianais practices, but they still maintain many of their own traditions. They are related to the Choctaw, and consider them to be kin. The marshes of Southern Lousiana are central to their way of life, and they subsist primarily off of the abundant fish and crayfish who make their homes in the bayou."
+ ontarian_heritage:0 "Ontarian Heritage"
+ ontarian_heritage_desc:0 "The regal Ontarians have tried countless time to assert their dominance over their smaller neighbors, and countless times they have failed. However, this has not stopped any Ontarian ruler from trying."
+ sixer_heritage:0 "Sixer Heritage"
+ sixer_heritage_desc:0 "A metropolitan people, Sixer cities are home to peoples of all sorts of nations and creeds. They treat all alike, as no man is foreign to them. Time and time again, they have resisted conquest from their bellicose neighbors, the Ontarians."
+ shieldshorer_heritage:0 "Shieldshorer Heritage"
+ shieldshorer_heritage_desc:0 "Clinging to the battered coasts of the southern Canadian Shield, the Shieldshorers make a living by peddling goods all over the Great Lakes."
+ badgerlander_heritage:0 "Badgerlander Heritage"
+ badgerlander_heritage_desc:0 "Known to outsiders as 'Cheeseheads', for their love of cheese, the fierce Badgerlanders have never been conquered by any foreign power, something they are incredibly proud of."
+ yinzic_heritage:0 "Yinzic Heritage"
+ yinzic_heritage_desc:0 "The Yinzic peoples of what was once the Commonwealth of Pennsylvania, or 'Keystone' are expert ironworkers and craftsmen. In the hallowed halls and universities of Pittsburgh, knowledge of the old world still persists, only permitted to be learned by a select few. With this knowledge, they have perfected the art of ironmaking, creating a variety which they call 'Steel'. This 'Steel' is prized across all of America for it's durability and strength, which can be matched by no other."
+ buckeye_heritage:0 "Buckeye Heritage"
+ buckeye_heritage_desc:0 "The well endowed Buckeyes are blessed with fertile land. Their skill is carpentry, and new and innovative ways to construct buildings. While they have taken up arms occasionally, they prefer to settle matters with the pen rather than the sword."
  
  
  

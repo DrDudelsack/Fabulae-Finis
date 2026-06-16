@@ -832,7 +832,7 @@
 
 6800={ #
 	terrain="flood_plain"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="fish"
 	civilization_value=10

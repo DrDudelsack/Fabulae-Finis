@@ -881,7 +881,7 @@
 
 9511={ #Galena
 	terrain="flood_plain"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="maize"
 	civilization_value=18
@@ -900,7 +900,7 @@
 
 9512={ #Freeport
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="tobacco"
 	civilization_value=18
@@ -919,7 +919,7 @@
 
 9513={ #Sterling
 	terrain="flood_plain"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="twainist"
 	trade_goods="grain"
 	civilization_value=18
@@ -938,7 +938,7 @@
 
 9514={ #Dixon
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="wood"
 	civilization_value=18
