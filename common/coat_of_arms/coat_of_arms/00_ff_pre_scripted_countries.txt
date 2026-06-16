@@ -1136,3 +1136,27 @@ HOM = { # Houma - based on the flag of the United Houma Nation
 	}
 }
 
+PAW = { # Bonne Terre
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = rgb { 156 185 202 }
+	color2 = rgb { 112 28 46 }
+
+	colored_emblem={
+		texture="ce_pickaxe.dds"
+		color1="mid_grey"
+		color2=rust_brown
+		instance = { 
+		scale = { 0.55 0.60 } 
+		position = { 0.75 0.5 }
+		}
+	}
+	colored_emblem={
+		texture="ce_fleur_missouri.dds"
+		color1="ck2_yellow"
+		instance = {
+			scale = { 0.75 0.75 }
+			position = { 0.25 0.5 }
+		}
+	}
+}
+

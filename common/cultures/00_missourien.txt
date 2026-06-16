@@ -59,6 +59,8 @@
 		Val_e_act_rien Val_e_act_ry Valcour Valentin Valex Vernel Victor Victorin Vil_e_act_or Vincent Virgil Vital
 		Xavier
 		Z_e_act_dore Z_e_act_ph_e_act_rin Z_e_act_phyr Zachaire
+		## FF Added ##
+		Joe Mattheaw
 	}
 	female_names = {
 		Ad_e_act_la_i_uml_de Ad_e_grv_le Adah Adrienne Agla_e_uml_ Agn_e_grv_s Aim_e_act_e Albertine Alexandrine Alice Alo_y_uml_sia Alphonsine Am_e_act_lie Amandine Ambroisine Amynthe Anastasie Anathalie Ang_e_grv_le Ange Anne Anne-Marie Anne-Suzette Annette Antoinette Apolline Arelia Armance Armantine Ars_e_grv_ne Arth_e_act_mise Aspazie Ath_e_act_na_i_uml_se Athalante Athalie Aur_e_act_lie Aurore
@@ -104,6 +106,8 @@
 		Th_e_act_odosia Trishelle
 		V_e_act_rane Verda Victoire Vincianne Violette Vionette Vivienne
 		Z_e_act_ph_e_act_rine Zelianne Zelide Zelmire Zita
+		## FF Added ##
+		Natalie
 	}
 	family = {
         Abel.Abel.Abel.Abel
@@ -1629,6 +1633,10 @@
 		Zito
 		Zuvich
 		Zwahr
+		## FF Added ##
+		Politte
+		Villmer
+		Pratt
 	}
 	culture = {
 		paw_paw = {} ## PLORGUS ALARM!!! ##

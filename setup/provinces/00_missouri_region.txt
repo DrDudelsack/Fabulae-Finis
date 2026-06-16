@@ -121,6 +121,10 @@
 		religion="lutheran"
 		amount=2
 	}
+	tribesmen={
+		culture="paw_paw"
+		amount=1
+	}
 	slaves={
 		amount=4
 	}
@@ -673,15 +677,22 @@
 }
 
 6336={ #Bonne Terre
-	terrain="forest"
+	terrain="hills"
 	culture="paw_paw"
 	religion="catholic"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	freemen={
+		culture="ozark"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -690,9 +701,16 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="paw_paw"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
 	tribesmen={
 		amount=1
 	}
@@ -711,6 +729,10 @@
 	}
 	citizen={
 		religion="heartful"
+		amount=1
+	}
+	freemen={
+		culture="paw_paw"
 		amount=1
 	}
 	freemen={

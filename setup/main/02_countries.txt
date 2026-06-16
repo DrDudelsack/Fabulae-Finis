@@ -2575,7 +2575,7 @@ country = {
 				1052 1051 1053 2782 5269 5270 5267
 			}
 		}
-		SPR = { # Sept-Rivieres
+		SPS = { # Sept-Rivieres
 			government = despotic_monarchy
 			primary_culture = quebecois
 			religion = ursuline

@@ -20,4 +20,11 @@
  ff_formable_event_1.a:0 "I'm sure [GetProvince('(int32)6678').GetName] is nice, but I like [ROOT.GetCountry.GetCapital.GetName] more."
  ff_formable_event_1.b:0 "A new capital for a new kingdom!"
  ## Extra ##
+
+ form_upper_louisiana:0 "Form Haute-Louisiane"
+ form_upper_louisiana_desc:0 "Long ago, the lands of Missouri, Illinois, and Indiana were ruled by a mighty Emperor of the French, all united under the name of Haute-Louisiane.Times have changed, and few remember this long gone realm but ourselves. Let us restore this legendary land!"
+ formable_not_upper_louisiana_exists:0 "#Y Haute-Louisiane#! does not exist."
+ UPPER_LOUISIANA_NAME:0 "Haute-Louisiane"
+ UPPER_LOUISIANA_ADJECTIVE:0 "Haute-Louisianais"
+ form_upper_louisiana_claims_tooltip:0 "Haute-Louisiane will get claims on the regions of #Y Missouri#!, #Y Indiana#!, and on the areas of #Y Vincennes#! and #Y Evansville#!."
  

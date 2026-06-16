@@ -1,0 +1,100 @@
+﻿country_decisions = {
+	
+	# Form Haute-Louisiane
+	form_upper_louisiana = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				AND = {
+					primary_culture = paw_paw
+					capital_scope = {
+						is_in_region = missouri_region
+					}
+				}
+			}
+			NOR = {
+				is_endgame_tag_trigger = yes
+				is_tier_2_formable_trigger = yes
+				tag = UPL 
+			}
+		}
+		
+		#AI for now also uses this to get the list of provinces it must try to conquer.
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 6336
+					province_id = 4206
+					province_id = 6431
+					province_id = 6432
+					province_id = 4000
+					province_id = 2735
+					province_id = 4682
+					province_id = 6799
+					province_id = 323
+					province_id = 4433
+					province_id = 3762
+					province_id = 2798 
+					province_id = 4001
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_upper_louisiana_exists
+				NOT = {
+					any_country = {
+						tag = UPL
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 6336
+			owns_or_subject_owns = 4206
+			owns_or_subject_owns = 6431
+			owns_or_subject_owns = 4000
+			owns_or_subject_owns = 2735
+			owns_or_subject_owns = 4682
+			owns_or_subject_owns = 6799
+			owns_or_subject_owns = 323
+			owns_or_subject_owns = 4433
+			owns_or_subject_owns = 3762
+			owns_or_subject_owns = 2798
+			owns_or_subject_owns = 4001
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "UPPER_LOUISIANA_NAME"
+			set_capital = 4206
+			p:4206 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			if = { limit = { is_tribal = yes} change_government = despotic_monarchy }
+			tribal_formable_government_change_effect = yes	
+			hidden_effect = {
+				change_country_adjective = "UPPER_LOUISIANA_ADJECTIVE"
+				change_country_color = "ck2_blue"
+				change_country_tag = UPL
+				change_country_flag = UPPER_LOUISIANA_FLAG
+			}
+			custom_tooltip = "form_upper_louisiana_claims_tooltip"
+			hidden_effect = {
+				region:missouri_region = { formable_region_province_effect = yes }
+				region:illinois_region = { formable_region_province_effect = yes }
+				area:vincennes_area = { formable_area_province_effect = yes }
+				area:evansville_area = { formable_area_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+
