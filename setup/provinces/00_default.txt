@@ -17706,7 +17706,7 @@
 
 2151={ #
 	terrain="steppes"
-	culture="nakota"
+	culture="frankaskois"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -33306,7 +33306,7 @@
 
 3973={ #
 	terrain="forest"
-	culture="metis"
+	culture="albertain"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -36803,7 +36803,7 @@
 
 4336={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="frankaskois"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -50583,7 +50583,7 @@
 
 5983={ #
 	terrain="steppes"
-	culture="nakota"
+	culture="frankaskois"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

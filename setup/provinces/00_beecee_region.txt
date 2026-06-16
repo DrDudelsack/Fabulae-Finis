@@ -416,7 +416,7 @@
 
 7883={ #
 	terrain="mountain"
-	culture="surreyda"
+	culture="columbien"
 	religion="sikhism"
 	trade_goods=""
 	civilization_value=10

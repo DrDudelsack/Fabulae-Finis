@@ -86,6 +86,7 @@
  michiganais:0 "Détrois"
  nouvelle_angleterrais:0 "Kermesseais"
  chiac:0 "Chiac"
+ terreneuvien:0 "Terreneuvien"
 
  ## Amish ##
  amish:0 "Amish"
@@ -276,6 +277,13 @@
  ## Bosniak ##
  bosniak:0 "Bosniak"
 
+ ## Grand Ouest ##
+ grand_ouest:0 "Grand Ouest"
+ manitobain:0 "Manitobain"
+ frankaskois:0 "Frankaskois" 
+ albertain:0 "Albertain"
+ columbien:0 "Columbien"       
+
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  yankee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -351,3 +359,5 @@
  frentshveel_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  bosniak_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  bosniak_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ grand_ouest_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ grand_ouest_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

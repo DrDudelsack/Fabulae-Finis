@@ -637,7 +637,7 @@
 
 7326={ #
 	terrain="hills"
-	culture="mikmaw"
+	culture="terreneuvien"
 	religion="fogsong"
 	trade_goods=""
 	civilization_value=10

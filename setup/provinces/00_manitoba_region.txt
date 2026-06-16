@@ -78,7 +78,7 @@
 
 1494={ #
 	terrain="forest"
-	culture="metis"
+	culture="manitobain"
 	religion="exovedate"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 3331={ #
 	terrain="forest"
-	culture="metis"
+	culture="manitobain"
 	religion="exovedate"
 	trade_goods="fur"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3792={ #
 	terrain="forest"
-	culture="metis"
+	culture="manitobain"
 	religion="exovedate"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 9283={ #
 	terrain="steppes"
-	culture="preiryansky"
+	culture="manitobain"
 	religion="exovedate"
 	trade_goods=""
 	civilization_value=10
