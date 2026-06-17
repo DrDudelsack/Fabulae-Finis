@@ -48,7 +48,7 @@
 				text = hudsonia_does_not_exist
 				NOT = {
 					any_country = {
-						tag = HUD
+						tag = HDD
 					}
 				}
 			}

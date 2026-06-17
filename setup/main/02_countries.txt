@@ -456,7 +456,7 @@ country = {
 			}
 
 			own_control_core = {
-				2958 7613 9509
+				2958 7613 9509 7611 7612 9508 9510
 			}
 		}
 		HRM = { #Cole Camp

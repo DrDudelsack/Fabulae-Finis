@@ -2,4 +2,76 @@ From;To;Type;Through;x;y;x;y;
 7317;2233;river_large;10315;-1;-1;-1;-1;Chicago-Hammond
 3651;4206;river_large;10039;-1;-1;-1;-1;O'Fallon-St. Louis
 4206;6430;river_large;9709;-1;-1;-1;-1;St. Louis-Waterloo
+9203;3650;river_large;10446;-1;-1;-1;-1;Pittsfield-Troy
+9203;2733;river_large;10281;-1;-1;-1;-1;Pittsfield-Upper Alton
+4000;323;river_large;9879;-1;-1;-1;-1;Cape Girardeau-Anna
+1497;3331;river_large;10247;-1;-1;-1;-1;Winnipeg-Beausejour
+4044;7604;sea;10076;-1;-1;-1;-1;Port Townsend-Bremerton
+7604;4871;sea;10076;-1;-1;-1;-1;Bremerton-Seattle
+325;2749;sea;9681;-1;-1;-1;-1;Vancouver-Portland
+8421;6784;river_large;10425;-1;-1;-1;-1;Waterville-Wenatchee
+2693;2749;river_large;10550;-1;-1;-1;-1;Beaverton-Portland
+4468;4469;river_large;10462;-1;-1;-1;-1;West Sacramento-Sacramento
+1496;3333;river_large;10247;-1;-1;-1;-1;Selkirk-Lac du Bonnet
+1392;3333;river_large;10431;-1;-1;-1;-1;Powerview-Lac du Bonnet
+1494;2122;river_large;10247;-1;-1;-1;-1;La Salle-Grunthal
+1814;1815;sea;10140;-1;-1;-1;-1;Santa Rosa-Avalon
+9460;3939;river_large;10302;-1;-1;-1;-1;Fort Frances-Littlefork
+9460;7456;river_large;10302;-1;-1;-1;-1;Fort Frances-International Falls
+8024;8026;river_large;10577;-1;-1;-1;-1;Saint Paul-Eagan
+6364;658;river_large;10394;-1;-1;-1;-1;Yankton-Hartington
+3993;327;river_large;10577;-1;-1;-1;-1;River Falls-Northfield
+869;960;river_large;10394;-1;-1;-1;-1;Cherokee-South Sioux City
+640;6288;sea;10012;-1;-1;-1;-1;Sault Ste. Marie-Sault Sainte Marie
+1183;2082;river_large;10380;-1;-1;-1;-1;Winona-La Crosse
+6288;217;sea;9911;-1;-1;-1;-1;Sault Sainte Marie-Tobacco Lake
+2798;4684;river_large;10402;-1;-1;-1;-1;Peoria-Pekin
+3762;6211;river_large;10314;-1;-1;-1;-1;Evansville-Henderson
+416;7813;river_large;10498;-1;-1;-1;-1;Cincinnati-Covington
+6511;1585;river_large;10267;-1;-1;-1;-1;Tulsa-Bixby
+6678;6539;river_large;10354;-1;-1;-1;-1;Albany-Troy
+323;1013;river_large;9662;-1;-1;-1;-1;Anna-South Fulton
+7971;4921;river_large;10495;-1;-1;-1;-1;New Paltz-Poughkeepsie
+8612;2005;river_large;10546;-1;-1;-1;-1;New Martinsville-Wheeling
+5489;8294;river_large;10360;-1;-1;-1;-1;North Little Rock-Little Rock
+4381;2440;sea;10036;-1;-1;-1;-1;Manhattan-Queens
+4381;478;sea;10036;-1;-1;-1;-1;Manhattan-Newark
+4381;2441;sea;10036;-1;-1;-1;-1;Manhattan-Brooklyn
+3241;3668;river_large;10262;-1;-1;-1;-1;Lancaster-York
+2441;2442;sea;10036;-1;-1;-1;-1;Brooklyn-Staten Island
+6224;6225;sea;10048;-1;-1;-1;-1;Providence-Newport
+5404;335;river_large;10109;-1;-1;-1;-1;West Memphis-Memphis
+4077;4490;river_large;10473;-1;-1;-1;-1;Philadelphia-Cherry Hill
+774;2792;river_large;10590;-1;-1;-1;-1;Texarkana-Magnolia
+7231;5481;river_large;9749;-1;-1;-1;-1;Baton Rouge-Gardere
+5481;9499;river_large;10500;-1;-1;-1;-1;Gardere-Breaux Bridge
+7470;7824;river_large;10506;-1;-1;-1;-1;Columbus-West Point
+6324;594;river_large;9655;-1;-1;-1;-1;Tallulah-Vicksburg
+5711;3292;river_large;10552;-1;-1;-1;-1;Ball-Boyce
+5956;5710;river_large;10270;-1;-1;-1;-1;Marksville-Monterey
+820;5988;river_large;10506;-1;-1;-1;-1;Eutaw-Livingston
+5710;2696;river_large;9640;-1;-1;-1;-1;Monterey-Woodville
+5710;5482;river_large;10270;-1;-1;-1;-1;Monterey-Port Allen
+5954;5482;river_large;10500;-1;-1;-1;-1;Ville Platte-Port Allen
+4497;8365;river_large;10549;-1;-1;-1;-1;Grove Hill-Jackson
+4497;585;river_large;10593;-1;-1;-1;-1;Grove Hill-Monroeville
+7519;887;river_large;10323;-1;-1;-1;-1;Slidell-Carriere
+9210;3743;river_large;10529;-1;-1;-1;-1;McAllen-Reynosa
+8216;8484;river_large;10031;-1;-1;-1;-1;New Orleans-Marrero
+9501;5505;river_large;10254;-1;-1;-1;-1;Franklin-Morgan City
+4953;4954;river_large;10294;-1;-1;-1;-1;Mobile-Bay Minette
+8317;7796;river_large;10460;-1;-1;-1;-1;Manning-Ridgeville
+1927;2253;river_large;10328;-1;-1;-1;-1;Sorel-Tracy-Longueuil
+7655;4375;river_large;10124;-1;-1;-1;-1;Sainte-Thérèse-Laval
+8757;7548;river_large;10528;-1;-1;-1;-1;1997;Ottawa-Streator
+7654;1967;river_large;10433;-1;-1;-1;-1;Saint-Eustache-Vaudreuil-Dorion
+4375;4376;river_large;10124;-1;-1;-1;-1;Laval-Montréal
+2232;2234;river_large;10315;-1;-1;-1;-1;Aurora-Orland Park
+4376;2253;river_large;10124;-1;-1;-1;-1;Montréal-Longueuil
+4376;2255;river_large;10124;-1;-1;-1;-1;Montréal-Châteauguay
+1967;1966;river_large;10124;-1;-1;-1;-1;Vaudreuil-Dorion-Salaberry-de-Valleyfield
+3873;6622;river_large;10568;-1;-1;-1;-1;Carrollton-Marshall
+1966;3599;river_large;10124;-1;-1;-1;-1;Salaberry-de-Valleyfield-Beauharnois
+8378;3600;river_large;9939;-1;-1;-1;-1;Cornwall-Akwesasne
+8644;5601;river_large;10568;-1;-1;-1;-1;Como-Jefferson City
 ;-1;-1;-1;-1;
