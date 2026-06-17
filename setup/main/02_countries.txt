@@ -3454,6 +3454,57 @@ country = {
 				2122 2121 3331 3333 3332 2120
 			}
 		}
+		STP = { # Saint Pierre et Miquelon
+			government = tribal_kingdom
+			primary_culture = pierrais
+			religion = fogsong
+			capital = 6937
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6937
+			}
+		}
+		PTP = { # Port au Port
+			government = tribal_kingdom
+			primary_culture = terreneuvien
+			religion = mervivant
+			capital = 7326
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7326
+			}
+		}
+		AVA = { # Avalon
+			government = tribal_kingdom
+			primary_culture = newfie
+			religion = fogsong
+			capital = 3518
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3518 5715 5714 5716 11957 1201 1202
+			}
+		}
 	}
 }
 

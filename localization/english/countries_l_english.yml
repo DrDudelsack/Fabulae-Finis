@@ -417,6 +417,12 @@
  MNW_ADJ:0 "Manawanian"
  GSP:0 "Gaspésie"
  GSP_ADJ:0 "Gaspésien"
+ STP:0 "Saint-Pierre-et-Miquelon"
+ STP_ADJ:0 "Pierrais"
+ PTP:0 "Port-au-Port"
+ PTP_ADJ:0 "Terreneuvien"
+ AVA:0 "Avalon"
+ AVA_ADJ:0 "Avalonian"
 
 # West Canada #
 WNP:0 "Winnipeg"

@@ -638,13 +638,20 @@
 7326={ #
 	terrain="hills"
 	culture="terreneuvien"
-	religion="fogsong"
-	trade_goods=""
-	civilization_value=10
+	religion="mervivant"
+	trade_goods="fish"
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		culture="mikmaw"
+		amount=2
+	}
+	tribesmen={
+		amount=2
 	}
 }
 

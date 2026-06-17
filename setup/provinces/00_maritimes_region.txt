@@ -143,8 +143,8 @@
 
 1082={ #
 	terrain="plains"
-	culture=""
-	religion="veteranic"
+	culture="acadien"
+	religion="mervivant"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

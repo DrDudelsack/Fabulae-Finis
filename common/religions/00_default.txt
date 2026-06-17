@@ -559,7 +559,7 @@ fogsong = { # Fogsong
 	color = rgb { 80 80 80 }
 	modifier = { 
 		coastal_terrain_combat_bonus = 0.10
-		global_food_capacity = 400
+		global_monthly_food_modifier = 0.05
 		navy_maintenance_cost = 0.05
 	}
 	religion_category = pantheon

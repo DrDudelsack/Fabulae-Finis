@@ -213,6 +213,9 @@ BCC = "setup/countries/east_canada/beauce.txt"
 SGY = "setup/countries/east_canada/saguenay.txt"
 MNW = "setup/countries/east_canada/manawan.txt"
 GSP = "setup/countries/east_canada/gaspesie.txt"
+STP = "setup/countries/east_canada/saint_pierre_et_miquelon.txt"
+PTP = "setup/countries/east_canada/port_au_port.txt"
+AVA = "setup/countries/east_canada/avalon.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"
