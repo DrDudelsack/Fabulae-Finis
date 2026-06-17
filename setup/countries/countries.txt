@@ -127,6 +127,8 @@ FTL = "setup/countries/midwest/fort_leonard.txt"
 NDK = "setup/countries/great_plains/north_dakota.txt"
 DHG = "setup/countries/great_plains/omaha.txt"
 IWY = "setup/countries/great_plains/ioway.txt"
+MND = "setup/countries/great_plains/minot.txt"
+DVL = "setup/countries/great_plains/devils_lake.txt"
 
 
 #South
@@ -219,3 +221,4 @@ AVA = "setup/countries/east_canada/avalon.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"
+INT = "setup/countries/west_canada/interlake.txt"

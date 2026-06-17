@@ -2,6 +2,7 @@ From;To;Type;Through;x;y;x;y;
 7317;2233;river_large;10315;-1;-1;-1;-1;Chicago-Hammond
 3651;4206;river_large;10039;-1;-1;-1;-1;O'Fallon-St. Louis
 4206;6430;river_large;9709;-1;-1;-1;-1;St. Louis-Waterloo
+4206;6431;river_large;10039;-1;-1;-1;-1;St. Louis-Belleville
 9203;3650;river_large;10446;-1;-1;-1;-1;Pittsfield-Troy
 9203;2733;river_large;10281;-1;-1;-1;-1;Pittsfield-Upper Alton
 4000;323;river_large;9879;-1;-1;-1;-1;Cape Girardeau-Anna
@@ -19,6 +20,7 @@ From;To;Type;Through;x;y;x;y;
 9460;3939;river_large;10302;-1;-1;-1;-1;Fort Frances-Littlefork
 9460;7456;river_large;10302;-1;-1;-1;-1;Fort Frances-International Falls
 8024;8026;river_large;10577;-1;-1;-1;-1;Saint Paul-Eagan
+8024;8025;river_large;10385;-1;-1;-1;-1;Saint Paul-Minneapolis
 6364;658;river_large;10394;-1;-1;-1;-1;Yankton-Hartington
 3993;327;river_large;10577;-1;-1;-1;-1;River Falls-Northfield
 869;960;river_large;10394;-1;-1;-1;-1;Cherokee-South Sioux City
@@ -63,7 +65,7 @@ From;To;Type;Through;x;y;x;y;
 8317;7796;river_large;10460;-1;-1;-1;-1;Manning-Ridgeville
 1927;2253;river_large;10328;-1;-1;-1;-1;Sorel-Tracy-Longueuil
 7655;4375;river_large;10124;-1;-1;-1;-1;Sainte-Thérèse-Laval
-8757;7548;river_large;10528;-1;-1;-1;-1;1997;Ottawa-Streator
+8757;7548;river_large;10528;-1;-1;-1;-1;Ottawa-Streator
 7654;1967;river_large;10433;-1;-1;-1;-1;Saint-Eustache-Vaudreuil-Dorion
 4375;4376;river_large;10124;-1;-1;-1;-1;Laval-Montréal
 2232;2234;river_large;10315;-1;-1;-1;-1;Aurora-Orland Park
@@ -74,4 +76,6 @@ From;To;Type;Through;x;y;x;y;
 1966;3599;river_large;10124;-1;-1;-1;-1;Salaberry-de-Valleyfield-Beauharnois
 8378;3600;river_large;9939;-1;-1;-1;-1;Cornwall-Akwesasne
 8644;5601;river_large;10568;-1;-1;-1;-1;Como-Jefferson City
+1705;3183;river_large;10545;-1;-1;-1;-1;Christiania-Aberdeen
+1705;5855;river_large;10563;-1;-1;-1;-1;Christiania-Chestertown
 ;-1;-1;-1;-1;

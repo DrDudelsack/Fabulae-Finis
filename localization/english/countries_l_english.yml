@@ -253,6 +253,10 @@
  DHG_ADJ:0 "Omahan"
  IWY:0 "Atchinson"
  IWY_ADJ:0 "Atchinsonian"
+ MND:0 "Minot"
+ MND_ADJ:0 "Minotian"
+ DVL:0 "Devil's Lake"
+ DVL_ADJ:0 "Northlander"
 
  ## South ##
  NOL:0 "New Orleans"
@@ -425,8 +429,10 @@
  AVA_ADJ:0 "Avalonian"
 
 # West Canada #
-WNP:0 "Winnipeg"
-WNP_ADJ:0 "Winnipegais"
+ WNP:0 "Winnipeg"
+ WNP_ADJ:0 "Winnipegais"
+ INT:0 "Interlake"
+ INT_ADJ:0 "Interlaker"
 
 # Gaelic #
  AUTINI:0 "Autinia"

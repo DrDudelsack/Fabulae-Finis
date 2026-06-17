@@ -3232,7 +3232,7 @@ country = {
 			capital = 5297
 
 			own_control_core = {
-				5297 5299 7681 4159
+				5297 5299 7681 4159 5298
 			}
 		}
 		YKN = { #Yankton
@@ -3243,6 +3243,7 @@ country = {
 
 			own_control_core = {
 				6364 6365 6366 2941 2940 2939 7584 7583 3022 5365 3023
+				5626 868 869
 			}
 		}
 		OGL = { #Oglala
@@ -3263,6 +3264,7 @@ country = {
 
 			own_control_core = {
 				9595 1425 1424 9594 9593 7366 1426 2369 2367 2368 9593 7364 7365 5782
+				5783 5781 3021 388 7680
 			}
 		}
 		NDK = { #South Dakota
@@ -3454,6 +3456,16 @@ country = {
 				2122 2121 3331 3333 3332 2120
 			}
 		}
+		INT = { # Interlake
+			government = tribal_kingdom
+			primary_culture = metis
+			religion = rivertracer
+			capital = 5550
+
+			own_control_core = {
+				5550 5548 5549 5551 2747 2748 2746
+			}
+		}
 		STP = { # Saint Pierre et Miquelon
 			government = tribal_kingdom
 			primary_culture = pierrais
@@ -3503,6 +3515,26 @@ country = {
 
 			own_control_core = {
 				3518 5715 5714 5716 11957 1201 1202
+			}
+		}
+		#MND = { #Minot I hate Minot
+		#	government = tribal_chiefdom
+		#	primary_culture = mandaree
+		#	religion = peyotist
+		#	capital = 974
+		#
+		#	own_control_core = {
+		#		974 9087 7147 7148 3934 972 973
+		#	}
+		#}
+		DVL = { #Devil's Lake
+			government = tribal_chiefdom
+			primary_culture = northlander
+			religion = viking
+			capital = 1859
+		
+			own_control_core = {
+				1859 6947 7149 1860 1858 3516
 			}
 		}
 	}
