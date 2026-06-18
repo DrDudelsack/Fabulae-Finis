@@ -2055,7 +2055,7 @@ country = {
 		}
 		CPR = { #Copperland
 			government = tribal_chiefdom
-			primary_culture = yooper
+			primary_culture = copperhead
 			religion = lakeshore
 			capital = 2457
 
@@ -2705,7 +2705,7 @@ country = {
 			capital = 1479
 
 			own_control_core = {
-				1479 5627 5364 1476 1479 1477 6398
+				1479 5627 5364 1476 1479 1477 
 			}
 		}
 		EAU = { #Eau Claire
@@ -3517,16 +3517,6 @@ country = {
 				3518 5715 5714 5716 11957 1201 1202
 			}
 		}
-		#MND = { #Minot I hate Minot
-		#	government = tribal_chiefdom
-		#	primary_culture = mandaree
-		#	religion = peyotist
-		#	capital = 974
-		#
-		#	own_control_core = {
-		#		974 9087 7147 7148 3934 972 973
-		#	}
-		#}
 		DVL = { #Devil's Lake
 			government = tribal_chiefdom
 			primary_culture = northlander

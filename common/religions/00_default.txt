@@ -62,7 +62,7 @@ evangelical = { # Evangelical
 		omen_power = 0.05
 		subject_loyalty = -10
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_evangelical
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -74,7 +74,7 @@ lutheran = { # Lutheran
 		global_monthly_food_modifier = 0.05
 		enact_holy_site_cost_modifier = 0.15
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_lutheran
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -86,7 +86,7 @@ old_order = { # Old Order- Pennsylvania Deitsch
 		global_population_growth = 0.03
 		global_manpower_modifier = -0.15
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -98,7 +98,7 @@ united_church = { # United Church
 		change_pantheon_cost_modifier = -0.15
 		civil_war_threshold = -0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_united_church
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -110,7 +110,7 @@ colossalist = { # Colossalist
 		global_tax_modifier = 0.05
 		omen_power = -0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -122,7 +122,7 @@ quaker = { # Quaker
 		diplomatic_reputation = 3
 		fabricate_claim_cost_modifier = 0.25
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -148,7 +148,7 @@ ursuline = { # Ursuline
 		religious_tech_investment = 0.05
 		monthly_political_influence_modifier = -0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_conclavian
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -197,7 +197,7 @@ sunni = { # Sunni
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -210,7 +210,7 @@ twelver = { # Twelver- Jaffari Shia
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -223,7 +223,7 @@ ismaili = { # Ismaili- Ismaili Shia
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -236,7 +236,7 @@ ahmadi = { # Ahmadi
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -249,7 +249,7 @@ ahl_al_qibla = { # Ahl al-Qibla- Nondenominational
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -262,7 +262,7 @@ shriner = { # Shriner- Freemason converts to Islam
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -275,7 +275,7 @@ promethean = { # Promethean
 		deify_ruler_cost_modifier = -0.15
 		monthly_tyranny = 0.03
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_promethean
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -286,7 +286,7 @@ arsenalist = { # Arsenalist
 		diplomatic_relations = 1
 		global_citizen_output = -0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -297,7 +297,7 @@ galvanist = { # Galvanist
 		global_tax_modifier = 0.05
 		global_pop_promotion_speed_modifier = -0.25
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -308,7 +308,7 @@ sustainablist = { # Sustainablist
 		global_population_happiness = 0.03
 		country_civilization_value = -5
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -584,7 +584,7 @@ guruist = { # Guruist
 		monthly_wage_modifier = 0.20
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -597,7 +597,7 @@ gaian = { # Gaian
 		forest_combat_bonus = 0.10
 		build_cost = 0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -611,7 +611,7 @@ mormon = { # Mainline Mormonism
 		agressive_expansion_impact = 0.10
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -626,7 +626,7 @@ scientology = { #
 		agressive_expansion_impact = 0.10
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -641,7 +641,7 @@ kinemite = { # Kinemite
 		agressive_expansion_impact = 0.10
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -656,7 +656,7 @@ romano_humanism = { # Romano-Humanism
 		global_freemen_happyness = -0.05
 		
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -670,7 +670,7 @@ buddhism = { # Buddhism
 		happiness_for_same_religion_modifier = 0.05
 		war_score_cost = 0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -683,7 +683,7 @@ sikhism = { # Sikhism
 		global_population_growth = 0.05
 		global_pop_conversion_speed_modifier = -0.25
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -744,7 +744,7 @@ twainist = { # Twainist
 		build_cost = 0.10
 
 	}
-	religion_category = sages
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -781,7 +781,7 @@ unitarian_universialism = { # Unitarian Universialism
 		happiness_for_wrong_religion_modifier = 0.03
 		omen_power = -0.10
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -793,7 +793,7 @@ scottish_rite = { # Scottish Rite
 		global_citizen_output = 0.05
 		monthly_political_influence_modifier = -0.05
 	}
-	religion_category = sages
+	religion_category = pantheon
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"

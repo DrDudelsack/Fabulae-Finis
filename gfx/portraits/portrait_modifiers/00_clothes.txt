@@ -23,7 +23,7 @@ clothes = {
 			
 			modifier = {
 				add = 100 
-				has_culture_group = latin	
+				has_culture_group = yankee
 				is_female = no
 				OR = { 		
 					is_general = yes
@@ -54,9 +54,10 @@ clothes = {
 				add = 100 
 				is_female = no
 				OR = { 	
-					has_culture_group = hellenic
-					has_culture_group = thrace_group
-					has_culture_group = illyrian_group
+					has_culture_group = lakelander
+					has_culture_group = old_southern
+					has_culture_group = new_englander
+					has_culture_group = laurentian
 				}	
 				OR = { 		
 					is_general = yes
@@ -87,8 +88,8 @@ clothes = {
 				add = 100 
 				is_female = no
 				OR = { 
-					has_culture_group = west_levantine
-					has_culture_group = numidian						
+					has_culture_group = louisianais
+					has_culture_group = sunshiner					
 				}
 				OR = { 		
 					is_general = yes
@@ -119,11 +120,7 @@ clothes = {
 				add = 100 
 				is_female = no
 				OR = {
-					has_culture_group = gaelic
-					has_culture_group = gallic
-					has_culture_group = britannic
-					has_culture_group = belgae_group
-					has_culture_group = dacia_group
+					has_culture_group = northlake
 				}
 				OR = { 		
 					is_general = yes
@@ -186,8 +183,7 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = north_african
-					has_culture_group = fezzani
+					has_culture_group = deltaic
 				}
 				OR = { 		
 					is_general = yes

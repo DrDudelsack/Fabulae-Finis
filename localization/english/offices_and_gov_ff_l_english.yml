@@ -449,8 +449,8 @@
  imperial_cult_monarchy_consort_female_missourien:0 "Emperesse"
  title_crown_prince_missourien:0 "Prens"
 
- #Republic Ruler
- aristocratic_republic_rulermissourien_:0 ""
+ #Missourien Republic Ruler
+ aristocratic_republic_ruler_missourien_:0 ""
  aristocratic_republic_ruler_female_missourien:0 ""
  aristocratic_republic_co_ruler_missourien:0 ""
  aristocratic_republic_co_ruler_female_missourien:0 ""
@@ -471,7 +471,7 @@
  plutocratic_republic_co_ruler_missourien:0 ""
  plutocratic_republic_co_ruler_female_missourien:0 ""
 
- #Tribal Ruler
+ #Missourien Tribal Ruler
  tribal_kingdom_ruler_missourien:0 "Bourgeois"
  tribal_kingdom_ruler_female_missourien:0 "Dame"
  tribal_kingdom_consort_missourien:0 "Bourgeois"
