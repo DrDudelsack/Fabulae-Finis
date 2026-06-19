@@ -846,7 +846,7 @@
 79={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 80={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 81={ #
 	terrain="desert"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -3394,7 +3394,7 @@
 386={ #
 	terrain="desert"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42874,7 +42874,7 @@
 
 5023={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -42887,7 +42887,7 @@
 
 5024={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -42900,7 +42900,7 @@
 
 5025={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -42913,7 +42913,7 @@
 
 5026={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -42939,7 +42939,7 @@
 
 5030={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -43173,7 +43173,7 @@
 
 5055={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -43199,7 +43199,7 @@
 
 5057={ #
 	terrain="hills"
-	culture="tejano"
+	culture="texaner"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -43485,7 +43485,7 @@
 
 5095={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -43498,7 +43498,7 @@
 
 5096={ #
 	terrain="hills"
-	culture="tejano"
+	culture="texaner"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -43524,7 +43524,7 @@
 
 5098={ #
 	terrain="hills"
-	culture="tejano"
+	culture="texaner"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -58098,7 +58098,7 @@
 6880={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66522,7 +66522,7 @@
 7906={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66535,7 +66535,7 @@
 7907={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66548,7 +66548,7 @@
 7908={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66561,7 +66561,7 @@
 7909={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68043,7 +68043,7 @@
 8087={ #
 	terrain="desert"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68056,7 +68056,7 @@
 8088={ #
 	terrain="desert"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68069,7 +68069,7 @@
 8089={ #
 	terrain="desert"
 	culture="tejano"
-	religion="loneranger"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

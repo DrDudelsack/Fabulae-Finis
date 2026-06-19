@@ -271,7 +271,7 @@
 	}
 }
 
-5496={ #Suquehanna
+5496={ #Susquehanna
 	terrain="hills"
 	culture="pocono"
 	religion="bostonian"

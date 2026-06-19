@@ -340,3 +340,27 @@ nunavut_region = { #4
 		iqaluit_area iglulik_area kivalliq_area kitikmeot_area
 	}
 }
+rio_grande_region = { #10
+	color = rgb { 154 163 201 }
+	areas = {
+		corpus_christi_area rio_bravo_area el_paso_area study_butte_area crystal_city_area new_braunfels_area uvalde_area three_rivers_area midland_area el_dorado_area
+	}
+}
+estacado_region = { #6
+	color = rgb { 27 195 238 }
+	areas = {
+		albuquerque_area nuevo_mexico_area amarillo_area lubbock_area oklahoma_panhandle_area las_cruces_area
+	}
+}
+front_range_region = { #
+	color = rgb { 20 30 95 }
+	areas = {
+		denver_area pueblo_area cheyenne_wells_area boulder_area buffalo_wy_area rolling_hills_area
+	}
+}
+red_river_region = { #7
+	color = rgb { 216 35 20 }
+	areas = {
+		oklahoma_city_area rolling_plains_area west_texas_area spur_area benjamin_area sweetwater_tx_area
+	}
+}

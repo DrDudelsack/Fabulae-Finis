@@ -282,7 +282,11 @@
  manitobain:0 "Manitobain"
  frankaskois:0 "Frankaskois" 
  albertain:0 "Albertain"
- columbien:0 "Columbien"       
+ columbien:0 "Columbien"
+
+ ## Czexan ##
+ czexan:0 "Czexan"
+ texanane:0 "Texaňané"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -361,3 +365,5 @@
  bosniak_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  grand_ouest_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  grand_ouest_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ czexan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ czexan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

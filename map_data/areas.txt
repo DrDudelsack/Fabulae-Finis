@@ -1096,3 +1096,84 @@ kitikmeot_area = {
 nde_area = { 
 	provinces = { 8074 8073 2340 2342 2343 4200 4199 6685 6682 6683 6684 2341 }
 }
+corpus_christi_area = { 
+	provinces = { 6569 6571 9229 9222 6572 6574 9209 }
+}
+rio_bravo_area = { 
+	provinces = { 6575 6576 9210 9208 9211 9225 9223 9224 }
+}
+el_paso_area = { 
+	provinces = { 386 385 8088 8087 8089 7907 81 }
+}
+study_butte_area = { 
+	provinces = { 80 79 6880 7908 7906 7909 }
+}
+crystal_city_area = { 
+	provinces = { 5074 5072 5091 5100 5101 5099 3204 }
+}
+three_rivers_area = { 
+	provinces = { 5073 6573 9228 9226 11622 5094 5098 5095 }
+}
+new_braunfels_area = { 
+	provinces = { 5056 5042 5057 5055 5031 5022 5096  }
+}
+uvalde_area = { 
+	provinces = { 5088 5090 5032 5030 5092 5097 3202 }
+}
+el_dorado_area = { 
+	provinces = { 5023 5025 5026 5024 3205 3201 }
+}
+midland_area = { 
+	provinces = { 142 141 139 5102 140 143 3203 8677 }
+}
+oklahoma_city_area = { 
+	provinces = { 7624 7625 4115 7575 7574 7573 7572 }
+}
+oklahoma_panhandle_area = { 
+	provinces = { 8718 8716 8717 8148 3990 8147 3989 3991 8146 }
+}
+rolling_plains_area = { 
+	provinces = { 3954 3955 7626 7627 4756 7790 7791 7792 4907 }
+}
+west_texas_area = { 
+	provinces = { 8667 11620 8669 8670 8668 9150 6965 11624 6964 }
+}
+sweetwater_tx_area = { 
+	provinces = { 8674 6962 8676 8675 8731 11623 9620 9618 }
+}
+lubbock_area = { 
+	provinces = { 685 12 11 686 687 17 9 10 }
+}
+spur_area = { 
+	provinces = { 11613 11625 11615 11614 6963 11621 }
+}
+amarillo_area = { 
+	provinces = { 484 486 18 684 20 38 485 39 37 }
+}
+benjamin_area = { 
+	provinces = { 4906 683 9622 9621 9623 11612 }
+}
+pueblo_area = { 
+	provinces = { 7716 7714 4777 4776 8159 7357 6847 4363 6848 1431 6849 }
+}
+cheyenne_wells_area = { 
+	provinces = { 5941 7715 5942 7717 3778 3777 7814 }
+}
+denver_area = { 
+	provinces = { 9107 9108 3810 9109 7356 7747 6199 6197 6198 }
+}
+boulder_area = { 
+	provinces = { 1308 1307 3812 3813 7274 3811 7745 7275 }
+}
+western_slopes_area = { 
+	provinces = { 5049 5050 7697 8160 8241 8242 7694 1821 1822 }
+}
+grand_junction_area = { 
+	provinces = { 7696 8158 4362 4364 132 131 7695 }
+}
+rolling_hills_area = { 
+	provinces = { 8206 8207 8205 7487 7485 7487 7484 7273 }
+}
+buffalo_wy_area = { 
+	provinces = { 4351 4533 2159 2158 2160 4352 2428 2429 4531 4532 }
+}

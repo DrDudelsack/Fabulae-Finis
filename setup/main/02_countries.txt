@@ -3527,6 +3527,16 @@ country = {
 				1859 6947 7149 1860 1858 3516
 			}
 		}
+		MND = { #Minot
+			government = tribal_chiefdom
+			primary_culture = northlander
+			religion = peyotist
+			capital = 974
+		
+			own_control_core = {
+				974 7148 7147 9087 972 973 3934
+			}
+		}
 	}
 }
 

@@ -128,7 +128,7 @@ NDK = "setup/countries/great_plains/north_dakota.txt"
 DHG = "setup/countries/great_plains/omaha.txt"
 IWY = "setup/countries/great_plains/ioway.txt"
 DVL = "setup/countries/great_plains/devils_lake.txt"
-
+MND = "setup/countries/great_plains/minot.txt"
 
 
 #South
