@@ -176,6 +176,8 @@ TXR = "setup/countries/south/texarkana.txt"
 SHR = "setup/countries/south/shreveport.txt"
 WCO = "setup/countries/south/waco.txt"
 HOM = "setup/countries/south/houma.txt"
+TEX = "setup/countries/south/texas.txt"
+VIC = "setup/countries/south/victoria.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

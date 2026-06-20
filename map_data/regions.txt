@@ -161,7 +161,7 @@ ozarks_region = {
 	}
 }
 kansas_region = { #10
-	color = rgb { 168 77 109 }
+	color = rgb { 190 225 111 }
 	areas = {
 		kansas_area beatrice_area creighton_area wichita_area fredonia_area great_bend_area garden_city_area ogallala_area omaha_area north_platte_area
 	}
@@ -362,5 +362,17 @@ red_river_region = { #7
 	color = rgb { 216 35 20 }
 	areas = {
 		oklahoma_city_area rolling_plains_area west_texas_area spur_area benjamin_area sweetwater_tx_area
+	}
+}
+great_divide_region = { #7
+	color = rgb { 98 96 122 }
+	areas = {
+		western_slopes_area grand_junction_area beartooth_area basin_area yellowstone_area
+	}
+}
+big_sky_region = { #7
+	color = rgb { 84 233 233 }
+	areas = {
+		three_forks_area billings_area watson_flats_area ashland_area wolf_point_area cut_bank_area
 	}
 }

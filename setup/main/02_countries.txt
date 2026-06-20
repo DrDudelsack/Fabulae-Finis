@@ -2114,6 +2114,23 @@ country = {
 				11947 5029 5027 11610
 			}
 		}
+		VIC = { #Victoria
+			government = aristocratic_republic
+			primary_culture = texan
+			religion = americanist
+			capital = 9235
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9235 9234 7451 7542 7543 879 5753 7885 5756 5755 11618 7541 9238
+			}
+		}
 		WCO = { #Waco
 			government = range_tribal_kingdom
 			primary_culture = texan
@@ -3535,6 +3552,29 @@ country = {
 		
 			own_control_core = {
 				974 7148 7147 9087 972 973 3934
+			}
+		}
+		TEX = { # Most Serene and Glorious Kingdom of Texas
+			government = theocratic_monarchy
+			primary_culture = texaner
+			religion = catholic
+			capital = 5056
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5023 5025 5026 5024 3205 3201
+				5056 5042 5057 5055 5031 5022 5096
+				5073 6573 9228 9226 11622 5094 5098 5095
+				5088 5090 5032 5030 5092 5097 3202
+				6569 6571 9229 9222 6572 6574 9209
+				5039 7887 877 878 9236 9237 6570 9227 
+				3204
 			}
 		}
 	}

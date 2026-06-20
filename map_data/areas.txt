@@ -1177,3 +1177,48 @@ rolling_hills_area = {
 buffalo_wy_area = { 
 	provinces = { 4351 4533 2159 2158 2160 4352 2428 2429 4531 4532 }
 }
+yellowstone_area = { 
+	provinces = { 1399 1400 6838 6839 6837 4758 4757 4759 }
+}
+beartooth_area = { 
+	provinces = { 310 309 311 5048 1820 2427 6382 6381 6383 }
+}
+basin_area = { 
+	provinces = { 326 324 325 6128 6127 6126 6987 }
+}
+three_forks_area = { 
+	provinces = { 9339 9338 9341 9340 6985 4576 9337 1788 1789 4575 }
+}
+ashland_area = { 
+	provinces = { 2649 3838 3839 2648 4402 7080 7081 7079 2650 3840}
+}
+billings_area = { 
+	provinces = { 9076 9077 6986 4574 9078 661 660 662 663 }
+}
+cut_bank_area = { 
+	provinces = { 3598 3597 1787 3596 1289 1290 1291 8965 4918 4920 }
+}
+watson_flats_area = { 
+	provinces = { 4403 1525 1524 1526 5775 5773 5774 1330 }
+}
+wolf_point_area = { 
+	provinces = { 4919 8972 8974 3565 3567 3566 8973 8964 8963  }
+}
+wild_horse_area = { 
+	provinces = { 4032 4030 4031 384 383 7068 8543 8542 7598 }
+}
+oxbow_area = { 
+	provinces = { 4010 5981 5982 2151 2154 4008 4009 341 }
+}
+regina_area = { 
+	provinces = { 2152 2153 2150 4335 4336 1638 4334 6155 6158 442 }
+}
+wadena_area = { 
+	provinces = { 690 9402 9401 9403 5975 5976 5974 440 441 688 689 }
+}
+assiniboia_area = { 
+	provinces = { 920 921 4337 919 343 529 6635 6633 }
+}
+stone_area = { 
+	provinces = { 526 528 527 7596 7597 7595 8546 6634 }
+}

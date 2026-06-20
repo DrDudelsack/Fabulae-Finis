@@ -49,6 +49,20 @@
  utah_region:0 "Utah"
  bas_quebec_region:0 "Bas Quebec"
  haut_quebec_region:0 "Haut Quebec"
+ greenland_region:0 "Greenland"
+ nueva_navarra_region:0 "Nueva Navarra"
+ nunavik_region:0 "Nunavik"
+ newfoundland_region:0 "Newfoundland"
+ manitoba_region:0 "Manitoba"
+ keewatin_region:0 "Keewatin"
+ nunavut_region:0 "Nunavut"
+ rio_grande_region:0 "Rio Grande"
+ estacado_region:0 "Estacado"
+ front_range_region:0 "Front Range"
+ red_river_region:0 "Red River"
+ great_divide_region:0 "Great Divide"
+ big_sky_region:0 "Big Sky"
+ maritimes_region:0 "Maritimes"
 
  ## AREAS ##
  # East of the Mississippi

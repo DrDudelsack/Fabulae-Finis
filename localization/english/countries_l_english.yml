@@ -347,6 +347,10 @@
  WCO_ADJ:0 "Waconian"
  HOM:0 "Houma"
  HOM_ADJ:0 "Houman"
+ TEX:0 "Texas"
+ TEX_ADJ:0 "Texan"
+ VIC:0 "Victoria"
+ VIC_ADJ:0 "Victorian"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
