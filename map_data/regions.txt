@@ -352,27 +352,33 @@ estacado_region = { #6
 		albuquerque_area nuevo_mexico_area amarillo_area lubbock_area oklahoma_panhandle_area las_cruces_area
 	}
 }
-front_range_region = { #
+front_range_region = { #6
 	color = rgb { 20 30 95 }
 	areas = {
 		denver_area pueblo_area cheyenne_wells_area boulder_area buffalo_wy_area rolling_hills_area
 	}
 }
-red_river_region = { #7
+red_river_region = { #6
 	color = rgb { 216 35 20 }
 	areas = {
 		oklahoma_city_area rolling_plains_area west_texas_area spur_area benjamin_area sweetwater_tx_area
 	}
 }
-great_divide_region = { #7
+great_divide_region = { #5
 	color = rgb { 98 96 122 }
 	areas = {
 		western_slopes_area grand_junction_area beartooth_area basin_area yellowstone_area
 	}
 }
-big_sky_region = { #7
+big_sky_region = { #6
 	color = rgb { 84 233 233 }
 	areas = {
 		three_forks_area billings_area watson_flats_area ashland_area wolf_point_area cut_bank_area
+	}
+}
+saskatchewan_region = { #8
+	color = rgb { 173 212 10 }
+	areas = {
+		langbank_area wadena_area regina_area assiniboia_area oxbow_area mayfair_area stone_area saskatoon_area
 	}
 }
