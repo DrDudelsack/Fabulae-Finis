@@ -241,25 +241,13 @@ jefferson_region = { #4
 whilamut_region = { #4
 	color = rgb { 30 128 80 }
 	areas = {
-		suislaw_area portlandia_area willamette_area tillamook_area
-	}
-}
-tahoma_region = { #5
-	color = rgb { 90 200 100 }
-	areas = {
-		south_puget_area rainier_area north_puget_area olympus_area willapa_area
+		suislaw_area portlandia_area willamette_area tillamook_area south_puget_area rainier_area north_puget_area olympus_area willapa_area
 	}
 }
 columbia_region = { #4
 	color = rgb { 59 104 13 }
 	areas = {
-		yakima_area columbia_valley_area colville_area palouse_area
-	}
-}
-highdesert_region = { #4
-	color = rgb { 131 201 256 }
-	areas = {
-		deschutes_area malheur_area halfway_area blue_mountains_area
+		yakima_area columbia_valley_area colville_area palouse_area deschutes_area malheur_area halfway_area blue_mountains_area
 	}
 }
 beecee_region = { #4
@@ -352,22 +340,16 @@ estacado_region = { #6
 		albuquerque_area nuevo_mexico_area amarillo_area lubbock_area oklahoma_panhandle_area las_cruces_area
 	}
 }
-front_range_region = { #6
-	color = rgb { 20 30 95 }
-	areas = {
-		denver_area pueblo_area cheyenne_wells_area boulder_area buffalo_wy_area rolling_hills_area
-	}
-}
 red_river_region = { #6
 	color = rgb { 216 35 20 }
 	areas = {
 		oklahoma_city_area rolling_plains_area west_texas_area spur_area benjamin_area sweetwater_tx_area
 	}
 }
-great_divide_region = { #5
+great_divide_region = { #11
 	color = rgb { 98 96 122 }
 	areas = {
-		western_slopes_area grand_junction_area beartooth_area basin_area yellowstone_area
+		western_slopes_area grand_junction_area beartooth_area basin_area yellowstone_area denver_area pueblo_area cheyenne_wells_area boulder_area buffalo_wy_area rolling_hills_area
 	}
 }
 big_sky_region = { #6
@@ -376,9 +358,21 @@ big_sky_region = { #6
 		three_forks_area billings_area watson_flats_area ashland_area wolf_point_area cut_bank_area
 	}
 }
-saskatchewan_region = { #8
+saskatchewan_region = { #10
 	color = rgb { 173 212 10 }
 	areas = {
-		langbank_area wadena_area regina_area assiniboia_area oxbow_area mayfair_area stone_area saskatoon_area
+		langbank_area wadena_area regina_area assiniboia_area oxbow_area mayfair_area stone_area saskatoon_area black_point_area prince_albert_area
+	}
+}
+alberta_region = { #9
+	color = rgb { 200 120 120 }
+	areas = {
+		wild_horse_area calgary_area medicine_hat_area red_deer_area throne_area lower_sasketchewan_area upper_sasketchewan_area upper_athabasca_area lower_athabasca_area
+	}
+}
+greater_peace_region = { #9
+	color = rgb { 100 120 204 }
+	areas = {
+		nde_area resolution_area hay_river_area steamboat_area naylors_landing_area upper_peace_area lower_peace_area grande_cache_area gift_lake_area
 	}
 }
