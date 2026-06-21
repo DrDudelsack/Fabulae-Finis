@@ -37,6 +37,97 @@
 	}
 }
 
+289={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+290={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+291={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+292={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+411={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="catholic"
+	trade_goods="gems"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1814={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="catholic"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1815={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 2128={ #
 	terrain="hills"
 	culture="bayrean"
@@ -193,6 +284,110 @@
 	}
 }
 
+3526={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3527={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="beans"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3528={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3529={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3530={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="clay"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3531={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3532={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="spices"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3533={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="spices"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 4286={ #
 	terrain="hills"
 	culture="bayrean"
@@ -211,6 +406,19 @@
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5730={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -263,6 +471,58 @@
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6599={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="dye"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6600={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="gems"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6601={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6602={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -492,11 +752,115 @@
 	}
 }
 
+8314={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods="wine"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 8315={ #
 	terrain="plains"
 	culture="montereyan"
 	religion="catholic"
 	trade_goods="wine"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8560={ #
+	terrain="hills"
+	culture="montereyan"
+	religion="caesarist"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8561={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8562={ #
+	terrain="hills"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8689={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="fruits"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8690={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8691={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8692={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -536,6 +900,71 @@
 	culture="bayrean"
 	religion="buddhism"
 	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9124={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9125={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="gems"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9126={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="dye"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9127={ #
+	terrain="farmland"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="marble"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9128={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -627,6 +1056,19 @@
 	culture="bayrean"
 	religion="romano_humanism"
 	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11605={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

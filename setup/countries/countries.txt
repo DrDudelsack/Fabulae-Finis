@@ -178,6 +178,7 @@ WCO = "setup/countries/south/waco.txt"
 HOM = "setup/countries/south/houma.txt"
 TEX = "setup/countries/south/texas.txt"
 VIC = "setup/countries/south/victoria.txt"
+CZH = "setup/countries/south/praha.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
@@ -187,6 +188,9 @@ PUG = "setup/countries/west_coast/puget.txt"
 TUC = "setup/countries/west_coast/tucson.txt"
 VEG = "setup/countries/west_coast/vegas.txt"
 CLA = "setup/countries/west_coast/elton_california.txt"
+DEN = "setup/countries/west_coast/denver.txt"
+PUE = "setup/countries/west_coast/pueblo.txt"
+BIS = "setup/countries/west_coast/treasure_valley.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

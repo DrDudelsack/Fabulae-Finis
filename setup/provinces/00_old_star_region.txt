@@ -117,7 +117,7 @@
 
 878={ #
 	terrain="plains"
-	culture="texaner"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 879={ #
 	terrain="plains"
-	culture="texaner"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3398={ #
 	terrain="plains"
-	culture="texanane"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 5040={ #
 	terrain="steppes"
-	culture="texan"
+	culture="texanane"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 5043={ #
 	terrain="steppes"
-	culture="texan"
+	culture="texanane"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 5084={ #
 	terrain="plains"
-	culture="texanane"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 5753={ #
 	terrain="plains"
-	culture="texaner"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 5755={ #
 	terrain="plains"
-	culture="texaner"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -780,7 +780,7 @@
 
 5756={ #
 	terrain="plains"
-	culture="texaner"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -793,7 +793,7 @@
 
 6284={ #
 	terrain="plains"
-	culture="texanane"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -806,7 +806,7 @@
 
 6285={ #
 	terrain="plains"
-	culture="texanane"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 7886={ #
 	terrain="plains"
-	culture="texanane"
+	culture="texan"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -1339,7 +1339,7 @@
 
 9615={ #
 	terrain="steppes"
-	culture="texan"
+	culture="texaner"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

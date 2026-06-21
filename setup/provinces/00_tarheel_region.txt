@@ -726,19 +726,6 @@
 	}
 }
 
-7390={ #
-	terrain="plains"
-	culture="piedmontese"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7391={ #
 	terrain="plains"
 	culture="piedmontese"

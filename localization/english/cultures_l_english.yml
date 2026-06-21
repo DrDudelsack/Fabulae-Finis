@@ -178,8 +178,8 @@
 
  ## Deutschamerikaner ##
  deutschamerikaner:0 "Deutschamerikaner"
- hermanndeutsch:0 "Hermanndeutsch"
- texaner:0 "Texaner"
+ hermanndeutsch:0 "Winzer" #Wine-Maker
+ texaner:0 "Freidenker" #Free-Thinker
  wolgadeutsche:0 "Wolgadeutsche"
  
  ## Californian ##
@@ -285,8 +285,8 @@
  columbien:0 "Columbien"
 
  ## Czexan ##
- czexan:0 "Czexan"
- texanane:0 "Texaňané"
+ czexan:0 "Böhmen" #Texas Bohemian?
+ texanane:0 "Czexan"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

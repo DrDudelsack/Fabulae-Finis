@@ -50,11 +50,115 @@
 	}
 }
 
+438={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="loneranger"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+439={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="loneranger"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 1245={ #Rachel
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
 	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1300={ #
+	terrain="desert"
+	culture="socaleno"
+	religion="catholic"
+	trade_goods="beans"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1301={ #
+	terrain="desert_hills"
+	culture="socaleno"
+	religion="catholic"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1302={ #
+	terrain="desert_hills"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1303={ #
+	terrain="desert"
+	culture="cahuilla"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1578={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="loneranger"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1579={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -226,6 +330,84 @@
 	}
 }
 
+5516={ #
+	terrain="dry_plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="spices"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5517={ #
+	terrain="dry_plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="olive"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5518={ #
+	terrain="desert_hills"
+	culture="socaleno"
+	religion="scientology"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5519={ #
+	terrain="dry_plains"
+	culture="socaleno"
+	religion="kinemite"
+	trade_goods="leather"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5520={ #
+	terrain="oasis"
+	culture="socaleno"
+	religion="scientology"
+	trade_goods="leather"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5521={ #
+	terrain="dry_plains"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods="olive"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 5555={ #Nelson
 	terrain="desert"
 	culture="mojavean"
@@ -307,6 +489,84 @@
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5729={ #
+	terrain="desert"
+	culture="socaleno"
+	religion="scientology"
+	trade_goods="gunpowder"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5731={ #
+	terrain="hills"
+	culture="socaleno"
+	religion="scientology"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5732={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="loneranger"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5871={ #
+	terrain="desert"
+	culture="cahuilla"
+	religion="catholic"
+	trade_goods="beans"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5872={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods="salt"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5873={ #
+	terrain="desert"
+	culture="cahuilla"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -424,6 +684,32 @@
 	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8050={ #
+	terrain="desert"
+	culture="socaleno"
+	religion="scientology"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8051={ #
+	terrain="desert"
+	culture="socaleno"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

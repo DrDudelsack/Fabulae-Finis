@@ -3228,7 +3228,7 @@ country = {
 			centralization = -20
 
 			own_control_core = {
-				9139 7159 2248 7160 9138 7744 7746 9140  6780
+				9139 7159 2248 7160 9138 7744 7746 9140 7745 104 7747 6780
 			}
 		}
 		PTL = { # Platte
@@ -3575,6 +3575,74 @@ country = {
 				6569 6571 9229 9222 6572 6574 9209
 				5039 7887 877 878 9236 9237 6570 9227 
 				3204
+			}
+		}
+		CZH = { # Praha
+			government = range_tribal_kingdom
+			primary_culture = texanane
+			religion = catholic
+			capital = 7884
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7884 5040 7886 3398 3401 3399 3344 2130 5043 5044 3342
+			}
+		}
+		DEN = { # Denver
+			government = oligarchic_republic
+			primary_culture = coloradan
+			religion = buddhism
+			capital = 9108
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9108 9107 1308 1307 3810 9109 7356 7357 3812 1813 3811
+			}
+		}
+		PUE = { # Pueblo District
+			government = military_district
+			primary_culture = coloradan
+			religion = caesarist
+			capital = 7716
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7716 7714 4776 4777 8159
+			}
+		}
+		BIS = { # Treasure Valley
+			government = aristocratic_republic
+			primary_culture = snakelander
+			religion = caesarist
+			capital = 4549
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4549 4550 2554 2553 7137 7139 7138 4551 3614 3613
 			}
 		}
 	}
