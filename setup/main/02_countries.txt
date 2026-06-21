@@ -3223,7 +3223,7 @@ country = {
 		PLT = { # Republican
 			government = tribal_chiefdom
 			primary_culture = grangelander
-			religion = trailwalker
+			religion = loneranger
 			capital = 9139
 			centralization = -20
 
@@ -3234,7 +3234,7 @@ country = {
 		PTL = { # Platte
 			government = tribal_chiefdom
 			primary_culture = grangelander
-			religion = trailwalker
+			religion = loneranger
 			capital = 3898
 			centralization = 20
 
