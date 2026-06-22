@@ -279,3 +279,104 @@ deity_faulkner = { #William Faulkner
 		culture_apotheosis_oratory_tech_effect = yes
 	}
 }
+deity_baron = { #Loosely based off of Johan Wilhelm Von Bock, founder of the first German settlement in Missouri. Represents change and time.
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_baron = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_pop_assimilation_speed_modifier = deity_global_pop_assimilation_speed_modifier_svalue }
+	omen = { build_cost = omen_build_cost_svalue }
+	religion = twainist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_big_muddy = { #Personificiation of the confluence of the Missouri and Mississippi around St. Louis
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = twainist
+				CULTURE = gatewayan
+			}
+			deity:omen_big_muddy = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_income_effect = yes
+	}
+}
+deity_missouri = { #Personification of the Missouri River, represents 1800's settler colonialism and the path to the west
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_missouri = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
+	omen = { naval_damage_done = omen_naval_damage_done_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_military_experience_effect = yes
+    }
+}
+deity_illinois = { #Personification of the Illinois River, represents great metropolises and urban centers (Chicago)
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_illinois = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { build_time = deity_build_time_svalue }
+	omen = { price_found_metropolis_cost_modifier = -0.25 } #Bonus from Omen
+	religion = twainist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}

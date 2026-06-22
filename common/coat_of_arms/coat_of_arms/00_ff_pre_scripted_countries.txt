@@ -1241,3 +1241,21 @@ GAS = {
 	}
 }
 
+HAB = { #Hannibal
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "light_blue"
+	colored_emblem = {
+		texture = "ce_steamboat.dds"
+		color1 = "ck2_blue"
+		color2 = "epirus_yellow"
+		instance = { scale = { 2 2 } position = { 0.50 0.44 } }
+	}
+	#colored_emblem = {
+	#	texture = "ce_frame_houma.dds"
+	#	color1 = "ck2_green"
+	#	color2 = "ck2_blue"
+	#	instance = { scale = { 1.2 1.2 } position = { 0.50 0.50 }}
+	#}
+}
+
