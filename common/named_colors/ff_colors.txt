@@ -3,5 +3,7 @@
 	ff_light_grey = rgb { 186 186 186 }
 	hudsonia_orange = rgb { 223 89 10 }
 	lwizyan_blue = rgb { 85 146 213 }
+	missouri_rhineland_green = rgb { 27 130 46 }
+	boonslick_color = rgb { 104 59 78 }
 }
 

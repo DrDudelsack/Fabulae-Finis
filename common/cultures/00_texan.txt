@@ -1,4 +1,4 @@
-﻿texan = {
+﻿texian = {
 	color = rgb { 127 76 25 }
 
 	levy_template = levy_central_asia

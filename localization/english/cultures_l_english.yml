@@ -114,7 +114,8 @@
  paw_paw:0 "Paw Paw"
 
  ## Texan ##
- texan:0 "Texan"
+ texian:0 "Texan"
+ texan:0 "Longhorn"
  tejano:0 "Tejano"
  estacadan:0 "Estacadan"
 
@@ -178,7 +179,7 @@
 
  ## Deutschamerikaner ##
  deutschamerikaner:0 "Deutschamerikaner"
- hermanndeutsch:0 "Winzer" #Wine-Maker
+ hermanndeutsch:0 "Weinstrasser" #Named after prominent Missouri wine making corridor
  texaner:0 "Freidenker" #Free-Thinker
  wolgadeutsche:0 "Wolgadeutsche"
  

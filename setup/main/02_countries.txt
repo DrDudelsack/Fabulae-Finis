@@ -386,7 +386,7 @@ country = {
 			own_control_core = {
 				3875 8644 8645 8646 #como_area
 				5601 6620 6622 #kansas_city_area
-				5600 6337 #ellington_area
+				6621 
 			}
 		}
 		KCA = { #Kaycimo
@@ -403,7 +403,7 @@ country = {
 			}
 
 			own_control_core = {
-				3873 6621 7369 7371 8495 #kansas_city_area
+				3873 7369 7371 8495 #kansas_city_area
 				7370 7372 #kansas_area
 				7373 9451 #terre_haute_area
 			}
@@ -430,6 +430,7 @@ country = {
 			primary_culture = paw_paw
 			religion = catholic
 			capital = 6336
+			centralization = 50
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -447,6 +448,7 @@ country = {
 			primary_culture = ozark
 			religion = catholic
 			capital = 2958
+			centralization = 30
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -459,11 +461,12 @@ country = {
 				2958 7613 9509 7611 7612 9508 9510
 			}
 		}
-		HRM = { #Cole Camp
+		HRM = { #Hermann
 			government = tribal_federation
 			primary_culture = hermanndeutsch
 			religion = lutheran
-			capital = 6621
+			capital = 5600
+			centralization = 50
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -473,7 +476,7 @@ country = {
 			}
 
 			own_control_core = {
-				6621 #kansas_city_area
+				5600 6337
 			}
 		}
 		FTL = { #Fort Leonard
@@ -527,6 +530,7 @@ country = {
 
 			own_control_core = {
 				1490 1492 5251 5252 #joplin_area
+				5952 5951 5953
 			}
 		}
 		JOP = { #Joplin

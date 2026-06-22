@@ -203,13 +203,17 @@
 		amount=1
 	}
 	citizen={
+		culture="hermanndeutsch"
+		amount=1
+	}
+	citizen={
 		religion="heartful"
 		amount=1
 	}
 	freemen={
 		culture="bosniak"
 		religion="ismaili"
-		amount=1
+		amount=2
 	}
 	freemen={
 		amount=2
@@ -217,7 +221,7 @@
 	slaves={
 		culture="paw_paw"
 		religion="catholic"
-		amount=1
+		amount=2
 	}
 	slaves={
 		amount=4
@@ -229,7 +233,7 @@
 	culture="gatewayan"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=20
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -238,6 +242,10 @@
 	citizen={
 		religion="heartful"
 		amount=1
+	}
+	freemen={
+		culture="hermanndeutsch"
+		amount=2
 	}
 	freemen={
 		amount=2
@@ -252,11 +260,18 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		culture="hermanndeutsch"
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -265,11 +280,18 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="hermanndeutsch"
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -278,11 +300,18 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="hermanndeutsch"
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -363,12 +392,12 @@
 	}
 	citizen={
 		culture="bosniak"
-		religion="ismaili"
+		religion="sunni"
 		amount=2
 	}
 	freemen={
 		culture="bosniak"
-		religion="ismaili"
+		religion="sunni"
 		amount=2
 	}
 	freemen={
@@ -421,9 +450,13 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=20
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="hermanndeutsch"
+		amount=1
+	}
 	freemen={
 		culture="bosniak"
 		religion="ismaili"
@@ -452,13 +485,17 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="tubers"
-	civilization_value=20
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		culture="bosniak"
-		religion="ismaili"
+		religion="sunni"
 		amount=2
+	}
+	citizen={
+		culture="hermanndeutsch"
+		amount=1
 	}
 	freemen={
 		amount=2
@@ -600,14 +637,22 @@
 
 5600={ #Hermann
 	terrain="plains"
-	culture="gatewayan"
+	culture="hermanndeutsch"
 	religion="catholic"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="gatewayan"
+		amount=2
+	}
 	tribesmen={
+		culture="paw_paw"
 		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -616,11 +661,24 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="hermanndeutsch"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -692,6 +750,10 @@
 		amount=2
 	}
 	tribesmen={
+		culture="hermanndeutsch"
+		amount=1
+	}
+	tribesmen={
 		amount=4
 	}
 }
@@ -712,6 +774,10 @@
 		amount=2
 	}
 	tribesmen={
+		culture="hermanndeutsch"
+		amount=1
+	}
+	tribesmen={
 		amount=1
 	}
 }
@@ -725,6 +791,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=1
+	}
+	citizen={
+		culture="hermanndeutsch"
 		amount=1
 	}
 	citizen={
@@ -748,11 +818,18 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		culture="hermanndeutsch"
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -760,12 +837,15 @@
 	terrain="plains"
 	culture="hermanndeutsch"
 	religion="heartful"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wood"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -774,11 +854,18 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods=""
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		culture="hermanndeutsch"
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -848,11 +935,29 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=5
+	}
+	citizen={
+		culture="hermanndeutsch"
+		religion="heartful"
 		amount=1
+	}
+	freemen={
+		culture="hermanndeutsch"
+		amount=1
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -861,11 +966,18 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		culture="hermanndeutsch"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -994,11 +1106,24 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=4
+	}
+	citizen={
+		culture="hermanndeutsch"
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=7
 	}
 }
 
@@ -1006,12 +1131,19 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
-	civilization_value=10
+	trade_goods="wine"
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="hermanndeutsch"
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1020,11 +1152,18 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		culture="hermanndeutsch"
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1072,11 +1211,18 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="hermanndeutsch"
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 

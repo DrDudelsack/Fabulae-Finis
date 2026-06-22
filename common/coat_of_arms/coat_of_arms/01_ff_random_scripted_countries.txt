@@ -166,3 +166,16 @@ UPPER_LOUISIANA_FLAG = {
 		instance = { position = { 0.75 0.3 } scale = { 0.6 0.6 }  }
 	}
 }
+
+MISSOURI_RHINELAND_FLAG = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "missouri_rhineland_green"
+	color2 = "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_missouri_rhineland.dds"
+		color1 = "missouri_rhineland_green"
+		color2 = "bone_white"
+		instance = { position = { 0.5 0.5 } }
+	}
+}

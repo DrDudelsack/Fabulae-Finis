@@ -1,0 +1,78 @@
+﻿country_decisions = {
+
+	#Form Boonslick
+	form_boonslick = {
+	potential = {
+		num_of_cities >= 1
+		OR = {
+			AND = {
+				capital_scope = {
+						OR = {
+							is_in_region = missouri_region
+						}
+					}
+				}
+				#primary_culture = heartlander
+		}
+		NOR = {
+			is_tier_1_formable_trigger = yes
+			is_tier_2_formable_trigger = yes
+			is_endgame_tag_trigger = yes
+			has_variable = has_formed_boonslick
+		}
+	}
+	highlight = {
+		scope:province = {
+			OR = {
+				province_id = 3652
+				province_id = 8646
+				province_id = 8644 
+				province_id = 8645
+				province_id = 5601
+				province_id = 6622
+				province_id = 3650
+				province_id = 6620
+			}
+		}
+	}
+	allow = {
+		custom_tooltip = {
+			text = "formable_not_boonslick_exists"
+			NOT = {
+				any_country = {
+					tag = "BLS"
+				}
+			}
+		}
+		can_form_nation_trigger = yes
+		owns_or_subject_owns = 3652
+		owns_or_subject_owns = 8646
+		owns_or_subject_owns = 8644
+		owns_or_subject_owns = 8645
+		owns_or_subject_owns = 6622
+		owns_or_subject_owns = 3650
+		owns_or_subject_owns = 6620
+	}
+	effect = {
+		custom_tooltip = "tier_1_formable_tooltip"
+		change_country_name = "BOONSLICK_NAME"
+		add_2_free_province_investments = yes
+		hidden_effect = {
+			change_country_adjective = "BOONSLICK_ADJECTIVE"
+			change_country_color = "boonslick_color"
+			change_country_tag = BLS
+			#change_country_flag = "MISSOURI_RHINELAND_FLAG" Add flag?
+		}
+		capital_scope = {
+			capital_formable_small_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+		hidden_effect = {
+			set_variable = has_formed_boonslick
+			}
+		}
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

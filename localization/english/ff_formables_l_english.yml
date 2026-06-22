@@ -27,4 +27,16 @@
  UPPER_LOUISIANA_NAME:0 "Haute-Louisiane"
  UPPER_LOUISIANA_ADJECTIVE:0 "Haute-Louisianais"
  form_upper_louisiana_claims_tooltip:0 "Haute-Louisiane will get claims on the regions of #Y Missouri#!, #Y Indiana#!, and on the areas of #Y Vincennes#! and #Y Evansville#!."
- 
+
+ form_missouri_rhineland:0 "Form the Missouri Rheinland"
+ form_missouri_rhineland_desc:0 "The rich Missouri Rheinland has fed many farms and vineyards throughout the ages. All of Missouri's most important cities lay in this region - why should it not be unified under a Weinstrasser banner?"
+ formable_not_missouri_rhineland_exists:0 "#Y Missouri Rheinland#! does not exist."
+ MISSOURI_RHINELAND_NAME:0 "Rheinland"
+ MISSOURI_RHINELAND_ADJECTIVE:0 "Rheinländer"
+ form_missouri_rhineland_claims_tooltip:0 "Rheinland will get claims on the regions of #Y Missouri#!."
+
+ form_boonslick:0 "Form Boonslick"
+ form_boonslick_desc:0 "In times of yore, this area was settled by an explorer named Boone, and was thus named Boonslick, or Boone's Lick. Boonslick has always been a key path on the road to the west, and a single ruler could administer this area much better than several."
+ formable_not_boonslick_exist:0 "#Y Boonslick#! does not exist."
+ BOONSLICK_NAME:0 "Boonslick"
+ BOONSLICK_ADJECTIVE:0 "Boonslicker"

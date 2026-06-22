@@ -1,0 +1,85 @@
+﻿country_decisions = {
+
+	#Form Missouri Rhineland
+	form_missouri_rhineland = {
+	potential = {
+		num_of_cities >= 1
+		primary_culture = hermanndeutsch
+		NOR = {
+			is_tier_1_formable_trigger = yes
+			is_tier_2_formable_trigger = yes
+			is_endgame_tag_trigger = yes
+			has_variable = has_formed_missouri_rhineland
+		}
+	}
+	highlight = {
+		scope:province = {
+			OR = {
+				province_id = 4206
+				province_id = 5600 
+				province_id = 8644
+				province_id = 5601
+				province_id = 7369
+				province_id = 9452
+				province_id = 6621
+				province_id = 3874
+				province_id = 3652
+			}
+		}
+	}
+	allow = {
+		custom_tooltip = {
+			text = "formable_not_missouri_rhineland_exists"
+			NOT = {
+				any_country = {
+					tag = "MRL"
+				}
+			}
+		}
+		can_form_nation_trigger = yes
+		owns_or_subject_owns = 4206
+		owns_or_subject_owns = 5600
+		owns_or_subject_owns = 8644
+		owns_or_subject_owns = 5601
+		owns_or_subject_owns = 7369
+		owns_or_subject_owns = 9452
+		owns_or_subject_owns = 6621
+		owns_or_subject_owns = 3874
+		owns_or_subject_owns = 3652
+	}
+	effect = {
+		custom_tooltip = "tier_1_formable_tooltip"
+		change_country_name = "MISSOURI_RHINELAND_NAME"
+		add_2_free_province_investments = yes
+		current_ruler = {
+			add_nickname = "BARON_NICKNAME"
+		}
+		custom_tooltip = "form_missouri_rhineland_claims_tooltip"
+		hidden_effect = {
+			change_country_adjective = "MISSOURI_RHINELAND_ADJECTIVE"
+			change_country_color = "missouri_rhineland_green"
+			change_country_tag = MRL
+			change_country_flag = "MISSOURI_RHINELAND_FLAG"
+		}
+		capital_scope = {
+			capital_formable_small_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+		hidden_effect = {
+		every_province = {
+			limit = {
+				OR = {
+					is_in_region = missouri_region
+				}
+				
+			}
+			add_claim = root
+			}
+			set_variable = has_formed_missouri_rhineland
+			}
+		}
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

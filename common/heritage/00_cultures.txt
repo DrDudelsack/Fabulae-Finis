@@ -324,6 +324,45 @@ deitsch_heritage = {
         primary_culture = deitsch
 	}
 }
+weinstrasser_heritage = {
+   	modifier = {
+        #good
+        global_capital_trade_routes = 2
+        global_freemen_output = 0.05
+      #bad
+        build_cost = 0.10
+   }
+
+   trigger = {
+        primary_culture = hermanndeutsch
+	}
+}
+czexan_heritage = {
+   	modifier = {
+        #good
+        oratory_tech_investment = 0.10
+        global_monthly_food_modifier = 0.05
+      #bad
+        happiness_for_wrong_culture_group_modifier = -0.03
+   }
+
+   trigger = {
+        primary_culture = texanane
+	}
+}
+freidenker_heritage = {
+   	modifier = {
+        #good
+        happiness_for_wrong_religion_modifier = 0.03
+        monthly_tyranny = -0.03
+      #bad
+        enslavement_efficiency = -0.10
+   }
+
+   trigger = {
+        primary_culture = texaner
+	}
+}
 #Culture Group
 steelfolk_heritage = {
    	modifier = {
@@ -452,7 +491,7 @@ texan_heritage = {
    }
 
    trigger = {
-        country_culture_group = texan
+        country_culture_group = texian
 	}
 }
 deutschamerikaner_heritage = {
