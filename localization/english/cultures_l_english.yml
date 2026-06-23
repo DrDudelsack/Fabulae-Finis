@@ -115,7 +115,7 @@
 
  ## Texan ##
  texian:0 "Texan"
- texan:0 "Longhorn"
+ texan:0 "Texian"
  tejano:0 "Tejano"
  estacadan:0 "Estacadan"
 
@@ -286,7 +286,7 @@
  columbien:0 "Columbien"
 
  ## Czexan ##
- czexan:0 "Böhmen" #Texas Bohemian?
+ czexan:0 "Bergbewohner" #German for 'Hill-dweller'
  texanane:0 "Czexan"
 
  ## NAMING ##
@@ -338,8 +338,8 @@
  upland_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  californian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  californian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- texan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- texan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ texian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ texian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  north_pacific_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  north_pacific_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  frontieran_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

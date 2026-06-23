@@ -1187,20 +1187,15 @@ HRM = { # Hermann
 }
 
 TEX = {
-	pattern = "pattern_horizontal_split_01.tga"
-	color1 = "light_yellow"
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "ck2_blue"
 	color2 = "offwhite"
+	color3 = "ck2_red"
 	
 	colored_emblem = {
-		texture = "ce_star_05.dds"
-		color1 = "offwhite"
-		instance = { position = { 0.5 0.3 } scale = { 0.45 0.45 } }
-	}
-	
-	colored_emblem = {
-		texture = "ce_block_02.dds"
-		color1 = "light_blue"
-		instance = { position = { 0.2 0.8 } scale = { 0.6 0.6 } }
+		texture = "ce_eagle_double_bald.dds"
+		color1 = "ck2_yellow"
+		color2 = "dark_rust"
 	}
 }
 

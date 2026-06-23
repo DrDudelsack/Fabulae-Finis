@@ -62,7 +62,6 @@
         Yolanda
 	}
 	family = { #Socaleno last names
-		_pst_Unga._pst_Unga._pst_Unga._pst_Unga
 		Abad
 		Abbasi
 		Abdelfattah

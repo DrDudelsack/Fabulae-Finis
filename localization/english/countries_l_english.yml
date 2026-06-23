@@ -375,6 +375,10 @@
  PUE_ADJ:0 "Puebloan"
  BIS:0 "Treasure Valley" 
  BIS_ADJ:0 "Valleyan"
+ LOS:0 "Atomic Priesthood"
+ LOS_ADJ:0 "Atomic"
+ MXI:0 "Mexicali"
+ MXI_ADJ:0 "Mexicaleno"
 
  ## East Canada ##
  FRO:0 "Francontario"

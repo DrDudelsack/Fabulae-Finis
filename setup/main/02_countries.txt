@@ -2149,7 +2149,7 @@ country = {
 			}
 
 			own_control_core = {
-				5087 8282 8281 8278 8277 9149
+				5087 8282 8281 8278 8277 9149 8280 8279 9619 9617 9618
 			}
 		}
 		OUA = { #Ouachita
@@ -3559,10 +3559,11 @@ country = {
 			}
 		}
 		TEX = { # Most Serene and Glorious Kingdom of Texas
-			government = theocratic_monarchy
+			government = imperium
 			primary_culture = texaner
 			religion = catholic
 			capital = 5056
+			succession_law=elective_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3578,13 +3579,13 @@ country = {
 				5088 5090 5032 5030 5092 5097 3202
 				6569 6571 9229 9222 6572 6574 9209
 				5039 7887 877 878 9236 9237 6570 9227 
-				3204
+				3204 9223 9225 9211 9208 9210 6575 6576 9224 5074 5072 5091 8677 3203
 			}
 		}
 		CZH = { # Praha
 			government = range_tribal_kingdom
 			primary_culture = texanane
-			religion = catholic
+			religion = americanist
 			capital = 7884
 
 			technology={
@@ -3647,6 +3648,40 @@ country = {
 
 			own_control_core = {
 				4549 4550 2554 2553 7137 7139 7138 4551 3614 3613
+			}
+		}
+		LOS = { # Atomic Priesthood
+			government = theocratic_monarchy
+			primary_culture = neomexicano
+			religion = aphite
+			capital = 7716
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1154 1155 7259 7260 6566 7261 4957 1386
+			}
+		}
+		MXI = { # Mexicali
+			government = despotic_monarchy
+			primary_culture = cahuilla
+			religion = quetzaltec
+			capital = 8732
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8732 8733 8735 5871 2103 2101 2952 5872 1579 1578 2953 2951 2615 2616 1413
 			}
 		}
 	}

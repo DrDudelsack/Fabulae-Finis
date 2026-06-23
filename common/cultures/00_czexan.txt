@@ -11,9 +11,9 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 
-	#First names aare from Fan Fork, last names are Texaner (Fix later!!!!!)
+	#Czexan names are from Fan Fork
 	male_names = {
-			Adam Albert Alexander Alfred Allen Anton_Anthony Antonin_Antonine Arthur Austin_Augustine
+			Adam Albert Alexander Alfred Allen Anton Anthony Antonin Antonine Arthur Austin Augustine
 			Bedrich Bill_William Bohumil Boris
 			Daniel Darrell_Daryl David
 			Edmund Edward Egon_Eugene Ellis Erik_Eric
@@ -30,22 +30,22 @@
 			Raymond Richard Robert Roman Rudolf
 			Samuel Slavek Stepan_Stephen
 			Theodor_Theodore Tim_Timothy Tomas_Thomas
-			Vaclav_Wenceslas Valentin_Valentine Vladimir Vladislav Vojtech
+			Vaclav Wenceslas Valentin Valentine Vladimir Vladislav Vojtech
 			Walter
 		}
 		
 	female_names = {
-		Albina Amelia Angelika_Angelica Anna_Anne
+		Albina Amelia Angelika Angelica Anna_Anne
 		Barbara
-		Danica Daniela Daria Denise Dominika_Dominica Donna Dora
-		Elena_Helen Emma Erika_Erica Eva
+		Danica Daniela Daria Denise Dominika Dominica Donna Dora
+		Elena Helen Emma Erika_Erica Eva
 		Gisela
 		Hannah
 		Ilona Irena_Irene Isabella Ivana_Joan
 		Jana_Jane Janica Jarmila Jessica Judith
 		Karolina_Caroline Kathrine_Catherine
-		Lena Liana Livia Lucia_Lucy Ludmila
-		Magdalena_Magdalene Maria_Mary Marilyn Martha Martina Mila Milena Mira Miriam Monika_Monica
+		Lena Liana Livia Lucia Lucy Ludmila
+		Magdalena Magdalene Maria Mary Marilyn Martha Martina Mila Milena Mira Miriam Monika Monica
 		Nadia Natasha Nicole Nina
 		Olga Olivia
 		Paulina
@@ -55,10 +55,169 @@
 		Valeria Vanessa
 		Wilma
 	}
-	family = { Aiken Alberthal Altgelt Amelung Aranda Arhelger Armbruster Arning Astran Attal Backofen Baecker Baethge Bajer Barnett Barrientez Barta Bartholomae Bartosh Bauer Baughman Bednorz Behrens Beran Berkmann Bertsch Beseda Beseler Besier Bieberstein Biedermann Bierschwale Biesele Bippert Bittner Blaschke Bludau Bluntzer Bock Bode Boehm Boehm Boerner Bohac Boldt Bombach Bomersbach Boos Borgfeld Boriack Bracht Brandenberger Brodbeck Brosch Bruckisch Bruns Bucanek Buchmeyer Buckholt Buehring Bueling-Herring Buesing Bujnoch Bunger Butterwick Cantu Cappes Capretta Casteel Castillo Cernosek Cervantes Cervenka Chapman Chovanec Chudej Chumchal Claren Coll Conzen Coufal Crenwelge Dallmeyer Dambach Dangers Dannheim Dankworth Darilek Degener Deichert Dekneef Dethard Diaz Diercks Dieterich Dietz Dlugosch Doebbler Doerfler Dohmann Domschula Dornak Dornburg Doskocil Draehn Dresel Drozd Duderstadt Dudik Duecker Durst Dutschmann Dvorak Dworaczyk Easterly Echtenkamp Eckhardt Ehrenberg Eiband Eilers Ellebracht Elstner Enderlin Erben Ernst Esmacher Etzel Ewald Fahrenhorst Fassel Faust Feller Felps Felsing Feuge Fischer Fishbeck Flach Flessner Flick Foerster Fogle Fojtik Foradory Frels French Friedrichs Friesenhahn Friesleben Fritsch Fritsche Furstenfeld Garcia Garza Gebert Geffert Gerik Gersdorff Giesecke Glau Goerig Goertz Gohlke Gohmert Gollwitzer Gonzalez Grasshoff Greilich Grobe Groff Groos Grote Gruene Gruetzmacher Grusendorf Guenther Guerrero Gundlach Gutierrez Haas Hackemack Hadeler Hafertepe Hahn Hajek Halamicek Hanus Harborth Hardberger Harring Hartmann Hasdorff Hatzfeld Hausenfluck Hausenfluke Havican Heger Heinen Heintschle Helbich Hellinger Hencerling Henneke Henning Herber Herbold Herff Hernandez Herrera Herridge Herring Hertzberg Herzik Heuermann Hickman Hightower Hilbrich Hill Hillje Hitzfeld Hlavaty Hoch Hoefer Hoelscher Hoerner Hohmann Holecek Holekamp Holubec Homeyer Hons Horak Hosek Hrna Hrncir Hromadka Hubby Hudson Huebel Hueske Human Hutyra Hykel Iltis Ingersoll Isenburg Itschner Jahns Jakubik Jalufka James Janak Janda Janecka Janek Jansing Jansky Janysek Jares Jarosek Jecmenek Jendrzey Jenschke Jezisek Jolly Jordan Juarez Junek Jurecka Kaderka Kahlden Kahlich Kahlig Kainer Kaiser Kallenberg Kallus Kalmus Kaltwasser Kaltwasser Kaluza Kambor Kammlah Kamphoefner Kansteiner Kapavik Kapp Kappelhoff Karlik Karnei Kaska Kasmiersky Kasparik Kattmann Kattner Keidel Kelm Kempf Kettler Kibby Kiehne Kiel Kieschnick Kilian Klaerner Kleberg Kleck Klein Klekar Klepac Klesel Klimitchek Klingelhoefer Kloesel Kloth Klotzbach Knapek Knebel Kneese Knesek Knopp Kocian Kocurek Koebig Koehler Kohout Kolar Konvicka Korenek Kostecka Kothe Kothmann Kotzur Kovar Kowalik Kownslar Koym Krauskopf Krenek Kresta Kriewitz Krueger Kubacak Kubala Kubena Kucera Kudelka Kuechler Kuehl Kuenemann Kulhanek Kurten Kutscherousky Lafuente Langehennig Lassmann Lecklitner Ledenham Lednicky Lehmann Lehmberg Leifeste Leiningen Leitko Lerch Leyendecker Lilljedahl Limmer Lindemann Lindheimer Loeffler Loehr Loesch Loest Luckenbach Luedecke Lueders Lungkwitz Maass Machacek Machemehl Macik Mahncke Maier Malota Mangold Marburger Marek Maresh Markwardt Marosko Marschall Martinez Marx Mascheck Matcek Matejek Matocha Mattiaschke Matula Matus Meckel Meerholz Meier Meinhardt Meinholdt Meiss Merding Merino Merkord Metting Metzger Meusebach Meuth Mezzetti Michalsky Miertschin Mikulin Miller Mills Mittasch Moczygemba Moeller Molter Monkerud Morde Morgenthaler Mosel Mozisek Mueller Munos Munsch Muska Mutscher Muzny Mynarcik Naumann Nechanitz Neese Neff Nemec Neskora Neuberger Neuendorff Neugebauer Ney Niestroy Nieuwoudt Nimitz Nohl Nordheim Nors Noska Novosad Nowicki Nutt Obergoenner Odom Oehlke Oeltjendiers Ofczarzak Ohnheiser Ondrasek Oosterveen Orr Orsak Ottmers Padalecki Pakebusch Palacios Pallmer Paniagua Pargmann Parker Patterson Pavelka Pavlicek Pekar Penland Persyn Petri Petsch Pfeil Pfenninger Pfluger Picha Piekarski Pietsch Pleasant Podsednik Pohl Pointeau Pokluda Polansky Polasek Potchernick Prachwitz Prasek Pratka Prazak Priess Proske Psencik Pustejovsky Pustka Raegner Rakowitz Ramirez Rangel Rangnow Ransleben Rathskeller Rausch Rauschenberg Regenbrecht Reichardt Reichenau Reininger Reitz Reitzel Rejcek Rekieta Rektorik Repek Ressmann Reyes Rickert Rivera Rodenbeck Rodriquez Roeder Roehling Roloff Romberg Rorig Rosenkranz Rother Roznos Roznovsky Rudloff Runge Safarik Salazar Sanchez Schaefer Schandua Scheel Schendel Schertz Schieffer Schielak Schierholz Schindler Schleicher Schlenning Schley Schmidt Schneider Schnobel Schoeneberg Schoeneman Schoener Schoppe Schroeder Schubert Schuessler Schuetze Schuhmann Schulenburg Schulmeier Schultz Schulze Schunk Schupp Schwantz Schwarz Sebesta Sefcik Segura Selig Selucky Sembera Sennhauser Shirocky Siemering Sievers Simcik Simmank Simpson Sklar Skloss Skrabanek Skrhak Slovak Smidovec Smolik Snider Snodgrass Snokhous Snyder Sodek Solis Solms Soto Soukup Southwell Spacek Specht Spiess Srubar Staacke Stahl Stancik Steffek Stefka Stehling Steihl Stieler Stockmar Stoever Stojanik Stolte Stonegate Striegler Strmiska Strubberg Sturm Sugarek Sulak Sultemeier Sultenfuss Sundermann Supak Surber Surovik Svetlik Sykora Talevich Tankersley Tatsch Tausch Tays Telgmann Tetzlaff Thielepape Thiltgen Thornton Tiemann Toepperwein Tomasek Tompkins Torzewski Traugott Trautwein Treibs Trevino Triesch Trigg Tristan Tschirhart Uhtenwoldt Ulbrich }
+	family = { 
+		Bajer
+		Barta
+		Bartosh
+		Beran
+		Bertsch
+		Beseda
+		Bludau
+		Bohac
+		Brosch
+		Bucanek
+		Bujnoch
+		Canik
+		Cernosek
+		Cervenka
+		Chovanec
+		Chudej
+		Coufal
+		Cufr
+		Darilek
+		Dornak
+		Drozd
+		Dudik
+		Dvorak
+		Etzel
+		Fojtik
+		Fritsch
+		Gerik
+		Goerig
+		Hajek
+		Halamicek
+		Henneke
+		Hlavaty
+		Holecek
+		Horak
+		Hrncir
+		Hromadka
+		Hutyra
+		Hykel
+		Jakubik
+		Jalufka
+		Janda
+		2Janek
+		Jansky
+		Jares
+		Jarosek
+		Jezisek
+		Junek
+		Jurecka
+		Kaderka
+		Kaiser
+		Kallus
+		Kaluza
+		Kapavik
+		Karlik
+		Kaska
+		Klekar
+		Klesel
+		Klimitchek
+		Kloesel
+		Knapek
+		Knesek
+		Kocian
+		Kocurek
+		Kolar
+		Kostecka
+		Kovar
+		Krenek
+		Kresta
+		Kubala
+		Kubena
+		Kucera
+		Kudelka
+		Kulhanek
+		Kutscherousky
+		Labaj
+		Lednicky
+		Machacek
+		Macik
+		Malota
+		Marek
+		Maresh
+		Mascheck
+		Matocha
+		Matula
+		Matus
+		Michalsky
+		Moeller
+		Mozisek
+		Muska
+		Muzny
+		Mynarcik
+		2Nemec
+		Nors
+		Novosad
+		Ofczarzak
+		Ondrasek
+		Orsak
+		Pavelka
+		Pavlicek
+		Pekar
+		Picha
+		Pietsch
+		Podsednik
+		Pohl
+		Pokluda
+		Polansky
+		Polasek
+		Pratka
+		Prazak
+		Pustka
+		Rejcek
+		Repek
+		Rother
+		Roznos
+		Roznovsky
+		Schielak
+		Schindler
+		Schley
+		Sebesta
+		Sefcik
+		Selucky
+		Sembera
+		Shirocky
+		Simcik
+		Sklar
+		Skrabanek
+		Skrhak
+		Smolik
+		Snider
+		Snokhous
+		Sodek
+		Soukup
+		Srubar
+		Steffek
+		Stojanik
+		Strmiska
+		Sulak
+		Supak
+		Surovik
+		Svetlik
+		Sykora
+		Urbanovsky
+		Vajdak
+		Vasut
+		Vavra
+		Veselka
+		Vitek
+		Vochoska
+		Vrabel
+		2Vrana
+		Vrba
+		2Zahirniak
+		Zapalac
+		Zavodny
+		Zboril
+		Zgabay
+		Zrubek
+		Premyslovci
+	}
 	culture = {
-		texanane = {}
-		texaner = {
+		texanane = {} #Czexan
+		texaner = { #Freidenker
 			male_names = { Adam Albert Alexander Alfred Allen Andreas Anselm Anton Antonin Arlon Armand Arnulf Arthur August Bedrich Bernhard Burchard Carl Carl_Frederick Carl_Joseph Carl_Philip Carl_Wilhelm Casper Chester Christian Christopher Clark Conrad Daniel David Delmer Detthard Dewey Dietrich Donnell Dwight Earl Edgar Edmund Edward Edwin Egon Elmer Emil Engelbert Erich Ernest Erwin Felix Ferdinand Franklin Franz Friedrich Fritz George George_August Gottfried Gottlieb Gregory Gustav Hans Harry Hilmar Heinrich Helmut Herbert Hermann Homer Hubert Hugo Jacob James Jason Johann Johann_Lee Joseph Joseph_Maria Julius Justin Justus Ladislau Lee Leo Leo_Maria Leonhardt Leopold Lorenz Louis Ludolph Mark Martin Max Melchior Michael Milton Moritz Nathan Nicolaus Norbert Oldrich Oscar Ottfried Otto Ottomar Paul Peter Philip Ralph Randy Raymond Reinhardt Richard Robert Ronald Rudolph Samuel Sieglinde Sigismund Steven Theodor Tom Traugott Victor Walter Wilhelm Witold Wolfgang Wolfram Zachary }
    			female_names = { Abby Adelheid Aganetha Albina Allison Alma Amanda Anna Arlene Augusta Barbara Becky Bettina Candice Caroline Cecilia Charlotte Cindy Claudia Clothilde Cornelia Dolores Dora Doris Dorothea Dotty Edna Elfriede Elizabeth Elvina Emma Erika Erna Esther Eva Franziska Fredericka Gertrude Gisela Greta Hannah Hannelore Harriet Hedwig Helena Henrietta Hilda Ingrid Irene Isabelle Jane Janice Jenny Josephine Judith Judy Julia Juliana Katherina Kathleen Lilly Lisa Lisette Lois Louise Ludmila Lynette Magdalena Maggy Marge Maria Martha Michelle Mina Miriam Monika Nancy Nicole Pauline Rachel Rebecca Robyn Rosa Ruth Sabine Sarah Sophie Stephanie Susan Trudy Victoria Wanda Wilhelmina Wilma }
 			family = { Aiken Alberthal Altgelt Amelung Aranda Arhelger Armbruster Arning Astran Attal Backofen Baecker Baethge Bajer Barnett Barrientez Barta Bartholomae Bartosh Bauer Baughman Bednorz Behrens Beran Berkmann Bertsch Beseda Beseler Besier Bieberstein Biedermann Bierschwale Biesele Bippert Bittner Blaschke Bludau Bluntzer Bock Bode Boehm Boehm Boerner Bohac Boldt Bombach Bomersbach Boos Borgfeld Boriack Bracht Brandenberger Brodbeck Brosch Bruckisch Bruns Bucanek Buchmeyer Buckholt Buehring Bueling-Herring Buesing Bujnoch Bunger Butterwick Cantu Cappes Capretta Casteel Castillo Cernosek Cervantes Cervenka Chapman Chovanec Chudej Chumchal Claren Coll Conzen Coufal Crenwelge Dallmeyer Dambach Dangers Dannheim Dankworth Darilek Degener Deichert Dekneef Dethard Diaz Diercks Dieterich Dietz Dlugosch Doebbler Doerfler Dohmann Domschula Dornak Dornburg Doskocil Draehn Dresel Drozd Duderstadt Dudik Duecker Durst Dutschmann Dvorak Dworaczyk Easterly Echtenkamp Eckhardt Ehrenberg Eiband Eilers Ellebracht Elstner Enderlin Erben Ernst Esmacher Etzel Ewald Fahrenhorst Fassel Faust Feller Felps Felsing Feuge Fischer Fishbeck Flach Flessner Flick Foerster Fogle Fojtik Foradory Frels French Friedrichs Friesenhahn Friesleben Fritsch Fritsche Furstenfeld Garcia Garza Gebert Geffert Gerik Gersdorff Giesecke Glau Goerig Goertz Gohlke Gohmert Gollwitzer Gonzalez Grasshoff Greilich Grobe Groff Groos Grote Gruene Gruetzmacher Grusendorf Guenther Guerrero Gundlach Gutierrez Haas Hackemack Hadeler Hafertepe Hahn Hajek Halamicek Hanus Harborth Hardberger Harring Hartmann Hasdorff Hatzfeld Hausenfluck Hausenfluke Havican Heger Heinen Heintschle Helbich Hellinger Hencerling Henneke Henning Herber Herbold Herff Hernandez Herrera Herridge Herring Hertzberg Herzik Heuermann Hickman Hightower Hilbrich Hill Hillje Hitzfeld Hlavaty Hoch Hoefer Hoelscher Hoerner Hohmann Holecek Holekamp Holubec Homeyer Hons Horak Hosek Hrna Hrncir Hromadka Hubby Hudson Huebel Hueske Human Hutyra Hykel Iltis Ingersoll Isenburg Itschner Jahns Jakubik Jalufka James Janak Janda Janecka Janek Jansing Jansky Janysek Jares Jarosek Jecmenek Jendrzey Jenschke Jezisek Jolly Jordan Juarez Junek Jurecka Kaderka Kahlden Kahlich Kahlig Kainer Kaiser Kallenberg Kallus Kalmus Kaltwasser Kaltwasser Kaluza Kambor Kammlah Kamphoefner Kansteiner Kapavik Kapp Kappelhoff Karlik Karnei Kaska Kasmiersky Kasparik Kattmann Kattner Keidel Kelm Kempf Kettler Kibby Kiehne Kiel Kieschnick Kilian Klaerner Kleberg Kleck Klein Klekar Klepac Klesel Klimitchek Klingelhoefer Kloesel Kloth Klotzbach Knapek Knebel Kneese Knesek Knopp Kocian Kocurek Koebig Koehler Kohout Kolar Konvicka Korenek Kostecka Kothe Kothmann Kotzur Kovar Kowalik Kownslar Koym Krauskopf Krenek Kresta Kriewitz Krueger Kubacak Kubala Kubena Kucera Kudelka Kuechler Kuehl Kuenemann Kulhanek Kurten Kutscherousky Lafuente Langehennig Lassmann Lecklitner Ledenham Lednicky Lehmann Lehmberg Leifeste Leiningen Leitko Lerch Leyendecker Lilljedahl Limmer Lindemann Lindheimer Loeffler Loehr Loesch Loest Luckenbach Luedecke Lueders Lungkwitz Maass Machacek Machemehl Macik Mahncke Maier Malota Mangold Marburger Marek Maresh Markwardt Marosko Marschall Martinez Marx Mascheck Matcek Matejek Matocha Mattiaschke Matula Matus Meckel Meerholz Meier Meinhardt Meinholdt Meiss Merding Merino Merkord Metting Metzger Meusebach Meuth Mezzetti Michalsky Miertschin Mikulin Miller Mills Mittasch Moczygemba Moeller Molter Monkerud Morde Morgenthaler Mosel Mozisek Mueller Munos Munsch Muska Mutscher Muzny Mynarcik Naumann Nechanitz Neese Neff Nemec Neskora Neuberger Neuendorff Neugebauer Ney Niestroy Nieuwoudt Nimitz Nohl Nordheim Nors Noska Novosad Nowicki Nutt Obergoenner Odom Oehlke Oeltjendiers Ofczarzak Ohnheiser Ondrasek Oosterveen Orr Orsak Ottmers Padalecki Pakebusch Palacios Pallmer Paniagua Pargmann Parker Patterson Pavelka Pavlicek Pekar Penland Persyn Petri Petsch Pfeil Pfenninger Pfluger Picha Piekarski Pietsch Pleasant Podsednik Pohl Pointeau Pokluda Polansky Polasek Potchernick Prachwitz Prasek Pratka Prazak Priess Proske Psencik Pustejovsky Pustka Raegner Rakowitz Ramirez Rangel Rangnow Ransleben Rathskeller Rausch Rauschenberg Regenbrecht Reichardt Reichenau Reininger Reitz Reitzel Rejcek Rekieta Rektorik Repek Ressmann Reyes Rickert Rivera Rodenbeck Rodriquez Roeder Roehling Roloff Romberg Rorig Rosenkranz Rother Roznos Roznovsky Rudloff Runge Safarik Salazar Sanchez Schaefer Schandua Scheel Schendel Schertz Schieffer Schielak Schierholz Schindler Schleicher Schlenning Schley Schmidt Schneider Schnobel Schoeneberg Schoeneman Schoener Schoppe Schroeder Schubert Schuessler Schuetze Schuhmann Schulenburg Schulmeier Schultz Schulze Schunk Schupp Schwantz Schwarz Sebesta Sefcik Segura Selig Selucky Sembera Sennhauser Shirocky Siemering Sievers Simcik Simmank Simpson Sklar Skloss Skrabanek Skrhak Slovak Smidovec Smolik Snider Snodgrass Snokhous Snyder Sodek Solis Solms Soto Soukup Southwell Spacek Specht Spiess Srubar Staacke Stahl Stancik Steffek Stefka Stehling Steihl Stieler Stockmar Stoever Stojanik Stolte Stonegate Striegler Strmiska Strubberg Sturm Sugarek Sulak Sultemeier Sultenfuss Sundermann Supak Surber Surovik Svetlik Sykora Talevich Tankersley Tatsch Tausch Tays Telgmann Tetzlaff Thielepape Thiltgen Thornton Tiemann Toepperwein Tomasek Tompkins Torzewski Traugott Trautwein Treibs Trevino Triesch Trigg Tristan Tschirhart Uhtenwoldt Ulbrich }
