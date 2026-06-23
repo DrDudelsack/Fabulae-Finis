@@ -3684,6 +3684,135 @@ country = {
 				8732 8733 8735 5871 2103 2101 2952 5872 1579 1578 2953 2951 2615 2616 1413
 			}
 		}
+		MJV = { #Mojave
+			government = tribal_kingdom
+			primary_culture = mojavean
+			religion = loneranger
+			capital = 5732
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5732 5879 5878 439 438
+			}
+		}
+		CHC = { #Churchill
+			government = tribal_kingdom
+			primary_culture = battleborn
+			religion = dreamer
+			capital = 1952
+
+			own_control_core = {
+				1952 5660 1953 246 245
+			}
+		}
+		NVV = { #Nevada
+			government = tribal_kingdom
+			primary_culture = battleborn
+			religion = dreamer
+			capital = 3245
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3245 6146 1637 1635 1636 3246 3247 6195 8857 8858 1628 1626
+			}
+		}
+		BNR = { #Burney
+			government = tribal_kingdom
+			primary_culture = paiute
+			religion = dreamer
+			capital = 4083
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4083 4283 4082 4081 6718 4084 4284 4285 8398 9071 9072
+			}
+		}
+		UTA = { # Utah Command
+			government = military_dictatorship
+			primary_culture = utahn
+			religion = caesarist
+			capital = 4529
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4529 4528 5584 5586 5585 4530 1398 1397 2889 2887 2888 844 842 1396 1757 1756 2500 2501 843 406 404 8342 8344 8343 
+			}
+		}
+		EPH = { #Ephraim
+			government = tribal_kingdom
+			primary_culture = utahn
+			religion = mormon
+			capital = 4640
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4640 4641 4639 5920 5921 5922 6732 6732
+			}
+		}
+		STG = { #St. George
+			government = despotic_monarchy
+			primary_culture = utahn
+			religion = mormon
+			capital = 8185
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8185 405 8186 4412 4411 9530
+			}
+		}
+		UIN = { #Uintah
+			government = tribal_chiefdom
+			primary_culture = ute
+			religion = loneranger
+			capital = 2877
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2877 2878 3169 3168 7799
+			}
+		}
 	}
 }
 

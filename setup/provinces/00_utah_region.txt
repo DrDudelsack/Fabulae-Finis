@@ -170,7 +170,7 @@
 1397={ #
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1398={ #
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 2887={ #
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 2888={ #
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 2889={ #
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4528={ #
 	terrain="farmland"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4529={ #
 	terrain="farmland"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4530={ #
 	terrain="farmland"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5584={ #
 	terrain="desert"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5586={ #
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
