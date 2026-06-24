@@ -129,6 +129,7 @@ DHG = "setup/countries/great_plains/omaha.txt"
 IWY = "setup/countries/great_plains/ioway.txt"
 DVL = "setup/countries/great_plains/devils_lake.txt"
 MND = "setup/countries/great_plains/minot.txt"
+CLL = "setup/countries/great_plains/clarinda.txt"
 
 
 #South
@@ -179,6 +180,8 @@ HOM = "setup/countries/south/houma.txt"
 TEX = "setup/countries/south/texas.txt"
 VIC = "setup/countries/south/victoria.txt"
 CZH = "setup/countries/south/praha.txt"
+MTX = "setup/countries/south/metroplex.txt"
+NCH = "setup/countries/south/neches.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
@@ -238,3 +241,5 @@ AVA = "setup/countries/east_canada/avalon.txt"
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"
 INT = "setup/countries/west_canada/interlake.txt"
+PLP = "setup/countries/west_canada/portage_la_prairie.txt"
+KEN = "setup/countries/west_canada/kenora.txt"

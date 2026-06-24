@@ -257,6 +257,8 @@
  MND_ADJ:0 "Minotian"
  DVL:0 "Devil's Lake"
  DVL_ADJ:0 "Northlander"
+ CLL:0 "Council Bluffs"
+ CLL_ADJ:0 "Bluffsonian"
 
  ## South ##
  NOL:0 "New Orleans"
@@ -353,6 +355,10 @@
  VIC_ADJ:0 "Victorian"
  CZH:0 "Praha"
  CZH_ADJ:0 "Prahan"
+ MTX:0 "Metroplex"
+ MTX_ADJ:0 "Metroplexian"
+ NCH:0 "Neches"
+ NCH_ADJ:0 "Necheno"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
@@ -465,6 +471,10 @@
  WNP_ADJ:0 "Winnipegais"
  INT:0 "Interlake"
  INT_ADJ:0 "Interlaker"
+ PLP:0 "Portage La Praire"
+ PLP_ADJ:0 "Prairien"
+ KEN:0 "Kenora"
+ KEN_ADJ:0 "Kenoran"
 
 # Gaelic #
  AUTINI:0 "Autinia"
