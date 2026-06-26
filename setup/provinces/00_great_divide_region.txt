@@ -130,7 +130,7 @@
 
 1399={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 6837={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 6838={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 6839={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

@@ -104,7 +104,7 @@
 
 1560={ #Pysht
 	terrain="forest"
-	culture="cascadian"
+	culture="wakashan"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 1561={ #Kahouk
 	terrain="forest"
-	culture="cascadian"
+	culture="wakashan"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 1562={ # K'–E–le–ok
 	terrain="forest"
-	culture="cascadian"
+	culture="wakashan"
 	religion="gaian"
 	trade_goods="fish"
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 4936={ #
 	terrain="farmland"
-	culture="cascadian"
+	culture="kalapuya"
 	religion="gaian"
 	trade_goods="wine"
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 4937={ #
 	terrain="farmland"
-	culture="cascadian"
+	culture="kalapuya"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 4938={ #
 	terrain="hills"
-	culture="cascadian"
+	culture="kalapuya"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 5420={ #Hoquiam
 	terrain="forest"
-	culture="cascadian"
+	culture="wakashan"
 	religion="gaian"
 	trade_goods="fish"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 5421={ #
 	terrain="forest"
-	culture="cascadian"
+	culture="wakashan"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 5422={ #Wishkah
 	terrain="forest"
-	culture="cascadian"
+	culture="wakashan"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10

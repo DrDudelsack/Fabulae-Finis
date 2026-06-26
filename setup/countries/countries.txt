@@ -182,6 +182,7 @@ VIC = "setup/countries/south/victoria.txt"
 CZH = "setup/countries/south/praha.txt"
 MTX = "setup/countries/south/metroplex.txt"
 NCH = "setup/countries/south/neches.txt"
+BGH = "setup/countries/south/big_country.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
@@ -223,6 +224,8 @@ SLL = "setup/countries/west_coast/seattle.txt"
 LNG = "setup/countries/west_coast/longview.txt"
 SWS = "setup/countries/west_coast/suislaw.txt"
 ITW = "setup/countries/west_coast/interior_willamette.txt"
+YKK = "setup/countries/west_coast/yakama.txt"
+PDT = "setup/countries/west_coast/pendleton.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

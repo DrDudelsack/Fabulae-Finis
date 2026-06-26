@@ -358,7 +358,9 @@
  MTX:0 "Metroplex"
  MTX_ADJ:0 "Metroplexian"
  NCH:0 "Neches"
- NCH_ADJ:0 "Necheno"
+ NCH_ADJ:0 "Necheno" 
+ BGH:0 "Big Country"
+ BGH_ADJ:0 "Estacadan"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
@@ -429,8 +431,8 @@
  ABL_ADJ:0 "Albanian"
  INO:0 "Independence"
  INO_ADJ:0 "Indepencian" 
- TCM:0 "Tacoma"
- TCM_ADJ:0 "Tacoman"
+ TCM:0 "Hoquiam"
+ TCM_ADJ:0 "Hoquiamite"
  SLL:0 "Seattle"
  SLL_ADJ:0 "Seattlean"
  LNG:0 "Longview"
@@ -439,6 +441,10 @@
  SWS_ADJ:0 "Siuslawan" 
  ITW:0 "Interior Willamette"
  ITW_ADJ:0 "Willamettan"
+ YKK:0 "Yakama Confederacy"
+ YKK_ADJ:0 "Yakaman"
+ PDT:0 "Pendleton District"
+ PDT_ADJ:0 "Pendletonian"
 
 
  ## East Canada ##

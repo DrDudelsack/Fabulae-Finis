@@ -1,6 +1,6 @@
 ﻿791={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 792={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 2300={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 2553={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2554={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 3499={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3500={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 3613={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3614={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 4549={ #
 	terrain="farmland"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 4550={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 4551={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 5597={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 5598={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 5599={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 6418={ #
 	terrain="hills"
-	culture="inlander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 6419={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 6420={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 6421={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 7137={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 7138={ #
 	terrain="hills"
-	culture="nez_perce"
+	culture="snakelander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -689,7 +689,7 @@
 
 8395={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -845,7 +845,7 @@
 
 9552={ #
 	terrain="dry_plains"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 9553={ #
 	terrain="forest"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 9554={ #
 	terrain="dry_plains"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 9555={ #
 	terrain="dry_plains"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

@@ -793,7 +793,7 @@ country = {
 			government = military_district
 			primary_culture = cascadian
 			religion = caesarist
-			capital = 7604
+			capital = 4868
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -803,7 +803,7 @@ country = {
 			}
 
 			own_control_core = {
-				7604 7603 7602 4043 4044 9048 9051 4464 4045 5422 5421 1560 1561 1562 5420
+				7604 7603 7602 4043 4044 9048 9051 4464 4045 9050 4868 1102 4869
 			}
 		}
 
@@ -3728,6 +3728,7 @@ country = {
 				6569 6571 9229 9222 6572 6574 9209
 				5039 7887 877 878 9236 9237 6570 9227 
 				3204 9223 9225 9211 9208 9210 6575 6576 9224 5074 5072 5091 8677 3203
+				5100 5101 5099 143 140 5102
 			}
 		}
 		CZH = { # Praha
@@ -3737,14 +3738,31 @@ country = {
 			capital = 7884
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
 				7884 5040 7886 3398 3401 3399 3344 2130 5043 5044 3342
+			}
+		}
+		BGH = { # Big Country
+			government = range_tribal_kingdom
+			primary_culture = estacadan
+			religion = loneranger
+			capital = 8676
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8676 8675 8674 8731 11623 9620 6962 11621
 			}
 		}
 		DEN = { # Denver
@@ -3861,7 +3879,7 @@ country = {
 		}
 		NVV = { #Nevada
 			government = tribal_kingdom
-			primary_culture = battleborn
+			primary_culture = paiute
 			religion = dreamer
 			capital = 3245
 
@@ -3876,9 +3894,9 @@ country = {
 				3245 6146 1637 1635 1636 3246 3247 6195 8857 8858 1628 1626
 			}
 		}
-		BNR = { #Burney
+		BNR = { #Modoc
 			government = tribal_kingdom
-			primary_culture = paiute
+			primary_culture = jeffersonian
 			religion = dreamer
 			capital = 4083
 
@@ -4080,21 +4098,21 @@ country = {
 				4123 1750 4122 4124 428 9440
 			}
 		}
-		TCM = { # Tacoma
-			government = theocratic_monarchy
-			primary_culture = cascadian
+		TCM = { # Hoquiam
+			government = tribal_kingdom
+			primary_culture = wakashan
 			religion = gaian
-			capital = 4868
+			capital = 5420
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
-				4868 9050 1102 4869
+				5420 1562 1561 1560 5421 5422 
 			}
 		}
 		AST = { # Astoria
@@ -4133,7 +4151,7 @@ country = {
 		}
 		INO = { # Independence OR
 			government = theocratic_monarchy
-			primary_culture = cascadian
+			primary_culture = kalapuya
 			religion = gaian
 			capital = 4937
 
@@ -4214,6 +4232,40 @@ country = {
 
 			own_control_core = {
 				1613 1612 9049 8469 1103 8471
+			}
+		}
+		YKK = { # Yakama Confederation
+			government = tribal_federation
+			primary_culture = yakama
+			religion = dreamer
+			capital = 2506
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2506 2507 2508 2104 2105 2106 6471
+			}
+		}
+		PDT = { # Puget District
+			government = military_district
+			primary_culture = juniperian
+			religion = caesarist
+			capital = 194
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				194 195 197 2964
 			}
 		}
 	}

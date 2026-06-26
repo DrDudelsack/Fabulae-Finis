@@ -87503,7 +87503,7 @@
 
 10712={ #
 	terrain="impassable_terrain"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -87893,7 +87893,7 @@
 
 10742={ #
 	terrain="impassable_terrain"
-	culture="snakelander"
+	culture="nez_perce"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -90948,7 +90948,7 @@
 
 10977={ #Ennis
 	terrain="impassable_terrain"
-	culture="cascadian"
+	culture="wakashan"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -97877,7 +97877,7 @@
 
 11510={ #
 	terrain="plains"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

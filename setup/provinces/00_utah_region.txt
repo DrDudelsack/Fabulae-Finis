@@ -520,7 +520,7 @@
 
 4811={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -793,7 +793,7 @@
 
 8478={ #
 	terrain="mountain"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -806,7 +806,7 @@
 
 8479={ #
 	terrain="desert_hills"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 8480={ #
 	terrain="desert_hills"
-	culture="snakelander"
+	culture="montaneer"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
