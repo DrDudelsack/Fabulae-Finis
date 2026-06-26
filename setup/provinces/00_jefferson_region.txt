@@ -1,6 +1,6 @@
 ﻿262={ #
 	terrain="mountain"
-	culture="jeffersonian"
+	culture="pomo"
 	religion="buddhism"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 263={ #
 	terrain="mountain"
-	culture="jeffersonian"
+	culture="pomo"
 	religion="buddhism"
 	trade_goods=""
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 390={ #
 	terrain="mountain"
-	culture="cascadian"
+	culture="klamath"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 1629={ #
 	terrain="hills"
-	culture="jeffersonian"
+	culture="pomo"
 	religion="buddhism"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 4081={ #Susanville
 	terrain="dry_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 4082={ #Litchfield
 	terrain="dry_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 4083={ #California Pines
 	terrain="dry_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 4283={ #
 	terrain="desert_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 4284={ #
 	terrain="desert_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 4285={ #
 	terrain="desert_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 4584={ #
 	terrain="mountain"
-	culture="cascadian"
+	culture="yurok"
 	religion="theosophy"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 4585={ #
 	terrain="mountain"
-	culture="cascadian"
+	culture="yurok"
 	religion="gaian"
 	trade_goods="fish"
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 4586={ #
 	terrain="mountain"
-	culture="cascadian"
+	culture="yurok"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 4587={ #
 	terrain="mountain"
-	culture="cascadian"
+	culture="yurok"
 	religion="theosophy"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 4588={ #
 	terrain="mountain"
-	culture="cascadian"
+	culture="yurok"
 	religion="gaian"
 	trade_goods="fish"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 6346={ #
 	terrain="mountain"
-	culture="jeffersonian"
+	culture="pomo"
 	religion="buddhism"
 	trade_goods=""
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 6348={ #
 	terrain="mountain"
-	culture="jeffersonian"
+	culture="pomo"
 	religion="theosophy"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 6720={ #
 	terrain="dry_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 8397={ #
 	terrain="desert_hills"
-	culture="jeffersonian"
+	culture="klamath"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 8398={ #
 	terrain="desert_hills"
-	culture="paiute"
+	culture="jeffersonian"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 8804={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="klamath"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 8805={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="klamath"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

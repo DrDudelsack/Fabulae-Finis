@@ -117,7 +117,7 @@
 
 21={ #
 	terrain="mountain"
-	culture=""
+	culture="tlingit"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 22={ #
 	terrain="mountain"
-	culture=""
+	culture="tlingit"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 71={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 72={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 73={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 74={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 75={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 76={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -689,7 +689,7 @@
 
 77={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 78={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -4342,7 +4342,7 @@
 
 603={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -4355,7 +4355,7 @@
 
 604={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -4368,7 +4368,7 @@
 
 605={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -8619,7 +8619,7 @@
 
 1172={ #
 	terrain="forest"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -8632,7 +8632,7 @@
 
 1173={ #
 	terrain="forest"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -8645,7 +8645,7 @@
 
 1174={ #
 	terrain="forest"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -8658,7 +8658,7 @@
 
 1175={ #
 	terrain="hills"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -9893,7 +9893,7 @@
 
 1326={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -9906,7 +9906,7 @@
 
 1327={ #
 	terrain="hills"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -9919,7 +9919,7 @@
 
 1328={ #
 	terrain="hills"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -10868,7 +10868,7 @@
 
 1447={ #
 	terrain="mountain"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -10894,7 +10894,7 @@
 
 1449={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -12662,7 +12662,7 @@
 
 1680={ #
 	terrain="hills"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -12675,7 +12675,7 @@
 
 1681={ #
 	terrain="hills"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -12688,7 +12688,7 @@
 
 1682={ #
 	terrain="hills"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -18226,7 +18226,7 @@
 
 2470={ #
 	terrain="hills"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -18239,7 +18239,7 @@
 
 2471={ #
 	terrain="hills"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -18252,7 +18252,7 @@
 
 2472={ #
 	terrain="hills"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -18265,7 +18265,7 @@
 
 2473={ #
 	terrain="hills"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -21632,7 +21632,7 @@
 
 2916={ #
 	terrain="mountain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -21645,7 +21645,7 @@
 
 2917={ #
 	terrain="mountain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -21658,7 +21658,7 @@
 
 2918={ #
 	terrain="mountain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -22074,7 +22074,7 @@
 
 2977={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -22087,7 +22087,7 @@
 
 2978={ #
 	terrain="mountain"
-	culture="doukhobor"
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -22100,7 +22100,7 @@
 
 2979={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -22113,7 +22113,7 @@
 
 2980={ #
 	terrain="mountain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -23972,7 +23972,7 @@
 
 3221={ #
 	terrain="plains"
-	culture=""
+	culture="haida"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -24453,7 +24453,7 @@
 
 3279={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -24466,7 +24466,7 @@
 
 3280={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -24479,7 +24479,7 @@
 
 3281={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -25038,7 +25038,7 @@
 
 3356={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -25051,7 +25051,7 @@
 
 3357={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -25064,7 +25064,7 @@
 
 3358={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -27469,7 +27469,7 @@
 
 3644={ #
 	terrain="hills"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -27482,7 +27482,7 @@
 
 3645={ #
 	terrain="hills"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -27495,7 +27495,7 @@
 
 3646={ #
 	terrain="mountain"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -27508,7 +27508,7 @@
 
 3653={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -27521,7 +27521,7 @@
 
 3654={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -27534,7 +27534,7 @@
 
 3655={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -34827,7 +34827,7 @@
 
 4465={ #
 	terrain="mountain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -34840,7 +34840,7 @@
 
 4466={ #
 	terrain="mountain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -34853,7 +34853,7 @@
 
 4467={ #
 	terrain="mountain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -40768,7 +40768,7 @@
 
 5233={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -40781,7 +40781,7 @@
 
 5234={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -40794,7 +40794,7 @@
 
 5235={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -40807,7 +40807,7 @@
 
 5236={ #
 	terrain="mountain"
-	culture=""
+	culture="dakelh"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -44837,7 +44837,7 @@
 
 5762={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -44850,7 +44850,7 @@
 
 5763={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -44863,7 +44863,7 @@
 
 5764={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -60593,7 +60593,7 @@
 
 7920={ #
 	terrain="hills"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -60606,7 +60606,7 @@
 
 7921={ #
 	terrain="hills"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -60619,7 +60619,7 @@
 
 7922={ #
 	terrain="mountain"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -68237,7 +68237,7 @@
 
 8884={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -68250,7 +68250,7 @@
 
 8885={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -68263,7 +68263,7 @@
 
 8886={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -68276,7 +68276,7 @@
 
 8887={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -86268,7 +86268,7 @@
 
 10617={ #
 	terrain="impassable_terrain"
-	culture="inlander"
+	culture="coast_salish"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -86528,7 +86528,7 @@
 
 10637={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -89141,7 +89141,7 @@
 
 10838={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -89440,7 +89440,7 @@
 
 10861={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="wakashan"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -90389,7 +90389,7 @@
 
 10934={ #
 	terrain="forest"
-	culture="nehiyaw"
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -91013,7 +91013,7 @@
 
 10982={ #
 	terrain="impassable_terrain"
-	culture="okanaganer"
+	culture="interior_salish"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -91026,7 +91026,7 @@
 
 10983={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -92183,7 +92183,7 @@
 
 11072={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="dakelh"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -94185,7 +94185,7 @@
 
 11226={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="wakashan"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -95537,7 +95537,7 @@
 
 11330={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -95875,7 +95875,7 @@
 
 11356={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -97461,7 +97461,7 @@
 
 11478={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -97812,7 +97812,7 @@
 
 11505={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="dakelh"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -98033,7 +98033,7 @@
 
 11522={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="wakashan"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -98423,7 +98423,7 @@
 
 11552={ #
 	terrain="mountain"
-	culture=""
+	culture="tsimshianic"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10

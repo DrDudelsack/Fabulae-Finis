@@ -1,0 +1,194 @@
+types religions {
+	type religion_icon = icon {
+		size = { 100% 100% }
+	}
+	type religion = widget {
+		block "size" { }
+		block "datacontext" { }
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/catholic.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('catholic'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/lutheran.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('lutheran'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/united_church.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('united_church'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/americanist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('americanist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/evangelical.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('evangelical'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/atomicist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('atomicist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/clairvoyant.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('clairvoyant'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/gothic.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('gothic'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/viking.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('viking'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/omenteller.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('omenteller'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/promethean.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('promethean'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/veteranic.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('veteranic'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/egyptology.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('egyptology'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/rosicrucian.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('rosicrucian'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/revelationist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('revelationist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/springsearcher.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('springsearcher'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/united_church.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('united_church'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/vodou.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('vodou'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/aphite.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('aphite'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/scottish_rite.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('scottish_rite'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/decadentist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('decadentist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/ozymandism.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('ozymandism'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/traiteurism.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('traiteurism'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/heartful.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('heartful'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/lakeshore.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('lakeshore'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/gaiwiio.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('gaiwiio'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/hearthtender.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('hearthtender'))]"
+		}
+	}
+}
+#catholic +
+#lutheran +
+#anglican +
+#reformed +
+#evangelical +
+#mormon +
+#orthodox +
+#coptic +
+#chaldean +
+#greek_catholic +
+#sino_catholic +
+#nestorian +
+#syncretic_christian +
+#sunni +
+#shiite +
+#wahhabi +
+#alawite +
+#ibadi +
+#druze +
+#yazidi +
+#mahdavia +
+#mandaean +
+#banhi +
+#ahmadiyya +
+#syncretic_muslim +
+#kenyan +
+#bantu +
+#waaqeffanna +
+#serer +
+#akan +
+#hausa +
+#orisha +
+#dahoman +
+#tain_feyentun +
+#inti +
+#pagelanca ?
+#catimbo +
+#earth_lodge +
+#waashat +
+#gaihwiio +
+#inuit +
+#yucatec +
+#muisca ?
+#mythic ?
+#rangi ?
+#mana ?
+#formosan ?
+#anito ?
+#austronesian ?
+#secular +
+#shamanism +
+#animism +
+#jewish +
+#zoroaster +
+#bahai +
+#manichean ?
+#mahayana +
+#theravada +
+#vajrayana +
+#daoism +
+#nuoism ?
+#thagyaminist ?
+#hindu +
+#bon_religion +
+#confucianism +
+#sikhism +
+#shinto +
+#kamuy +
+#jainism +
+#mari +
+#tengri +
+#siberian_shamanism +
+#zanahary +
+#chinese_shamanism +
+#korean_shamanism +
+#cheondo +
+#pure_land_buddhism +

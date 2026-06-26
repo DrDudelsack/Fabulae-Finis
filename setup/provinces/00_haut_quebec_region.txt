@@ -245,7 +245,7 @@
 	}
 }
 
-1966={ #
+1966={ #Salaberry-de-Valleyfield
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -258,7 +258,7 @@
 	}
 }
 
-1967={ #
+1967={ #Vaudreuil-Dorion
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -310,7 +310,7 @@
 	}
 }
 
-2253={ #
+2253={ #Longueuil
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -323,7 +323,7 @@
 	}
 }
 
-2254={ #
+2254={ #Napierville
 	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"
@@ -336,7 +336,7 @@
 	}
 }
 
-2255={ #
+2255={ #Chateauguay
 	terrain="farmland"
 	culture="haudenosaunee"
 	religion="ursuline"
@@ -349,7 +349,7 @@
 	}
 }
 
-2256={ #
+2256={ #Saint-Jean-sur-Richelieu
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="ursuline"
@@ -362,7 +362,7 @@
 	}
 }
 
-3599={ #
+3599={ #Beauharnois
 	terrain="forest"
 	culture="haudenosaunee"
 	religion="gaiwiio"

@@ -204,6 +204,10 @@ UTA = "setup/countries/west_coast/utah.txt"
 EPH = "setup/countries/west_coast/ephraim.txt"
 STG = "setup/countries/west_coast/st_george.txt"
 UIN = "setup/countries/west_coast/uintah.txt"
+INL = "setup/countries/west_coast/inland_empire.txt"
+ADS = "setup/countries/west_coast/andreas.txt"
+SCL = "setup/countries/west_coast/socal.txt"
+SJN = "setup/countries/west_coast/san_joaquin.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

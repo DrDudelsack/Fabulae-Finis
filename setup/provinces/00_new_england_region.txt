@@ -102,7 +102,7 @@
 	}
 }
 
-997={ #
+997={ #Rutland
 	terrain="mountain"
 	culture="vermonter"
 	religion="gothic"
@@ -128,7 +128,7 @@
 	}
 }
 
-1010={ #
+1010={ #Springfield
 	terrain="hills"
 	culture="vermonter"
 	religion="gothic"
@@ -141,7 +141,7 @@
 	}
 }
 
-1011={ #
+1011={ #Brattleboro
 	terrain="hills"
 	culture="vermonter"
 	religion="gothic"
@@ -167,7 +167,7 @@
 	}
 }
 
-1071={ #
+1071={ #Hatfield
 	terrain="forest"
 	culture="vermonter"
 	religion="transcendentalist"
@@ -180,7 +180,7 @@
 	}
 }
 
-1072={ #
+1072={ #Greenfield
 	terrain="hills"
 	culture="vermonter"
 	religion="gothic"
@@ -193,7 +193,7 @@
 	}
 }
 
-1073={ #
+1073={ #Amherst
 	terrain="forest"
 	culture="bayfolk"
 	religion="bostonian"
@@ -245,7 +245,7 @@
 	}
 }
 
-1465={ #
+1465={ #Haverhill
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
@@ -258,7 +258,7 @@
 	}
 }
 
-1466={ #
+1466={ #Lowell
 	terrain="plains"
 	culture="bayfolk"
 	religion="transcendentalist"
@@ -271,7 +271,7 @@
 	}
 }
 
-1467={ #
+1467={ #Peabody
 	terrain="farmland"
 	culture="bayfolk"
 	religion="continental"
@@ -453,7 +453,7 @@
 	}
 }
 
-2780={ #
+2780={ #Burlington
 	terrain="forest"
 	culture="vermonter"
 	religion="ursuline"
@@ -466,7 +466,7 @@
 	}
 }
 
-2781={ #
+2781={ #Saint Albans
 	terrain="forest"
 	culture="vermonter"
 	religion="ursuline"
@@ -505,7 +505,7 @@
 	}
 }
 
-2906={ #
+2906={ #Huntington
 	terrain="forest"
 	culture="vermonter"
 	religion="transcendentalist"
@@ -557,7 +557,7 @@
 	}
 }
 
-3446={ #
+3446={ #Claremont
 	terrain="forest"
 	culture="vermonter"
 	religion="gothic"
@@ -570,7 +570,7 @@
 	}
 }
 
-3447={ #
+3447={ #Keene
 	terrain="forest"
 	culture="vermonter"
 	religion="gothic"
@@ -583,7 +583,7 @@
 	}
 }
 
-3485={ #
+3485={ #Palmer
 	terrain="forest"
 	culture="bayfolk"
 	religion="bostonian"
@@ -596,7 +596,7 @@
 	}
 }
 
-3486={ #
+3486={ #Gardner
 	terrain="forest"
 	culture="bayfolk"
 	religion="bostonian"
@@ -609,7 +609,7 @@
 	}
 }
 
-4178={ #
+4178={ #Norwich
 	terrain="forest"
 	culture="vermonter"
 	religion="gothic"
@@ -622,7 +622,7 @@
 	}
 }
 
-4179={ #
+4179={ #Hartford
 	terrain="hills"
 	culture="vermonter"
 	religion="gothic"
@@ -635,7 +635,7 @@
 	}
 }
 
-4180={ #
+4180={ #Barre
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
@@ -895,7 +895,7 @@
 	}
 }
 
-6534={ #
+6534={ #Brockton
 	terrain="plains"
 	culture="bayfolk"
 	religion="continental"
@@ -934,7 +934,7 @@
 	}
 }
 
-6540={ #
+6540={ #Bennington
 	terrain="hills"
 	culture="vermonter"
 	religion="gothic"
@@ -999,7 +999,7 @@
 	}
 }
 
-7222={ #
+7222={ #Worcester
 	terrain="plains"
 	culture="bayfolk"
 	religion="transcendentalist"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-7223={ #
+7223={ #Leominster
 	terrain="forest"
 	culture="bayfolk"
 	religion="transcendentalist"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-7224={ #
+7224={ #Framingham
 	terrain="plains"
 	culture="bayfolk"
 	religion="bostonian"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-7763={ #
+7763={ #Nashua
 	terrain="forest"
 	culture="bayfolk"
 	religion="transcendentalist"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-7764={ #
+7764={ #Peterborough
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-7765={ #
+7765={ #Laconia
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-7766={ #
+7766={ #Manchester
 	terrain="forest"
 	culture="bayfolk"
 	religion="fathomless"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-7767={ #
+7767={ #Concord
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"

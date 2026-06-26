@@ -652,7 +652,7 @@ country = {
 				4880 4882 3978 3979 3980 1049 1050 4469 7100 4468 4470 4469 1048
 				4881 4883
 				2321 2323 2320 7103 2322 5930 5927 5929 5928 7104 7102 7101 4304 4303 4302 4301
-				8302 2336 2338 2339 2337 1772 1773
+				8302 2336 2338 2339 2337 1772 1773 1771
 			}
 		}
 
@@ -670,7 +670,85 @@ country = {
 			}
 
 			own_control_core = {
-				9127 9124 9125 411 9128 6602 6601 9126 6600 1815 1301
+				9127 9124 9125 411 9128 9126 1301
+			}
+		}
+
+		INL = { # Inland Empire
+			government = despotic_monarchy
+			primary_culture = socaleno
+			religion = scientology
+			capital = 5520
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5520 5518 5516 5519 5517 5521 1302
+			}
+		}
+
+		SCL = { # Socal
+			government = despotic_monarchy
+			primary_culture = socaleno
+			religion = colossalist
+			capital = 3530
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3530 6599 291 289 292 290 1815 1814
+				11605 3532 3533 3529 3531 3526 3528 3527 3530
+				5730 8691 8692 8562 8560 8561 8314 1814 8689 8690
+				6600 6602 6601
+			}
+		}
+
+		SJN = { # San Joaquin
+			government = despotic_monarchy
+			primary_culture = joaquino
+			religion = catholic
+			capital = 4911
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4911 4912 4909 4910 3268 9145 3566 9144 9147 4908 5368 9146 5366
+			}
+		}
+
+		ADS = { # Andreas
+			government = aristocratic_monarchy
+			primary_culture = bayrean
+			religion = romano_humanism
+			capital = 2128
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				273 2128 271 272 6834 9280 2994 9279 9276 2999 2997
+				6836 6835 8831 8829 8300 8299
+				7623 7621 7620 7622 2998 2335 2996
+				8315 8312 8313 8090 8091 8094 8092 9278 9277 2995 9254 8093 9253
 			}
 		}
 
@@ -689,7 +767,7 @@ country = {
 
 			own_control_core = {
 				5977 5979 5978 8458 8460 8461 9302 9304 9303 6893 6894 6895 3338 3337 3340 3339 5367 5368
-				3062 8459 3063 3061 3064 3267 3269 
+				3062 8459 3063 3061 3064 3267 3269 3270
 			}
 		}
 
@@ -3757,7 +3835,7 @@ country = {
 		MJV = { #Mojave
 			government = tribal_kingdom
 			primary_culture = mojavean
-			religion = loneranger
+			religion = atomicist
 			capital = 5732
 
 			technology={
@@ -3768,7 +3846,7 @@ country = {
 			}
 
 			own_control_core = {
-				5732 5879 5878 439 438
+				5732 5879 5878 439 438 5731 5729
 			}
 		}
 		CHC = { #Churchill

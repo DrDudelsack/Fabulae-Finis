@@ -401,6 +401,14 @@
  STG_ADJ:0 "Georgian"
  UIN:0 "Uintah"
  UIN_ADJ:0 "Ute"
+ INL:0 "Inland Empire"
+ INL_ADJ:0 "Inlander"
+ SCL:0 "Socal"
+ SCL_ADJ:0 "Socaleno"
+ ADS:0 "Andreas"
+ ADS_ADJ:0 "Andrean"
+ SJN:0 "San Joaquin"
+ SJN_ADJ:0 "San Joaquino"
 
  ## East Canada ##
  FRO:0 "Francontario"

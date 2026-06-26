@@ -22,4 +22,11 @@ diplomacy = {
 	## Seven Nations ##
 	dependency = { first = HAD second = YNK subject_type = feudatory }
 	dependency = { first = HAD second = BRT subject_type = feudatory }
+
+	## Socal ##
+	dependency = { first = SCL second = INL subject_type = feudatory }
+	dependency = { first = SCL second = NCR subject_type = feudatory }
+
+	## Californian Liberation Front
+	dependency = { first = CLA second = SJN subject_type = feudatory }
 }

@@ -289,6 +289,45 @@
  czexan:0 "Bergbewohner" #German for 'Hill-dweller'
  texanane:0 "Czexan"
 
+ ## Dene ##
+ dene:0 "Dene"
+ denesuline:0 "Denesuline"
+ deh_cho:0 "Deh Cho"
+ dane_zaa:0 "Dane-Zaa"
+
+ ## Upper Coast ##
+ upper_coast:0 "Upper Coast"
+ haida:0 "Haida"
+ tlingit:0 "Tlingit"
+ tsimshianic:0 "Tsimshianic"
+ wakashan:0 "Wakashan"
+
+ ## Lower Coast ##
+ lower_coast:0 "Lower Coast"
+ chinook:0 "Chinook"
+ coast_salish:0 "Coast Salish"
+ kalapuya:0 "Kalapuya"
+
+ ## Native Californian ##
+ native_californian:0 "Native Californian"
+ yurok:0 "Yurok"
+ chumash:0 "Chumash"
+ pomo:0 "Pomo"
+ 
+ ## Columbian ##
+ columbian:0 "Columbian"
+ interior_salish:0 "Interior Salish"
+ dakelh:0 "Dakelh" 
+ ktunaxa:0 "Ktunaxa" 
+
+ ## Interior ##
+ interior:0 "Interior"
+ klamath:0 "Klamath" 
+ nez_perce:0 "Nez Perce" 
+ umatilla:0 "Umatilla" 
+ yakama:0 "Yakama" 
+ 
+
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  yankee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

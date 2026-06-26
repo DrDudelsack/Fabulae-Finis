@@ -52,7 +52,7 @@
 
 231={ #
 	terrain="mountain"
-	culture="okanaganer"
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 2104={ #
 	terrain="dry_hills"
-	culture="meseteno"
+	culture="yakama"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 2105={ #
 	terrain="dry_hills"
-	culture="meseteno"
+	culture="yakama"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2106={ #
 	terrain="dry_hills"
-	culture="meseteno"
+	culture="yakama"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 2506={ #
 	terrain="desert_hills"
-	culture="inlander"
+	culture="yakama"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 2507={ #
 	terrain="dry_hills"
-	culture="meseteno"
+	culture="yakama"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 2508={ #
 	terrain="dry_hills"
-	culture="meseteno"
+	culture="yakama"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 5530={ #
 	terrain="mountain"
-	culture="inlander"
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 5531={ #
 	terrain="hills"
-	culture="inlander"
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 6786={ #
 	terrain="hills"
-	culture="inlander"
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 8086={ #
 	terrain="hills"
-	culture="inlander"
+	culture="interior_salish"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10

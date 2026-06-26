@@ -1,6 +1,6 @@
 ﻿113={ #
 	terrain="forest"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 114={ #
 	terrain="plains"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 115={ #
 	terrain="forest"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 116={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 117={ #
 	terrain="forest"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 118={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 2175={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 2176={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 2177={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 2250={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 2251={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2252={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 2340={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 2341={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2342={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 2343={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 2356={ #
 	terrain="taiga"
-	culture="nehiyaw"
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 2357={ #
 	terrain="taiga"
-	culture="nehiyaw"
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 2390={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 2391={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 2392={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 2407={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 2408={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 2409={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 3091={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 3092={ #
 	terrain="mountain"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 4199={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 4200={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 6411={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 6412={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 6413={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 6682={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -689,7 +689,7 @@
 
 6683={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 6684={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 6685={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -806,7 +806,7 @@
 
 7499={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 7500={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -832,7 +832,7 @@
 
 7929={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -845,7 +845,7 @@
 
 7930={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 7931={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 8073={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 8074={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 8138={ #
 	terrain="taiga"
-	culture="nehiyaw"
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 8139={ #
 	terrain="forest"
-	culture="nehiyaw"
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -923,7 +923,7 @@
 
 8140={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 8255={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 8256={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 8257={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -975,7 +975,7 @@
 
 8258={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -988,7 +988,7 @@
 
 8475={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1001,7 +1001,7 @@
 
 8476={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1014,7 +1014,7 @@
 
 8477={ #
 	terrain="taiga"
-	culture=""
+	culture="deh_cho"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 9011={ #
 	terrain="forest"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1079,7 +1079,7 @@
 
 9384={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1092,7 +1092,7 @@
 
 9385={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1105,7 +1105,7 @@
 
 9386={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1118,7 +1118,7 @@
 
 9387={ #
 	terrain="taiga"
-	culture=""
+	culture="denesuline"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1170,7 +1170,7 @@
 
 9610={ #
 	terrain="forest"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1183,7 +1183,7 @@
 
 9611={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1196,7 +1196,7 @@
 
 9612={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -1209,7 +1209,7 @@
 
 9613={ #
 	terrain="taiga"
-	culture=""
+	culture="dane_zaa"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
