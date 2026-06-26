@@ -1074,3 +1074,63 @@ deity_democritus = { #Democritus, ancient greek philosopher
 		economy_apotheosis_province_improvement_effect = yes
 	}
 }
+deity_titan_browning = { # John Moses Browning, American manufacturer of firearms (M1911, Browning M2, BAR, etc.)
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = promethean
+			}
+			rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_titan_kings = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { army_maintenance_cost = deity_army_maintenance_cost_svalue }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = promethean
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
+deity_wobbly = { #IWW, members were nicknamed 'Wobblies'
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { religion = promethean }
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			very_rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			deity:omen_wobbly = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_population_happiness = omen_global_population_happiness } #Same modifiers as Orpheus from vanilla
+	omen = { global_citizen_output = deity_global_citizen_output_svalue }
+	religion = galvanist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}

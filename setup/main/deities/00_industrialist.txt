@@ -152,5 +152,13 @@ deity_manager = {
 			key = omen_democritus
 			deity = deity_democritus
 		}
+		438 = {
+			key = omen_titan_browning
+			deity = deity_titan_browning
+		}
+		439 = {
+			key = omen_wobbly
+			deity = deity_wobbly
+		}
 	}
 }

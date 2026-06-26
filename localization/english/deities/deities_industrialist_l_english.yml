@@ -2,68 +2,68 @@
  ## Default ##
  deity_carnegie:0 "$omen_carnegie$"
  omen_carnegie:0 "Titan Carnegie"
- omen_carnegie_desc:0 "#Y Industrialist Titan#!\n\nA great collector of knowledge, Titan Carnegie collected every scrap of written word compiled by mankind during the Gilded Age. Through his network of public libraries, he ensured this knowledge was shared with all."
+ omen_carnegie_desc:0 "#Y Industrialist Titan#!\nA great collector of knowledge, Titan Carnegie collected every scrap of written word compiled by mankind during the Gilded Age. Through his network of public libraries, he ensured this knowledge was shared with all."
 
  deity_industry:0 "$omen_industry$"
  omen_industry:0 "Industry"
- omen_industry_desc:0 "#Y Industrialist Force#!\n\nThe principal deity of the Industrialist pantheon, Industry is one of the Natural Forces.  However, through sacred rituals and practices, it can be refined into a God. These rituals must be maintained though, otherwise Industry will rust and lose its divinity. While a god, Industry often shares its powers with the people who serve it, offering great prosperity and making their labors easier.  The most devoted were often granted godhood themselves, transformed into Titans of Industry."
- omen_industry_desc_fissionist:0 "#Y Industrialist Force#!\n\nIndustry is one of the primary Natural Forces, along with Fission. Industry is powerful in it's own right, but when utilized with Fission, it becomes something to be reckoned with. Many Scientists consider Fission and Industry to be intertwined for this reason."
+ omen_industry_desc:0 "#Y Industrialist Force#!\nThe principal deity of the Industrialist pantheon, Industry is one of the Natural Forces.  However, through sacred rituals and practices, it can be refined into a God. These rituals must be maintained though, otherwise Industry will rust and lose its divinity. While a god, Industry often shares its powers with the people who serve it, offering great prosperity and making their labors easier.  The most devoted were often granted godhood themselves, transformed into Titans of Industry."
+ omen_industry_desc_fissionist:0 "#Y Industrialist Force#!\nIndustry is one of the primary Natural Forces, along with Fission. Industry is powerful in it's own right, but when utilized with Fission, it becomes something to be reckoned with. Many Scientists consider Fission and Industry to be intertwined for this reason."
 
  deity_rockefeller:0 "$omen_rockefeller$"
  omen_rockefeller:0 "Titan Rockefeller"
- omen_rockefeller_desc:0 "#Y Industrialist Titan#!\n\nOnce the wealthiest man in the world, Titan Rockefeller harnessed the black blood of Industry to power the Gilded Age.  He is renowned for his desire to unite all of the Industrial Workers under a single guiding hand."
+ omen_rockefeller_desc:0 "#Y Industrialist Titan#!\nOnce the wealthiest man in the world, Titan Rockefeller harnessed the black blood of Industry to power the Gilded Age.  He is renowned for his desire to unite all of the Industrial Workers under a single guiding hand."
 
  deity_johnsons:0 "$omen_johnsons$"
  omen_johnsons:0 "Titans Johnson"
- omen_johnsons_desc:0 "#Y Industrialist Titans#!\n\nThe twin Titans Johnson and Johnson were famed for their obsession with purity. They defended the people against the invisible enemies of disease and plague."
+ omen_johnsons_desc:0 "#Y Industrialist Titans#!\nThe twin Titans Johnson and Johnson were famed for their obsession with purity. They defended the people against the invisible enemies of disease and plague."
 
  deity_titan_kings:0 "$omen_titan_kings$"
  omen_titan_kings:0 "The Titan-Kings"
- omen_titan_kings_desc:0 "#Y Industrialist Titans#!\n\nThe divinely ordained rulers of Promethean Society, these powerful despots claim descent from various Titans worshiped by various Industrialists. They are responsible for ensuring the prosperity of their realm by securing the blessings of Industry and channeling the labors of their workers up to Industry. They are equal parts priest and king."
+ omen_titan_kings_desc:0 "#Y Industrialist Titans#!\nThe divinely ordained rulers of Promethean Society, these powerful despots claim descent from various Titans worshiped by various Industrialists. They are responsible for ensuring the prosperity of their realm by securing the blessings of Industry and channeling the labors of their workers up to Industry. They are equal parts priest and king."
 
  deity_vanderbilt:0 "$omen_vanderbilt$"
  omen_vanderbilt:0 "Titan Vanderbilt"
- omen_vanderbilt_desc:0 "#Y Industrialist Titan#!\n\nKnown as the Commodore, Titan Vanderbilt commanded an unrivaled fleet of ships. These ships were not limited to the seas and rivers though, but were able to follow the trails Titan Vanderbilt forged across land."
+ omen_vanderbilt_desc:0 "#Y Industrialist Titan#!\nKnown as the Commodore, Titan Vanderbilt commanded an unrivaled fleet of ships. These ships were not limited to the seas and rivers though, but were able to follow the trails Titan Vanderbilt forged across land."
 
  deity_edison:0 "$omen_edison$"
  omen_edison:0 "Titan Edison"
- omen_edison_desc:0 "#Y Industrialist Titan#!\n\nTitan Edison was a genius inventor, creating a device that captured the light of day in a simple glass ball, letting sacred labors continue well into the night."
+ omen_edison_desc:0 "#Y Industrialist Titan#!\nTitan Edison was a genius inventor, creating a device that captured the light of day in a simple glass ball, letting sacred labors continue well into the night."
 
  deity_hughes:0 "$omen_hughes$"
  omen_hughes:0 "Titan Hughes"
- omen_hughes_desc:0 "#Y Industrialist Titan#!\n\nTitan Hughes was notoriously enigmatic, but obsessed with flight. It is said he would transform wooden carvings of birds into the real thing, only to watch them fly away."
+ omen_hughes_desc:0 "#Y Industrialist Titan#!\nTitan Hughes was notoriously enigmatic, but obsessed with flight. It is said he would transform wooden carvings of birds into the real thing, only to watch them fly away."
 
  deity_avro:0 "$omen_avro$"
  omen_avro:0 "Titan Avro"
- omen_avro_desc:0 "#Y Industrialist Titan#!\n\nOnce the greatest fletcher, Titan Avro created arrows that far surpassed all others - flying further faster than any devised before or since.  But the unrivaled beauty and craftsmanship of these arrows could not protect Titan Avro from betrayal."
+ omen_avro_desc:0 "#Y Industrialist Titan#!\nOnce the greatest fletcher, Titan Avro created arrows that far surpassed all others - flying further faster than any devised before or since.  But the unrivaled beauty and craftsmanship of these arrows could not protect Titan Avro from betrayal."
  
  deity_ford:0 "$omen_ford$"
  omen_ford:0 "Titan Ford"
- omen_ford_desc:0 "#Y Industrialist Titan#!\n\nThe famed maker of horseless carriages, Titan Ford ensured each and every one of his Laborers had one of these miracles, refusing to keep them only in the hands of the rich."
+ omen_ford_desc:0 "#Y Industrialist Titan#!\nThe famed maker of horseless carriages, Titan Ford ensured each and every one of his Laborers had one of these miracles, refusing to keep them only in the hands of the rich."
 
  deity_mccormick:0 "$omen_mccormick$"
  omen_mccormick:0 "Titan McCormick"
- omen_mccormick_desc:0 "#Y Industrialist Titan#!\n\nA tamer of beasts, Titan McCormick helped the farmers by granting their horses unparalleled strength.  He is best known though for defeating the Scabs that had infiltrated the workers."
+ omen_mccormick_desc:0 "#Y Industrialist Titan#!\nA tamer of beasts, Titan McCormick helped the farmers by granting their horses unparalleled strength.  He is best known though for defeating the Scabs that had infiltrated the workers."
 
  deity_annheuser_busch:0 "$omen_annheuser_busch$"
  omen_annheuser_busch:0 "Titans Annheuser and Busch"
- omen_annheuser_busch_desc:0 "#Y Industrialist Titans#!\n\nBuisiness partners, Titans Annheuser and Busch were uniquely endowed with the gift of brewing- in fact, it was them who invented beer, distributing at prices so reasonable, that any worker could enjoy it after a day of labor, at any place in the nation."
+ omen_annheuser_busch_desc:0 "#Y Industrialist Titans#!\nBuisiness partners, Titans Annheuser and Busch were uniquely endowed with the gift of brewing- in fact, it was them who invented beer, distributing at prices so reasonable, that any worker could enjoy it after a day of labor, at any place in the nation."
 
  deity_sears:0 "$omen_sears$"
  omen_sears:0 "Titan Sears"
- omen_sears_desc:0 "#Y Industrialist Titan#!\n\nWhile other Titans built great works, it was Titan Sears who brought them to the people. With their enchanted book, people across the world could summon the miracles of industry to their home."
+ omen_sears_desc:0 "#Y Industrialist Titan#!\nWhile other Titans built great works, it was Titan Sears who brought them to the people. With their enchanted book, people across the world could summon the miracles of industry to their home."
 
  deity_margarac:0 "$omen_margarac$"
  omen_margarac:0 "Titan Margarac"
- omen_margarac_desc:0 "#Y Industrialist Titan#!\n\nOnce a Pittsburgh steeler, Titan Magarac sacrificed himself to the crucible, creating a form of steel stronger than any other."
+ omen_margarac_desc:0 "#Y Industrialist Titan#!\nOnce a Pittsburgh steeler, Titan Magarac sacrificed himself to the crucible, creating a form of steel stronger than any other."
 
  deity_guardian_titans:0 "$omen_guardian_titans$"
  omen_guardian_titans:0 "Guardian Titans"
- omen_guardian_titans_desc:0 "#Y Industrialist Titans#!\n\nStanding guard over the gates of the city of Cleveland, these massive stone Titans are said to defend all travelers who pass between them."
+ omen_guardian_titans_desc:0 "#Y Industrialist Titans#!\nStanding guard over the gates of the city of Cleveland, these massive stone Titans are said to defend all travelers who pass between them."
 
  deity_deere:0 "$omen_deere$"
  omen_deere:0 "Titan Deere"
- omen_deere_desc:0 "#Y Industrialist Titan#!\n\nTitan Deere extended the blessings of Industry to domestic animals, bestowing on a single beast the power of over 90 horses. This allowed farmers to plow an entire field with only one horse, truly an impressive feat."
+ omen_deere_desc:0 "#Y Industrialist Titan#!\nTitan Deere extended the blessings of Industry to domestic animals, bestowing on a single beast the power of over 90 horses. This allowed farmers to plow an entire field with only one horse, truly an impressive feat."
 
  deity_longshoreman:0 "$omen_longshoreman$"
  omen_longshoreman:0 "The Longshoreman"
@@ -71,85 +71,93 @@
 
  deity_sinclair:0 "$omen_sinclair$"
  omen_sinclair:0 "Titan Sinclair"
- omen_sinclair_desc:0 "#Y Galvanist Titan#!\n\nWith the guidance of Industry, Titan Sinclair outlined the Regulations on Pure Food - the dietary restrictions followed by Galvanist faithful."
+ omen_sinclair_desc:0 "#Y Galvanist Titan#!\nWith the guidance of Industry, Titan Sinclair outlined the Regulations on Pure Food - the dietary restrictions followed by Galvanist faithful."
 
  deity_reuther:0 "$omen_reuther$"
  omen_reuther:0 "Titan Reuther"
- omen_reuther_desc:0 "#Y Galvanist Titan#!\n\nWhile Industry grants great powers to many people, it was Titan Reuther who realized the power we all share. With his guidance, the common workers were able to band together, stronger than any one Titan alone."
+ omen_reuther_desc:0 "#Y Galvanist Titan#!\nWhile Industry grants great powers to many people, it was Titan Reuther who realized the power we all share. With his guidance, the common workers were able to band together, stronger than any one Titan alone."
 
  deity_osha:0 "$omen_osha$"
  omen_osha:0 "Titan Osha"
- omen_osha_desc:0 "#Y Galvanist Titan#!\n\nRepresented by the Threefold Moon, Titan Osha is the defender from accidents, the guarantor of safety, and enforcer of regulations."
+ omen_osha_desc:0 "#Y Galvanist Titan#!\nRepresented by the Threefold Moon, Titan Osha is the defender from accidents, the guarantor of safety, and enforcer of regulations."
 
  deity_rosie:0 "$omen_rosie$"
  omen_rosie:0 "Titan Rosie"
- omen_rosie_desc:0 "#Y Arsenalist Titan#!\n\nWhen her husband, sons, and brothers went off to war, Titan Rosie stayed behind to perform the sacred labors.  She had to do the work of many men, but through her devotion and labor, she ensured Industry was not weakened when thousands of Laborers were lost to war."
+ omen_rosie_desc:0 "#Y Arsenalist Titan#!\nWhen her husband, sons, and brothers went off to war, Titan Rosie stayed behind to perform the sacred labors.  She had to do the work of many men, but through her devotion and labor, she ensured Industry was not weakened when thousands of Laborers were lost to war."
 
  deity_kellogg:0 "$omen_kellogg$"
  omen_kellogg:0 "Titan Kellogg"
- omen_kellogg_desc:0 "#Y Industrialist Titan#!\n\nKnown as the General of the Mills, Titan Kellogg sacrificed his own fertility for that of the land. Under his guidance, the fields flourished and the millstones always turned."
+ omen_kellogg_desc:0 "#Y Industrialist Titan#!\nKnown as the General of the Mills, Titan Kellogg sacrificed his own fertility for that of the land. Under his guidance, the fields flourished and the millstones always turned."
 
  deity_pinkerton:0 "$omen_pinkerton$"
  omen_pinkerton:0 "Titan Pinkerton"
- omen_pinkerton_desc:0 "#Y Promethean Titan#!\n\nTitan Pinkerton was an important lawman, and whenever the Rusted Strikers lashed out at the Titans, Industry knew it could call upon Titan Pinkerton to restore order and keep the great machine running."
+ omen_pinkerton_desc:0 "#Y Promethean Titan#!\nTitan Pinkerton was an important lawman, and whenever the Rusted Strikers lashed out at the Titans, Industry knew it could call upon Titan Pinkerton to restore order and keep the great machine running."
 
  deity_haymarket_martyrs:0 "$omen_haymarket_martyrs$"
  omen_haymarket_martyrs:0 "The Haymarket Martyrs"
- omen_haymarket_martyrs_desc:0 "Members of the Knights of Labor, these eight brave men perished during their crusade against the Robber Barons. Their sacrifice was not in vain, as the Robber Barons were eventually defeated, and the Eight-Hour workday was established in memory of them; one hour for each of the martyrs."
+ omen_haymarket_martyrs_desc:0 "#Y Galvanist Workers#!\nMembers of the Knights of Labor, these eight brave men perished during their crusade against the Robber Barons. Their sacrifice was not in vain, as the Robber Barons were eventually defeated, and the Eight-Hour workday was established in memory of them; one hour for each of the martyrs."
+
+ deity_wobbly:0 "$omen_wobbly$"
+ omen_wobbly:0 "Titan Wobbly"
+ omen_wobbly_desc:0 "#Y Galvanist Titan#!\nA champion of the people, Titan Wobbly organized the 'Industrial Workers of the World', a group of holy champions who dedicated their lives to freeing the holy laborers from the oppression of the Robber Barons. Under his leadership, the rightous workers would eventually find themselves victorious in their struggle."
+
+ deity_titan_browning:0 "$omen_titan_browning$"
+ omen_titan_browning:0 "Titan Browning"
+ omen_titan_browning_desc:0 "#Y Industrialist Titan#!\nTitan Browning was a skilled engineer who created weapons of terrible destruction. These so-called 'Fire-Arms' were capable of bringing forth thunder and lightning from the end of their barrel, capable of destroying anyone who lay in front of it."
 
  deity_uso:0 "$omen_uso$"
  omen_uso:0 "Titan Uso"
- omen_uso_desc:0 "#Y Arsenalist Titan#!\n\nWhile Titan Rosie stayed behind to work the Home Front, Titan Uso went with the soldiers bringing home to them.  By supplying the comforts of home in distant corners of the globe, Titan Uso kept the soldiers in fighting shape."
+ omen_uso_desc:0 "#Y Arsenalist Titan#!\nWhile Titan Rosie stayed behind to work the Home Front, Titan Uso went with the soldiers bringing home to them.  By supplying the comforts of home in distant corners of the globe, Titan Uso kept the soldiers in fighting shape."
 
  deity_usda:0 "$omen_usda$"
  omen_usda:0 "Titan Usda"
- omen_usda_desc:0 "#Y Arsenalist Titan#!\n\nWhen Titan Usda's husband went to war, she devoted herself completely to her garden.  As long as it was in bloom, he would be victorious."
+ omen_usda_desc:0 "#Y Arsenalist Titan#!\nWhen Titan Usda's husband went to war, she devoted herself completely to her garden.  As long as it was in bloom, he would be victorious."
 
  deity_titan_roosevelt:0 "$omen_titan_roosevelt$"
  omen_titan_roosevelt:0 "Titan Roosevelt"
- omen_titan_roosevelt_desc:0 "#Y Arsenalist Titan#!\n\nEven the divine office of President is susceptible to the failings of mankind. For years, the President had been led Astray by Robber Barons and the Scab. But Titan Roosevelt usurped the rusted President and restored America's prosperity. It was with his skillful guidance, America won the Great War of the Gilded Age."
+ omen_titan_roosevelt_desc:0 "#Y Arsenalist Titan#!\nEven the divine office of President is susceptible to the failings of mankind. For years, the President had been led Astray by Robber Barons and the Scab. But Titan Roosevelt usurped the rusted President and restored America's prosperity. It was with his skillful guidance, America won the Great War of the Gilded Age."
 
  deity_titan_oppenheimer:0 "$omen_titan_oppenheimer$"
  omen_titan_oppenheimer:0 "Titan Oppenheimer"
- omen_titan_oppenheimer_desc:0 "#Y Arsenalist Titan#!\n\nThough Industry is ultimately a force of creation, war necessitates destruction. Titan Oppenheimer managed to harness the powers of Rust and Industry the both, creating a weapon of unparalleled destruction."
+ omen_titan_oppenheimer_desc:0 "#Y Arsenalist Titan#!\nThough Industry is ultimately a force of creation, war necessitates destruction. Titan Oppenheimer managed to harness the powers of Rust and Industry the both, creating a weapon of unparalleled destruction."
  
  deity_titan_eisenhower:0 "$omen_titan_eisenhower$"
  omen_titan_eisenhower:0 "Titan Eisenhower"
- omen_titan_eisenhower_desc:0 "#Y Arsenalist Titan#!\n\nAn accomplished general, Titan Eisenhower led the allied forces of America to victory in the Great War of the Gilded Age.  He was known for his foresight, predicting that mankind would become complacent in its prosperity and forgo the hard work necessary to maintain Industry."
+ omen_titan_eisenhower_desc:0 "#Y Arsenalist Titan#!\nAn accomplished general, Titan Eisenhower led the allied forces of America to victory in the Great War of the Gilded Age.  He was known for his foresight, predicting that mankind would become complacent in its prosperity and forgo the hard work necessary to maintain Industry."
 
  deity_kaiser:0 "$omen_kaiser$"
  omen_kaiser:0 "Titan Kaiser"
- omen_kaiser_desc:0 "#Y Arsenalist Titan#!\n\nTitan Kaiser was a famed shipwright of the Gilded Age. Under his leadership and the blessing of Industry, a massive ship could be built faster than an enemy could sink it."
+ omen_kaiser_desc:0 "#Y Arsenalist Titan#!\nTitan Kaiser was a famed shipwright of the Gilded Age. Under his leadership and the blessing of Industry, a massive ship could be built faster than an enemy could sink it."
 
  ## Fissionist ##
  deity_fission:0 "$omen_fission$"
  omen_fission:0 "Fission"
- omen_fission_desc:0 "#Y Fissionist Force#!\n\nIt is said that Fission flows through all things, from plants and animals, to man, and the land and sky that surround us. When uncontrolled, it can be a destructive force, known to have leveled entire cities. But with a guiding hand, Fission can create prosperity the likes of which cannot be compared to anything else."
+ omen_fission_desc:0 "#Y Fissionist Force#!\nIt is said that Fission flows through all things, from plants and animals, to man, and the land and sky that surround us. When uncontrolled, it can be a destructive force, known to have leveled entire cities. But with a guiding hand, Fission can create prosperity the likes of which cannot be compared to anything else."
 
  deity_prometheus:0 "$omen_prometheus$"
  omen_prometheus:0 "Prometheus"
- omen_prometheus_desc:0 "#Y Fissionist Scientist#!\n\nRegarded as the first Scientist, Prometheus taught Man the gift of Fission and how to harness it. Fearing the power of Fission, the corrupt Robber Barons of the Gilded Age killed him. His memory and gift lives on through the teachings of the Scientists, deities who used the power of Fission to bring about the Atomic Age."
+ omen_prometheus_desc:0 "#Y Fissionist Scientist#!\nRegarded as the first Scientist, Prometheus taught Man the gift of Fission and how to harness it. Fearing the power of Fission, the corrupt Robber Barons of the Gilded Age killed him. His memory and gift lives on through the teachings of the Scientists, deities who used the power of Fission to bring about the Atomic Age."
  
  deity_manhattan:0 "$omen_manhattan$"
  omen_manhattan:0 "Scientist Manhattan"
- omen_manhattan_desc:0 "#Y Fissionist Scientist#!\n\nDuring the Great War of the Atomic Age, Scientist Manhattan used the destructive nature of Fission to create a device of unbelievable destruction named 'The Bomb'. The Bomb was used to destroy the last holdout of the Robber Barons, bringing an end to the conflict."
+ omen_manhattan_desc:0 "#Y Fissionist Scientist#!\nDuring the Great War of the Atomic Age, Scientist Manhattan used the destructive nature of Fission to create a device of unbelievable destruction named 'The Bomb'. The Bomb was used to destroy the last holdout of the Robber Barons, bringing an end to the conflict."
 
  deity_einstein:0 "$omen_einstein$"
  omen_einstein:0 "Scientist Einstein"
- omen_einstein_desc:0 "#Y Fissionist Force#!\n\nA great scholar, Scientist Einstein dedicated his life to researching the mysteries of Fission and Atomos."
+ omen_einstein_desc:0 "#Y Fissionist Force#!\nA great scholar, Scientist Einstein dedicated his life to researching the mysteries of Fission and Atomos."
 
  deity_nrc:0 "$omen_nrc$"
  omen_nrc:0 "Scientist Nrc"
- omen_nrc_desc:0 "#Y Fissionist Scientist#!\n\nNrc, or the Great Regulator is the one who controls Fission's unparalleled power, keeping it from going Critical. Without her regulatory oversight, Fission would become unmanageable, and become a destructive force rather then a beneficial one."
+ omen_nrc_desc:0 "#Y Fissionist Scientist#!\nNrc, or the Great Regulator is the one who controls Fission's unparalleled power, keeping it from going Critical. Without her regulatory oversight, Fission would become unmanageable, and become a destructive force rather then a beneficial one."
 
  deity_curie:0 "$omen_curie$"
  omen_curie:0 "Scientist Curie"
- omen_curie_desc:0 "#Y Fissionist Scientist#!\n\nScientist Curie sacrificed her life in order to discover safe ways to handle Atomos, so that Fission may be achieved."
+ omen_curie_desc:0 "#Y Fissionist Scientist#!\nScientist Curie sacrificed her life in order to discover safe ways to handle Atomos, so that Fission may be achieved."
 
  deity_doomsday:0 "$omen_doomsday$"
  omen_doomsday:0 "Doomsday"
- omen_doomsday_desc:0 "#Y Fissionist Force#!\n\nA prophet sent by Atomos, Doomsday warned humanity against neglecting the holy Reactors. Each time mankind inched closer to their until destruction, he moved the hand of his massive clock, counting down to twelve.However his message was not heeded, ending the Atomic Age, and the world was cleansed in nuclear fire." 
+ omen_doomsday_desc:0 "#Y Fissionist Force#!\nA prophet sent by Atomos, Doomsday warned humanity against neglecting the holy Reactors. Each time mankind inched closer to their until destruction, he moved the hand of his massive clock, counting down to twelve.However his message was not heeded, ending the Atomic Age, and the world was cleansed in nuclear fire." 
 
  deity_democritus:0 "$omen_democritus$"
  omen_democritus:0 "Scientist Democritus"
- omen_democritus_desc:0 "#Y Fissionist Scientist#!\n\nAn ancient Scientist, Democritus lived in a period even before the Gilded Age. He was the first to propose the existence of Atomos, although many of his contemporaries disagreed with his ideas."
+ omen_democritus_desc:0 "#Y Fissionist Scientist#!\nAn ancient Scientist, Democritus lived in a period even before the Gilded Age. He was the first to propose the existence of Atomos, although many of his contemporaries disagreed with his ideas."

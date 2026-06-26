@@ -1,0 +1,9 @@
+﻿color = rgb { 146 156 24 }
+color2 = rgb { 200 16 95 }
+
+gender_equality = yes
+
+ship_names = {
+	Aife Airmed Ancasta Boudica Bricta Cartanda Chiomara Damona Gwendolen Litava Maeve Keyne Iseult Ygern Kamma Smerta
+	#culture female names - perhaps to be replaced
+}

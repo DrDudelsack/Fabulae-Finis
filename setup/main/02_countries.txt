@@ -727,7 +727,7 @@ country = {
 			}
 
 			own_control_core = {
-				4911 4912 4909 4910 3268 9145 3566 9144 9147 4908 5368 9146 5366
+				4911 4912 4909 4910 3268 9145 9144 9147 4908 5368 9146 5366
 			}
 		}
 
@@ -3959,6 +3959,261 @@ country = {
 
 			own_control_core = {
 				2877 2878 3169 3168 7799
+			}
+		}
+		PTT = { # Portland
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 2749
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2749 2751 2750 1751 6078
+			}
+		}
+		BVT = { # Beaverton
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 2693
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2693 4936 2691
+			}
+		}
+		VCC = { # Vancouver WA
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 3325
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3325 3327 3324 8470 3326
+			}
+		}
+		ABD = { # Aberdeen
+			government = tribal_kingdom
+			primary_culture = chinook
+			religion = gaian
+			capital = 3148
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3148 1683 3149 1684 1685
+			}
+		}
+		TMK = { # Tillamook
+			government = tribal_kingdom
+			primary_culture = cascadian
+			religion = gaian
+			capital = 2237
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2237 2238 2239 2724 5810 4938 5809
+			}
+		}
+		SWS = { # Suislaw
+			government = tribal_kingdom
+			primary_culture = cascadian
+			religion = gaian
+			capital = 6460
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6460 5808 6459 6461 5581 5580
+			}
+		}
+		ITW = { # Interior Willamette
+			government = tribal_kingdom
+			primary_culture = cascadian
+			religion = gaian
+			capital = 4123
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4123 1750 4122 4124 428 9440
+			}
+		}
+		TCM = { # Tacoma
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 4868
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4868 9050 1102 4869
+			}
+		}
+		AST = { # Astoria
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 2725
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2725 2723 2692
+			}
+		}
+		WDB = { # Woodburn
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 653
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				653 651 652
+			}
+		}
+		INO = { # Independence OR
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 4937
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4937 5428
+			}
+		}
+		EUG = { # Eugene
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 5429
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5429 5427 9439 4781 9438
+			}
+		}
+		SLL = { # Seattle
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 4871
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4871 4870 7734 4872 4462 4463 680 681 7732 7733 682
+			}
+		}
+		ABL = { # Albany OR
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 4780
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4778 4779 4780
+			}
+		}
+		LNG = { # Longview
+			government = theocratic_monarchy
+			primary_culture = cascadian
+			religion = gaian
+			capital = 1613
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1613 1612 9049 8469 1103 8471
 			}
 		}
 	}

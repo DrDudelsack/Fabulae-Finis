@@ -340,12 +340,13 @@ base_window = {
 
 						icon_and_text = {
 							visible = "[Not(DiplomaticView.GetTargetCountry.IsBarbarian)]"
+							size = { 150 0 }
 							tooltip = "[DiplomaticView.GetTargetCountry.GetReligion.GetTooltip]"
 							blockoverride "Icon" {
-							religion = {
-                                blockoverride "size" { size = { 32 32 } }
-                                blockoverride "datacontext" { datacontext = "[DiplomaticView.GetTargetCountry.GetReligion]" }
-                                parentanchor = hcenter
+								religion = {
+                                	blockoverride "size" { size = { 32 32 } }
+                                	blockoverride "datacontext" { datacontext = "[DiplomaticView.GetTargetCountry.GetReligion]" }
+                               		parentanchor = hcenter
 								}
                             }
 							blockoverride "Text"
