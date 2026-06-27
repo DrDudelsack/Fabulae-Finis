@@ -1178,7 +1178,7 @@ country = {
 			}
 
 			own_control_core = {
-				4939 461 460 4940 1423 9407 4941 459
+				4939 461 460 1423 9407 4941 459
 			}
 		}
 
@@ -3748,7 +3748,7 @@ country = {
 		CZH = { # Praha
 			government = range_tribal_kingdom
 			primary_culture = texanane
-			religion = americanist
+			religion =catholic
 			capital = 7884
 
 			technology={
@@ -3793,7 +3793,7 @@ country = {
 			}
 
 			own_control_core = {
-				9108 9107 1308 1307 3810 9109 7356 7357 3812 1813 3811
+				9108 9107 1308 1307 3810 9109 7356 7357 3812 3811
 			}
 		}
 		PUE = { # Pueblo District
@@ -3910,7 +3910,7 @@ country = {
 		}
 		BNR = { #Modoc
 			government = tribal_kingdom
-			primary_culture = jeffersonian
+			primary_culture = achomawi
 			religion = dreamer
 			capital = 4083
 
@@ -4280,6 +4280,33 @@ country = {
 
 			own_control_core = {
 				194 195 197 2964
+			}
+		}
+		PHX = { # Phoenix
+			government = tribal_kingdom
+			primary_culture = arixan
+			religion = aphite
+			capital = 1420
+
+			own_control_core = {
+				1420 7435 7434 1421 7436 7437
+			}
+		}
+		GAD = { # Gadsen
+			government = tribal_federation
+			primary_culture = oodham
+			religion = atomicist
+			capital = 4940
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4940 3107 3106 2102 1271 1270
 			}
 		}
 	}

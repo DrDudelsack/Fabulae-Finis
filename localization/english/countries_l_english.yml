@@ -447,6 +447,10 @@
  PDT_ADJ:0 "Pendletonian"
  YUB:0 "Yuba"
  YUB_ADJ:0 "Yuban"
+ PHX:0 "Phoenix"
+ PHX_ADJ:0 "Phoenixan"
+ GAD:0 "Gadsen"
+ GAD_ADJ:0 "Gadsonian"
 
  ## East Canada ##
  FRO:0 "Francontario"

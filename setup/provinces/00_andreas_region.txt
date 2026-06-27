@@ -105,7 +105,7 @@
 1814={ #
 	terrain="hills"
 	culture="socaleno"
-	religion="catholic"
+	religion="caesarist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3531={ #
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="kinemite"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3532={ #
 	terrain="hills"
 	culture="socaleno"
-	religion="kinemite"
+	religion="colossalist"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0

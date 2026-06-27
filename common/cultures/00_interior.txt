@@ -37,13 +37,10 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		#snakelander = {}
 		okanaganer = {}
 		doukhobor = {}
 		meseteno = {}
-		#montaneer = {}
 		inlander = {}
-		juniperian = {}
 	}
 	
 	barbarian_names = { 

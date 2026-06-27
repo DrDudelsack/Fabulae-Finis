@@ -118,7 +118,7 @@
 1270={ #
 	terrain="desert"
 	culture="oodham"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1271={ #
 	terrain="desert"
 	culture="oodham"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 3106={ #
 	terrain="desert"
 	culture="oodham"
-	religion="atomicist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 4940={ #
 	terrain="desert_hills"
 	culture="oodham"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

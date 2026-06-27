@@ -104,7 +104,7 @@
 
 1626={ #
 	terrain="desert_hills"
-	culture="snakelander"
+	culture="paiute"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 1627={ #
 	terrain="desert_hills"
-	culture="snakelander"
+	culture="paiute"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 1628={ #
 	terrain="desert_hills"
-	culture="snakelander"
+	culture="paiute"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 8857={ #
 	terrain="desert_hills"
-	culture="utahn"
+	culture="paiute"
 	religion="mormon"
 	trade_goods=""
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 8858={ #
 	terrain="mountain"
-	culture="utahn"
+	culture="paiute"
 	religion="mormon"
 	trade_goods="salt"
 	civilization_value=10

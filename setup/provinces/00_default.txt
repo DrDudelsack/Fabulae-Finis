@@ -87373,7 +87373,7 @@
 
 10702={ #
 	terrain="impassable_terrain"
-	culture=""
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

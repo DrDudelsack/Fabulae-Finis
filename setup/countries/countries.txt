@@ -227,6 +227,8 @@ ITW = "setup/countries/west_coast/interior_willamette.txt"
 YKK = "setup/countries/west_coast/yakama.txt"
 PDT = "setup/countries/west_coast/pendleton.txt"
 YUB = "setup/countries/west_coast/yuba.txt"
+PHX = "setup/countries/west_coast/phoenix.txt"
+GAD = "setup/countries/west_coast/gadsen.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

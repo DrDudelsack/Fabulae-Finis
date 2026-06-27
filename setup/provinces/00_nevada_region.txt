@@ -91,7 +91,7 @@
 
 1300={ #
 	terrain="desert"
-	culture="cahuilla"
+	culture="socaleno"
 	religion="loneranger"
 	trade_goods="beans"
 	civilization_value=10
@@ -105,7 +105,7 @@
 1301={ #
 	terrain="desert_hills"
 	culture="socaleno"
-	religion="loneranger"
+	religion="caesarist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -299,7 +299,7 @@
 
 3247={ #
 	terrain="desert_hills"
-	culture="utahn"
+	culture="paiute"
 	religion="mormon"
 	trade_goods=""
 	civilization_value=10
@@ -695,7 +695,7 @@
 
 8050={ #
 	terrain="desert"
-	culture="cahuilla"
+	culture="socaleno"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -708,7 +708,7 @@
 
 8051={ #
 	terrain="desert"
-	culture="cahuilla"
+	culture="socaleno"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
