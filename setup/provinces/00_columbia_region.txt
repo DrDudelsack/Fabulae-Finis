@@ -1,6 +1,6 @@
 ﻿194={ #
 	terrain="dry_hills"
-	culture="umatilla"
+	culture="meseteno"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 195={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="meseteno"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 196={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 197={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -53,7 +53,7 @@
 231={ #
 	terrain="mountain"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -65,7 +65,7 @@
 
 293={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 294={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 295={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 429={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 430={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 1962={ #
 	terrain="mountain"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 1963={ #
 	terrain="mountain"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 1964={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1965={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -235,7 +235,7 @@
 2104={ #
 	terrain="dry_hills"
 	culture="yakama"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2105={ #
 	terrain="dry_hills"
 	culture="yakama"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2106={ #
 	terrain="dry_hills"
 	culture="yakama"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -273,8 +273,8 @@
 
 2240={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -299,8 +299,8 @@
 
 2242={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -351,7 +351,7 @@
 
 2681={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 2682={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 2683={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -391,7 +391,7 @@
 2817={ #
 	terrain="hills"
 	culture="inlander"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 2819={ #
 	terrain="hills"
 	culture="inlander"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 2820={ #
 	terrain="mountain"
 	culture="doukhobor"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -442,7 +442,7 @@
 
 2964={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 2965={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 2966={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 2967={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 3422={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 3423={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 3424={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -572,8 +572,8 @@
 
 4950={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -585,8 +585,8 @@
 
 4951={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -598,7 +598,7 @@
 
 5141={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 5142={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 5143={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 5144={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 5423={ #
 	terrain="dry_hills"
-	culture="umatilla"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 5424={ #
 	terrain="dry_hills"
-	culture="umatilla"
+	culture="meseteno"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 5425={ #
 	terrain="dry_hills"
-	culture="umatilla"
+	culture="inlander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -703,7 +703,7 @@
 5530={ #
 	terrain="mountain"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 5531={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -754,7 +754,7 @@
 
 6079={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="meseteno"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -768,7 +768,7 @@
 6470={ #
 	terrain="dry_hills"
 	culture="meseteno"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -780,8 +780,8 @@
 
 6471={ #
 	terrain="dry_hills"
-	culture="yakama"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -793,8 +793,8 @@
 
 6784={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -806,8 +806,8 @@
 
 6785={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 6786={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 7256={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -845,8 +845,8 @@
 
 7257={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 7258={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8085={ #
 	terrain="hills"
 	culture="inlander"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 8086={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -897,8 +897,8 @@
 
 8421={ #
 	terrain="desert_hills"
-	culture="inlander"
-	religion="catholic"
+	culture="meseteno"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 8422={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -923,7 +923,7 @@
 
 8516={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 8517={ #
 	terrain="dry_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 8518={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 8519={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1040,7 +1040,7 @@
 
 9486={ #
 	terrain="dry_hills"
-	culture="umatilla"
+	culture="inlander"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -1053,7 +1053,7 @@
 
 9487={ #
 	terrain="mountain"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10

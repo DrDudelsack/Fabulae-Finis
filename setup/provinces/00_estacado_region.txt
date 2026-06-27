@@ -1,7 +1,7 @@
 ﻿9={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 10={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 11={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 12={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 17={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 685={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 686={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 687={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4564={ #
 	terrain="dry_plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4566={ #
 	terrain="dry_plains"
 	culture="arixan"
-	religion="zetanologist"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 6992={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="aphite"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 6993={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="aphite"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 6994={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="aphite"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 6995={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="aphite"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -35,6 +35,9 @@
  quaker:0 "Quaker"
  desc_quaker:0 "Despite the name, the Society of Friends, more commonly referred to as Quakers, is not one unified church but instead a variety of community worship organizations with a common goal - to find the presence of God within them and to follow that inner light of Christ towards righteousness. This light can be discovered both on an individual and community level, with religious and social decisions being made by holding meetings in which the attendees collectively determine what path God desires them to take. Lacking a centralized hierarchy, Quaker communities can differ vastly on some doctrines such as baptism, icons, or even theism, but some common beliefs include pacifism, simple living, and a mission to promote social reform and community harmony."
 
+ mennonite:0 "Mennonite"
+ desc_mennonite:0 "One of the largest and oldest of the Anabaptist Protestants, the Mennonite Church traces itself to the teachings of Menno Simons, one of the Radical Reformers in contrast to Calvin or Luther. Aiming to restore the old church of Christianity from the time of its foundation, Mennonites emphasize their service to Christ and the renunciation of the sword and oath. While historically Mennonite communities were divided along degrees of participation with the pre-Event world, those separations were set aside as their policies of religious tolerance and social cohesion allowed them to unite isolated communities left vulnerable by the collapse."
+
  ursuline:0 "Ursuline"
  desc_ursuline:0 "The Ursuline Church originated as an antediluvian religious order patronized by Saint Ursula. After the Deluge, most French-Canadian Catholics turned to the Ursuline Order for guidance in acknowledgment of the charitable works the Order. The Ursuline Order itself, loosely tied to the larger Catholic complex of the Americas, attended the Ecumenical Council of The Americas in the mid 22nd century. Their stance during and after the Council is that the office of the Pope, and therefore all offices appointed by the Pope, are empty until contact is restored with Rome. The Ursulines uphold the position that none of the Christian bishops currently operating in the Americas have proper apostolic succession, making them invalid. However, members of sanctioned religious orders can serve as de facto clergy until contact with the true Papacy is re-established."
 
@@ -46,6 +49,12 @@
 
  exovedate:0 "Exovedate"
  desc_exovedate:0 "The Exovedate are the torchbearers of the teachings of pre-Event prophet, priest-king, and Infallible Pontiff, Louis “David” Riel. Riel saw Native Americans and the Métis as the descendants of the Hebrews and therefore God's chosen people, and tasked himself with building a reconstructed Catholic Church that would bind the people of the New World together. He led a coalition of Métis and other tribes to battle L'Awnglitayr, an oppressive regime from across the sea, in what became known as the Great Parleys. While Riel was defeated, executed, and decried as a madman in his own time, in the centuries since the faithful have come to recognize Riel's prophecies and restore his neglected teachings, including the enforcement of Mosaic law and reinstatement of polygamy and clerical marriage."  
+ 
+ limpio:0 "Limpio"
+ desc_limpio:0 "Even before the Deluge, many Catholics believed that certain people had holy powers which enabled them to directly commune with the souls of the dearly departed. These folk beliefs condensed over the years into the Esoteric Fraternity of the Limpios. The Limpios worship a pantheon of spirits derived from local saints and heroes of the past who ultimately serve God but are powerful in their own right. These entities can be called upon for guidance and communed with through rituals, but only bless the most worthy who can then allow themselves to become possessed by a spirit. Through this connection, they earn the honorific of “Cajita”, meaning vessel. These Cajitas act as conduits for one of these divine beings, allowing them to directly influence the world they once roamed as mortals and perform miracles for the benefit of the faithful"
+
+ la_hermandad:0 "La Hermandad"
+ desc_la_hermandad:0 "With humble origins in farm workers, Bracero rulers are expected to be workers, in the field as in the castle, to build a New Earth for the glory of God. The Braceros have endured through countless petty kingdoms and would-be tyrants, surviving thanks to their strong core organization around diverse communities and the revered elders who care for them. This struggle against evil on Earth has only amplified as the Antichrist, the office that seeks to unite all religions under the power of the state, unveiled itself in Sacramento. In the face of this apocalyptic evil, the Braceros are willing to fight against any who seek to eradicate their beliefs and way of life."
 
  ## Industrialist ##
  promethean:0 "Promethean"
@@ -187,6 +196,9 @@
  ## Northwestern ##
  dreamer:0 "Dreamer"
  desc_dreamer:0 "The Dreamers encompass the traditional beliefs of much of the interior Northwest. Over time, their beliefs have evolved while still retaining major core elements, including respect for the natural world and the spiritual power of dreams. Prophetic dreamers, such as the ancient Smohalla, serve an important role in introducing and recodifying rituals and stories for new generations. Adherents place great importance on honoring traditional ways of life, as well as the spiritual link between humanity and the creatures and plants Mother Earth has provided, and the other spirits of the land."
+ 
+ raven_tales:0 "Raven Tales"
+ desc_raven_tales:0 "Followers of the Raven Tales revere supernatural beings described in their sacred stories, Raven foremost among them. In some tales Raven is playful and benevolent, while in others he is greedy, treacherous, and wanton. He is sometimes loved and sometimes feared. Raven indirectly made the world by stealing and transforming that which came before, and preserved the Haida though the Dark Times with cleverness and trickery. Other Xhúuyee K'iigaang gods include Ta'xet and Tia, who rule over violent and peaceful death respectively."
 
  ## Astronomer ##
  zetanologist:0 "Zetanologist"
@@ -215,6 +227,10 @@
  ## Reawakened ##
  rosicrucian:0 "Rosicrucian"
  desc_rosicrucian:0 "The Rosicrucian Orders are a collection of secretive organizations claiming lineage from an eclectic and esoteric sect of Old Europe's Christendom, which in turn claimed lineage from alchemical mystics from the time of Jesus and even before. Theologically the Rosicrucians all believe that the material world is an emanation from a divine being called the Absolute, who is incomprehensible to mortal minds. The goal of life is to achieve spiritual evolution along the Seven Worlds Within God, until eventually reuniting with God as the Emanation of the Absolute. Rosicrucians believe this can be achieved through spiritual awakening, which is the result of attaining mystical knowledge and training. Today the sect as a whole exists at the outskirts of Christianity in general, with some various outposts of fellowships remaining in some storied lodges across the Americas."
+
+ ## Plains ##
+ sun_dance:0 "Sun Dance"
+ desc_sun_dance:0 "The Sun Dance is the central ritual of the Plains religious complex, a yearly event where all ancestors and spirits are believed to participate alongside the living. The ceremony opens with the dreams and visions of the presiding medicine people, continuing in earnest with ritual piercing and suspension followed by a constant dance for the next four days. Food and water are abstained from by the dancers in a feat of strength and endurance, reinforcing tribal ethics of selflessness, bravery, and tenacity. The acts of self-mortification and dancing empower the whole tribe, as the dancers give of themselves to appease the spirits and thank their creator. Additionally, bison skin and bones are used on the central pole to honor the bison and the creator, who may bestow fortune or blessings upon the tribe."
 
  ## Islamic ##
  sunni:0 "Sunni"

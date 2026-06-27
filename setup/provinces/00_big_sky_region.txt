@@ -1,7 +1,7 @@
 ﻿660={ #
 	terrain="mountain"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 661={ #
 	terrain="plains"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 662={ #
 	terrain="plains"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 663={ #
 	terrain="mountain"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 1289={ #
 	terrain="plains"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 1290={ #
 	terrain="mountain"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1524={ #
 	terrain="plains"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1525={ #
 	terrain="plains"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1526={ #
 	terrain="mountain"
 	culture="cheyenne"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 3565={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3566={ #
 	terrain="steppes"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3567={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 3597={ #
 	terrain="plains"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3598={ #
 	terrain="plains"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 4403={ #
 	terrain="plains"
 	culture="cheyenne"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 4574={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4918={ #
 	terrain="plains"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4919={ #
 	terrain="plains"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4920={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 6986={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 8972={ #
 	terrain="steppes"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 8973={ #
 	terrain="steppes"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 8974={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 9076={ #
 	terrain="mountain"
 	culture="crow"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 9077={ #
 	terrain="mountain"
 	culture="crow"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 9078={ #
 	terrain="mountain"
 	culture="cheyenne"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

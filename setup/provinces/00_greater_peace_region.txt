@@ -79,7 +79,7 @@
 555={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 556={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 557={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 938={ #
 	terrain="plains"
 	culture="prairielander"
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 939={ #
 	terrain="plains"
 	culture="prairielander"
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 940={ #
 	terrain="forest"
 	culture="metis"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 2356={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 2357={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2390={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2391={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2392={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 2752={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 2753={ #
 	terrain="mountain"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 2754={ #
 	terrain="mountain"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 2891={ #
 	terrain="forest"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 3044={ #
 	terrain="plains"
 	culture="prairielander"
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 3045={ #
 	terrain="plains"
 	culture="prairielander"
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3046={ #
 	terrain="mountain"
 	culture="prairielander"
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3047={ #
 	terrain="mountain"
 	culture="prairielander"
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 3191={ #
 	terrain="forest"
 	culture=""
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 3192={ #
 	terrain="forest"
 	culture=""
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 3193={ #
 	terrain="forest"
 	culture=""
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 3194={ #
 	terrain="forest"
 	culture=""
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 4408={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 4409={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 4410={ #
 	terrain="forest"
 	culture=""
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 7426={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 7427={ #
 	terrain="mountain"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 7428={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 7429={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 7430={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 8138={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 8139={ #
 	terrain="forest"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 8140={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 8255={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -950,7 +950,7 @@
 8256={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 8257={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 8258={ #
 	terrain="taiga"
 	culture="denesuline"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 9013={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 9014={ #
 	terrain="plains"
 	culture=""
-	religion="catholic"
+	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 9422={ #
 	terrain="forest"
 	culture="metis"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1145,7 +1145,7 @@
 9424={ #
 	terrain="forest"
 	culture="metis"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1158,7 +1158,7 @@
 9425={ #
 	terrain="forest"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1171,7 +1171,7 @@
 9610={ #
 	terrain="forest"
 	culture="dane_zaa"
-	religion="catholic"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

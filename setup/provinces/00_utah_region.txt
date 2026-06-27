@@ -79,7 +79,7 @@
 1292={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 1293={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1295={ #
 	terrain="hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1309={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1310={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 1673={ #
 	terrain="mountain"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1675={ #
 	terrain="mountain"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 1676={ #
 	terrain="mountain"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 2155={ #
 	terrain="hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 2156={ #
 	terrain="hills"
 	culture=""
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 2157={ #
 	terrain="hills"
 	culture=""
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2877={ #
 	terrain="mountain"
 	culture="ute"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 4811={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 4812={ #
 	terrain="mountain"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 4813={ #
 	terrain="mountain"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 5922={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 6731={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 6732={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 8478={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 8479={ #
 	terrain="desert_hills"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 8480={ #
 	terrain="desert_hills"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 9531={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 9533={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 9534={ #
 	terrain="desert_hills"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

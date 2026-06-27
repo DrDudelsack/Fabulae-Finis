@@ -190,7 +190,8 @@
  montereyan:0 "Montereyan"
  joaquino:0 "Joaquino"
  socaleno:0 "Socaleno"
- cahuilla:0 "Cachanchilla"
+ cachanchilla:0 "Cachanchilla"
+ achomawi:0 "Achomawi"
 
  ## Frontieran ##
  frontieran:0 "Frontieran"
@@ -209,7 +210,7 @@
  ute:0 "Ute"
 
  ## North-Pacific ##
- north_pacific:0 "North-Pacific"
+ north_pacific:0 "Transcascadian"
  canuck:0 "Canuck"
  cascadian:0 "Cascadian"
  doukhobor:0 "Doukhobor"
@@ -250,7 +251,7 @@
  preiryansky:0 "Preiryansky" 
 
  ## Rockland ##
- rockland:0 "Rockland"
+ rockland:0 "Great Divide"
  coloradan:0 "Coloradan"
  montaneer:0 "Montaneer"
  neomexicano:0 "Neomexicano"
@@ -296,6 +297,7 @@
  dane_zaa:0 "Dane-Zaa"
 
  ## Upper Coast ##
+ northwestern:0 "Northwestern"
  upper_coast:0 "Upper Coast"
  haida:0 "Haida"
  tlingit:0 "Tlingit"
@@ -313,6 +315,7 @@
  yurok:0 "Yurok"
  chumash:0 "Chumash"
  pomo:0 "Pomo"
+ cahuilla:0 "Cahuilla"
  
  ## Columbian ##
  columbian:0 "Columbian"
@@ -321,7 +324,7 @@
  ktunaxa:0 "Ktunaxa" 
 
  ## Interior ##
- interior:0 "Interior"
+ interior:0 "Ciscascadian"
  klamath:0 "Klamath" 
  nez_perce:0 "Nez Perce" 
  umatilla:0 "Umatilla" 

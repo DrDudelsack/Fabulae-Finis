@@ -1,7 +1,7 @@
 ﻿170={ #
 	terrain="steppes"
 	culture="metis"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 171={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 173={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 341={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 343={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 526={ #
 	terrain="plains"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 527={ #
 	terrain="plains"
 	culture="blackfoot"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 528={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 529={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 919={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 920={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 921={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 2151={ #
 	terrain="steppes"
 	culture="frankaskois"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2152={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2154={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4008={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4009={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4010={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4305={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 4306={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4307={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 4334={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 5060={ #
 	terrain="steppes"
 	culture="metis"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5061={ #
 	terrain="forest"
 	culture="nihithaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5062={ #
 	terrain="forest"
 	culture="nihithaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5848={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 5981={ #
 	terrain="mountain"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 5982={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 5983={ #
 	terrain="steppes"
 	culture="frankaskois"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 7597={ #
 	terrain="mountain"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 7682={ #
 	terrain="forest"
 	culture="nihithaw"
-	religion="catholic"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 7683={ #
 	terrain="forest"
 	culture="metis"
-	religion="catholic"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 7684={ #
 	terrain="forest"
 	culture="nihithaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 7685={ #
 	terrain="forest"
 	culture="nihithaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 8745={ #
 	terrain="steppes"
 	culture="metis"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 8746={ #
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 8747={ #
 	terrain="steppes"
 	culture="metis"
-	religion="catholic"
+	religion="rivertracer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -65,7 +65,7 @@
 
 682={ #
 	terrain="mountain"
-	culture="inlander"
+	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10
@@ -988,7 +988,7 @@
 
 7733={ #
 	terrain="mountain"
-	culture="inlander"
+	culture="cascadian"
 	religion="gaian"
 	trade_goods=""
 	civilization_value=10

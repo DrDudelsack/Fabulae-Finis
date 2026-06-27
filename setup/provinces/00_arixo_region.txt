@@ -234,8 +234,8 @@
 
 2101={ #
 	terrain="desert"
-	culture="arixan"
-	religion="loneranger"
+	culture="cachanchilla"
+	religion="atomicist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2102={ #
 	terrain="desert"
 	culture="arixan"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -260,8 +260,8 @@
 
 2103={ #
 	terrain="desert"
-	culture="cahuilla"
-	religion="loneranger"
+	culture="cachanchilla"
+	religion="atomicist"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -507,7 +507,7 @@
 
 2952={ #
 	terrain="desert"
-	culture="arixan"
+	culture="cachanchilla"
 	religion="atomicist"
 	trade_goods="clay"
 	civilization_value=10
@@ -534,7 +534,7 @@
 3106={ #
 	terrain="desert"
 	culture="oodham"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 3107={ #
 	terrain="desert"
 	culture="oodham"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 3180={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 4649={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1249,7 +1249,7 @@
 8437={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1262,7 +1262,7 @@
 8438={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1275,7 +1275,7 @@
 8439={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1340,7 +1340,7 @@
 9408={ #
 	terrain="desert_hills"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1353,7 +1353,7 @@
 9409={ #
 	terrain="desert_hills"
 	culture="arixan"
-	religion="zetanologist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -104,7 +104,7 @@
 
 1626={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 1627={ #
 	terrain="desert_hills"
-	culture="juniperian"
+	culture="snakelander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 2552={ #
 	terrain="forest"
-	culture="juniperian"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -846,7 +846,7 @@
 9552={ #
 	terrain="dry_plains"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 9554={ #
 	terrain="dry_plains"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 9555={ #
 	terrain="dry_plains"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

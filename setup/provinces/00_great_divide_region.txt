@@ -1,7 +1,7 @@
 ﻿131={ #
 	terrain="mountain"
 	culture=""
-	religion="buddhism"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 132={ #
 	terrain="mountain"
 	culture=""
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 324={ #
 	terrain="forest"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 325={ #
 	terrain="forest"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 326={ #
 	terrain="mountain"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1399={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 4362={ #
 	terrain="mountain"
 	culture="utahn"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4363={ #
 	terrain="mountain"
 	culture="hualapai"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4364={ #
 	terrain="mountain"
 	culture="coloradan"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 6126={ #
 	terrain="forest"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 6127={ #
 	terrain="mountain"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 6128={ #
 	terrain="forest"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 6382={ #
 	terrain="forest"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 6383={ #
 	terrain="mountain"
 	culture="arapaho"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 6987={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 8158={ #
 	terrain="mountain"
 	culture="coloradan"
-	religion="loneranger"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 8207={ #
 	terrain="plains"
 	culture="crow"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

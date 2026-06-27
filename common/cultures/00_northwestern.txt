@@ -1,5 +1,5 @@
-﻿lower_coast = {
-	color = rgb { 163 82 41 }
+﻿northwestern = {
+	color = rgb { 254 19 16 }
 
 	levy_template = levy_central_asia
 	
@@ -37,9 +37,20 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
+		haida = {}
+		tlingit = {}
+		tsimshianic = {}
+		wakashan = {}
 		chinook = {}
 		coast_salish = {}
 		kalapuya = {}
+		interior_salish = {}
+		dakelh = {}
+		ktunaxa = {}
+		klamath = {}
+		nez_perce = {}
+		umatilla = {}
+		yakama = {}
 	}
 	
 	barbarian_names = { 

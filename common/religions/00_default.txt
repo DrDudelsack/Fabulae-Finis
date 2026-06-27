@@ -127,6 +127,18 @@ quaker = { # Quaker
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+mennonite = { # Mennonite
+	color = rgb { 20 62 84 }
+	modifier = {
+		happiness_for_wrong_religion_modifier = 0.03
+		diplomatic_reputation = 3
+		fabricate_claim_cost_modifier = 0.25
+	}
+	religion_category = pantheon
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Catholic ##
 catholic = { # Catholic- All catholic derived faiths for now
 	color = rgb { 200 200 200 }
@@ -185,6 +197,16 @@ exovedate = { # Exovedate
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+la_hermandad = { # La Hermandad
+	color = rgb { 219 0 9 }
+	modifier = {
+		global_nobles_output = 0.10
+		religious_tech_investment = 0.10
+		global_pop_conversion_speed_modifier = -0.10
+	}
+	religion_category = pantheon
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Islamic ##
@@ -483,7 +505,7 @@ gaiwiio = { # Gai'wiio
 }
 ## Peyotist ##
 peyotist = { # Peyotist
-	color = rgb { 239 159 0 }
+	color = rgb { 255 96 22 }
 	modifier = { 
 		light_cavalry_morale = 0.1
 		global_tribesmen_happyness = 0.06
@@ -493,16 +515,7 @@ peyotist = { # Peyotist
 }
 ## Trailwalker ##
 loneranger = { # Loneranger
-	color = rgb { 99 65 26 }
-	modifier = { 
-		war_no_cb_cost_modifier = -0.25
-		land_morale_modifier = 0.05
-		price_imprison_cost_modifier = 0.25
-	}
-	religion_category = pantheon
-}
-real_roader = { # Real Roader
-	color = rgb { 68 102 204 }
+	color = rgb { 122 205 158 }
 	modifier = { 
 		hostile_attrition = 0.05
 		global_population_growth = 0.03
@@ -698,6 +711,15 @@ dreamer = { # Dreamer
 	}
 	religion_category = pantheon
 }
+raven_tales = { # Raven Tales
+	color = { 150 10 10 } #literally selected at random
+	modifier = { #placeholder
+		light_cavalry_morale = 0.1
+		global_tribesmen_happyness = 0.06
+		global_supply_limit_modifier = -0.05
+	}
+	religion_category = pantheon
+}
 
 ## Astronomer ##
 zetanologist = { # Zetanologist
@@ -808,5 +830,48 @@ rosicrucian = { # Rosicrucian
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_rosicrucian
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Intercessory ##
+limpio = { # Limpio
+	color = rgb { 137 84 42 }
+	modifier = {
+		global_nobles_output = 0.10
+		religious_tech_investment = 0.10
+		global_pop_conversion_speed_modifier = -0.10
+	}
+	religion_category = pantheon
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+navegante = { # Navegante
+	color = rgb { 49 77 156 }
+	modifier = {
+		global_nobles_output = 0.10
+		religious_tech_investment = 0.10
+		global_pop_conversion_speed_modifier = -0.10
+	}
+	religion_category = pantheon
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Petrobaron ##
+petrobaron = { # Petrobaron
+	color = rgb { 112 58 55 }
+	modifier = {
+		global_nobles_output = 0.10
+		religious_tech_investment = 0.10
+		global_pop_conversion_speed_modifier = -0.10
+	}
+	religion_category = pantheon
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Plains ##
+sun_dance = { # Sun Dance
+	color = rgb { 243 249 143 }
+	modifier = {
+		global_nobles_output = 0.10
+		religious_tech_investment = 0.10
+		global_pop_conversion_speed_modifier = -0.10
+	}
+	religion_category = pantheon
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

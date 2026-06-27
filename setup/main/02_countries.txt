@@ -653,6 +653,26 @@ country = {
 				4881 4883
 				2321 2323 2320 7103 2322 5930 5927 5929 5928 7104 7102 7101 4304 4303 4302 4301
 				8302 2336 2338 2339 2337 1772 1773 1771
+				1588 8301 1590 1356 1358 1359 1357 1589 1617 1619 6043 1618 6040 6041 6042 9172
+			}
+		}
+
+		YUB = { # Yuba
+			government = despotic_monarchy
+			primary_culture = valleyan
+			religion = sikhism
+			capital = 2848
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2848 2845 7150 7153 7151 2844 2846 2847 
+				7152 7802 7804 7806 7805 7803 9174 9175
 			}
 		}
 
@@ -674,21 +694,14 @@ country = {
 			}
 		}
 
-		INL = { # Inland Empire
-			government = despotic_monarchy
-			primary_culture = socaleno
-			religion = scientology
-			capital = 5520
-
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
-			}
+		INL = { # Salton
+			government = tribal_kingdom
+			primary_culture = cahuilla
+			religion = loneranger
+			capital = 1303
 
 			own_control_core = {
-				5520 5518 5516 5519 5517 5521 1302
+				8050 8051 5873 1303 1300
 			}
 		}
 
@@ -710,6 +723,7 @@ country = {
 				11605 3532 3533 3529 3531 3526 3528 3527 3530
 				5730 8691 8692 8562 8560 8561 8314 1814 8689 8690
 				6600 6602 6601
+				5516 5519 5517 5521 5518 1302 5520
 			}
 		}
 
@@ -3835,7 +3849,7 @@ country = {
 		}
 		MXI = { # Mexicali
 			government = despotic_monarchy
-			primary_culture = cahuilla
+			primary_culture = cachanchilla
 			religion = quetzaltec
 			capital = 8732
 
@@ -4251,9 +4265,9 @@ country = {
 				2506 2507 2508 2104 2105 2106 6471
 			}
 		}
-		PDT = { # Puget District
+		PDT = { # Pendleton
 			government = military_district
-			primary_culture = juniperian
+			primary_culture = inlander
 			religion = caesarist
 			capital = 194
 

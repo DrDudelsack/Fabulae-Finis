@@ -1,7 +1,7 @@
 ﻿342={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 990={ #
 	terrain="steppes"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 991={ #
 	terrain="steppes"
 	culture="badlander"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1475={ #
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 3514={ #
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 3515={ #
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3933={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 4213={ #Chadron
 	terrain="hills"
 	culture="lakota"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 4214={ #Gordon
 	terrain="steppes"
 	culture="lakota"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 5783={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="viking"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 7679={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="viking"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 7680={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="viking"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1145,7 +1145,7 @@
 9314={ #
 	terrain="steppes"
 	culture="nakota"
-	religion="loneranger"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

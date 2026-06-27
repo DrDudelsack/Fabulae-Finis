@@ -37,10 +37,13 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		klamath = {}
-		nez_perce = {}
-		umatilla = {}
-		yakama = {}
+		#snakelander = {}
+		okanaganer = {}
+		doukhobor = {}
+		meseteno = {}
+		#montaneer = {}
+		inlander = {}
+		juniperian = {}
 	}
 	
 	barbarian_names = { 

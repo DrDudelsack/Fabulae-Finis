@@ -1,5 +1,5 @@
 ﻿native_californian = {
-	color = rgb { 252 176 64 }
+	color = rgb { 235 75 20 }
 
 	levy_template = levy_central_asia
 	
@@ -40,6 +40,8 @@
 		yurok = {}
 		chumash = {}
 		pomo = {}
+		cahuilla = {}
+		achomawi = {}
 	}
 	
 	barbarian_names = { 

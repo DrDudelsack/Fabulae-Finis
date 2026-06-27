@@ -40,7 +40,7 @@
 1356={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 1357={ #
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 1358={ #
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 1359={ #
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 1588={ #
 	terrain="plains"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1589={ #
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1590={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1617={ #
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1618={ #
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1619={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3062={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 3267={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 3268={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 3269={ #
 	terrain="plains"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 3270={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 3337={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 3338={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 3339={ #
 	terrain="forest"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3340={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 4908={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 4909={ #
 	terrain="plains"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 4910={ #
 	terrain="plains"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 4911={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 4912={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="loneranger"
+	religion="la_hermandad"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 5366={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 5367={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 5368={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 6040={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 6041={ #
 	terrain="forest"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 6042={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 6043={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 6893={ #
 	terrain="hills"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 6894={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 6895={ #
 	terrain="farmland"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 7152={ #
 	terrain="mountain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 7802={ #
 	terrain="mountain"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1080,7 +1080,7 @@
 7803={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 7804={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 7806={ #
 	terrain="hills"
 	culture="valleyan"
-	religion="colossalist"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 8301={ #
 	terrain="plains"
 	culture="valleyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1197,7 +1197,7 @@
 9144={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -1210,7 +1210,7 @@
 9145={ #
 	terrain="plains"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -1223,7 +1223,7 @@
 9146={ #
 	terrain="plains"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -1236,7 +1236,7 @@
 9147={ #
 	terrain="mountain"
 	culture="joaquino"
-	religion="catholic"
+	religion="la_hermandad"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0

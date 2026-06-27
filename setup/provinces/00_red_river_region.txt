@@ -92,7 +92,7 @@
 6962={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 6963={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 6964={ #
 	terrain="steppes"
 	culture="texan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 8674={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 8675={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 8676={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 8731={ #
 	terrain="steppes"
 	culture="texan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 11614={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 11615={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 11621={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 11625={ #
 	terrain="steppes"
 	culture="estacadan"
-	religion="loneranger"
+	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

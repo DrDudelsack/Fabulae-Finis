@@ -40,7 +40,7 @@
 868={ #
 	terrain="plains"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 869={ #
 	terrain="plains"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -251,7 +251,7 @@
 5626={ #
 	terrain="plains"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0

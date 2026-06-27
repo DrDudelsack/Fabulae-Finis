@@ -403,8 +403,8 @@
  STG_ADJ:0 "Georgian"
  UIN:0 "Uintah"
  UIN_ADJ:0 "Ute"
- INL:0 "Inland Empire"
- INL_ADJ:0 "Inlander"
+ INL:0 "Salton"
+ INL_ADJ:0 "Saltonian"
  SCL:0 "Socal"
  SCL_ADJ:0 "Socaleno"
  ADS:0 "Andreas"
@@ -445,7 +445,8 @@
  YKK_ADJ:0 "Yakaman"
  PDT:0 "Pendleton District"
  PDT_ADJ:0 "Pendletonian"
-
+ YUB:0 "Yuba"
+ YUB_ADJ:0 "Yuban"
 
  ## East Canada ##
  FRO:0 "Francontario"

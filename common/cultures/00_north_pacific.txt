@@ -1823,12 +1823,8 @@
 		jeffersonian = {}
 		canuck = {}
 		cascadian = {}
-		juniperian = {}
 		inlander = {}
-		snakelander = {}
-		okanaganer = {}
-		meseteno = {}
-		doukhobor = {}
+		juniperian = {}
 	}
 	
 	barbarian_names = { 

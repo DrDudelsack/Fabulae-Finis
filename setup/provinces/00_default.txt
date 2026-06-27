@@ -118,7 +118,7 @@
 21={ #
 	terrain="mountain"
 	culture="tlingit"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 22={ #
 	terrain="mountain"
 	culture="tlingit"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 30={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 31={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 32={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 33={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1925,7 +1925,7 @@
 230={ #
 	terrain="mountain"
 	culture="doukhobor"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1938,7 +1938,7 @@
 232={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -3771,7 +3771,7 @@
 512={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4135,7 +4135,7 @@
 576={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4148,7 +4148,7 @@
 577={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4161,7 +4161,7 @@
 578={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4174,7 +4174,7 @@
 579={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4343,7 +4343,7 @@
 603={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4356,7 +4356,7 @@
 604={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4369,7 +4369,7 @@
 605={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4915,7 +4915,7 @@
 668={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -4928,7 +4928,7 @@
 669={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -7697,7 +7697,7 @@
 1029={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -7710,7 +7710,7 @@
 1030={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -8620,7 +8620,7 @@
 1172={ #
 	terrain="forest"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -8633,7 +8633,7 @@
 1173={ #
 	terrain="forest"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -8646,7 +8646,7 @@
 1174={ #
 	terrain="forest"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -8659,7 +8659,7 @@
 1175={ #
 	terrain="hills"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -9894,7 +9894,7 @@
 1326={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -9907,7 +9907,7 @@
 1327={ #
 	terrain="hills"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -9920,7 +9920,7 @@
 1328={ #
 	terrain="hills"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -10440,7 +10440,7 @@
 1381={ #
 	terrain="mountain"
 	culture="doukhobor"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -10869,7 +10869,7 @@
 1447={ #
 	terrain="mountain"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -10882,7 +10882,7 @@
 1448={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11675,7 +11675,7 @@
 1545={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11688,7 +11688,7 @@
 1546={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11701,7 +11701,7 @@
 1547={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11714,7 +11714,7 @@
 1548={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12663,7 +12663,7 @@
 1680={ #
 	terrain="hills"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12676,7 +12676,7 @@
 1681={ #
 	terrain="hills"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -12689,7 +12689,7 @@
 1682={ #
 	terrain="hills"
 	culture="haida"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14054,7 +14054,7 @@
 1883={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14067,7 +14067,7 @@
 1884={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14080,7 +14080,7 @@
 1885={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14574,7 +14574,7 @@
 1968={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14587,7 +14587,7 @@
 1969={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14600,7 +14600,7 @@
 1970={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14613,7 +14613,7 @@
 1971={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -16069,7 +16069,7 @@
 2161={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -16082,7 +16082,7 @@
 2162={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -16966,7 +16966,7 @@
 2293={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -16979,7 +16979,7 @@
 2294={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -16992,7 +16992,7 @@
 2295={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -18227,7 +18227,7 @@
 2470={ #
 	terrain="hills"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -18240,7 +18240,7 @@
 2471={ #
 	terrain="hills"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -18253,7 +18253,7 @@
 2472={ #
 	terrain="hills"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -18266,7 +18266,7 @@
 2473={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -21633,7 +21633,7 @@
 2916={ #
 	terrain="mountain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -21646,7 +21646,7 @@
 2917={ #
 	terrain="mountain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -21659,7 +21659,7 @@
 2918={ #
 	terrain="mountain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24454,7 +24454,7 @@
 3279={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24467,7 +24467,7 @@
 3280={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24480,7 +24480,7 @@
 3281={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -26469,7 +26469,7 @@
 3521={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27353,7 +27353,7 @@
 3635={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27366,7 +27366,7 @@
 3636={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -27483,7 +27483,7 @@
 3645={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27496,7 +27496,7 @@
 3646={ #
 	terrain="mountain"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27522,7 +27522,7 @@
 3654={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -28393,7 +28393,7 @@
 3742={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -28406,7 +28406,7 @@
 3743={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -28419,7 +28419,7 @@
 3744={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -29511,7 +29511,7 @@
 3870={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -29524,7 +29524,7 @@
 3871={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -29537,7 +29537,7 @@
 3872={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -30343,7 +30343,7 @@
 3956={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -30356,7 +30356,7 @@
 3957={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -30369,7 +30369,7 @@
 3958={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -31981,7 +31981,7 @@
 4148={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -31994,7 +31994,7 @@
 4149={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -32007,7 +32007,7 @@
 4150={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33632,7 +33632,7 @@
 4327={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33645,7 +33645,7 @@
 4328={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33658,7 +33658,7 @@
 4329={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34464,7 +34464,7 @@
 4428={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34477,7 +34477,7 @@
 4429={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34490,7 +34490,7 @@
 4430={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34503,7 +34503,7 @@
 4434={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34516,7 +34516,7 @@
 4435={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34529,7 +34529,7 @@
 4436={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34542,7 +34542,7 @@
 4437={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34828,7 +34828,7 @@
 4465={ #
 	terrain="mountain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34841,7 +34841,7 @@
 4466={ #
 	terrain="mountain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -34854,7 +34854,7 @@
 4467={ #
 	terrain="mountain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -39976,7 +39976,7 @@
 5149={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -39989,7 +39989,7 @@
 5150={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40002,7 +40002,7 @@
 5151={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40600,7 +40600,7 @@
 5220={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40613,7 +40613,7 @@
 5221={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40639,7 +40639,7 @@
 5223={ #
 	terrain="hills"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40769,7 +40769,7 @@
 5233={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40808,7 +40808,7 @@
 5236={ #
 	terrain="mountain"
 	culture="dakelh"
-	religion="mayan_pantheon"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42355,7 +42355,7 @@
 5432={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42901,7 +42901,7 @@
 5526={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42914,7 +42914,7 @@
 5527={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42927,7 +42927,7 @@
 5528={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42940,7 +42940,7 @@
 5529={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -43265,7 +43265,7 @@
 5567={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -43278,7 +43278,7 @@
 5568={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -43525,7 +43525,7 @@
 5603={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -43538,7 +43538,7 @@
 5604={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44604,7 +44604,7 @@
 5740={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44617,7 +44617,7 @@
 5741={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44838,7 +44838,7 @@
 5762={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44851,7 +44851,7 @@
 5763={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44864,7 +44864,7 @@
 5764={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44942,7 +44942,7 @@
 5778={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44955,7 +44955,7 @@
 5779={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -44968,7 +44968,7 @@
 5780={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -45020,7 +45020,7 @@
 5787={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -45033,7 +45033,7 @@
 5788={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -45046,7 +45046,7 @@
 5789={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -48114,7 +48114,7 @@
 6207={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -48127,7 +48127,7 @@
 6208={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -48140,7 +48140,7 @@
 6209={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -49947,7 +49947,7 @@
 6440={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -49960,7 +49960,7 @@
 6441={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -49973,7 +49973,7 @@
 6442={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -49986,7 +49986,7 @@
 6443={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -51676,7 +51676,7 @@
 6677={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -52950,7 +52950,7 @@
 6856={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -57097,7 +57097,7 @@
 7381={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -57110,7 +57110,7 @@
 7382={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -57136,7 +57136,7 @@
 7384={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -59216,7 +59216,7 @@
 7673={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -60282,7 +60282,7 @@
 7859={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -60594,7 +60594,7 @@
 7920={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -60607,7 +60607,7 @@
 7921={ #
 	terrain="hills"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -60620,7 +60620,7 @@
 7922={ #
 	terrain="mountain"
 	culture="interior_salish"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66119,7 +66119,7 @@
 8626={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66132,7 +66132,7 @@
 8627={ #
 	terrain="mountain"
 	culture="okanaganer"
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66860,7 +66860,7 @@
 8722={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66873,7 +66873,7 @@
 8723={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66886,7 +66886,7 @@
 8724={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -67432,7 +67432,7 @@
 8799={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -67445,7 +67445,7 @@
 8800={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68238,7 +68238,7 @@
 8884={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68251,7 +68251,7 @@
 8885={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68264,7 +68264,7 @@
 8886={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68277,7 +68277,7 @@
 8887={ #
 	terrain="mountain"
 	culture="tsimshianic"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -72047,7 +72047,7 @@
 9388={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -72060,7 +72060,7 @@
 9389={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -72866,7 +72866,7 @@
 9538={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -72879,7 +72879,7 @@
 9539={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -72892,7 +72892,7 @@
 9540={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -86113,7 +86113,7 @@
 10605={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -86203,7 +86203,7 @@
 
 10612={ #
 	terrain="plains"
-	culture="socaleno"
+	culture="cachanchilla"
 	religion="quetzaltec"
 	trade_goods=""
 	civilization_value=10
@@ -86568,7 +86568,7 @@
 10640={ #
 	terrain="impassable_terrain"
 	culture="socaleno"
-	religion="scientology"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -87842,7 +87842,7 @@
 10738={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -89181,7 +89181,7 @@
 10841={ #
 	terrain="impassable_terrain"
 	culture="socaleno"
-	religion="kinemite"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -89584,7 +89584,7 @@
 10872={ #
 	terrain="dry_plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -90104,7 +90104,7 @@
 10912={ #
 	terrain="impassable_terrain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -90610,7 +90610,7 @@
 
 10951={ #
 	terrain="desert_hills"
-	culture="paiute"
+	culture="inlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -90871,7 +90871,7 @@
 10971={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -91703,7 +91703,7 @@
 11035={ #
 	terrain="impassable_terrain"
 	culture=""
-	religion="catholic"
+	religion="gaian"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -91755,7 +91755,7 @@
 11039={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92184,7 +92184,7 @@
 11072={ #
 	terrain="impassable_terrain"
 	culture="dakelh"
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92717,7 +92717,7 @@
 11113={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -93042,7 +93042,7 @@
 11138={ #
 	terrain="impassable_terrain"
 	culture="montereyan"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -94082,7 +94082,7 @@
 11218={ #
 	terrain="plains"
 	culture="utahn"
-	religion="loneranger"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -97280,7 +97280,7 @@
 11464={ #
 	terrain="impassable_terrain"
 	culture="hualapai"
-	religion="buddhism"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -97670,7 +97670,7 @@
 11494={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -98034,7 +98034,7 @@
 11522={ #
 	terrain="impassable_terrain"
 	culture="wakashan"
-	religion="mayan_pantheon"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -98476,7 +98476,7 @@
 11556={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -98541,7 +98541,7 @@
 11561={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -102896,7 +102896,7 @@
 11968={ #
 	terrain="desert"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -103013,7 +103013,7 @@
 11979={ #
 	terrain="plains"
 	culture=""
-	religion="loneranger"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

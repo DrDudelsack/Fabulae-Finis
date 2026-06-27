@@ -157,7 +157,7 @@
 657={ #Wayne
 	terrain="steppes"
 	culture="dakota"
-	religion="ozymandism"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 658={ #Hartington
 	terrain="steppes"
 	culture="dakota"
-	religion="ozymandism"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 960={ #South Sioux City
 	terrain="plains"
 	culture="dakota"
-	religion="lutheran"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -1020,11 +1020,10 @@
 		Zimmerman
 	}
 	culture = {
-		battleborn = {}
-		utahn = {}
-		mojavean = {} 
 		arixan = {}
-		
+		neomexicano = {}
+		mojavean = {}
+		battleborn = {}
 	}
 	
 	barbarian_names = { 

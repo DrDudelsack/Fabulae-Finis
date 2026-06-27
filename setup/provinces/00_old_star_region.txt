@@ -105,7 +105,7 @@
 877={ #
 	terrain="plains"
 	culture="texaner"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 878={ #
 	terrain="plains"
 	culture="texan"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2130={ #
 	terrain="forest"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3344={ #
 	terrain="plains"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3398={ #
 	terrain="plains"
 	culture="texan"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3399={ #
 	terrain="plains"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3401={ #
 	terrain="plains"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 5039={ #
 	terrain="steppes"
 	culture="texaner"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5040={ #
 	terrain="steppes"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5043={ #
 	terrain="steppes"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5044={ #
 	terrain="steppes"
 	culture="texan"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 6570={ #
 	terrain="marsh"
 	culture="tejano"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 7884={ #
 	terrain="steppes"
 	culture="texanane"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -950,7 +950,7 @@
 7885={ #
 	terrain="plains"
 	culture="texaner"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 7886={ #
 	terrain="plains"
 	culture="texan"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 7887={ #
 	terrain="steppes"
 	culture="texaner"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 8280={ #
 	terrain="steppes"
 	culture="texan"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1249,7 +1249,7 @@
 9227={ #
 	terrain="plains"
 	culture="tejano"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1288,7 +1288,7 @@
 9236={ #
 	terrain="plains"
 	culture="tejano"
-	religion="americanist"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1301,7 +1301,7 @@
 9237={ #
 	terrain="marsh"
 	culture="tejano"
-	religion="americanist"
+	religion="catholic"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0

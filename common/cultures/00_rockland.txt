@@ -37,9 +37,11 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
+		utahn = {}
 		coloradan = {}
 		montaneer = {}
-		neomexicano = {} 
+		snakelander = {}
+		#mojavean = {} 
 	}
 	
 	barbarian_names = { 
