@@ -130,6 +130,8 @@ IWY = "setup/countries/great_plains/ioway.txt"
 DVL = "setup/countries/great_plains/devils_lake.txt"
 MND = "setup/countries/great_plains/minot.txt"
 CLL = "setup/countries/great_plains/clarinda.txt"
+NEZ = "setup/countries/great_plains/nez_perce.txt"
+BLU = "setup/countries/great_plains/blue_mountains.txt"
 
 
 #South
@@ -229,6 +231,8 @@ PDT = "setup/countries/west_coast/pendleton.txt"
 YUB = "setup/countries/west_coast/yuba.txt"
 PHX = "setup/countries/west_coast/phoenix.txt"
 GAD = "setup/countries/west_coast/gadsen.txt"
+DNH = "setup/countries/west_coast/dine_bikeyah.txt"
+APH = "setup/countries/west_coast/apacheria.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

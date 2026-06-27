@@ -3998,6 +3998,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 2749
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4015,6 +4016,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 2693
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4032,6 +4034,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 3325
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4134,6 +4137,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 2725
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4151,6 +4155,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 653
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4168,6 +4173,7 @@ country = {
 			primary_culture = kalapuya
 			religion = gaian
 			capital = 4937
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4185,6 +4191,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 5429
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4202,6 +4209,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 4871
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4219,6 +4227,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 4780
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4236,6 +4245,7 @@ country = {
 			primary_culture = cascadian
 			religion = gaian
 			capital = 1613
+			succession_law = cognatic_succession_law
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -4307,6 +4317,62 @@ country = {
 
 			own_control_core = {
 				4940 3107 3106 2102 1271 1270
+			}
+		}
+		DNH = { # Dine Bikeyah
+			government = league_republic
+			primary_culture = navajo
+			religion = peyotist
+			capital = 2769
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2827 2826 8031 8030 4527 4526 2769 4339 4338 2768
+				8309 8311 8310 2647 2646 2770 2767
+				3165 3166 796 798 799
+			}
+		}
+		APH = { # Apacheria
+			government = aristocratic_republic
+			primary_culture = navajo
+			religion = aphite
+			capital = 4645
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4645 4646 4956 4647 3539 3537 3538 8440 4767 4766
+			}
+		}
+		NEZ = { # Nez Perce
+			government = tribal_kingdom
+			primary_culture = nez_perce
+			religion = loneranger
+			capital = 5598
+
+			own_control_core = {
+				5598 3499 5599 3500 5597 6419 6420 6418 6421
+			}
+		}
+		BLU = { # Blue Mountains
+			government = tribal_kingdom
+			primary_culture = nez_perce
+			religion = loneranger
+			capital = 5425
+
+			own_control_core = {
+				5425 5424 5423 5426 9485 9487
 			}
 		}
 	}

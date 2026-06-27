@@ -105,7 +105,6 @@
 1301={ #
 	terrain="desert_hills"
 	culture="socaleno"
-	religion="caesarist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +117,6 @@
 1302={ #
 	terrain="desert_hills"
 	culture="socaleno"
-	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -333,7 +331,6 @@
 5516={ #
 	terrain="dry_plains"
 	culture="socaleno"
-	religion="colossalist"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -346,7 +343,6 @@
 5517={ #
 	terrain="dry_plains"
 	culture="socaleno"
-	religion="colossalist"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -372,7 +368,6 @@
 5519={ #
 	terrain="dry_plains"
 	culture="socaleno"
-	religion="colossalist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -398,7 +393,6 @@
 5521={ #
 	terrain="dry_plains"
 	culture="socaleno"
-	religion="colossalist"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0

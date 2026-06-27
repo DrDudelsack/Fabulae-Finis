@@ -259,6 +259,10 @@
  DVL_ADJ:0 "Northlander"
  CLL:0 "Council Bluffs"
  CLL_ADJ:0 "Bluffsonian"
+ NEZ:0 "Nez Perce"
+ NEZ_ADJ:0 "Nez Perce"
+ BLU:0 "Blue Mountains"
+ BLU_ADJ:0 "Umatilla"
 
  ## South ##
  NOL:0 "New Orleans"
@@ -451,6 +455,10 @@
  PHX_ADJ:0 "Phoenixan"
  GAD:0 "Gadsen"
  GAD_ADJ:0 "Gadsonian"
+ DNH:0 "Dine Bikeyah"
+ DNH_ADJ:0 "Navajo"
+ APH:0 "Apacheria"
+ APH_ADJ:0 "Apache"
 
  ## East Canada ##
  FRO:0 "Francontario"
