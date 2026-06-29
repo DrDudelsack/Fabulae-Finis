@@ -7,6 +7,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		culture="hollander"
+		amount=2
+	}
+	freemen={
 		amount=3
 	}
 	slaves={
@@ -86,7 +90,12 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="potowatomi"
+		amount=2
+	}
 	freemen={
+		culture="hollander"
 		amount=3
 	}
 	slaves={
@@ -952,6 +961,10 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="hollander"
+		amount=2
+	}
 	freemen={
 		amount=3
 	}
@@ -962,23 +975,42 @@
 
 5991={ #Grand Rapids
 	terrain="farmland"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="earthware"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="michigander"
+		amount=2
+	}
+	freemen={
+		culture="michigander"
+		amount=2
+	}
 	freemen={
 		amount=3
 	}
 	slaves={
+		culture="hollander"
+		amount=2
+	}
+	slaves={
+		culture="michigander"
 		amount=4
 	}
 }
 
 5992={ #Walker
 	terrain="plains"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="wild_game"
 	civilization_value=23
@@ -1285,28 +1317,55 @@
 
 8952={ #Holland
 	terrain="farmland"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="fruits"
-	civilization_value=23
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="michigander"
+		amount=1
+	}
+	freemen={
+		culture="michigander"
+		amount=1
+	}
 	freemen={
 		amount=3
 	}
 	slaves={
+		culture="hollander"
+		amount=2
+	}
+	slaves={
+		culture="michigander"
 		amount=4
 	}
 }
 
 8953={ #Muskegon
 	terrain="plains"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="fish"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="michigander"
+		amount=1
+	}
+	freemen={
+		culture="michigander"
+		amount=1
+	}
 	freemen={
 		amount=3
 	}
@@ -1323,6 +1382,10 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="hollander"
+		amount=1
+	}
 	freemen={
 		amount=3
 	}

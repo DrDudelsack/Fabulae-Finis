@@ -92,7 +92,7 @@
 1300={ #
 	terrain="desert"
 	culture="socaleno"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -105,6 +105,7 @@
 1301={ #
 	terrain="desert_hills"
 	culture="socaleno"
+	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -117,6 +118,7 @@
 1302={ #
 	terrain="desert_hills"
 	culture="socaleno"
+	religion="caesarist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -129,7 +131,7 @@
 1303={ #
 	terrain="desert"
 	culture="cahuilla"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -331,6 +333,7 @@
 5516={ #
 	terrain="dry_plains"
 	culture="socaleno"
+	religion="kinemite"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -343,6 +346,7 @@
 5517={ #
 	terrain="dry_plains"
 	culture="socaleno"
+	religion="kinemite"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -355,7 +359,7 @@
 5518={ #
 	terrain="desert_hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="scientology"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -368,6 +372,7 @@
 5519={ #
 	terrain="dry_plains"
 	culture="socaleno"
+	religion="kinemite"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -380,7 +385,7 @@
 5520={ #
 	terrain="oasis"
 	culture="socaleno"
-	religion="colossalist"
+	religion="scientology"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -393,6 +398,7 @@
 5521={ #
 	terrain="dry_plains"
 	culture="socaleno"
+	religion="caesarist"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +501,7 @@
 5729={ #
 	terrain="desert"
 	culture="socaleno"
-	religion="colossalist"
+	religion="scientology"
 	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +514,7 @@
 5731={ #
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="scientology"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +540,7 @@
 5871={ #
 	terrain="desert"
 	culture="cahuilla"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +566,7 @@
 5873={ #
 	terrain="desert"
 	culture="cahuilla"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +696,7 @@
 8050={ #
 	terrain="desert"
 	culture="socaleno"
-	religion="loneranger"
+	religion="scientology"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +709,7 @@
 8051={ #
 	terrain="desert"
 	culture="socaleno"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -329,7 +329,10 @@
  nez_perce:0 "Nez Perce" 
  umatilla:0 "Umatilla" 
  yakama:0 "Yakama" 
- 
+
+ ## Michigan Nederlander ##
+ michigan_nederlander:0 "Michigan-Nederlander"
+ hollander:0 "Hollander" 
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -410,3 +413,11 @@
  grand_ouest_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  czexan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  czexan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ interior_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ interior_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ northwestern_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ northwestern_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ native_californian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ native_californian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ michigan_nederlander_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ michigan_nederlander_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

@@ -860,7 +860,7 @@ country = {
 
 		GRP = { #Grand Rapids
 			government = titanate
-			primary_culture = michigander
+			primary_culture = hollander
 			religion = promethean
 			capital = 5991
 
@@ -2242,6 +2242,7 @@ country = {
 
 			own_control_core = {
 				5087 8282 8281 8278 8277 9149 8280 8279 9619 9617 9618
+				5014 5084 5085 5083 3341 5020
 			}
 		}
 		MTX = { #Metroplex
@@ -2258,7 +2259,7 @@ country = {
 			}
 
 			own_control_core = {
-				5019 5080 5078 11611 5082 5021 5014 5084 5085
+				5019 5080 5078 11611 5082 5021 5017 8729 9615 9614 9616 8728 5018 8730
 			}
 		}
 		NCH = { #Neches
@@ -2275,7 +2276,7 @@ country = {
 			}
 
 			own_control_core = {
-				7890 5522 5523 7889 532 7888 3343 5610 5613 3118
+				7890 5522 5523 7889 532 7888 3343 5610 5613 3118 5754 5612 5611 3117 3116 1370 1373
 			}
 		}
 		OUA = { #Ouachita
@@ -2361,7 +2362,7 @@ country = {
 			}
 
 			own_control_core = {
-				774 776 5525 5058 775 777
+				774 776 5525 5058 775 777 773 8673 8672 5524 1372 8671
 			}
 		}
 		SHR = { # Shreveport
@@ -3378,7 +3379,7 @@ country = {
 			}
 		}
 		PTL = { # Platte
-			government = tribal_chiefdom
+			government = range_tribal_kingdom
 			primary_culture = grangelander
 			religion = loneranger
 			capital = 3898
@@ -3759,13 +3760,13 @@ country = {
 			}
 
 			own_control_core = {
-				7884 5040 7886 3398 3401 3399 3344 2130 5043 5044 3342
+				7884 5040 7886 3398 3401 3399 3344 2130 5043 5044 3342 2129 2132 2131
 			}
 		}
 		BGH = { # Big Country
 			government = range_tribal_kingdom
 			primary_culture = estacadan
-			religion = loneranger
+			religion = petrobaron
 			capital = 8676
 
 			technology={
@@ -3777,6 +3778,23 @@ country = {
 
 			own_control_core = {
 				8676 8675 8674 8731 11623 9620 6962 11621
+			}
+		}
+		RPP = { # Rolling Plains
+			government = range_tribal_kingdom
+			primary_culture = texan
+			religion = loneranger
+			capital = 8670
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8670 8668 11624 11620 8667 9150 6965 6964 5081 8669
 			}
 		}
 		DEN = { # Denver
@@ -4373,6 +4391,96 @@ country = {
 
 			own_control_core = {
 				5425 5424 5423 5426 9485 9487
+			}
+		}
+		ETS = { #Estacado
+			government = range_tribal_kingdom
+			primary_culture = estacadan
+			religion = petrobaron
+			capital = 685
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				486 18 684 20 
+				685 12 11 686 687 17 9 10
+				9622 9623 9621 11612 11613 
+				11625 11615 11614 6963
+				6995 4564 3728 3729
+				6993 6992 6994
+			}
+		}
+		AMR = { #Amarillo
+			government = range_tribal_kingdom
+			primary_culture = comanche
+			religion = loneranger
+			capital = 484
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				484 38 37 39 683 3989 3990 485
+			}
+		}
+		TLS = { # Tulsa
+			government = despotic_monarchy
+			primary_culture = cherokee
+			religion = unitarian_universialism
+			capital = 6511
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6511 2265 2264 1920 6510 1918 6509
+			}
+		}
+		MSK = { # Muscogee
+			government = despotic_monarchy
+			primary_culture = muscogee
+			religion = peyotist
+			capital = 1584
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1584 6502 1585 1583 6500
+			}
+		}
+		DUR = { # Durant
+			government = oligarchic_republic
+			primary_culture = choctaw
+			religion = peyotist
+			capital = 4754
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4754 4755 6501 4099 4100
 			}
 		}
 	}

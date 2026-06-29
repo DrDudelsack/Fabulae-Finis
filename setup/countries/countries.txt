@@ -132,6 +132,12 @@ MND = "setup/countries/great_plains/minot.txt"
 CLL = "setup/countries/great_plains/clarinda.txt"
 NEZ = "setup/countries/great_plains/nez_perce.txt"
 BLU = "setup/countries/great_plains/blue_mountains.txt"
+RPP = "setup/countries/great_plains/rolling_plains.txt"
+ETS = "setup/countries/great_plains/estacado.txt"
+AMR = "setup/countries/great_plains/amarillo.txt"
+TLS = "setup/countries/great_plains/tulsa.txt"
+MSK = "setup/countries/great_plains/muscogee.txt"
+DUR = "setup/countries/great_plains/durant.txt"
 
 
 #South

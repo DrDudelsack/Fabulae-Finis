@@ -263,6 +263,18 @@
  NEZ_ADJ:0 "Nez Perce"
  BLU:0 "Blue Mountains"
  BLU_ADJ:0 "Umatilla"
+ RPP:0 "Rolling Plains"
+ RPP_ADJ:0 "Plainlander"
+ ETS:0 "Estacado"
+ ETS_ADJ:0 "Estacadan"
+ AMR:0 "Amarillo"
+ AMR_ADJ:0 "Amarillan"
+ TLS:0 "Tulsa"
+ TLS_ADJ:0 "Tulsan" 
+ MSK:0 "Muscogee"
+ MSK_ADJ:0 "Muscogeean" 
+ DUR:0 "Durant"
+ DUR_ADJ:0 "Choctaw" 
 
  ## South ##
  NOL:0 "New Orleans"

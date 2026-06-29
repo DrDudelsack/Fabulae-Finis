@@ -91,7 +91,7 @@
 
 37={ #
 	terrain="steppes"
-	culture="estacadan"
+	culture="comanche"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 38={ #
 	terrain="steppes"
-	culture="estacadan"
+	culture="comanche"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
