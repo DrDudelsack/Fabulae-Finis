@@ -113,6 +113,34 @@ types religions {
 			texture = "gfx/interface/icons/religions/hearthtender.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('hearthtender'))]"
 		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/transcendentalist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('transcendentalist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/gaian.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('gaian'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/loneranger.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('loneranger'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/galvanist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('galvanist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/arsenalist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('arsenalist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/twainist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('twainist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/ursuline.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('ursuline'))]"
+		}
 	}
 }
 #catholic +
