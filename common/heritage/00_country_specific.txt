@@ -196,6 +196,48 @@ bonne_terre_heritage = {
       tag = PAW
 	}
 }
+hannibal_heritage = {
+   modifier = {
+      #good
+      call_omen_cost_modifier = -0.15 
+      enact_holy_site_cost_modifier = -0.15
+
+      #bad
+      price_state_investment_religious_cost_modifier = 0.25
+   }
+
+   trigger = {
+      tag = HAB
+	}
+}
+kansan_heritage = {
+   modifier = {
+      #good
+      light_cavalry_offensive = 0.10
+      global_pop_conversion_speed_modifier = 0.05
+
+      #bad
+      build_cost = 0.10
+   }
+
+   trigger = {
+      tag = KAS
+	}
+}
+independence_heritage = {
+   modifier = {
+      #good
+      agressive_expansion_monthly_change = -0.03
+      global_import_commerce_modifier = 0.05
+
+      #bad
+      slaves_move_cost_modifier = 0.25
+   }
+
+   trigger = {
+      tag = IDP
+	}
+}
 #extra
 frenchville_heritage = {
    	modifier = {

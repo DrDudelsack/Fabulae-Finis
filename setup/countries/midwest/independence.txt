@@ -1,5 +1,5 @@
-﻿color = rgb { 181 112 18 }
-#color2 = rgb { 112 28 46 }
+﻿color = rgb { 8 15 167 }
+color2 = rgb { 168 35 8 }
 
 ship_names = {
 }
