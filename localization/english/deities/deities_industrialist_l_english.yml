@@ -115,6 +115,12 @@
  omen_titan_debs:0 "Titan Debs"
  omen_titan_debs_desc:0 "#Y Galvanist Titan#!\nTitan Debs was among the first to rally against the tyranny and wrongdoings of the Robber Barons. For this, he was imprisoned, and was only freed after the Robber Barons had been overthrown."
 
+ deity_titan_tesla:0 "$omen_titan_tesla$"
+ omen_titan_tesla:0 "Titan Tesla"
+ omen_titan_tesla_desc:0 "#Y Galvanist Titan#!\nA marvelous inventor, Tesla was able to provide safe power to millions with his Alternating Current, which harnessed the power of Industry to not only bring light to homes, but to power multitudes of factories."
+ omen_titan_tesla_twainist:0 "Author Tesla"
+ omen_titan_tesla_desc_twainist:0 "#Y Twainist Author#!\nA marvelous inventor, Tesla created many fabulous machines. He fostered a friendship with Author Twain, who admired the genius of the man greatly."
+
  ## Arsenalist ##
  deity_uso:0 "$omen_uso$"
  omen_uso:0 "Titan Uso"

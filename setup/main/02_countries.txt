@@ -2908,7 +2908,7 @@ country = {
 			}
 		}
 		KAS = { # Kansas
-			government = theocratic_monarchy
+			government = range_tribal_kingdom
 			primary_culture = grangelander
 			religion = heartful
 			capital = 6896
@@ -3713,7 +3713,7 @@ country = {
 		}
 		MND = { #Minot
 			government = tribal_chiefdom
-			primary_culture = northlander
+			primary_culture = mandaree
 			religion = peyotist
 			capital = 974
 		
@@ -4417,7 +4417,7 @@ country = {
 		}
 		AMR = { #Amarillo
 			government = range_tribal_kingdom
-			primary_culture = estacadan
+			primary_culture = comanche
 			religion = loneranger
 			capital = 484
 
@@ -4429,7 +4429,7 @@ country = {
 			}
 
 			own_control_core = {
-				484 38 37 39 683 3989 3990 485
+				484 38 37 39 683 3989 3990 485 4906
 			}
 		}
 		TLS = { # Tulsa
@@ -4463,7 +4463,7 @@ country = {
 			}
 
 			own_control_core = {
-				1584 6502 1585 1583 6500
+				1584 6502 1585 1583 6500 7624
 			}
 		}
 		DUR = { # Durant
@@ -4481,6 +4481,142 @@ country = {
 
 			own_control_core = {
 				4754 4755 6501 4099 4100
+			}
+		}
+		OKC = { # Oklahoma City
+			government = plutocratic_republic
+			primary_culture = okie
+			religion = peyotist
+			capital = 7625
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7625
+			}
+		}
+		CHK = { # Chickasaw
+			government = range_tribal_kingdom
+			primary_culture = chickasaw
+			religion = peyotist
+			capital = 7627
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7627 7626 7790 4756
+			}
+		}
+		OTO = { # Otoe-Missouria
+			government = range_tribal_kingdom
+			primary_culture = otoe_missouria
+			religion = peyotist
+			capital = 7575
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7575 7572 8718
+			}
+		}
+		WCH = { # Wichita
+			government = range_tribal_kingdom
+			primary_culture = grangelander
+			religion = heartful
+			capital = 1515
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1515 4146 1517 4145 4147
+			}
+		}
+		PWN = { # Pawnee
+			government = range_tribal_kingdom
+			primary_culture = pawnee
+			religion = peyotist
+			capital = 4115
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4115 4114 4113
+			}
+		}
+		CDO = { # Caddo
+			government = range_tribal_kingdom
+			primary_culture = caddo
+			religion = peyotist
+			capital = 3954
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3954 3955
+			}
+		}
+		KIW = { # Kiowa
+			government = range_tribal_kingdom
+			primary_culture = kiowa
+			religion = peyotist
+			capital = 7792
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7792 4907 7791
+			}
+		}
+		KIN = { # Kingfisher
+			government = range_tribal_kingdom
+			primary_culture = okie
+			religion = loneranger
+			capital = 7574
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7574 7573 8717 8716 8148 8147
 			}
 		}
 	}

@@ -168,5 +168,9 @@ deity_manager = {
 			key = omen_pullman_porters
 			deity = deity_pullman_porters
 		}
+		442 = {
+			key = omen_titan_tesla
+			deity = deity_titan_tesla
+		}
 	}
 }

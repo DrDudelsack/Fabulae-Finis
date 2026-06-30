@@ -138,6 +138,14 @@ AMR = "setup/countries/great_plains/amarillo.txt"
 TLS = "setup/countries/great_plains/tulsa.txt"
 MSK = "setup/countries/great_plains/muscogee.txt"
 DUR = "setup/countries/great_plains/durant.txt"
+OKC = "setup/countries/great_plains/oklahoma_city.txt"
+CHK = "setup/countries/great_plains/chickasaw.txt"
+OTO = "setup/countries/great_plains/otoe_missouria.txt"
+WCH = "setup/countries/great_plains/wichita.txt"
+PWN = "setup/countries/great_plains/pawnee.txt"
+CDO = "setup/countries/great_plains/caddo.txt"
+KIW = "setup/countries/great_plains/kiowa.txt"
+KIN = "setup/countries/great_plains/kingfisher.txt"
 
 
 #South

@@ -1195,5 +1195,41 @@ deity_pullman_porters = { #Railroad porters
 	on_activate = {
 		economy_income_effect = yes
 	}
+}
+deity_titan_tesla = { #Nikola Tesla, Serbian-American inventor
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { 
+			religion = promethean 
+		}
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			very_rare_deity_trigger = {
+				RELIGION = arsenalist
+			}
+			very_rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			very_rare_deity_trigger = {
+				RELIGION = fissionist
+			}
+			deity:omen_titan_tesla = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { build_time = deity_build_time_svalue }
+	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
+	religion = galvanist
+	deity_category = economy #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
 
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
 }

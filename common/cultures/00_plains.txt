@@ -42,7 +42,7 @@
 		Weakeah Wekia_Wunuru Wumakooni Wunuru Wuhtukwapitu
 		Yonevea Yui_Wunu
 	}
-	dynasty_names = {
+	family = {
 		Ahdosy
 		Akoneto
 		Antone

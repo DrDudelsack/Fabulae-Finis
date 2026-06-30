@@ -387,15 +387,12 @@ deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 
 			very_rare_deity_trigger = {
 				RELIGION = twainist
 			}
-			very_rare_deity_trigger = {
-				RELIGION = galvanist
-			}
 			deity:omen_bellamy = {
 				holy_site_deity_check_trigger = yes
 			}
 		}
 	}
-	icon = deity_war
+	icon = deity_fertility
 	passive_modifier = { global_citizen_output = deity_global_citizen_output_svalue }
 	omen = { price_found_metropolis_cost_modifier = -0.25 } #Bonus from Omen
 	religion = twainist
