@@ -380,3 +380,31 @@ deity_illinois = { #Personification of the Illinois River, represents great metr
 		economy_apotheosis_province_improvement_effect = yes
 	}
 }
+deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 'Looking Backward'
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			very_rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_bellamy = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_citizen_output = deity_global_citizen_output_svalue }
+	omen = { price_found_metropolis_cost_modifier = -0.25 } #Bonus from Omen
+	religion = twainist
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}

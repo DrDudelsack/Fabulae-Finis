@@ -196,7 +196,6 @@
 		Yokesuite
 	}
 	culture = {
-		arapaho = {}
 		blackfoot = {
 			male_names = {
 				Aapiisii #coyote
@@ -650,8 +649,7 @@
 				Yellow_Hair
 				Yellow_Robe
 			}
-		} 
-		comanche = {}
+		}
 		crow = {
 			male_names = {
 				Aakkaapeesh Aaluhpisaash Aapash_i_act_ilish Aash_u_act_uwaalaaxash Akiich_i_act_ileessdeesh Alaxchiiaahush Apitis_e_act_esh Ashd_u_act_ushiish Aw_e_act__K_u_act_alawaachish Ax_i_act_chish Ax_u_act_achisshish
@@ -883,7 +881,6 @@
 				Yeahquo
 			}
 		}
-		mandaree = {}
 		metis = {
 			male_names = {
 				Aaron Ad_e_act_lard Albert Alec Alexandre-Antonin Alexis Alexis-Andr_e_act_ Ambroise-Dydime Ambrose Andr_e_act_ Angus Antoine Antonin Arthur August Augustin Axel
@@ -1566,6 +1563,9 @@
 				Young_Chief
 			}
 		}
+		arapaho = {}
+		comanche = {}
+		mandaree = {}
 	}
 	
 	barbarian_names = { 

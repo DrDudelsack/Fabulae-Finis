@@ -4417,7 +4417,7 @@ country = {
 		}
 		AMR = { #Amarillo
 			government = range_tribal_kingdom
-			primary_culture = comanche
+			primary_culture = estacadan
 			religion = loneranger
 			capital = 484
 

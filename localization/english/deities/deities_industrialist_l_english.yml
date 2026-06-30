@@ -72,6 +72,8 @@
  deity_sinclair:0 "$omen_sinclair$"
  omen_sinclair:0 "Titan Sinclair"
  omen_sinclair_desc:0 "#Y Galvanist Titan#!\nWith the guidance of Industry, Titan Sinclair outlined the Regulations on Pure Food - the dietary restrictions followed by Galvanist faithful."
+ omen_sinclair_twainist:0 "Author Sinclair"
+ omen_sinclair_desc_twainist:0 "#Y Twainist Author#!\nAuthor Sinclair wrote on the injustices faced by the many workers of the time, especially the horrid working conditions in what he called 'The Jungle'. His writings stand as a reminder of the problems of the past, and what must be done to build a better future."
 
  deity_reuther:0 "$omen_reuther$"
  omen_reuther:0 "Titan Reuther"
@@ -105,6 +107,15 @@
  omen_titan_browning:0 "Titan Browning"
  omen_titan_browning_desc:0 "#Y Industrialist Titan#!\nTitan Browning was a skilled engineer who created weapons of terrible destruction. These so-called 'Fire-Arms' were capable of bringing forth thunder and lightning from the end of their barrel, capable of destroying anyone who lay in front of it."
 
+ deity_pullman_porters:0 "$omen_pullman_porters$"
+ omen_pullman_porters:0 "The Porters"
+ omen_pullman_porters_desc:0 "Lending protection and good fortune to all those who carry their wares across land, the Porters are cousins of the Longshoreman, and they carry out many of the same duties as the Longshoreman, except on land instead of sea."
+
+ deity_titan_debs:0 "$omen_titan_debs$"
+ omen_titan_debs:0 "Titan Debs"
+ omen_titan_debs_desc:0 "#Y Galvanist Titan#!\nTitan Debs was among the first to rally against the tyranny and wrongdoings of the Robber Barons. For this, he was imprisoned, and was only freed after the Robber Barons had been overthrown."
+
+ ## Arsenalist ##
  deity_uso:0 "$omen_uso$"
  omen_uso:0 "Titan Uso"
  omen_uso_desc:0 "#Y Arsenalist Titan#!\nWhile Titan Rosie stayed behind to work the Home Front, Titan Uso went with the soldiers bringing home to them.  By supplying the comforts of home in distant corners of the globe, Titan Uso kept the soldiers in fighting shape."

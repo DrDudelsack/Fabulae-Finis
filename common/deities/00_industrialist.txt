@@ -499,6 +499,9 @@ deity_sinclair = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
 			}
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
 			deity:omen_sinclair = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -1133,4 +1136,64 @@ deity_wobbly = { #IWW, members were nicknamed 'Wobblies'
 	on_activate = {
 		culture_apotheosis_capital_effect = yes
 	}
+}
+deity_titan_debs = { #Eugene Debs, prominent American Socialist who was imprisoned durinf WW1 for being ant-war and against the interests of the bourgeoisie
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { 
+			religion = promethean 
+			religion = arsenalist
+		}
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = galvanist
+			}
+			deity:omen_titan_debs = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_slaves_happyness = deity_global_slaves_happiness_svalue }
+	omen = { global_pop_promotion_speed_modifier = 0.20 }
+	religion = galvanist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_pullman_porters = { #Railroad porters
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		NOT = { 
+			religion = promethean 
+			religion = arsenalist
+		}
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = chicagoan
+			}
+			deity:omen_pullman_porters = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { price_state_investment_oratory_cost_modifier = -0.1 }
+	omen = { global_freemen_happyness = omen_global_freemen_happiness_svalue } #Bonus from Omen
+	religion = galvanist
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_income_effect = yes
+	}
+
 }
