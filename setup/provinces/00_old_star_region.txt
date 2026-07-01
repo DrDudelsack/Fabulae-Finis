@@ -102,10 +102,10 @@
 	}
 }
 
-877={ #
+877={ #Gonzales
 	terrain="plains"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -115,10 +115,10 @@
 	}
 }
 
-878={ #
+878={ #Cuero
 	terrain="plains"
 	culture="texan"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -128,7 +128,7 @@
 	}
 }
 
-879={ #
+879={ #Halletsville
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -323,7 +323,7 @@
 	}
 }
 
-3398={ #
+3398={ #Brenham
 	terrain="plains"
 	culture="texan"
 	religion="catholic"
@@ -336,7 +336,7 @@
 	}
 }
 
-3399={ #
+3399={ #Rockdale
 	terrain="plains"
 	culture="texanane"
 	religion="catholic"
@@ -349,7 +349,7 @@
 	}
 }
 
-3401={ #
+3401={ #Caldwell
 	terrain="plains"
 	culture="texanane"
 	religion="catholic"
@@ -440,7 +440,7 @@
 	}
 }
 
-5027={ #
+5027={ #Lake Jackson
 	terrain="marsh"
 	culture="texan"
 	religion="americanist"
@@ -453,7 +453,7 @@
 	}
 }
 
-5029={ #
+5029={ #League City
 	terrain="marsh"
 	culture="texan"
 	religion="americanist"
@@ -466,10 +466,10 @@
 	}
 }
 
-5039={ #
+5039={ #Austin
 	terrain="steppes"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -479,7 +479,7 @@
 	}
 }
 
-5040={ #
+5040={ #Round Rock
 	terrain="steppes"
 	culture="texanane"
 	religion="catholic"
@@ -492,7 +492,7 @@
 	}
 }
 
-5043={ #
+5043={ #Georgetown
 	terrain="steppes"
 	culture="texanane"
 	religion="catholic"
@@ -505,7 +505,7 @@
 	}
 }
 
-5044={ #
+5044={ #Burnet
 	terrain="steppes"
 	culture="texan"
 	religion="catholic"
@@ -739,7 +739,7 @@
 	}
 }
 
-5753={ #
+5753={ #Columbus
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -765,7 +765,7 @@
 	}
 }
 
-5755={ #
+5755={ #Sealy
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -778,7 +778,7 @@
 	}
 }
 
-5756={ #
+5756={ #Eagle Lake
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -846,7 +846,7 @@
 6570={ #
 	terrain="marsh"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -895,7 +895,7 @@
 	}
 }
 
-7541={ #
+7541={ #Palacios
 	terrain="marsh"
 	culture="texan"
 	religion="americanist"
@@ -908,7 +908,7 @@
 	}
 }
 
-7542={ #
+7542={ #Bay City
 	terrain="marsh"
 	culture="texan"
 	religion="americanist"
@@ -921,7 +921,7 @@
 	}
 }
 
-7543={ #
+7543={ #Rosenberg
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -934,7 +934,7 @@
 	}
 }
 
-7884={ #
+7884={ #Camp Swift
 	terrain="steppes"
 	culture="texanane"
 	religion="catholic"
@@ -947,10 +947,10 @@
 	}
 }
 
-7885={ #
+7885={ #La Grange
 	terrain="plains"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -960,7 +960,7 @@
 	}
 }
 
-7886={ #
+7886={ #Giddings
 	terrain="plains"
 	culture="texan"
 	religion="catholic"
@@ -973,10 +973,10 @@
 	}
 }
 
-7887={ #
+7887={ #Lockhart
 	terrain="steppes"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1249,7 +1249,7 @@
 9227={ #
 	terrain="plains"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1259,7 +1259,7 @@
 	}
 }
 
-9234={ #
+9234={ #Port Lavaca
 	terrain="marsh"
 	culture="texan"
 	religion="americanist"
@@ -1272,7 +1272,7 @@
 	}
 }
 
-9235={ #
+9235={ #Victoria
 	terrain="farmland"
 	culture="texan"
 	religion="americanist"
@@ -1285,10 +1285,10 @@
 	}
 }
 
-9236={ #
+9236={ #Goliad
 	terrain="plains"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1298,10 +1298,10 @@
 	}
 }
 
-9237={ #
+9237={ #Lamar
 	terrain="marsh"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -1311,7 +1311,7 @@
 	}
 }
 
-9238={ #
+9238={ #Edna
 	terrain="farmland"
 	culture="texan"
 	religion="americanist"
@@ -1389,7 +1389,7 @@
 	}
 }
 
-11610={ #
+11610={ #Pearland
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -1415,7 +1415,7 @@
 	}
 }
 
-11618={ #
+11618={ #El Campo
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
@@ -1428,7 +1428,7 @@
 	}
 }
 
-11947={ #
+11947={ #Galveston
 	terrain="flood_plain"
 	culture="texan"
 	religion="americanist"

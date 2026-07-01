@@ -1,7 +1,7 @@
 ﻿79={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 80={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 81={ #
 	terrain="desert"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 385={ #
 	terrain="desert"
 	culture=""
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 386={ #
 	terrain="desert"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 3202={ #
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -193,10 +193,10 @@
 	}
 }
 
-5022={ #
+5022={ #Fredericksburg
 	terrain="hills"
 	culture="texaner"
-	religion="lutheran"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -206,7 +206,7 @@
 	}
 }
 
-5023={ #
+5023={ #Kingsland
 	terrain="steppes"
 	culture="texaner"
 	religion="catholic"
@@ -219,10 +219,10 @@
 	}
 }
 
-5024={ #
+5024={ #Mason
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -232,7 +232,7 @@
 	}
 }
 
-5025={ #
+5025={ #San Saba
 	terrain="steppes"
 	culture="texaner"
 	religion="catholic"
@@ -245,10 +245,10 @@
 	}
 }
 
-5026={ #
+5026={ #Brady
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -258,10 +258,10 @@
 	}
 }
 
-5030={ #
+5030={ #Kerrville
 	terrain="steppes"
 	culture="tejano"
-	religion="lutheran"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -271,10 +271,10 @@
 	}
 }
 
-5031={ #
+5031={ #Boerne
 	terrain="hills"
 	culture="texaner"
-	religion="lutheran"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -284,10 +284,10 @@
 	}
 }
 
-5032={ #
+5032={ #Ingram
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -297,10 +297,10 @@
 	}
 }
 
-5042={ #
+5042={ #Marble Falls
 	terrain="steppes"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -310,10 +310,10 @@
 	}
 }
 
-5055={ #
+5055={ #Seguin
 	terrain="steppes"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -323,10 +323,10 @@
 	}
 }
 
-5056={ #
+5056={ #New Braunfels
 	terrain="hills"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -336,10 +336,10 @@
 	}
 }
 
-5057={ #
+5057={ #San Marcos
 	terrain="hills"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -349,7 +349,7 @@
 	}
 }
 
-5072={ #
+5072={ #Las Quintas Fronterizas
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -362,10 +362,10 @@
 	}
 }
 
-5073={ #
+5073={ #Dilley
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -375,7 +375,7 @@
 	}
 }
 
-5074={ #
+5074={ #Crystal City
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -388,10 +388,10 @@
 	}
 }
 
-5088={ #
+5088={ #Uvalde
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -401,10 +401,10 @@
 	}
 }
 
-5090={ #
+5090={ #Rocksprings
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -414,7 +414,7 @@
 	}
 }
 
-5091={ #
+5091={ #Bracketville
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -427,10 +427,10 @@
 	}
 }
 
-5092={ #
+5092={ #Lakehils
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -440,10 +440,10 @@
 	}
 }
 
-5094={ #
+5094={ #Pleasanton
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -453,10 +453,10 @@
 	}
 }
 
-5095={ #
+5095={ #Kenedy
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -466,10 +466,10 @@
 	}
 }
 
-5096={ #
+5096={ #San Antonio
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -479,10 +479,10 @@
 	}
 }
 
-5097={ #
+5097={ #Hondo
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -492,10 +492,10 @@
 	}
 }
 
-5098={ #
+5098={ #Floresville
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 6573={ #
 	terrain="hills"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 6880={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 7906={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7907={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 7908={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 7909={ #
 	terrain="dry_plains"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 8087={ #
 	terrain="desert"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 8088={ #
 	terrain="desert"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 8089={ #
 	terrain="desert"
 	culture="tejano"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 9226={ #
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 9228={ #
 	terrain="steppes"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 11622={ #
 	terrain="plains"
 	culture="tejano"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

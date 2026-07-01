@@ -222,7 +222,7 @@
 812={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 814={ #
 	terrain="desert"
 	culture="arixan"
-	religion="zetanologist"
+	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

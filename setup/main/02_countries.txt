@@ -3724,7 +3724,7 @@ country = {
 		TEX = { # Most Serene and Glorious Kingdom of Texas
 			government = imperium
 			primary_culture = texaner
-			religion = catholic
+			religion = colossalist
 			capital = 5056
 			succession_law=elective_succession_law
 
@@ -4687,7 +4687,7 @@ country = {
 		ELP = { # El Paso
 			government = range_tribal_kingdom
 			primary_culture = tejano
-			religion = zetanologist
+			religion = limpio
 			capital = 386
 
 			technology={
@@ -4704,7 +4704,7 @@ country = {
 		TRP = { # Trans Pecos
 			government = range_tribal_kingdom
 			primary_culture = tejano
-			religion = zetanologist
+			religion = limpio
 			capital = 7907
 
 			technology={
