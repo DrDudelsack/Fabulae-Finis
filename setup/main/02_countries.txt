@@ -4718,6 +4718,56 @@ country = {
 				7907 8087 8089 80 79 6880 7908 7909 7906 81 
 			}
 		}
+		BSN = { #Basin
+			government = tribal_chiefdom
+			primary_culture = arapaho
+			religion = sun_dance
+			capital = 324
+		
+			own_control_core = {
+				324 6126 326 325 6128 6127
+			}
+		}
+		BIL = { #Billings
+			government = tribal_chiefdom
+			primary_culture = crow
+			religion = sun_dance
+			capital = 9076
+		
+			own_control_core = {
+				9076 9077 7081 7080 7079 4402 4403
+			}
+		}
+		CHY = { #Cheyenne
+			government = tribal_chiefdom
+			primary_culture = cheyenne
+			religion = sun_dance
+			capital = 2648
+		
+			own_control_core = {
+				2648 1526 3840 2650 2649 3838
+			}
+		}
+		BTR = { #Beartooth
+			government = tribal_chiefdom
+			primary_culture = coloradan
+			religion = loneranger
+			capital = 6383
+		
+			own_control_core = {
+				6383 6381 6382 2427 5048 1820
+			}
+		}
+		YEW = { #Yellowstone
+			government = tribal_chiefdom
+			primary_culture = montaneer
+			religion = loneranger
+			capital = 4758
+		
+			own_control_core = {
+				4758 4759 4757 6838 1400 
+			}
+		}
 	}
 }
 

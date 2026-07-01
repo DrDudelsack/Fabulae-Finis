@@ -152,6 +152,11 @@ TRP = "setup/countries/great_plains/trans_pecos.txt"
 STF = "setup/countries/great_plains/santa_fe.txt"
 RSW = "setup/countries/great_plains/roswell.txt"
 ABQ = "setup/countries/great_plains/albuquerque.txt"
+BSN = "setup/countries/great_plains/basin.txt"
+BIL = "setup/countries/great_plains/billings.txt"
+CHY = "setup/countries/great_plains/cheyenne.txt"
+BTR = "setup/countries/great_plains/beartooth.txt"
+YEW = "setup/countries/great_plains/yellowstone.txt"
 
 
 #South

@@ -303,6 +303,16 @@
  RSW_ADJ:0 "Roswellian" 
  ABQ:0 "Alburquerque"
  ABQ_ADJ:0 "Alburquerquean" 
+ BSN:0 "Basin"
+ BSN_ADJ:0 "Arapaho"
+ BIL:0 "Billings"
+ BIL_ADJ:0 "Crow"
+ CHY:0 "Cheyenne"
+ CHY_ADJ:0 "Cheyenne"
+ BTR:0 "Beartooth"
+ BTR_ADJ:0 "Beartoother"
+ YEW:0 "Yellowstone"
+ YEW_ADJ:0 "Yellowstoner"
 
  ## South ##
  NOL:0 "New Orleans"
