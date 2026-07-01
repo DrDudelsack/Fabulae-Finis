@@ -261,7 +261,7 @@
 822={ #
 	terrain="steppes"
 	culture="arixan"
-	religion="aphite"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 824={ #
 	terrain="desert"
 	culture="arixan"
-	religion="aphite"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -377,7 +377,7 @@
 
 3728={ #
 	terrain="steppes"
-	culture="arixan"
+	culture="neomexicano"
 	religion="aphite"
 	trade_goods=""
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 5866={ #
 	terrain="desert"
-	culture="arixan"
+	culture="neomexicano"
 	religion="aphite"
 	trade_goods=""
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 6566={ #
 	terrain="desert_hills"
-	culture="zuni"
+	culture="neomexicano"
 	religion="aphite"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 6992={ #
 	terrain="steppes"
-	culture="arixan"
+	culture="neomexicano"
 	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 6993={ #
 	terrain="steppes"
-	culture="arixan"
+	culture="neomexicano"
 	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
@@ -741,8 +741,8 @@
 
 8489={ #
 	terrain="desert"
-	culture="arixan"
-	religion="aphite"
+	culture="neomexicano"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -832,8 +832,8 @@
 
 8990={ #
 	terrain="desert"
-	culture="arixan"
-	religion="aphite"
+	culture="neomexicano"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -845,7 +845,7 @@
 
 8991={ #
 	terrain="steppes"
-	culture="arixan"
+	culture="neomexicano"
 	religion="aphite"
 	trade_goods=""
 	civilization_value=10
@@ -858,8 +858,8 @@
 
 8992={ #
 	terrain="steppes"
-	culture="arixan"
-	religion="aphite"
+	culture="neomexicano"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

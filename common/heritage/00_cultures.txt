@@ -363,6 +363,45 @@ freidenker_heritage = {
         primary_culture = texaner
 	}
 }
+texian_heritage = {
+   	modifier = {
+        #good
+        light_cavalry_discipline = 0.10
+        fort_maintenance_cost = -0.05
+       #bad
+        army_maintenance_cost = 0.10
+   }
+
+   trigger = {
+       primary_culture = texan
+	}
+}
+tejano_heritage = {
+   	modifier = {
+        #good
+        light_cavalry_movement_speed = 0.10
+        global_pop_assimilation_speed_modifier = 0.05
+       #bad
+        civil_war_threshold = -0.03
+   }
+
+   trigger = {
+       primary_culture = tejano
+	}
+}
+estacadan_heritage = {
+   	modifier = {
+        #good
+        steppes_combat_bonus = 0.10
+        global_freemen_output = 0.05
+       #bad
+        price_found_city_cost_modifier = 0.15
+   }
+
+   trigger = {
+       primary_culture = estacadan
+     }
+}
 #Culture Group
 steelfolk_heritage = {
    	modifier = {
@@ -479,19 +518,6 @@ upland_heritage = {
 
    trigger = {
         country_culture_group = upland
-	}
-}
-texan_heritage = {
-   	modifier = {
-        #good
-        discipline = 0.05
-        fort_maintenance_cost = -0.10
-       #bad
-        research_points_modifier = -0.10
-   }
-
-   trigger = {
-        country_culture_group = texian
 	}
 }
 deutschamerikaner_heritage = {

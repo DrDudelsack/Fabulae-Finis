@@ -3743,7 +3743,7 @@ country = {
 				6569 6571 9229 9222 6572 6574 9209
 				5039 7887 877 878 9236 9237 6570 9227 
 				3204 9223 9225 9211 9208 9210 6575 6576 9224 5074 5072 5091 8677 3203
-				5100 5101 5099 143 140 5102
+				5100 5101 5099 143
 			}
 		}
 		CZH = { # Praha
@@ -3850,7 +3850,7 @@ country = {
 		}
 		LOS = { # Atomic Priesthood
 			government = theocratic_monarchy
-			primary_culture = neomexicano
+			primary_culture = zuni
 			religion = aphite
 			capital = 7716
 
@@ -3862,7 +3862,55 @@ country = {
 			}
 
 			own_control_core = {
-				1154 1155 7259 7260 6566 7261 4957 1386
+				1154 1155 7259 7260 7261
+			}
+		}
+		STF = { # Santa Fe
+			government = aristocratic_republic
+			primary_culture = neomexicano
+			religion = aphite
+			capital = 6566
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6566 6568 3727 6567 1385 8991 8993
+			}
+		}
+		ABQ = { # Albuquerque
+			government = aristocratic_republic
+			primary_culture = neomexicano
+			religion = aphite
+			capital = 4957
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4957 1386 1384 5867 5866 8489
+			}
+		}
+		RSW = { # Roswell
+			government = range_tribal_kingdom
+			primary_culture = arixan
+			religion = zetanologist
+			capital = 822
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				822 823 8992 8990 824 8492
 			}
 		}
 		MXI = { # Mexicali
@@ -4408,7 +4456,7 @@ country = {
 
 			own_control_core = {
 				486 18 684 20 
-				685 12 11 686 687 17 9 10
+				685 12 11 686 687 17 9
 				9622 9623 9621 11612 11613 
 				11625 11615 11614 6963
 				6995 4564 3728 3729
@@ -4617,6 +4665,57 @@ country = {
 
 			own_control_core = {
 				7574 7573 8717 8716 8148 8147
+			}
+		}
+		MDD = { # Midland
+			government = range_tribal_kingdom
+			primary_culture = tejano
+			religion = petrobaron
+			capital = 139
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				139 142 141 5102 140 10 4565 4566
+			}
+		}
+		ELP = { # El Paso
+			government = range_tribal_kingdom
+			primary_culture = tejano
+			religion = zetanologist
+			capital = 386
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				386 385 8088 812 8491 8490 813
+			}
+		}
+		TRP = { # Trans Pecos
+			government = range_tribal_kingdom
+			primary_culture = tejano
+			religion = zetanologist
+			capital = 7907
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7907 8087 8089 80 79 6880 7908 7909 7906 81 
 			}
 		}
 	}

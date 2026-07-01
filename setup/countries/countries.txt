@@ -146,6 +146,12 @@ PWN = "setup/countries/great_plains/pawnee.txt"
 CDO = "setup/countries/great_plains/caddo.txt"
 KIW = "setup/countries/great_plains/kiowa.txt"
 KIN = "setup/countries/great_plains/kingfisher.txt"
+MDD = "setup/countries/great_plains/midland.txt"
+ELP = "setup/countries/great_plains/el_paso.txt"
+TRP = "setup/countries/great_plains/trans_pecos.txt"
+STF = "setup/countries/great_plains/santa_fe.txt"
+RSW = "setup/countries/great_plains/roswell.txt"
+ABQ = "setup/countries/great_plains/albuquerque.txt"
 
 
 #South
