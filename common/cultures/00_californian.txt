@@ -1,11 +1,11 @@
 ﻿californian = {
 	color = rgb { 189 82 191 }
 
-	levy_template = levy_maya
+	levy_template = levy_general_californian
 	
-	primary = light_infantry
-	second = heavy_cavalry
-	flank = horse_archers
+	primary = pikemen
+	second = light_infantry
+	flank = heavy_cavalry
 
 	primary_navy = tetrere
 	secondary_navy = octere
@@ -2799,6 +2799,7 @@
 	culture = {
 		valleyan = {}
 		socaleno = {
+			levy_template = levy_socaleno
 			male_names = {
 				Aaron Abner Adam Adil Adrian Akeem Alan Alapati Albert Alborz Alejandro Aleksandr Alex Alfonso Alfred Ali Alishan Alvah Amir Andrew Angel Angus Anselmo Antonio Arash Ardeshir Arman Arshak Arthur Artie Ashton Austin
 				Bahman Barry Basilio Basim Behnam Behrouz Benedict Benito Benjamin Berlin Bernardo Bienvenido Bijan Bjorn Blake Brandon Brett Brian Bruce Bubba Burton Buster
@@ -2857,6 +2858,7 @@
 			}
 		}
 		bayrean = {
+			levy_template = levy_bayfolk
 			male_names = {
 				Aaron Abrams Adam Adil Ajay Akhil Alan Albert Alex Alfred Amir Andrew Angelo Ansel Anthony Ari Armistead Arthur Ashby
 				Balwinder Barney Benjamin Bertram Bienvenido Bijan Bixby Blaise Bradley Bruce Burleigh

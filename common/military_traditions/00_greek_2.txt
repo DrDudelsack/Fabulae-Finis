@@ -4,11 +4,42 @@
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = yankee }
+			limit = { country_culture_group = californian }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = yankee
+			country_culture_group = californian
+		}
+		trigger_else_if = {
+			limit = {
+				country_culture_group = native_californian
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = native_californian
+		}
+		trigger_else_if = {
+			limit = {
+				OR = {
+					has_variable = unlock_greek_kingdom_var
+					has_variable = persian_cap_greek_mil_trads_var
+				}
+			}
+			custom_tooltip = {
+				text = "unlocked_via_mission_tree_tt"
+				OR = {
+					has_variable = unlock_greek_kingdom_var
+					has_variable = persian_cap_greek_mil_trads_var
+				}
+			}
+		}
+		trigger_else = {
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_cultural_decision"
+				has_variable = greek_influence
+			}
+			custom_tooltip = tradition_unlock_requirement_greek
 		}
 	}
 	
@@ -48,7 +79,7 @@
 	
 	greek_antigonid_path_1 = {
 		modifier = { 
-			global_cohort_start_experience = 5
+			global_start_experience = 5
 			experience_decay = -0.005
 		}
 		requires = { }
@@ -67,7 +98,6 @@
 	greek_antigonid_path_3 = {
 		modifier = {
 			light_cavalry_morale = 0.1
-			horse_skirmishers_morale = 0.1
 		}
 		requires = { }
 		icon = greek_antigonid_path_3
@@ -121,8 +151,9 @@
 	
 	greek_antigonid_path_end_bonus = {
 		modifier = { 
-			light_infantry_offensive = 0.1
-			light_infantry_defensive = 0.1
+			light_infantry_offensive = 0.05
+			light_infantry_defensive = 0.05
+			levy_size_multiplier = 0.025
 		}
 		requires = { greek_antigonid_path_5 }
 		icon = greek_antigonid_path_end_bonus
@@ -143,6 +174,12 @@
 		}
 		requires = { greek_antigonid_path_1 }
 		icon = greek_seleucid_path_3
+
+		ai_will_do = {
+			modifier = {
+				factor = 0.01
+			}
+		}
 	}
 	
 	greek_antigonid_path_2_octere = {
@@ -179,7 +216,6 @@
 	greek_states_path_end_bonus = {
 		modifier = { 
 			heavy_infantry_offensive = 0.15
-			pikemen_offensive = 0.15
 		}
 		requires = { greek_states_path_1 } 
 		icon = greek_states_path_end_bonus 

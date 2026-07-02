@@ -150,8 +150,8 @@
 
  ## Yankee ##
  new_englander:0 "Yankee"
- vermonter:0 "Vermonter"
- bayfolk:0 "Bayfolk"
+ vermonter:0 "Hemlocker"
+ bayfolk:0 "Seltic"
  shorehugger:0 "Downeaster"
 
  ## Seminole ##
@@ -186,7 +186,7 @@
  ## Californian ##
  californian:0 "Californian"
  valleyan:0 "Valleyan"
- bayrean:0 "Bayrean"
+ bayrean:0 "Bayfolk"
  montereyan:0 "Montereyan"
  joaquino:0 "Joaquino"
  socaleno:0 "Socaleno"

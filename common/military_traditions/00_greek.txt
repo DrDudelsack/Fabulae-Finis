@@ -4,11 +4,43 @@
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = yankee }
+			limit = { country_culture_group = californian }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = yankee
+			country_culture_group = californian
+		}
+		trigger_else_if = {
+			limit = {
+				country_culture_group = native_californian
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = native_californian
+		}
+		#trigger_else_if = {
+		#	limit = { primary_culture = etruscan }
+		#	custom_tooltip = {
+		#		text = "began_with_tradition_group"
+		#	}
+		#	primary_culture = etruscan
+		#}
+		trigger_else_if = {
+			limit = {
+				has_variable = unlock_greek_poleis_var
+			}
+			custom_tooltip = {
+				text = "unlocked_via_mission_tree_tt"
+				has_variable = unlock_greek_poleis_var
+			}
+		}
+		trigger_else = {
+			custom_tooltip = {
+				text = "tradition_unlock_requirement_cultural_decision"
+				has_variable = greek_influence
+			}
+			custom_tooltip = tradition_unlock_requirement_greek
 		}
 	}
 	
@@ -22,7 +54,7 @@
 		on_activate = {
 			ordered_owned_province = {
 				limit = {
-					province_dominant_culture_group = yankee
+					province_dominant_culture_group = hellenic
 				}
 				order_by = {
 					value = 0
@@ -37,7 +69,9 @@
 	}
 	
 	greek_philosophy_start_bonus = {
-		modifier = { spearmen_offensive = 0.15 }
+		modifier = {
+			spearmen_offensive = 0.15
+		}
 		enable_tactic = greek_phalanx
 		requires = { greek_seleucid_path_2 }
 		icon = greek_philosophy_start_bonus
@@ -108,7 +142,8 @@
 	
 	greek_states_path_2 = {
 		modifier = { 
-			light_cavalry_offensive = 0.15
+			light_cavalry_offensive = 0.1
+			horse_skirmishers_offensive = 0.1
 		}
 		requires = { greek_states_path_6 }
 		icon = greek_states_path_2
@@ -117,7 +152,6 @@
 	greek_seleucid_path_4 = {
 		modifier = { 
 			light_cavalry_cost = -0.1
-			horse_skirmishers_cost = -0.1
 		}
 		enable_tactic = cavalry_skirmish
 		requires = { greek_states_path_2 }
@@ -128,7 +162,6 @@
 		modifier = { 
 			heavy_cavalry_defensive = 0.1
 			light_cavalry_defensive = 0.1
-			horse_skirmishers_defensive = 0.1
 		}
 		requires = { greek_seleucid_path_4 }
 		icon = greek_seleucid_path_7
@@ -154,7 +187,7 @@
 	
 	greek_antigonid_path_4 = {
 		modifier = { 
-			enslavement_efficiency = 0.1
+			enslavement_efficiency = 0.05
 		}
 		enable_ability = naval_raiding
 		requires = { greek_antigonid_path_2 }
@@ -203,8 +236,6 @@
 		modifier = { 
 			heavy_infantry_maintenance_cost = -0.1
 			heavy_infantry_discipline = 0.1
-			pikemen_maintenance_cost = -0.1
-			pikemen_discipline = 0.1
 		}
 		requires = { greek_seleucid_path_6 }
 		icon = greek_states_path_7
@@ -227,7 +258,16 @@
 		requires = { greek_philosophy_start_bonus } 
 		icon = greek_antigonid_path_6
 	}
-	
+
+	californian_extra_1 = { #Tercio
+		modifier = {
+			musketeer_discipline = 0.10
+			pikemen_discipline = 0.10
+		} 
+		requires = { greek_antigonid_path_6 } 
+		icon = greek_philosophy_start_bonus
+	}
+
 	greek_antigonid_path_7 = {
 		modifier = {
 			hills_combat_bonus = 0.15
@@ -236,13 +276,19 @@
 		requires = { greek_states_path_7 }
 		icon = greek_antigonid_path_7
 	}
-	
+
 	greek_levantine_enable = {
 		modifier = {
 			ocean_combat_bonus = 0.1
 		}
 		requires = { greek_antigonid_path_2 }
 		icon = levantine_philosophy_start_bonus
+
+		ai_will_do = {
+			modifier = {
+				factor = 0.01
+			}
+		}
 	}
-	
+
 }
