@@ -208,6 +208,7 @@
 	greek_states_path_1 = {
 		modifier = { 
 			spearmen_morale = 0.1
+			pikemen_morale = 0.1
 		}
 		requires = { greek_antigonid_path_1 } 
 		icon = greek_states_path_1 

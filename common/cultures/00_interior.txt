@@ -1,7 +1,7 @@
 ﻿interior = {
 	color = rgb { 117 114 55 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_cascadian
 	
 	primary = light_infantry
 	second = heavy_cavalry

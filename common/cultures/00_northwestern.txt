@@ -1,7 +1,7 @@
 ﻿northwestern = {
 	color = rgb { 254 19 16 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_northwestern
 	
 	primary = light_infantry
 	second = heavy_cavalry
