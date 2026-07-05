@@ -262,7 +262,7 @@
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="plains"
 	culture="coloradan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -886,7 +886,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -977,7 +977,7 @@
 	terrain="plains"
 	culture="coloradan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1029,7 +1029,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1120,7 +1120,7 @@
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

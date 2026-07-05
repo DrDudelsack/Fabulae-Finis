@@ -1037,7 +1037,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

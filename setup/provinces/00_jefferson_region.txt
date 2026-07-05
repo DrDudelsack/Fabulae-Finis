@@ -2,7 +2,7 @@
 	terrain="mountain"
 	culture="pomo"
 	religion="buddhism"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="dry_hills"
 	culture="achomawi"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="mountain"
 	culture="yurok"
 	religion="theosophy"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="mountain"
 	culture="pomo"
 	religion="buddhism"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="mountain"
 	culture="pomo"
 	religion="theosophy"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="dry_hills"
 	culture="jeffersonian"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="desert_hills"
 	culture="achomawi"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

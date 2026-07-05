@@ -54,7 +54,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="michiganais"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -141,7 +141,7 @@
 	}
 }
 
-1097={ #
+1097={ #Hayward
 	terrain="forest"
 	culture="ojibwe"
 	religion="lakeshore"
@@ -215,7 +215,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -228,7 +228,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -241,7 +241,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -254,7 +254,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -319,7 +319,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -332,7 +332,7 @@
 	terrain="marsh"
 	culture="ojibwe"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -345,7 +345,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -358,7 +358,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -371,7 +371,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -384,7 +384,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -397,7 +397,7 @@
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -580,7 +580,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -606,7 +606,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -619,7 +619,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -632,7 +632,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -645,7 +645,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -658,7 +658,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -671,7 +671,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -684,7 +684,7 @@
 	terrain="taiga"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -697,7 +697,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -710,7 +710,7 @@
 	terrain="taiga"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -723,7 +723,7 @@
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -736,7 +736,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -788,7 +788,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -801,7 +801,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -814,7 +814,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -827,7 +827,7 @@
 	terrain="forest"
 	culture="michiganais"
 	religion="lakeshore"
-	trade_goods="fur"
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -853,7 +853,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -866,7 +866,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -879,7 +879,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -892,7 +892,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -905,7 +905,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -918,7 +918,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -931,7 +931,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -944,7 +944,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -957,7 +957,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -970,7 +970,7 @@
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -996,7 +996,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1009,7 +1009,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1103,7 +1103,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1194,7 +1194,7 @@
 	terrain="hills"
 	culture="algonquin"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1207,7 +1207,7 @@
 	terrain="hills"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1259,7 +1259,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1285,7 +1285,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1298,7 +1298,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1311,7 +1311,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1324,7 +1324,7 @@
 	terrain="forest"
 	culture="anisininew"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1350,7 +1350,7 @@
 	terrain="marsh"
 	culture="ojibwe"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

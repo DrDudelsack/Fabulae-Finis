@@ -2,7 +2,7 @@
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="mormon"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="dry_hills"
 	culture="paiute"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="desert_hills"
 	culture="paiute"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="desert_hills"
 	culture="paiute"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="mountain"
 	culture="paiute"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="impassable_terrain"
 	culture="battleborn"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="desert_hills"
 	culture="paiute"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="desert_hills"
 	culture="paiute"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="desert_hills"
 	culture="paiute"
 	religion="mormon"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -489,7 +489,7 @@
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -606,7 +606,7 @@
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -619,7 +619,7 @@
 	terrain="mountain"
 	culture="paiute"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -632,7 +632,7 @@
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="mormon"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -645,7 +645,7 @@
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="mormon"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -658,7 +658,7 @@
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -671,7 +671,7 @@
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -684,7 +684,7 @@
 	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

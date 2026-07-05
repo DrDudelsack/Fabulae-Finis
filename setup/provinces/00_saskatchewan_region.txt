@@ -2,7 +2,7 @@
 	terrain="steppes"
 	culture="metis"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="steppes"
 	culture="frankaskois"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="steppes"
 	culture="frankaskois"
 	religion="sun_dance"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +795,7 @@
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1068,7 +1068,7 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1133,7 +1133,7 @@
 	terrain="steppes"
 	culture="metis"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1159,7 +1159,7 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1172,7 +1172,7 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

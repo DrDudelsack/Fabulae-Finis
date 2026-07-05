@@ -573,7 +573,7 @@
 	terrain="marsh"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="amber"
 	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"

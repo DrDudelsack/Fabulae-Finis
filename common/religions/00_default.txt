@@ -18,7 +18,7 @@ americanist = { # Presidential
 		governor_loyalty = -5
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_principlist
+	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 caesarist = { # Caesarist
@@ -29,7 +29,7 @@ caesarist = { # Caesarist
 		happiness_for_same_religion_modifier = -0.03
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_principlist
+	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 heartful = { # Heartful
@@ -40,7 +40,7 @@ heartful = { # Heartful
 		war_score_cost = 0.10
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_principlist
+	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 continental = { # Continental
@@ -51,7 +51,7 @@ continental = { # Continental
 		global_nobles_happyness = -0.05
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_principlist
+	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Protestant ##
@@ -64,7 +64,7 @@ evangelical = { # Evangelical
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_evangelical
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 lutheran = { # Lutheran
@@ -76,7 +76,7 @@ lutheran = { # Lutheran
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_lutheran
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 old_order = { # Old Order- Pennsylvania Deitsch
@@ -100,7 +100,7 @@ united_church = { # United Church
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_united_church
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 colossalist = { # Colossalist
@@ -112,7 +112,7 @@ colossalist = { # Colossalist
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 quaker = { # Quaker
@@ -150,7 +150,7 @@ catholic = { # Catholic- All catholic derived faiths for now
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_conclavian
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ursuline = { # Ursuline
@@ -162,7 +162,7 @@ ursuline = { # Ursuline
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_conclavian
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 bostonian = { # Bostonian Catholic 
@@ -174,7 +174,7 @@ bostonian = { # Bostonian Catholic
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_conclavian
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 traiteurism = { # Traiteurism
@@ -185,7 +185,7 @@ traiteurism = { # Traiteurism
 		global_pop_promotion_speed_modifier = -0.05
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 exovedate = { # Exovedate 
@@ -196,7 +196,7 @@ exovedate = { # Exovedate
 		global_manpower_modifier = -0.05
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 la_hermandad = { # La Hermandad
@@ -207,6 +207,7 @@ la_hermandad = { # La Hermandad
 		global_pop_conversion_speed_modifier = -0.10
 	}
 	religion_category = pantheon
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Islamic ##
@@ -298,7 +299,7 @@ promethean = { # Promethean
 		monthly_tyranny = 0.03
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_promethean
+	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 arsenalist = { # Arsenalist
@@ -309,7 +310,7 @@ arsenalist = { # Arsenalist
 		global_citizen_output = -0.05
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 galvanist = { # Galvanist
@@ -320,7 +321,7 @@ galvanist = { # Galvanist
 		global_pop_promotion_speed_modifier = -0.25
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 sustainablist = { # Sustainablist
@@ -331,7 +332,7 @@ sustainablist = { # Sustainablist
 		country_civilization_value = -5
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Afro-Diasporic ##
@@ -512,6 +513,8 @@ peyotist = { # Peyotist
 		global_supply_limit_modifier = -0.05
 	}
 	religion_category = pantheon
+	sacrifice_icon = sacrifice_peyote
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Trailwalker ##
 loneranger = { # Loneranger
@@ -598,7 +601,7 @@ guruist = { # Guruist
 		
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_weed
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 
@@ -611,7 +614,7 @@ gaian = { # Gaian
 		build_cost = 0.05
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_weed
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 
@@ -710,6 +713,8 @@ dreamer = { # Dreamer
 		global_supply_limit_modifier = -0.05
 	}
 	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 raven_tales = { # Raven Tales
 	color = { 150 10 10 } #literally selected at random
@@ -719,6 +724,8 @@ raven_tales = { # Raven Tales
 		global_supply_limit_modifier = -0.05
 	}
 	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 
 ## Astronomer ##
@@ -873,5 +880,6 @@ sun_dance = { # Sun Dance
 		global_pop_conversion_speed_modifier = -0.10
 	}
 	religion_category = pantheon
+	sacrifice_icon = sacrifice_peyote
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

@@ -50,7 +50,7 @@
 	}
 }
 
-1095={ #
+1095={ #Ladysmith
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
@@ -63,7 +63,7 @@
 	}
 }
 
-1096={ #
+1096={ #St. Croix Falls
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
@@ -76,7 +76,7 @@
 	}
 }
 
-1098={ #
+1098={ #Spooner
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
@@ -154,7 +154,7 @@
 	}
 }
 
-2025={ #
+2025={ #Neillsville
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -167,7 +167,7 @@
 	}
 }
 
-2026={ #
+2026={ #Marshfield
 	terrain="plains"
 	culture="cheesehead"
 	religion="viking"
@@ -180,7 +180,7 @@
 	}
 }
 
-2027={ #
+2027={ #Medford
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -219,7 +219,7 @@
 	}
 }
 
-2084={ #
+2084={ #Sparta
 	terrain="hills"
 	culture="cheesehead"
 	religion="viking"
@@ -232,7 +232,7 @@
 	}
 }
 
-2085={ #
+2085={ #Mondovi
 	terrain="hills"
 	culture="cheesehead"
 	religion="viking"
@@ -416,7 +416,7 @@
 	}
 }
 
-3995={ #
+3995={ #Barron
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
@@ -637,7 +637,7 @@
 	}
 }
 
-6281={ #
+6281={ #Texas
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -650,7 +650,7 @@
 	}
 }
 
-6282={ #
+6282={ #Rhinelander
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -663,7 +663,7 @@
 	}
 }
 
-6283={ #
+6283={ #Antigo
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -767,7 +767,7 @@
 	}
 }
 
-7916={ #
+7916={ #Merrill
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -780,7 +780,7 @@
 	}
 }
 
-7917={ #
+7917={ #Tomahawk
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -793,7 +793,7 @@
 	}
 }
 
-7918={ #
+7918={ #Park Falls
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
@@ -806,7 +806,7 @@
 	}
 }
 
-7919={ #
+7919={ #Minocqua
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"

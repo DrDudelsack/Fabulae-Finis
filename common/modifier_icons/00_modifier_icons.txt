@@ -36,7 +36,6 @@ global_unrest = {
 global_tax_income = {
     positive = "gfx/interface/icons/modifiers/tax_income.dds"
 }
-
 tax_income = {
     positive = "gfx/interface/icons/modifiers/tax_income.dds"
 }
@@ -1735,13 +1734,6 @@ local_happiness_for_same_religion_modifier = {
 	positive = "gfx/interface/icons/modifiers/local_happiness_for_same_religion_modifier.dds"
 }
 
-happiness_for_wrong_religion_modifier = {
-	positive = "gfx/interface/icons/modifiers/happiness_for_wrong_religion_modifier.dds"
-}
-local_happiness_for_wrong_religion_modifier = {
-	positive = "gfx/interface/icons/modifiers/local_happiness_for_wrong_religion_modifier.dds"
-}
-
 global_population_happiness = {
 	positive = "gfx/interface/icons/modifiers/global_population_happiness.dds"
 }
@@ -2663,7 +2655,7 @@ latifundia_building_cost = {
 }
 
 slave_mine_building_cost = {
-	positive = "gfx/interface/icons/modifiers/slave_mine_building_cost.dds" #Unused
+	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
 basic_settlement_infratructure_building_cost = {

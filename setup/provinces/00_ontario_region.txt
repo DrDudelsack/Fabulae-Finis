@@ -93,7 +93,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
