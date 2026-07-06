@@ -402,7 +402,7 @@
 	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"

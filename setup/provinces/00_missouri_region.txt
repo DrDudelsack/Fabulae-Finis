@@ -67,7 +67,7 @@
 	terrain="hills"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods="wood"
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -259,7 +259,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods="wood"
+	trade_goods="wine"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -299,7 +299,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="wood"
+	trade_goods="wine"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -346,7 +346,7 @@
 	terrain="flood_plain"
 	culture="riverlander"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -359,7 +359,7 @@
 	terrain="plains"
 	culture="riverlander"
 	religion="twainist"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="hills"
 	culture="ozark"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="forest"
 	culture="riverlander"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="plains"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -686,7 +686,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -725,7 +725,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -853,7 +853,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1011,7 +1011,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1024,7 +1024,7 @@
 	terrain="hills"
 	culture="ozark"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1256,7 +1256,7 @@
 	terrain="forest"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1269,7 +1269,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

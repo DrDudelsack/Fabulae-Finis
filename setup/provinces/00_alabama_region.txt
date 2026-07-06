@@ -15,7 +15,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="hills"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="flood_plain"
 	culture="gulfard"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="forest"
 	culture="appalachian"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,7 +509,7 @@
 	terrain="forest"
 	culture="atlantean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="marsh"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -769,7 +769,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

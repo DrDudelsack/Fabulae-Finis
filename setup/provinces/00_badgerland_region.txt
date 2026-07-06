@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="cheesehead"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -576,7 +576,7 @@
 	terrain="plains"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods="earthware"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

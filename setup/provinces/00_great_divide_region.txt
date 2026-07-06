@@ -210,7 +210,7 @@
 	terrain="mountain"
 	culture="crow"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="mountain"
 	culture="crow"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="mountain"
 	culture="coloradan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="forest"
 	culture="arapaho"
 	religion="sun_dance"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

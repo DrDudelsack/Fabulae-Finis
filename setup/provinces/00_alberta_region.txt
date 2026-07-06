@@ -509,7 +509,7 @@
 	terrain="mountain"
 	culture="blackfoot"
 	religion="sun_dance"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="mountain"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="mountain"
 	culture="nakota"
 	religion="sun_dance"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

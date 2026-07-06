@@ -15,7 +15,7 @@
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="caesarist"
-	trade_goods="steppe_horses"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="dry_hills"
 	culture=""
 	religion="dreamer"
-	trade_goods="cedar"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="desert_hills"
 	culture=""
 	religion="loneranger"
-	trade_goods="cedar"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
-	trade_goods="fish"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="dry_hills"
 	culture=""
 	religion="dreamer"
-	trade_goods="cedar"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,7 +938,7 @@
 	terrain="dry_hills"
 	culture=""
 	religion="dreamer"
-	trade_goods="cedar"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

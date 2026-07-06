@@ -194,7 +194,7 @@
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods="woad"
+	trade_goods="maple"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
@@ -304,7 +304,7 @@
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods="horses"
+	trade_goods="maple"
 	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
@@ -336,7 +336,7 @@
 	terrain="plains"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods="wood"
+	trade_goods="maple"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -467,7 +467,7 @@
 	terrain="forest"
 	culture="michigander"
 	religion="promethean"
-	trade_goods="wild_game"
+	trade_goods="salt"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -695,7 +695,7 @@
 	terrain="forest"
 	culture="upnorther"
 	religion="lakeshore"
-	trade_goods="wood"
+	trade_goods="maple"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"

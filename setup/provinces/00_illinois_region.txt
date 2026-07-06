@@ -182,7 +182,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods="hemp"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -670,7 +670,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods="leather"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -894,7 +894,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods="wood"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

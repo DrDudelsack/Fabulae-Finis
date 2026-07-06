@@ -330,7 +330,7 @@
 	terrain="hills"
 	culture="minnesotan"
 	religion="twainist"
-	trade_goods="wood"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -533,7 +533,7 @@
 	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods="stone"
+	trade_goods="gunpowder"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="city"

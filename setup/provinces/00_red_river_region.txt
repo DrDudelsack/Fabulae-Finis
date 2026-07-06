@@ -41,7 +41,7 @@
 	terrain="steppes"
 	culture="pawnee"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="forest"
 	culture="chickasaw"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="steppes"
 	culture="okie"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="steppes"
 	culture="okie"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="steppes"
 	culture="otoe_missouria"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="forest"
 	culture="okie"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="forest"
 	culture="okie"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="forest"
 	culture="chickasaw"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="steppes"
 	culture="chickasaw"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

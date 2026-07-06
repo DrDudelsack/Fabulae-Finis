@@ -88,7 +88,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="maple"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
@@ -966,7 +966,7 @@
 	terrain="farmland"
 	culture="minnesotan"
 	religion="heartful"
-	trade_goods="tubers"
+	trade_goods="maple"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"

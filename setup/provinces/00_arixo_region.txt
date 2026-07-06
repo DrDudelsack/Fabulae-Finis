@@ -821,7 +821,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

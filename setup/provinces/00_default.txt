@@ -236,7 +236,7 @@
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -7711,7 +7711,7 @@
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8621,7 +8621,7 @@
 	terrain="forest"
 	culture="haida"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8647,7 +8647,7 @@
 	terrain="forest"
 	culture="haida"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10870,7 +10870,7 @@
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -21647,7 +21647,7 @@
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22089,7 +22089,7 @@
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -22115,7 +22115,7 @@
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24455,7 +24455,7 @@
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -25066,7 +25066,7 @@
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -27536,7 +27536,7 @@
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -34829,7 +34829,7 @@
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -34842,7 +34842,7 @@
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -44852,7 +44852,7 @@
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60621,7 +60621,7 @@
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93381,7 +93381,7 @@
 	terrain="impassable_terrain"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

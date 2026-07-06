@@ -106,7 +106,7 @@
 	terrain="desert_hills"
 	culture="paiute"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="mountain"
 	culture="nez_perce"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="farmland"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="mountain"
 	culture="nez_perce"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="mountain"
 	culture="nez_perce"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="hills"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="mountain"
 	culture="snakelander"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

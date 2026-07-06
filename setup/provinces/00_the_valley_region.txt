@@ -80,7 +80,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="valleyan"
 	religion="la_hermandad"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="hills"
 	culture=""
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1107,7 +1107,7 @@
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

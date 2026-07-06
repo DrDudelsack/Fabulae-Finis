@@ -935,7 +935,7 @@
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
-	trade_goods="rice"
+	trade_goods="horses"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"

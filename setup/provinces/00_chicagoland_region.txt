@@ -154,7 +154,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -173,7 +173,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -192,7 +192,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -422,7 +422,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -441,7 +441,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="farmland"
 	culture="buckeye"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -593,7 +593,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -612,7 +612,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -959,7 +959,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -978,7 +978,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -997,7 +997,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"

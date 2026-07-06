@@ -379,7 +379,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="earthware"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="hills"
 	culture="susquehannan"
 	religion="fissionist"
-	trade_goods="cattle"
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

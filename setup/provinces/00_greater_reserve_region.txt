@@ -2,7 +2,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="fissionist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="farmland"
 	culture="buckeye"
 	religion="galvanist"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="farmland"
 	culture="buckeye"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -531,7 +531,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -557,7 +557,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -570,7 +570,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -583,7 +583,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -596,7 +596,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -609,7 +609,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -622,7 +622,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -635,7 +635,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +648,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -661,7 +661,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -674,7 +674,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -2,7 +2,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="marsh"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="farmland"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="plains"
 	culture="texanane"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="forest"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -886,7 +886,7 @@
 	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1016,7 +1016,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1068,7 +1068,7 @@
 	terrain="steppes"
 	culture="texan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1107,7 +1107,7 @@
 	terrain="plains"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1120,7 +1120,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1198,7 +1198,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1211,7 +1211,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1224,7 +1224,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="traiteurism"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1237,7 +1237,7 @@
 	terrain="forest"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1289,7 +1289,7 @@
 	terrain="plains"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1328,7 +1328,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1380,7 +1380,7 @@
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1432,7 +1432,7 @@
 	terrain="flood_plain"
 	culture="texan"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

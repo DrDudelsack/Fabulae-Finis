@@ -838,7 +838,7 @@
 	terrain="hills"
 	culture="haudenosaunee"
 	religion="gaiwiio"
-	trade_goods="wood"
+	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"

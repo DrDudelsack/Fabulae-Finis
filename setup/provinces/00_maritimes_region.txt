@@ -2,7 +2,7 @@
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="mikmaw"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="hills"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="hills"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,7 +509,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="farmland"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,7 +587,7 @@
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="plains"
 	culture="chiac"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="plains"
 	culture="chiac"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -756,7 +756,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -782,7 +782,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +795,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="hills"
 	culture="gaidheal"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -886,7 +886,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -899,7 +899,7 @@
 	terrain="farmland"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -912,7 +912,7 @@
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,7 +938,7 @@
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,7 +951,7 @@
 	terrain="hills"
 	culture="acadien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -964,7 +964,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -977,7 +977,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1016,7 +1016,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1068,7 +1068,7 @@
 	terrain="hills"
 	culture="maritimer"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1081,7 +1081,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1094,7 +1094,7 @@
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -106,7 +106,7 @@
 	terrain="desert"
 	culture=""
 	religion="limpio"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="steppes"
 	culture="tejano"
 	religion="petrobaron"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="hills"
 	culture="texaner"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="steppes"
 	culture="texaner"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="hills"
 	culture="texaner"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="steppes"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods="vegetables"
+	trade_goods="gunpowder"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,7 +509,7 @@
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="marsh"
 	culture="tejano"
 	religion="limpio"
-	trade_goods="fish"
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="plains"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="desert"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +795,7 @@
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="plains"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,7 +873,7 @@
 	terrain="steppes"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

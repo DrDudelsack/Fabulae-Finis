@@ -28,7 +28,7 @@
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="forest"
 	culture="wakashan"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="shieldshorer"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="plains"
 	culture="algonquin"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="hills"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="hills"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -196,7 +196,7 @@
 	terrain="marsh"
 	culture="algonquin"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -209,7 +209,7 @@
 	terrain="hills"
 	culture="algonquin"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -222,7 +222,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -248,7 +248,7 @@
 	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -300,7 +300,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -326,7 +326,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -339,7 +339,7 @@
 	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -365,7 +365,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -430,7 +430,7 @@
 	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -443,7 +443,7 @@
 	terrain="marsh"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -456,7 +456,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="viking"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -469,7 +469,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -482,7 +482,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -495,7 +495,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -508,7 +508,7 @@
 	terrain="marsh"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -521,7 +521,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -534,7 +534,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -547,7 +547,7 @@
 	terrain="marsh"
 	culture="ontarian"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -560,7 +560,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -638,7 +638,7 @@
 	terrain="marsh"
 	culture="sixer"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -651,7 +651,7 @@
 	terrain="hills"
 	culture="algonquin"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -802,7 +802,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="promethean"
-	trade_goods="beans"
+	trade_goods="salt"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -826,7 +826,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -839,7 +839,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -852,7 +852,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -865,7 +865,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -878,7 +878,7 @@
 	terrain="plains"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -904,7 +904,7 @@
 	terrain="plains"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -917,7 +917,7 @@
 	terrain="plains"
 	culture="sixer"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -956,7 +956,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -969,7 +969,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1008,7 +1008,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1034,7 +1034,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1060,7 +1060,7 @@
 	terrain="forest"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods="wood"
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1086,7 +1086,7 @@
 	terrain="plains"
 	culture="montrealais"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1099,7 +1099,7 @@
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1112,7 +1112,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1125,7 +1125,7 @@
 	terrain="marsh"
 	culture="ontarian"
 	religion="viking"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1138,7 +1138,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="viking"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1151,7 +1151,7 @@
 	terrain="forest"
 	culture="ontarian"
 	religion="viking"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1242,7 +1242,7 @@
 	terrain="plains"
 	culture="abecede"
 	religion="sikhism"
-	trade_goods="earthware"
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1351,7 +1351,7 @@
 	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1364,7 +1364,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1377,7 +1377,7 @@
 	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
-	trade_goods=""
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

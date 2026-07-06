@@ -717,7 +717,7 @@
 	terrain="steppes"
 	culture="okie"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="steppes"
 	culture="okie"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
