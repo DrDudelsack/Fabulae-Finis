@@ -39,7 +39,7 @@
 
 832={ #
 	terrain="hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="fish"
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 833={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 2626={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="olive"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 2627={ #
 	terrain="hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="salt"
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 2628={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="olive"
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 3136={ #
 	terrain="hills"
-	culture="cachanchilla"
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="wine"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 3867={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 3868={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 3869={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 4717={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 4718={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 4719={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 4720={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 7164={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 7165={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 7166={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="spices"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 7167={ #
 	terrain="hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 7361={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 7362={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 7363={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 7926={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 7927={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 7928={ #
 	terrain="hills"
-	culture=""
+	culture="choyero"
 	religion="navegante"
 	trade_goods=""
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 9378={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="clay"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 9379={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="clay"
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 9380={ #
 	terrain="desert_hills"
-	culture=""
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="wine"
 	civilization_value=10

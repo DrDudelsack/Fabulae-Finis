@@ -533,7 +533,7 @@
 
 5692={ #
 	terrain="mountain"
-	culture="appalachian"
+	culture="cherokee"
 	religion="omenteller"
 	trade_goods="hallucinogenics"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 5693={ #
 	terrain="mountain"
-	culture="appalachian"
+	culture="cherokee"
 	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 5694={ #
 	terrain="mountain"
-	culture="appalachian"
+	culture="cherokee"
 	religion="omenteller"
 	trade_goods="precious_metals"
 	civilization_value=10

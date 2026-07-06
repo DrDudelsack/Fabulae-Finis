@@ -210,6 +210,39 @@ la_hermandad = { # La Hermandad
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+particularist = { # Particularist
+	color = rgb { 224 176 53 }
+	modifier = {
+		fabricate_claim_cost_modifier = -0.25
+		religious_tech_investment = 0.10
+		global_monthly_state_loyalty = -0.03
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_communion
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+animist = { # Animist
+	color = rgb { 224 154 89 }
+	modifier = { #Placeholder
+		fabricate_claim_cost_modifier = -0.25
+		religious_tech_investment = 0.10
+		global_monthly_state_loyalty = -0.03
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_communion
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+cristero = { # Cristero
+	color = rgb { 206 17 38 }
+	modifier = { #Placeholder
+		fabricate_claim_cost_modifier = -0.25
+		religious_tech_investment = 0.10
+		global_monthly_state_loyalty = -0.03
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_communion
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Islamic ##
 # todo - religion modifiers
 sunni = { # Sunni
@@ -881,5 +914,37 @@ sun_dance = { # Sun Dance
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_peyote
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Platinean ##
+platinean = { # Platinean
+	color = rgb { 134 208 216 }
+	modifier = {
+		land_morale_modifier = 0.03
+		global_freemen_happyness = 0.04
+		civil_war_threshold = -3
+	}
+	religion_category = pantheon
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Festivalist ##
+parodia = { # Parodia
+	color = { 181 25 70 }
+	modifier = { #Placeholder
+		land_morale_modifier = 0.03
+		global_freemen_happyness = 0.04
+		civil_war_threshold = -3
+	}
+	religion_category = pantheon
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+vendimia_sol = { # Vendimia Sol
+	color = { 164 16 218 }
+	modifier = {
+		omen_power = 0.03
+		global_population_happiness = 0.03
+		happiness_for_same_religion_modifier = -0.03
+	}
+	religion_category = pantheon
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

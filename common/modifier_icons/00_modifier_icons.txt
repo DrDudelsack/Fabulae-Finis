@@ -3091,3 +3091,10 @@ max_research_efficiency = {
 max_mercenary_stacks = {
     positive = "gfx/interface/icons/modifiers/recruit_mercenary_cost_modifier.dds"
 }
+
+happiness_for_wrong_religion_modifier = {
+    positive = "gfx/interface/icons/modifiers/happiness_for_wrong_religion_modifier.dds"
+}
+local_happiness_for_wrong_religion_modifier = {
+    positive = "gfx/interface/icons/modifiers/local_happiness_for_wrong_religion_modifier.dds"
+}

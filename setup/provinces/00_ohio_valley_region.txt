@@ -54,7 +54,7 @@
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

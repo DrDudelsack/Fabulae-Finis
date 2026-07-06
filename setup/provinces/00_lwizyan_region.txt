@@ -82,7 +82,7 @@
 	terrain="plains"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"

@@ -574,7 +574,7 @@
 	terrain="mountain"
 	culture="badlander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

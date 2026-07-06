@@ -171,7 +171,7 @@
 	terrain="forest"
 	culture="preiryansky"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="metis"
 	religion="exovedate"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="rivertracer"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="plains"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="plains"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods="grain"
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -964,7 +964,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

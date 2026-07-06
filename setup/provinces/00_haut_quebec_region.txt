@@ -119,7 +119,7 @@
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
-	trade_goods="glass"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

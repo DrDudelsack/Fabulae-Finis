@@ -28,7 +28,7 @@
 	terrain="marsh"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods="fur"
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1021,7 +1021,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

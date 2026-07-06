@@ -717,7 +717,7 @@
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

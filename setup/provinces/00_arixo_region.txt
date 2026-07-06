@@ -598,7 +598,7 @@
 
 3179={ #
 	terrain="desert"
-	culture=""
+	culture="shiwawita"
 	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10

@@ -1,6 +1,6 @@
 ﻿893={ #
 	terrain="forest"
-	culture="appalachian"
+	culture="cherokee"
 	religion="omenteller"
 	trade_goods="honey"
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 894={ #
 	terrain="hills"
-	culture="appalachian"
+	culture="cherokee"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 895={ #
 	terrain="mountain"
-	culture="appalachian"
+	culture="cherokee"
 	religion="omenteller"
 	trade_goods="tubers"
 	civilization_value=10
@@ -652,7 +652,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

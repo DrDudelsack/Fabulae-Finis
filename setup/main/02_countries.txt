@@ -2516,7 +2516,7 @@ country = {
 		}
 		BLE = { #Blue Ridge
 			government = tribal_chiefdom
-			primary_culture = appalachian
+			primary_culture = cherokee
 			religion = omenteller
 			capital = 6118
 

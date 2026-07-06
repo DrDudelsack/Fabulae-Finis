@@ -1,6 +1,6 @@
 ﻿346={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 347={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 348={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 349={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 373={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 374={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 375={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 502={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 503={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 504={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 1137={ #
 	terrain="hills"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods="cotton"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 1138={ #
 	terrain="hills"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods="fish"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 1139={ #
 	terrain="hills"
-	culture=""
+	culture="sonoro"
 	religion="navegante"
 	trade_goods="fish"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 1568={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 1569={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 1570={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 2285={ #
 	terrain="desert"
-	culture="cachanchilla"
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2286={ #
 	terrain="desert"
-	culture="cachanchilla"
+	culture="sonoro"
 	religion="navegante"
 	trade_goods="fish"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 4690={ #
 	terrain="desert"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods="cotton"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 4691={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 4692={ #
 	terrain="desert"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods="fish"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 5682={ #
 	terrain="plains"
-	culture=""
+	culture="sierreno"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 5683={ #
 	terrain="plains"
-	culture=""
+	culture="sierreno"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 5684={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 6066={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 6067={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 6068={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 6752={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 6753={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 6754={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 6755={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 6781={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 6782={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 6783={ #
 	terrain="plains"
-	culture=""
+	culture="sierreno"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 6854={ #
 	terrain="desert"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 6855={ #
 	terrain="desert"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 7015={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 7016={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 7017={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 7975={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 7976={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 7977={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 7978={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 8402={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 8403={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 8404={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 8513={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 8514={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 8515={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 11967={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 11974={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 11975={ #
 	terrain="plains"
-	culture=""
+	culture="sonoro"
 	religion="limpio"
 	trade_goods=""
 	civilization_value=10

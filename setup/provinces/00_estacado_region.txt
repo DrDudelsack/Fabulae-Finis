@@ -184,7 +184,7 @@
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="desert"
 	culture="zuni"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="steppes"
 	culture="arixan"
 	religion="petrobaron"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="steppes"
 	culture="neomexicano"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="desert"
 	culture="neomexicano"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
