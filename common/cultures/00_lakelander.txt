@@ -2610,6 +2610,7 @@
 		}
 		buckeye = {}
 		chicagoan = {
+			levy_template = levy_chicagoan
 			male_names = {
 				Aaron Adam Adlai Adrian Aiden Alando Albert Albin Aldo Alfessandro Alfonse Algirdas Algis Alexandru Ali Alois Aloysius Alton Amir Amos Anatol Andrzej Anselmo Angelo Anton Armando Arrington Arthur Ashburn Ashur Atour August Avery
 				Barack Baruch Belmont Benjamin Bernard Bienvenido Boris Brendan Brian Bronius Brooks Bruno

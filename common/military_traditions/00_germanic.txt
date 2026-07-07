@@ -4,13 +4,6 @@
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = lakelander }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = lakelander
-		}
-		trigger_else_if = {
 			limit = {
 				country_culture_group = northlake
 			}
@@ -27,24 +20,6 @@
 				text = "began_with_tradition_group"
 			}
 			country_culture_group = anishinaabe
-		}
-		trigger_else_if = {
-			limit = {
-				country_culture_group = laurentian
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = laurentian
-		}
-		trigger_else_if = {
-			limit = {
-				country_culture_group = upland
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = upland
 		}
 		trigger_else = {
 			custom_tooltip = {
@@ -109,7 +84,7 @@
 	germanic_path_6 = { ###
 		modifier = { 
 			archers_morale = 0.1
-			archers_mountain_combat_bonus = 0.05
+			archers_plains_combat_bonus = 0.05
 		} 
 		icon = celtic_germanic_path_7
 		requires = {germanic_path_4}
@@ -131,7 +106,7 @@
 	germanic_path_8 = { ###
 		modifier = { 
 			archers_morale = 0.1
-			archers_mountain_combat_bonus = 0.15
+			archers_forest_combat_bonus = 0.15
 			archers_hills_combat_bonus = 0.05
 		} 
 		icon = mauryan_mauryas_path_5
@@ -194,9 +169,40 @@
 	germanic_path_14 = { ###
 		modifier = { 
 			enslavement_efficiency = 0.1
+			axemen_offensive = 0.1
 		} 
 		icon = celtic_germanic_path_end_bonus
 		requires = {germanic_path_8}
+
+	}
+
+	germanic_path_15 = { #Practiced Farming
+		modifier = { 
+			global_population_capacity_modifier = 0.05
+			global_monthly_food_modifier = 0.05
+		} 
+		icon = celtic_britannic_path_3
+		requires = { germanic_path_10 }
+
+	}
+
+	germanic_path_16 = { 
+		modifier = { 
+			global_commerce_modifier = 0.05
+			global_capital_trade_routes = 1
+		} 
+		icon = latin_tribal_path_6
+		requires = { germanic_path_15 }
+
+	}
+
+	germanic_path_17 = { 
+		modifier = { 
+			research_points_modifier = 0.05
+			max_research_efficiency = 0.10
+		} 
+		icon = mauryan_noble_path_4
+		requires = { germanic_path_16 }
 
 	}
 

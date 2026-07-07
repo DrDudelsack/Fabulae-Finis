@@ -12,11 +12,32 @@
 			country_culture_group = yankee
 		}
 		trigger_else_if = {
-			limit = { country_culture_group = old_southern }
+			limit = { country_culture_group = lakelander }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = old_southern
+			country_culture_group = lakelander 
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = new_englander }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = new_englander 
+		}
+		trigger_else_if = {
+			limit = { primary_culture = ontarian }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = ontarian 
+		}
+		trigger_else_if = {
+			limit = { primary_culture = sixer }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = sixer
 		}
 		trigger_else = {
 			custom_tooltip = {
@@ -29,16 +50,17 @@
 	
 	latin_tribal_path_2 = { ###Latin 1A
 		modifier = { 
-			light_cavalry_offensive = 0.1
+			spearmen_discipline = 0.05
+			pikemen_discipline = 0.05
 		}
-		
-		icon = latin_tribal_path_2
+		icon = latin_roman_path_3
 		requires = { latin_tribal_path_1 }
 	}
 	
 	latin_tribal_path_1 = { ###Latin 5AA
 		modifier = { 
 			light_infantry_defensive = 0.1
+			pikemen_defensive = 0.1
 		}
 		
 		requires = { }
@@ -47,7 +69,7 @@
 	
 	latin_tribal_path_5 = { ###Latin 2A
 		modifier = { 
-			light_infantry_discipline = 0.05
+			light_infantry_morale = 0.10
 		}
 		
 		requires = {  latin_tribal_path_1 }
@@ -75,12 +97,11 @@
 	
 	latin_support_path_7 = { ###Latin 3A
 		modifier = { 
-			light_cavalry_defensive = 0.1
-			heavy_cavalry_defensive = 0.1
+			heavy_infantry_defensive = 0.15
 		}
 		
 		requires = { latin_tribal_path_2 }
-		icon = latin_support_path_7
+		icon = latin_support_path_6
 		
 		on_activate = {
 			every_subject = {
@@ -119,7 +140,8 @@
 
 	latin_tribal_path_end_bonus = { ###Latin 6AA
 		modifier = { 
-			hills_combat_bonus = 0.15
+			plains_combat_bonus = 0.10
+			farmland_combat_bonus = 0.10
 		}
 		
 		requires = { latin_roman_path_6 }

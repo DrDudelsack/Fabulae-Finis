@@ -4,13 +4,6 @@
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = lakelander }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = lakelander
-		}
-		trigger_else_if = {
 			limit = {
 				country_culture_group = northlake
 			}
@@ -27,24 +20,6 @@
 				text = "began_with_tradition_group"
 			}
 			country_culture_group = anishinaabe
-		}
-		trigger_else_if = {
-			limit = {
-				country_culture_group = laurentian
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = laurentian
-		}
-		trigger_else_if = {
-			limit = {
-				country_culture_group = upland
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = upland
 		}
 		trigger_else = {
 			custom_tooltip = {

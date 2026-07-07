@@ -1631,10 +1631,11 @@ country = {
 			}
 		}
 		BMJ = { #Bemidiji
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = ojibwe
 			religion = midewiwin
 			capital = 7344
+			centralization = 10
 
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -3621,7 +3622,7 @@ country = {
 			}
 		}
 		INT = { # Interlake
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = metis
 			religion = rivertracer
 			capital = 5550
@@ -3641,7 +3642,7 @@ country = {
 			}
 		}
 		KEN = { # Kenora
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = anisininew
 			religion = midewiwin
 			capital = 9458
