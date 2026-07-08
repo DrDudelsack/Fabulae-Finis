@@ -1,4 +1,4 @@
-﻿steppe_philosophy_2 = { #Bactrian Path
+﻿steppe_philosophy_2 = { #Midwestern Path
 	color = hsv { 0.99 0.64 0.7 }
 	image = persian_bactrian_path_1
 	
@@ -64,12 +64,34 @@
 		}
 	}
 
+	midwestern_path_extra_1 = { ###
+		on_activate = {
+			ordered_owned_province = {
+				order_by = {
+					value = 0
+					add = population_cap
+					subtract = total_population
+				}
+				check_range_bounds = no
+				max = 6
+				create_2_freemen_effect = yes
+			}
+		}
+		modifier = { 
+			happiness_for_wrong_culture_group_modifier = 0.03
+		} 
+		icon = greek_seleucid_path_2
+		requires = { }
+
+	}
+
 	bactrian_path_1 = { ###
 		modifier = { 
 			horse_archers_morale = 0.1
 		}
 		icon = persian_scythian_path_1
 		requires = { 
+			midwestern_path_extra_1
 		}
 	}
 
@@ -79,7 +101,7 @@
 			archers_discipline = 0.1
 		} 
 		icon = mauryan_mauryas_path_5
-		requires = { }
+		requires = { midwestern_path_extra_1 }
 	}
 
 	bactrian_path_3 = { ###
@@ -88,16 +110,16 @@
 			light_infantry_discipline = 0.15
 		} 
 		icon = persian_achaemenid_path_1
-		requires = { }
+		requires = { midwestern_path_extra_1 }
 	}
 
 	bactrian_path_4 = { ###
 		modifier = { 
-			camels_defensive = 0.1
-			camels_morale = 0.1
-			camels_mountain_combat_bonus = 0.15
+			spearmen_defensive = 0.1
+			spearmen_morale = 0.1
+			spearmen_plains_combat_bonus = 0.15
 		} 
-		icon = north_african_tribal_path_end_bonus
+		icon = latin_tribal_path_end_bonus
 		requires = { bactrian_path_1 }
 	}
 
@@ -105,7 +127,7 @@
 		modifier = { 
 			manpower_recovery_speed = 0.05
 			global_freemen_output = 0.05
-			archers_offensive = 0.1
+			stability_cost_modifier = -0.25
 		} 
 		icon = persian_achaemenid_path_4
 		requires = { bactrian_path_2 }
@@ -139,10 +161,10 @@
 
 	bactrian_path_8 = { ###
 		modifier = { 
-			archers_mountain_combat_bonus = 0.1
-			archers_hills_combat_bonus = 0.1
+			archers_plains_combat_bonus = 0.1
+			archers_steppes_combat_bonus = 0.1
 		} 
-		icon = greek_antigonid_path_7
+		icon = mauryan_mauryas_path_5
 		requires = { bactrian_path_5 }
 	}
 

@@ -20,5 +20,5 @@ levy_gatewayan = { # glorious St. Louisian pikemen
 	heavy_cavalry = 0.2
 	light_cavalry = 0.2
 	spearmen = 0.3
-	heavy_infantry = 0.3
+	light_infantry = 0.3
 }

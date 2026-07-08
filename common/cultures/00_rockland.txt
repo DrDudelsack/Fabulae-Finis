@@ -1,7 +1,7 @@
 ﻿rockland = {
 	color = rgb { 63 89 89 }
 
-	levy_template = levy_maya
+	levy_template = levy_midwestern
 	
 	primary = light_infantry
 	second = heavy_cavalry

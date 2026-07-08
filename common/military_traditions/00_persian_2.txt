@@ -5,20 +5,20 @@
 
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = midwestern }
+			limit = { country_culture_group = normexa }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = midwestern
+			country_culture_group = normexa
 		}
 		trigger_else_if = {
 			limit = {
-				country_culture_group = sioux
+				country_culture_group = centromexa
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = sioux
+			country_culture_group = centromexa
 		}
 		#trigger_else_if = { #they get the new steppe ones instead
 		#	limit = {
