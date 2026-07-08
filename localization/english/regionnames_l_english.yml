@@ -62,6 +62,9 @@
  big_sky_region:0 "Big Sky"
  maritimes_region:0 "Maritimes"
  saskatchewan_region:0 "Saskatchewan"
+ alberta_region:0 "Alberta"
+ greater_peace_region:0 "Greater Peace"
+ caledonia_region:0 "Caledonia"
 
  ## AREAS ##
  # East of the Mississippi

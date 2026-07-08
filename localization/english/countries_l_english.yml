@@ -583,6 +583,8 @@
  PLP_ADJ:0 "Prairien"
  KEN:0 "Kenora"
  KEN_ADJ:0 "Kenoran"
+ HDI:0 "Haida Gwaii"
+ HDI_ADJ:0 "Haidan"
 
 # Gaelic #
  AUTINI:0 "Autinia"

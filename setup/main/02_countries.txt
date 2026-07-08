@@ -2266,7 +2266,7 @@ country = {
 		NCH = { #Neches
 			government = range_tribal_kingdom
 			primary_culture = texan
-			religion = traiteurist
+			religion = traiteurism
 			capital = 7890
 
 			technology={
@@ -4767,6 +4767,23 @@ country = {
 		
 			own_control_core = {
 				4758 4759 4757 6838 1400 
+			}
+		}
+		HDI = { # Haida
+			government = tribal_federation
+			primary_culture = haida
+			religion = raven_tales
+			capital = 1172
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1172 1173 1174 1175 1680 1682 1681 5764
 			}
 		}
 	}

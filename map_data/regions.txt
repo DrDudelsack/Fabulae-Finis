@@ -238,10 +238,10 @@ columbia_region = { #4
 		yakima_area columbia_valley_area colville_area palouse_area deschutes_area malheur_area halfway_area blue_mountains_area
 	}
 }
-beecee_region = { #4
+beecee_region = { #7
 	color = rgb { 18 85 186 }
 	areas = {
-		south_vancouver_area north_vancouver_area lower_mainland_area central_coast_area
+		south_vancouver_area north_vancouver_area lower_mainland_area central_coast_area haida_gwaii_area upper_coast_area ketchikan_area
 	}
 }
 idaho_region = { #
@@ -356,5 +356,11 @@ greater_peace_region = { #9
 	color = rgb { 100 120 204 }
 	areas = {
 		nde_area resolution_area hay_river_area steamboat_area naylors_landing_area upper_peace_area lower_peace_area grande_cache_area gift_lake_area
+	}
+}
+caledonia_region = { #7
+	color = rgb { 44 113 143 }
+	areas = {
+		prince_george_area soda_creek_area mount_timothy_area blue_river_area okanagan_area golden_area banff_area kettle_valley_area
 	}
 }

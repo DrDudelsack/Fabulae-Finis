@@ -1291,3 +1291,36 @@ lower_sasketchewan_area = {
 upper_sasketchewan_area = { 
 	provinces = { 5340 5342 1916 2448 2447 2446 8919 8921 8918 8920 }
 }
+haida_gwaii_area = { 
+	provinces = { 1681 1682 1680 1175 1173 1174 1172 }
+}
+upper_coast_area = { 
+	provinces = { 4466 4465 2918 4467 2916 2918 2917 604 5763 5762 603 }
+}
+ketchikan_area = { 
+	provinces = { 22 21 605 8886 8885 8884 3654 8887 5764 }
+}
+prince_george_area = { 
+	provinces = { 1326 3280 3279 3281 2471 1327 1328 3655 3653 2472 }
+}
+soda_creek_area = { 
+	provinces = { 3356 3644 3358 3357 5222 5223 5221 }
+}
+mount_timothy_area = { 
+	provinces = { 2473 3646 3645 7920 7922 7921 5220 30 1448 1447 }
+}
+okanagan_area = { 
+	provinces = { 8627 31 8626 1546 1030 1029 33 32 3969 3970 1547 3971 }
+}
+kettle_valley_area = { 
+	provinces = { 4149 4148 4150 1548 1545 232 230 1381 1382 1383 }
+}
+banff_area = { 
+	provinces = { 2979 1041 73 72 2980 74 78 75 77 76 2980 }
+}
+golden_area = { 
+	provinces = { 2977 71 806 807 1998 2000 1999 808 3968 }
+}
+blue_river_area = { 
+	provinces = { 2470 5236 5233 5235 5234 1449 2978 }
+}
