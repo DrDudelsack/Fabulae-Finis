@@ -338,7 +338,7 @@
 
 3830={ #Es-Wāpanoh
 	terrain="forest"
-	culture="cheesehead"
+	culture="walloon"
 	religion="lakeshore"
 	trade_goods="salt"
 	civilization_value=10
@@ -678,7 +678,7 @@
 
 7024={ #Namaew-Wīhkit
 	terrain="forest"
-	culture="cheesehead"
+	culture="walloon"
 	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
@@ -691,7 +691,7 @@
 
 7025={ #Manetōwak
 	terrain="forest"
-	culture="cheesehead"
+	culture="walloon"
 	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=10
@@ -704,7 +704,7 @@
 
 7026={ #Ākem
 	terrain="forest"
-	culture="cheesehead"
+	culture="walloon"
 	religion="catholic"
 	trade_goods="base_metals"
 	civilization_value=10

@@ -1,1 +1,975 @@
-﻿
+﻿30={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+31={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+32={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+33={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+71={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+72={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+73={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+74={ #
+	terrain="impassable_terrain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+75={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+76={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+77={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+78={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+230={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+232={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+806={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+807={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+808={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1029={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1030={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1041={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1326={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1327={ #
+	terrain="hills"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1328={ #
+	terrain="hills"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1381={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1382={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1383={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1447={ #
+	terrain="mountain"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1448={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1449={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1545={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1546={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1547={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1548={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1998={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1999={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2000={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2470={ #
+	terrain="hills"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2471={ #
+	terrain="hills"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2472={ #
+	terrain="hills"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2473={ #
+	terrain="hills"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2977={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2978={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2979={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2980={ #
+	terrain="mountain"
+	culture="ktunaxa"
+	religion="dreamer"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3279={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3280={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3281={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3356={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3357={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3358={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3644={ #
+	terrain="hills"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3645={ #
+	terrain="hills"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3646={ #
+	terrain="mountain"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3653={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3655={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3968={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3969={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3970={ #
+	terrain="mountain"
+	culture="doukhobor"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3971={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4148={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4149={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4150={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5220={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5221={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5222={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5223={ #
+	terrain="hills"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5233={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5234={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5235={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5236={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7920={ #
+	terrain="hills"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7921={ #
+	terrain="hills"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7922={ #
+	terrain="mountain"
+	culture="interior_salish"
+	religion="gaian"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8626={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8627={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

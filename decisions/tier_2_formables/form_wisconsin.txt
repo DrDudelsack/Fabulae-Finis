@@ -1,0 +1,170 @@
+﻿country_decisions = {
+	form_wisconsin = {
+		
+		potential = {
+			num_of_cities >= 1
+			primary_culture = cheesehead
+			OR = {
+				capital_scope = {
+					is_in_region = badgerland_region
+				}
+			}
+			NOR = {
+				tag = WSS
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3831
+					province_id = 5121
+					province_id = 1125
+					province_id = 4946
+					province_id = 2513
+					province_id = 2082
+					province_id = 6282
+					province_id = 1096
+					province_id = 1097
+					province_id = 2024
+					province_id = 7024
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = wisconsin_does_not_exist
+				NOT = {
+					any_country = {
+						tag = WSS
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 3831
+			owns_or_subject_owns = 5121
+			owns_or_subject_owns = 1125
+			owns_or_subject_owns = 4946
+			owns_or_subject_owns = 2513
+			owns_or_subject_owns = 2082
+			owns_or_subject_owns = 6282
+			owns_or_subject_owns = 1096
+			owns_or_subject_owns = 1097
+			owns_or_subject_owns = 2024
+			owns_or_subject_owns = 7024
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "WISCONSIN_NAME"
+			hidden_effect = {
+				change_country_adjective = "WISCONSIN_ADJ"
+				change_country_color = "wisconsin_green"
+				change_country_tag = WSS
+				change_country_flag = BADGERLAND_FLAG
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = wisconsin_claims_tooltip
+			hidden_effect = {
+				region:badgerland_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+	form_wisconsin_walloon = {
+		
+		potential = {
+			num_of_cities >= 1
+			primary_culture = walloon
+			OR = {
+				capital_scope = {
+					is_in_region = badgerland_region
+				}
+			}
+			NOR = {
+				tag = WSS
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 3831
+					province_id = 5121
+					province_id = 1125
+					province_id = 4946
+					province_id = 2513
+					province_id = 2082
+					province_id = 6282
+					province_id = 1096
+					province_id = 1097
+					province_id = 2024
+					province_id = 7024
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = wisconsin_does_not_exist
+				NOT = {
+					any_country = {
+						tag = WSS
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 3831
+			owns_or_subject_owns = 5121
+			owns_or_subject_owns = 1125
+			owns_or_subject_owns = 4946
+			owns_or_subject_owns = 2513
+			owns_or_subject_owns = 2082
+			owns_or_subject_owns = 6282
+			owns_or_subject_owns = 1096
+			owns_or_subject_owns = 1097
+			owns_or_subject_owns = 2024
+			owns_or_subject_owns = 7024
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "WISCONSIN_WALLOON_NAME"
+			hidden_effect = {
+				change_country_adjective = "WISCONSIN_WALLOON_ADJ"
+				change_country_color = "wisconsin_walloon_yellow"
+				change_country_tag = WSS
+				change_country_flag = BADGERLAND_WALLOON_FLAG
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = wisconsin_claims_tooltip
+			hidden_effect = {
+				region:badgerland_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

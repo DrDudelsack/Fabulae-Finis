@@ -3,17 +3,8 @@
 	#Form Boonslick
 	form_boonslick = {
 	potential = {
+		primary_culture = heartlander
 		num_of_cities >= 1
-		OR = {
-			AND = {
-				capital_scope = {
-						OR = {
-							is_in_region = missouri_region
-						}
-					}
-				}
-				#primary_culture = heartlander
-		}
 		NOR = {
 			is_tier_1_formable_trigger = yes
 			is_tier_2_formable_trigger = yes

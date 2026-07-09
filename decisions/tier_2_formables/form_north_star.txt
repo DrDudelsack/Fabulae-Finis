@@ -1,0 +1,86 @@
+﻿country_decisions = {
+	form_north_star = {
+		
+		potential = {
+			num_of_cities >= 1
+			country_culture_group = northlake
+			OR = {
+				capital_scope = {
+					is_in_region = minnesota_region
+				}
+			}
+			NOR = {
+				tag = MN1
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+		}
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 8025
+					province_id = 8024
+					province_id = 327
+					province_id = 1909
+					province_id = 8151
+					province_id = 8374
+					province_id = 7344
+					province_id = 237
+					province_id = 2711
+					province_id = 7456
+					province_id = 1183
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = minnesota_does_not_exist
+				NOT = {
+					any_country = {
+						tag = MN1
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 8025
+			owns_or_subject_owns = 8024
+			owns_or_subject_owns = 327
+			owns_or_subject_owns = 1909
+			owns_or_subject_owns = 8151
+			owns_or_subject_owns = 8374
+			owns_or_subject_owns = 7344
+			owns_or_subject_owns = 237
+			owns_or_subject_owns = 2711
+			owns_or_subject_owns = 7456
+			owns_or_subject_owns = 1183
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "MINNESOTA_NAME"
+			hidden_effect = {
+				change_country_adjective = "MINNESOTA_ADJ"
+				change_country_color = "minnesota_purple"
+				change_country_tag = MN1
+				change_country_flag = NORTH_STAR_FLAG
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = minnesota_claims_tooltip
+			hidden_effect = {
+				region:minnesota_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

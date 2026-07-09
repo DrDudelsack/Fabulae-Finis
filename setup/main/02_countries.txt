@@ -1666,7 +1666,7 @@ country = {
 			}
 		}
 		BRN = { #Brainerd
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = northlander
 			religion = viking
 			capital = 237
@@ -2072,7 +2072,7 @@ country = {
 			}
 		}
 		GAL = { #Galena
-			government = tribal_federation
+			government = tribal_kingdom
 			primary_culture = gatewayan
 			religion = twainist
 			capital = 9511
@@ -2107,8 +2107,8 @@ country = {
 		}
 		GBY = { #Green Bay
 			government = tribal_kingdom
-			primary_culture = cheesehead
-			religion = viking
+			primary_culture = walloon
+			religion = lakeshore
 			capital = 3831
 
 			technology={
@@ -2892,7 +2892,7 @@ country = {
 			}
 		}
 		HAY = { #Hayward
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = ojibwe
 			religion = lakeshore
 			capital = 1097
@@ -3563,8 +3563,8 @@ country = {
 		}
 		FVV = { #Frenchville/Dubois
 			government = aristocratic_monarchy
-			primary_culture = frentshveelwa
-			religion = promethean
+			primary_culture = yinzic
+			religion = sustainablist
 			capital = 4984
 
 			technology={

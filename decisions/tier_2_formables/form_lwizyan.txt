@@ -5,7 +5,6 @@
 			num_of_cities >= 1
 			country_culture_group = louisianais
 			OR = {
-				is_ai = no
 				num_of_cities >= 1
 			}
 			NOR = {

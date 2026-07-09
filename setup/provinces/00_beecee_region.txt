@@ -1,4 +1,30 @@
-﻿51={ #
+﻿21={ #
+	terrain="mountain"
+	culture="tlingit"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+22={ #
+	terrain="mountain"
+	culture="tlingit"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+51={ #
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -29,6 +55,45 @@
 	culture="canuck"
 	religion="gaian"
 	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+603={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+604={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+605={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -76,6 +141,58 @@
 	}
 }
 
+1172={ #
+	terrain="forest"
+	culture="haida"
+	religion="raven_tales"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1173={ #
+	terrain="forest"
+	culture="haida"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1174={ #
+	terrain="forest"
+	culture="haida"
+	religion="raven_tales"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1175={ #
+	terrain="hills"
+	culture="haida"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 1387={ #
 	terrain="forest"
 	culture="canuck"
@@ -93,6 +210,45 @@
 	terrain="plains"
 	culture="canuck"
 	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1680={ #
+	terrain="hills"
+	culture="haida"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1681={ #
+	terrain="hills"
+	culture="haida"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1682={ #
+	terrain="hills"
+	culture="haida"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -154,6 +310,45 @@
 	}
 }
 
+2916={ #
+	terrain="mountain"
+	culture="wakashan"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2917={ #
+	terrain="mountain"
+	culture="wakashan"
+	religion="raven_tales"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2918={ #
+	terrain="mountain"
+	culture="wakashan"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 3122={ #
 	terrain="mountain"
 	culture="wakashan"
@@ -206,10 +401,62 @@
 	}
 }
 
+3654={ #
+	terrain="mountain"
+	culture="dakelh"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 4144={ #
 	terrain="plains"
 	culture="surreyda"
 	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4465={ #
+	terrain="mountain"
+	culture="wakashan"
+	religion="raven_tales"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4466={ #
+	terrain="mountain"
+	culture="wakashan"
+	religion="raven_tales"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4467={ #
+	terrain="mountain"
+	culture="wakashan"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -301,6 +548,45 @@
 	terrain="forest"
 	culture="coast_salish"
 	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5762={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5763={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5764={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -445,6 +731,58 @@
 	culture="canuck"
 	religion="gaian"
 	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8884={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8885={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8886={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8887={ #
+	terrain="mountain"
+	culture="tsimshianic"
+	religion="raven_tales"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

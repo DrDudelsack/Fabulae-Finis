@@ -1,5 +1,5 @@
-﻿frentshveel = {
-	color = rgb { 79 31 76 }
+﻿belgian = {
+	color = rgb { 201 176 30 }
 
 	levy_template = levy_central_asia
 	
@@ -287,7 +287,7 @@
 		Ziebarth
 	}
 	culture = {
-		frentshveelwa = {}
+		walloon = {}
 	}
 	
 	barbarian_names = { 

@@ -61,7 +61,7 @@
  cheesehead:0 "Badgerlander"
  northlander:0 "Northlander"
  upnorther:0 "Upnorther"
- copperhead:0 "Copperlander"
+ copperhead:0 "Ranger"
 
  ## Midwestern ##
  midwestern:0 "Midwestern"
@@ -272,9 +272,9 @@
  penobscot:0 "Penobscot" 
  wolastoqiyik:0 "Wolastoqiyik" 
 
- ## Frentshveel ##
- frentshveel:0 "Frentshveel"
- frentshveelwa:0 "Frentshveelwa"
+ ## Belgian ##
+ belgian:0 "Belgian"
+ walloon:0 "Walloon"
 
  ## Bosniak ##
  bosniak:0 "Bosniak"
@@ -405,8 +405,8 @@
  desi_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  wabanaki_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  wabanaki_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- frentshveel_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- frentshveel_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ belgian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ belgian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  bosniak_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  bosniak_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  grand_ouest_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

@@ -1,0 +1,145 @@
+﻿BADGERLAND_FLAG = { #BADGERLAND_FLAG TEST
+	pattern = "pattern_solid.tga"
+	color1= "ck2_yellow"
+	color2= "ck2_black"
+	
+	colored_emblem = {
+        texture = "ce_anchor_02.dds"
+        color1 = ck2_black
+        instance={
+            position={ 0.78000 0.75000 }
+            scale={ 0.5 0.5 }
+			rotation = 180
+        }
+    }
+
+    colored_emblem={
+        texture= "ce_pales_02.dds"
+        color1=ck2_black
+        instance={
+            scale={ 0.330000 0.330000 }
+        }
+    }
+
+
+    colored_emblem={
+        color1=ck2_black
+        color2=ck2_black
+        texture="ce_plow.dds"
+        instance={
+            position={ 0.24 0.15 }
+            scale={ 0.4 0.45 }
+            #depth=7.010000
+        }
+    }
+
+
+    colored_emblem={
+        color1=ck2_black
+        color2=ck2_black
+        texture="ce_arm_holding_sword.dds"
+        instance={
+            position={ 0.23 0.76 }
+            scale={ 0.38 0.38 }
+            rotation=340
+        }
+    }
+
+    colored_emblem={
+        color1=ck2_black
+        texture="ce_block_01.dds"
+        instance={
+            position={ 0.725000 0.725000 }
+            scale={ 0.015000 0.220000 }
+        }
+    }
+
+	colored_emblem={
+        color1=offwhite
+        texture="ce_escutcheon.dds"
+        instance={
+            scale={ 0.505000 0.505000 }
+            #depth=4.010000
+        }
+    }
+
+	colored_emblem={
+        color1=ck2_black
+        color2=ck2_black
+        texture="ce_mattock.dds"
+        instance={
+            position={ 0.780000 0.190000 }
+            scale={ 0.30000 0.3 }
+            rotation=225
+        }
+    }
+
+	colored_emblem={
+        color1=ck2_black
+        color2=offwhite
+        texture="ce_hammer.dds"
+        instance={
+            position={ 0.780000 0.195000 }
+            scale={ 0.40000 0.40000 }
+            rotation=135
+        }
+    }
+
+    colored_emblem={
+        color1=ck2_black
+        texture = "ce_block_04.dds"
+        instance={
+            position={ 0.505000 0.500000 }
+        }
+
+        instance={
+            rotation=90
+        }
+    }
+
+	colored_emblem = {
+        texture = "ce_orle.dds"
+        color1= "ck2_black"
+        instance={
+            position={ 0.500000 0.520000 }
+            scale={ 0.540000 0.540000 }
+        }
+    }
+}
+
+BADGERLAND_WALLOON_FLAG = { 
+	pattern = "pattern_solid.tga"
+	color1= "wisconsin_walloon_yellow"
+	color2= "ck2_black"
+	
+	colored_emblem = {
+        texture = "ce_badger.dds"
+        color1 = ck2_red
+		color2 = ck2_red
+		instance = { scale = { 0.90 0.90 } position = { 0.5 0.5 }}
+    }
+}
+
+NORTH_STAR_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_blue"
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "ck2_green"
+		color2 = "light_green"
+		instance = { position = { 0.5 0.85 } scale = { 1.0 0.35 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_04_single.dds"
+		color1 = "bone_white"
+		color2 = "bone_white"
+		instance = { position = { 0.5 0.65 } scale = { 2.5 2.5 } rotation = 180 }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "ck2_yellow"
+		color2 = "ck2_yellow"
+		instance = { position = { 0.25 0.25 } scale = { 0.55 0.55 }  }
+	}
+}

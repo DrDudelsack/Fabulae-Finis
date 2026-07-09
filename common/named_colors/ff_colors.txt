@@ -5,5 +5,8 @@
 	lwizyan_blue = rgb { 85 146 213 }
 	missouri_rhineland_green = rgb { 27 130 46 }
 	boonslick_color = rgb { 104 59 78 }
+	wisconsin_green = rgb { 9 62 25}
+	wisconsin_walloon_yellow = rgb { 233 194 30 }
+	minnesota_purple = rgb { 150 118 174 }
 }
 

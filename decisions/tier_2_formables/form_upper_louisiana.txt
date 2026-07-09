@@ -5,12 +5,10 @@
 		
 		potential = {
 			num_of_cities >= 1
+			primary_culture = paw_paw
 			OR = {
-				AND = {
-					primary_culture = paw_paw
-					capital_scope = {
-						is_in_region = missouri_region
-					}
+				capital_scope = {
+					is_in_region = missouri_region
 				}
 			}
 			NOR = {
