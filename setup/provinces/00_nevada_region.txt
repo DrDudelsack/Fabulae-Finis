@@ -169,7 +169,7 @@
 
 1635={ #
 	terrain="desert_hills"
-	culture="basque"
+	culture="euskal"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 1637={ #
 	terrain="mountain"
-	culture="basque"
+	culture="euskal"
 	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10

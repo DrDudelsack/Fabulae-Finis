@@ -249,7 +249,7 @@
  prairielander:0 "Prairielander"
  badlander:0 "Badlander"
  preiryansky:0 "Preiryansky" 
- sztyeppefut0:0 "Sztyeppefutó"
+ sztyeppefuto:0 "Prérivándor"
 
  ## Rockland ##
  rockland:0 "Great Divide"
@@ -337,6 +337,7 @@
 
  ## Basque ##
  basque:0 "Basque"
+ euskal:0 "Euskal"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

@@ -37,7 +37,7 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		basque = {}
+		euskal = {}
 	}
 	
 	barbarian_names = { 

@@ -377,7 +377,7 @@
 
 4551={ #
 	terrain="hills"
-	culture="basque"
+	culture="euskal"
 	religion="caesarist"
 	trade_goods="precious_metals"
 	civilization_value=10

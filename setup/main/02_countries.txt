@@ -3970,7 +3970,7 @@ country = {
 		}
 		WNN = { #Winnemuca
 			government = tribal_kingdom
-			primary_culture = basque
+			primary_culture = euskal
 			religion = loneranger
 			capital = 1635
 
