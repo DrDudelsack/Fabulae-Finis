@@ -249,6 +249,7 @@
  prairielander:0 "Prairielander"
  badlander:0 "Badlander"
  preiryansky:0 "Preiryansky" 
+ sztyeppefut0:0 "Sztyeppefutó"
 
  ## Rockland ##
  rockland:0 "Great Divide"
@@ -333,6 +334,9 @@
  ## Michigan Nederlander ##
  michigan_nederlander:0 "Michigan-Nederlander"
  hollander:0 "Hollander" 
+
+ ## Basque ##
+ basque:0 "Basque"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -421,3 +425,5 @@
  native_californian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  michigan_nederlander_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  michigan_nederlander_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ basque_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ basque_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

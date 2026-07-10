@@ -509,6 +509,8 @@
  DNH_ADJ:0 "Navajo"
  APH:0 "Apacheria"
  APH_ADJ:0 "Apache"
+ WNN:0 "Winnemuca"
+ WNN_ADJ:0 "Winnemucan"
 
  ## East Canada ##
  FRO:0 "Francontario"

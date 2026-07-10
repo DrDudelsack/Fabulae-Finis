@@ -85255,7 +85255,7 @@
 10640={ #
 	terrain="impassable_terrain"
 	culture="socaleno"
-	religion="colossalist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

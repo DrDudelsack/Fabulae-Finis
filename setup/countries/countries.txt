@@ -258,6 +258,7 @@ PHX = "setup/countries/west_coast/phoenix.txt"
 GAD = "setup/countries/west_coast/gadsen.txt"
 DNH = "setup/countries/west_coast/dine_bikeyah.txt"
 APH = "setup/countries/west_coast/apacheria.txt"
+WNN = "setup/countries/west_coast/winnemuca.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

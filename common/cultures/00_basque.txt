@@ -1,7 +1,7 @@
-﻿prairie = {
-	color = rgb { 174 245 81 }
+﻿basque = {
+	color = rgb { 78 131 81  }
 
-	levy_template = levy_midwestern
+	levy_template = levy_central_asia
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -37,17 +37,14 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		prairielander = {}
-		badlander = {}
-		preiryansky = {} 
-		sztyeppefuto = {} #Hungarians
+		basque = {}
 	}
 	
 	barbarian_names = { 
 		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
 	}
 	
-	graphical_culture = scythian_gfx
+	graphical_culture = roman_gfx
 	ethnicities = {
 		10 = greek
 	}

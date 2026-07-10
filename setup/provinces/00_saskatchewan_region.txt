@@ -65,7 +65,7 @@
 
 440={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="sztyeppefuto"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 442={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="sztyeppefuto"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 2153={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="sztyeppefuto"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -351,8 +351,8 @@
 
 3010={ #
 	terrain="steppes"
-	culture="preiryansky"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -364,8 +364,8 @@
 
 3011={ #
 	terrain="steppes"
-	culture="dakota"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -377,8 +377,8 @@
 
 3012={ #
 	terrain="steppes"
-	culture="dakota"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -390,8 +390,8 @@
 
 3013={ #
 	terrain="steppes"
-	culture="dakota"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -624,7 +624,7 @@
 
 5974={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="sztyeppefuto"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 5975={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="sztyeppefuto"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 5976={ #
 	terrain="steppes"
-	culture="prairielander"
+	culture="sztyeppefuto"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
@@ -664,7 +664,7 @@
 5980={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 7525={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 7526={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1066,8 +1066,8 @@
 
 8454={ #
 	terrain="steppes"
-	culture="preiryansky"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1079,8 +1079,8 @@
 
 8457={ #
 	terrain="steppes"
-	culture="preiryansky"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1144,8 +1144,8 @@
 
 9401={ #
 	terrain="steppes"
-	culture="preiryansky"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -1170,8 +1170,8 @@
 
 9403={ #
 	terrain="steppes"
-	culture="preiryansky"
-	religion="rivertracer"
+	culture="sztyeppefuto"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

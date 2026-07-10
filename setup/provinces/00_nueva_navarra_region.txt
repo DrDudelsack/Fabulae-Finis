@@ -209,7 +209,7 @@
 2285={ #
 	terrain="desert"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 4690={ #
 	terrain="desert"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 4691={ #
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4692={ #
 	terrain="desert"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

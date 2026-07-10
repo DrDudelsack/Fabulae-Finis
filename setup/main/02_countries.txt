@@ -3949,7 +3949,7 @@ country = {
 			}
 		}
 		CHC = { #Churchill
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = battleborn
 			religion = dreamer
 			capital = 1952
@@ -3964,15 +3964,18 @@ country = {
 			religion = dreamer
 			capital = 3245
 
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
+			own_control_core = {
+				3245 1636 3246 3247 6195 8857 8858 1628 1626
 			}
+		}
+		WNN = { #Winnemuca
+			government = tribal_kingdom
+			primary_culture = basque
+			religion = loneranger
+			capital = 1635
 
 			own_control_core = {
-				3245 6146 1637 1635 1636 3246 3247 6195 8857 8858 1628 1626
+				1635 1637 6146
 			}
 		}
 		BNR = { #Modoc
@@ -4434,7 +4437,7 @@ country = {
 		}
 		BLU = { # Blue Mountains
 			government = tribal_kingdom
-			primary_culture = nez_perce
+			primary_culture = umatilla
 			religion = loneranger
 			capital = 5425
 

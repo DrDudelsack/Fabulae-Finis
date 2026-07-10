@@ -443,7 +443,7 @@
 6714={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 6715={ #
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 6716={ #
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 8456={ #
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 8897={ #
 	terrain="steppes"
 	culture="dakota"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 8898={ #
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
