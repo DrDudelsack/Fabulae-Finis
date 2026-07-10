@@ -584,7 +584,7 @@
 }
 
 5635={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="maple"

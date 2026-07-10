@@ -44,6 +44,8 @@
  kansan_heritage_desc:0 "The militant Kansans have been expanding outward for more than a generation - intent on restoring the Union by any force neccessary. In times of peace, they are diligent caretakers of the land they inhabit. But during times of war, they are a force of righteous wrath, intent on reclaiming what they deems theirs, piece by piece."
  independence_heritage:0 "Heritage of the Westward Path"
  independence_heritage_desc:0 "Said to have been founded by the legendary explorers Lewis and Clark, Independence has always been an important place for travelers of all kinds, as they set out to the far away lands of California, Arizona, and Oregon. The city's location near the Missouri river makes it an important stop for wares of all kinds, whether they be fine Californian textiles or Missourian wines."
+ texas_heritage:0 "Heritage of the Holy Texan Empire"
+ texas_heritage_desc:0 "The exact details of the founding of the Holy Texan Empire are vague, but it is generally understood that a coalition of Tejano, Czexan, and Freidenker leaders came together, establishing an imperial authority at New Braunfels. While the rest of Texas succumbed to the ravages of war, their coalition stood as a bulwark against that horrible destruction. While Texas' power has since waned from their lofty height, having controlled much of the Llano Estacado and the area around the Rio Bravo, along with Eastern Texas, the empire still stands resilient. After all, it is said that the meek shall inherit the earth, and in this case, they have."
 
  ## Culture Groups ##
  mid_atlantic_heritage:0 "Mid-Atlantic Heritage"
@@ -144,6 +146,8 @@
  tejano_heritage_desc:0 "Descended from early Spanish colonists in Texas, the Tejanos have always maintained a separate culture. They have a strong tradition of ranching, and their Rancheros can often be seen herding cattle in the vast expanses of Southern Texas. They have a unique musical tradition, bearing many similarities to the music of the Freidenkers."
  estacadan_heritage:0 "Estacadan Heritage"
  estacadan_heritage_desc:0 "Inhabiting the vast Llano Estacado, or 'Staked Plains', the Estacadans have become master horsemen, frequently riding out of their territory to ransack the larger cities of their neighbors. They are mostly nomadic, with cities being few and far between their lands."
+ ranger_heritage:0 "Ranger Heritage"
+ ranger_heritage_desc:0 "The hardy folk of the North Shore and Iron Range are endowed with plentiful deposits of copper, iron, and other valuable metals. Their quarried metals are exported all over the Great Lakes, where they are turned into metals of all kind. Their largest and most central cities are Duluth and Superior, who both have excellent natural harbors, fueling a prosperous ship-building industry."
  
  
  

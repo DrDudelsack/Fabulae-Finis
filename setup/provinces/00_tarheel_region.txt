@@ -337,7 +337,7 @@
 }
 
 3861={ #
-	terrain="forest"
+	terrain="hills"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="stone"
@@ -662,7 +662,7 @@
 }
 
 6978={ #
-	terrain="plains"
+	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="hemp"
@@ -714,7 +714,7 @@
 }
 
 7389={ #
-	terrain="plains"
+	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="grain"
@@ -727,7 +727,7 @@
 }
 
 7391={ #
-	terrain="plains"
+	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="wood"

@@ -970,7 +970,7 @@
 }
 
 3507={ #New Haven
-	terrain="plains"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="transcendentalist"
 	trade_goods="cattle"

@@ -12,7 +12,7 @@
 }
 
 2094={ #Bedford
-	terrain="farmland"
+	terrain="hills"
 	culture="susquehannan"
 	religion="omenteller"
 	trade_goods="grain"
@@ -38,7 +38,7 @@
 }
 
 2096={ #Mifflintown
-	terrain="farmland"
+	terrain="hills"
 	culture="susquehannan"
 	religion="fissionist"
 	trade_goods="papyrus"
@@ -246,7 +246,7 @@
 }
 
 5494={ #Sayre
-	terrain="hills"
+	terrain="marsh"
 	culture="pocono"
 	religion="bostonian"
 	trade_goods="cattle"

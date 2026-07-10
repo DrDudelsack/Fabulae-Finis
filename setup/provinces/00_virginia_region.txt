@@ -467,7 +467,7 @@
 }
 
 6139={ #Sussex
-	terrain="plains"
+	terrain="forest"
 	culture="southron"
 	religion="evangelical"
 	trade_goods="tobacco"
@@ -688,7 +688,7 @@
 }
 
 8834={ #Covington
-	terrain="forest"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="base_metals"

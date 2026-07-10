@@ -622,7 +622,7 @@
 }
 
 6132={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="sixer"
 	religion="united_church"
 	trade_goods="horses"
@@ -823,7 +823,7 @@
 }
 
 7701={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="ontarian"
 	religion="catholic"
 	trade_goods="marble"

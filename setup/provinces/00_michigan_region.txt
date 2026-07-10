@@ -35,7 +35,7 @@
 }
 
 560={ #Battle Creek
-	terrain="plains"
+	terrain="farmland"
 	culture="potowatomi"
 	religion="catholic"
 	trade_goods="base_metals"
@@ -772,7 +772,7 @@
 }
 
 4299={ #Flint
-	terrain="plains"
+	terrain="farmland"
 	culture="motowner"
 	religion="promethean"
 	trade_goods="stone"
@@ -1105,7 +1105,7 @@
 }
 
 6263={ #Ann Arbor
-	terrain="plains"
+	terrain="farmland"
 	culture="motowner"
 	religion="promethean"
 	trade_goods="maple"
@@ -1222,7 +1222,7 @@
 }
 
 6797={ #Troy
-	terrain="plains"
+	terrain="farmland"
 	culture="motowner"
 	religion="twelver"
 	trade_goods="fruits"

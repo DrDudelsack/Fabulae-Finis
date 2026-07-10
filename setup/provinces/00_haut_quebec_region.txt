@@ -77,7 +77,7 @@
 }
 
 1136={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="francontarien"
 	religion="ursuline"
 	trade_goods="earthware"
@@ -792,7 +792,7 @@
 }
 
 8303={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="earthware"

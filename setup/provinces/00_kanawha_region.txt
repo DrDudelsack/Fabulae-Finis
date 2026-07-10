@@ -38,7 +38,7 @@
 }
 
 835={ #
-	terrain="hills"
+	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"

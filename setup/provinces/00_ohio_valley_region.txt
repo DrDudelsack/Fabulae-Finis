@@ -77,7 +77,7 @@
 }
 
 414={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="earthware"
@@ -259,7 +259,7 @@
 }
 
 4273={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="tubers"
@@ -376,7 +376,7 @@
 }
 
 5696={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="vegetables"
@@ -402,7 +402,7 @@
 }
 
 5698={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="horses"
@@ -571,7 +571,7 @@
 }
 
 9549={ #
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="clay"
@@ -623,7 +623,7 @@
 }
 
 11638={ #
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="hearthtender"
 	trade_goods="leather"

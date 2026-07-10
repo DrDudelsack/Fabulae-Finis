@@ -791,7 +791,7 @@
 	terrain="forest"
 	culture="copperhead"
 	religion="viking"
-	trade_goods="fur"
+	trade_goods="base_metals"
 	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"

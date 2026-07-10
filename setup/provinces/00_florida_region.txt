@@ -311,7 +311,7 @@
 }
 
 3967={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sofloano"
 	religion="americanist"
 	trade_goods="clay"
@@ -558,7 +558,7 @@
 }
 
 6612={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="americanist"
 	trade_goods="fruits"
@@ -714,7 +714,7 @@
 }
 
 7643={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="americanist"
 	trade_goods="wild_game"
@@ -727,7 +727,7 @@
 }
 
 7644={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="americanist"
 	trade_goods="clay"
@@ -766,7 +766,7 @@
 }
 
 7647={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="americanist"
 	trade_goods="fruits"
@@ -844,7 +844,7 @@
 }
 
 9630={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
 	trade_goods="tobacco"
@@ -857,7 +857,7 @@
 }
 
 9631={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
 	trade_goods="fruits"
@@ -987,7 +987,7 @@
 }
 
 11940={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="americanist"
 	trade_goods="clay"
@@ -1000,7 +1000,7 @@
 }
 
 11941={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sunshiner"
 	religion="americanist"
 	trade_goods="spices"
@@ -1013,7 +1013,7 @@
 }
 
 11942={ #
-	terrain="plains"
+	terrain="marsh"
 	culture="sofloano"
 	religion="americanist"
 	trade_goods="wild_game"

@@ -1,7 +1,7 @@
 ﻿prairie = {
 	color = rgb { 174 245 81 }
 
-	levy_template = levy_maya
+	levy_template = levy_midwestern
 	
 	primary = light_infantry
 	second = heavy_cavalry

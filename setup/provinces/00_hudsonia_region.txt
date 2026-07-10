@@ -660,7 +660,7 @@
 }
 
 4922={ #Cortlandt
-	terrain="plains"
+	terrain="farmland"
 	culture="hudsonian"
 	religion="fissionist"
 	trade_goods="tubers"

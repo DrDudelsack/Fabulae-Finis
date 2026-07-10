@@ -12,7 +12,7 @@
 }
 
 676={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="deltaic"
 	religion="egyptology"
 	trade_goods="fish"
@@ -77,7 +77,7 @@
 }
 
 1829={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods="maize"
@@ -90,7 +90,7 @@
 }
 
 1830={ #
-	terrain="plains"
+	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods="vegetables"
@@ -129,7 +129,7 @@
 }
 
 1854={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="wood"
@@ -337,7 +337,7 @@
 }
 
 3017={ #
-	terrain="plains"
+	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods="cloth"
@@ -532,7 +532,7 @@
 }
 
 5487={ #
-	terrain="plains"
+	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods="horses"
@@ -558,7 +558,7 @@
 }
 
 5489={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="stone"
@@ -571,7 +571,7 @@
 }
 
 5830={ #
-	terrain="plains"
+	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
 	trade_goods="maize"
@@ -623,7 +623,7 @@
 }
 
 5837={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods=""
@@ -636,7 +636,7 @@
 }
 
 5838={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="honey"
@@ -675,7 +675,7 @@
 }
 
 5857={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="woad"
@@ -727,7 +727,7 @@
 }
 
 6260={ #
-	terrain="plains"
+	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods=""

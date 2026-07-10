@@ -688,7 +688,7 @@
 }
 
 4627={ #Plainfield
-	terrain="plains"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="grain"
@@ -883,7 +883,7 @@
 }
 
 6225={ #Newport
-	terrain="plains"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="continental"
 	trade_goods="fish"

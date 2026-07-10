@@ -249,6 +249,19 @@ frenchville_heritage = {
    }
 
    trigger = {
-      tag = FVV
+      always = no
+   }
+}
+texas_heritage = {
+   	modifier = {
+      #good
+      global_nobles_desired_pop_ratio = 0.10
+      happiness_for_same_culture_modifier = 0.05
+    #bad
+      enact_law_cost_modifier = 0.30
+   }
+
+   trigger = {
+      tag = TEX
    }
 }

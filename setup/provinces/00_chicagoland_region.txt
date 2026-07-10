@@ -571,7 +571,7 @@
 }
 
 5311={ #Bryan
-	terrain="farmland"
+	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
 	trade_goods="vegetables"

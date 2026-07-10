@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
-	trade_goods="wild_game"
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -267,7 +267,7 @@
 	terrain="forest"
 	culture="copperhead"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -436,7 +436,7 @@
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
-	trade_goods="wood"
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -449,7 +449,7 @@
 	terrain="forest"
 	culture="copperhead"
 	religion="lakeshore"
-	trade_goods="glass"
+	trade_goods="base_metals"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="city"
@@ -483,7 +483,7 @@
 	terrain="hills"
 	culture="copperhead"
 	religion="lakeshore"
-	trade_goods="clay"
+	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="city"
@@ -538,7 +538,7 @@
 	terrain="hills"
 	culture="copperhead"
 	religion="lakeshore"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
@@ -840,7 +840,7 @@
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
-	trade_goods="limestone"
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1067,7 +1067,7 @@
 	terrain="hills"
 	culture="copperhead"
 	religion="rivertracer"
-	trade_goods="rice"
+	trade_goods="iron"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1116,7 +1116,7 @@
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
-	trade_goods="stone"
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

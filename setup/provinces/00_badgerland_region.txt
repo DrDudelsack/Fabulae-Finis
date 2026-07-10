@@ -54,7 +54,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="salt"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="plains"
 	culture="menominee"
 	religion="unitarian_universialism"
-	trade_goods="rice"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="walloon"
 	religion="lakeshore"
-	trade_goods="salt"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -628,7 +628,7 @@
 	terrain="plains"
 	culture="menominee"
 	religion="viking"
-	trade_goods="leather"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -641,7 +641,7 @@
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -849,7 +849,7 @@
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
