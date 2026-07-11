@@ -2124,7 +2124,7 @@ country = {
 		}
 		LKK = { #Lakefront
 			government = tribal_kingdom
-			primary_culture = cheesehead
+			primary_culture = wisconsindeutsch
 			religion = viking
 			capital = 5121 
 
@@ -2136,7 +2136,7 @@ country = {
 			}
 
 			own_control_core = {
-				5121 5124 4015 5124 4014 4016 5122 5123 8847
+				5121 5124 4015 5124 4014 4016 5122 5123
 			}
 		}
 		YUP = { #Yoopland
@@ -2887,7 +2887,7 @@ country = {
 			}
 
 			own_control_core = {
-				2024 2083 2085 2025 2084 2082 11734
+				2024 2083 2085 2084 2082 11734
 				3408
 			}
 		}
@@ -3292,7 +3292,7 @@ country = {
 		}
 		WPC = { #Waupaca
 			government = tribal_kingdom
-			primary_culture = menominee
+			primary_culture = cheesehead
 			religion = viking
 			capital = 573
 
@@ -3307,6 +3307,40 @@ country = {
 				573 574 575 2566 
 			}
 		}
+		MNE = { #Menominee
+			government = tribal_kingdom
+			primary_culture = menominee
+			religion = viking
+			capital = 11889
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				11889 8850 8848 8847
+			}
+		}
+		HCK = { #Ho-Chunk
+			government = tribal_kingdom
+			primary_culture = hoocak
+			religion = viking
+			capital = 4699
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4699 2025 2026
+			}
+		}
 		NRT = { #Northwoods
 			government = tribal_chiefdom
 			primary_culture = cheesehead
@@ -3314,7 +3348,7 @@ country = {
 			capital = 6283
 
 			own_control_core = {
-				6283 6282 8851 11889 7919 7918 7917 6281 8848 2027 8850 7916
+				6283 6282 8851 7919 7918 7917 6281 2027 7916
 			}
 		}
 		WSR = { #Wisconsin Rapids
@@ -3331,7 +3365,7 @@ country = {
 			}
 
 			own_control_core = {
-				4698 4700 2026 4699 4698 4697
+				4698 4700 4698 4697
 			}
 		}
 		TUN = { #Thunder Bay

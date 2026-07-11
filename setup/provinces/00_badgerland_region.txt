@@ -13,7 +13,7 @@
 
 573={ #Sīsepikamiw
 	terrain="farmland"
-	culture="menominee"
+	culture="cheesehead"
 	religion="viking"
 	trade_goods="leather"
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 575={ #Pawāhān-Sīpiah
 	terrain="plains"
-	culture="menominee"
+	culture="cheesehead"
 	religion="unitarian_universialism"
 	trade_goods="rice"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 2025={ #Neillsville
 	terrain="forest"
-	culture="cheesehead"
+	culture="hoocak"
 	religion="viking"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 2026={ #Marshfield
 	terrain="plains"
-	culture="cheesehead"
+	culture="hoocak"
 	religion="viking"
 	trade_goods="horses"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 2566={ #Wākoh
 	terrain="plains"
-	culture="menominee"
+	culture="cheesehead"
 	religion="unitarian_universialism"
 	trade_goods="grain"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2567={ #Wāpan
 	terrain="plains"
-	culture="menominee"
+	culture="cheesehead"
 	religion="unitarian_universialism"
 	trade_goods="horses"
 	civilization_value=10
@@ -444,7 +444,7 @@
 
 4014={ #Kēwaeskam
 	terrain="plains"
-	culture="cheesehead"
+	culture="wisconsindeutsch"
 	religion="viking"
 	trade_goods="honey"
 	civilization_value=10
@@ -457,7 +457,7 @@
 
 4015={ #Omīnīw
 	terrain="marsh"
-	culture="cheesehead"
+	culture="wisconsindeutsch"
 	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -470,7 +470,7 @@
 
 4016={ #Sāpīwaehekaneh
 	terrain="plains"
-	culture="cheesehead"
+	culture="wisconsindeutsch"
 	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -509,7 +509,7 @@
 
 4699={ #Xeešuc
 	terrain="plains"
-	culture="cheesehead"
+	culture="hoocak"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10
@@ -561,7 +561,7 @@
 
 4948={ #
 	terrain="marsh"
-	culture="cheesehead"
+	culture="wisconsindeutsch"
 	religion="unitarian_universialism"
 	trade_goods="earthware"
 	civilization_value=10
@@ -587,7 +587,7 @@
 
 5121={ #Oskas
 	terrain="marsh"
-	culture="menominee"
+	culture="wisconsindeutsch"
 	religion="viking"
 	trade_goods="rice"
 	civilization_value=10
@@ -626,7 +626,7 @@
 
 5124={ #Wanikaqmiw
 	terrain="plains"
-	culture="menominee"
+	culture="wisconsindeutsch"
 	religion="viking"
 	trade_goods="grain"
 	civilization_value=10
@@ -821,7 +821,7 @@
 
 8847={ #Omīniahkan
 	terrain="marsh"
-	culture="cheesehead"
+	culture="menominee"
 	religion="viking"
 	trade_goods="tubers"
 	civilization_value=10
@@ -834,7 +834,7 @@
 
 8848={ #Wāpanahkīw-Otaeskonekan
 	terrain="forest"
-	culture="cheesehead"
+	culture="menominee"
 	religion="viking"
 	trade_goods="woad"
 	civilization_value=10
@@ -860,7 +860,7 @@
 
 8850={ #Sāwanoh
 	terrain="marsh"
-	culture="cheesehead"
+	culture="menominee"
 	religion="viking"
 	trade_goods="maple"
 	civilization_value=10
@@ -899,7 +899,7 @@
 
 11889={ #
 	terrain="forest"
-	culture="cheesehead"
+	culture="menominee"
 	religion="viking"
 	trade_goods="wood"
 	civilization_value=10

@@ -286,7 +286,7 @@
 
 2156={ #
 	terrain="hills"
-	culture=""
+	culture="utahn"
 	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 2157={ #
 	terrain="hills"
-	culture=""
+	culture="utahn"
 	religion="atomicist"
 	trade_goods=""
 	civilization_value=10

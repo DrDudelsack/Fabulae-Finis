@@ -117,7 +117,7 @@
 
 6964={ #
 	terrain="steppes"
-	culture="texan"
+	culture="estacadan"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10

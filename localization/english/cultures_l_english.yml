@@ -147,6 +147,7 @@
  dhegihan:0 "Dhegihan"
  ioway:0 "Ioway"
  otoe_missouria:0 "Otoe-Missouria"
+ hoocak:0 "Hoocąk"
 
  ## Yankee ##
  new_englander:0 "Yankee"
@@ -182,6 +183,7 @@
  hermanndeutsch:0 "Weinstrasser" #Named after prominent Missouri wine making corridor
  texaner:0 "Freidenker" #Free-Thinker
  wolgadeutsche:0 "Wolgadeutsche"
+ wisconsindeutsch:0 "Wisconsindeutsch" #Wisconsin High German
  
  ## Californian ##
  californian:0 "Californian"

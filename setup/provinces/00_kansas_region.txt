@@ -689,7 +689,7 @@
 
 5943={ #Tribune
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10

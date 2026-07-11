@@ -533,7 +533,7 @@
 
 4159={ #
 	terrain="steppes"
-	culture="badlander"
+	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
@@ -1014,7 +1014,7 @@
 
 7679={ #
 	terrain="steppes"
-	culture="dakota"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods="steppe_horses"
 	civilization_value=10

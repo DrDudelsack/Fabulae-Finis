@@ -39,7 +39,7 @@
 
 139={ #
 	terrain="dry_plains"
-	culture="tejano"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="cattle"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 142={ #
 	terrain="dry_plains"
-	culture="tejano"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="beans"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 3203={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="cattle"
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 3205={ #
 	terrain="steppes"
-	culture="tejano"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="beans"
 	civilization_value=10

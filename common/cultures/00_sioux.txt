@@ -394,6 +394,7 @@
 		}
 		ioway = {}
 		otoe_missouria = {}
+		hoocak = {} #Ho-chunk
 	}
 	
 	barbarian_names = { 

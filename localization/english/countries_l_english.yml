@@ -245,6 +245,10 @@
  IRN_ADJ:0 "Irontonian"
  FTL:0 "Fort Leonard"
  FTL_ADJ:0 "Leonarder"
+ MNE:0 "Menominee"
+ MNE_ADJ:0 "Menominee"
+ HCK:0 "Ho-Chunk"
+ HCK_ADJ:0 "Hoocąk"
 
  ## Great Plains ##
  NDK:0 "Dakhóta Wazíyata"

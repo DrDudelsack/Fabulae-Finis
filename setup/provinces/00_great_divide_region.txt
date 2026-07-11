@@ -1,6 +1,6 @@
 ﻿131={ #
 	terrain="mountain"
-	culture=""
+	culture="utahn"
 	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 132={ #
 	terrain="mountain"
-	culture=""
+	culture="utahn"
 	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 3777={ #
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3778={ #
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 5941={ #Cheyenne Wells
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 5942={ #Lamar
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 6197={ #
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 6198={ #
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 6199={ #
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 7694={ #
 	terrain="mountain"
-	culture=""
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 7747={ #Fort Morgan
 	terrain="steppes"
-	culture="grangelander"
+	culture="coloradan"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10

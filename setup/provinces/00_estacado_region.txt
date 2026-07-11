@@ -13,7 +13,7 @@
 
 10={ #
 	terrain="dry_plains"
-	culture="tejano"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 3729={ #
 	terrain="steppes"
-	culture="neomexicano"
+	culture="estacadan"
 	religion="aphite"
 	trade_goods=""
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 4566={ #
 	terrain="dry_plains"
-	culture="arixan"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods=""
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 6993={ #
 	terrain="steppes"
-	culture="neomexicano"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 6994={ #
 	terrain="steppes"
-	culture="arixan"
+	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="beans"
 	civilization_value=10
