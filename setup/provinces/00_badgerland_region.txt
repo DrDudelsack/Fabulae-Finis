@@ -28,7 +28,7 @@
 	terrain="plains"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods="wood"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="plains"
 	culture="cheesehead"
 	religion="catholic"
-	trade_goods="woad"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="hills"
 	culture="cheesehead"
 	religion="viking"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="plains"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods="earthware"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="cheesehead"
 	religion="lakeshore"
-	trade_goods="earthware"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="walloon"
 	religion="lakeshore"
-	trade_goods="grain"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -459,7 +459,7 @@
 	terrain="marsh"
 	culture="wisconsindeutsch"
 	religion="lakeshore"
-	trade_goods="vegetables"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -563,7 +563,7 @@
 	terrain="marsh"
 	culture="wisconsindeutsch"
 	religion="unitarian_universialism"
-	trade_goods="earthware"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -654,7 +654,7 @@
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
-	trade_goods="fur"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -719,7 +719,7 @@
 	terrain="hills"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods="clay"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -732,7 +732,7 @@
 	terrain="hills"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -897,7 +897,7 @@
 	}
 }
 
-11889={ #
+11889={ #Menominee
 	terrain="forest"
 	culture="menominee"
 	religion="viking"

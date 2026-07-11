@@ -772,3 +772,18 @@ maize = { #Maize
 	}
 	color = rgb { 168 134 12 }
 }
+beer = {
+	category = 5
+
+	gold = 0.25
+
+	province = {
+		local_slaves_happyness = happiness_large_svalue
+	}
+
+	country = {
+		global_population_growth = 0.06
+	}
+
+	color = rgb { 260 90 20 }
+}

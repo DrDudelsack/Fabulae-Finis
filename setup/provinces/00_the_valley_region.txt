@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="joaquino"
 	religion="caesarist"
-	trade_goods="grain"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods="cattle"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1159,7 +1159,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods="cattle"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

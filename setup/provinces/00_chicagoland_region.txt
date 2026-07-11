@@ -135,7 +135,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods="clay"
+	trade_goods="beer"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -284,7 +284,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods="cloth"
+	trade_goods="beer"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -593,7 +593,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods="tubers"
+	trade_goods="beer"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -687,7 +687,7 @@
 
 8755={ #Rockford
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
 	civilization_value=18
@@ -706,7 +706,7 @@
 
 8756={ #Dekalb
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="fissionist"
 	trade_goods="horses"
 	civilization_value=22
@@ -727,7 +727,7 @@
 
 8757={ #Ottawa
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=18

@@ -28,4 +28,11 @@ provinces = { #Any entry must contain a comment with city name.
 		modifier = { modifier = smithfield_ham always = yes }
 	}
 
+	4206 = { #St. Louis
+		modifier = { modifier = annheuser_busch_brewery always = yes }
+	}
+
+	8219 = { #Rock Island
+		modifier = { modifier = rock_island_arsenal always = yes }
+	}
 }

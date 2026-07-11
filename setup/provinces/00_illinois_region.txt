@@ -286,7 +286,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -299,7 +299,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods="clay"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -336,7 +336,7 @@
 
 4683={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
@@ -349,7 +349,7 @@
 
 4684={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="salt"
 	civilization_value=10
@@ -642,7 +642,7 @@
 
 7546={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="maize"
 	civilization_value=10
@@ -655,7 +655,7 @@
 
 7547={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
@@ -668,7 +668,7 @@
 
 7548={ #
 	terrain="plains"
-	culture="gatewayan"
+	culture="heartlander"
 	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10

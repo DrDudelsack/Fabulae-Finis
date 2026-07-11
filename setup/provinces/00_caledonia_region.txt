@@ -41,7 +41,7 @@
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="mountain"
 	culture="dakelh"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

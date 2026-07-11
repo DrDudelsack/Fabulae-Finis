@@ -515,6 +515,10 @@
  APH_ADJ:0 "Apache"
  WNN:0 "Winnemuca"
  WNN_ADJ:0 "Winnemucan"
+ MMT:0 "Mammoth Lakes"
+ MMT_ADJ:0 "Mammoth"
+ ELK:0 "Elko"
+ ELK_ADJ:0 "Elkonian"
 
  ## East Canada ##
  FRO:0 "Francontario"

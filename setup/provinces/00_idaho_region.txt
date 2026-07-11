@@ -80,7 +80,7 @@
 	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="mountain"
 	culture="nez_perce"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="mountain"
 	culture="montaneer"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

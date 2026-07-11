@@ -171,7 +171,7 @@
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
-	trade_goods="glass"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
-	trade_goods="stone"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

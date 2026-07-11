@@ -15,7 +15,7 @@
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="mountain"
 	culture="coast_salish"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -756,7 +756,7 @@
 	terrain="forest"
 	culture="wakashan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1055,7 +1055,7 @@
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1081,7 +1081,7 @@
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1120,7 +1120,7 @@
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

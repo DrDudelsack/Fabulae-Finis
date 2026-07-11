@@ -405,7 +405,7 @@
 	terrain="mountain"
 	culture="dakelh"
 	religion="raven_tales"
-	trade_goods=""
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

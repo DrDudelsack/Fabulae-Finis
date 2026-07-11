@@ -786,7 +786,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="bostonian"
-	trade_goods="woad"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -812,7 +812,7 @@
 	terrain="forest"
 	culture="hudsonian"
 	religion="bostonian"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -864,7 +864,7 @@
 	terrain="hills"
 	culture="haudenosaunee"
 	religion="gaiwiio"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"

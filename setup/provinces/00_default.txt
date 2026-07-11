@@ -85909,7 +85909,7 @@
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank=""
 	tribesmen={
 		amount=1
 	}

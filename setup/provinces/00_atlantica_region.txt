@@ -745,7 +745,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods="earthware"
+	trade_goods="beer"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"

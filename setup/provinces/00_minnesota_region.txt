@@ -194,7 +194,7 @@
 	terrain="farmland"
 	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
@@ -502,7 +502,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
@@ -939,7 +939,7 @@
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="fur"
+	trade_goods="beer"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -1120,7 +1120,7 @@
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"

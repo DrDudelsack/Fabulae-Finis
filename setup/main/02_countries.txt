@@ -799,7 +799,25 @@ country = {
 			}
 
 			own_control_core = {
-				2816 2815 2814 7904 7903 6719 6145 6720 345 7905 344
+				2816 2815 2814 7904 7903 6719 6145 6720
+			}
+		}
+
+		MMT = { # Mammoth Lakes
+			government = tribal_kingdom
+			primary_culture = paiute
+			religion = dreamer
+			capital = 344
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				344 345 7905
 			}
 		}
 
@@ -3996,10 +4014,27 @@ country = {
 			government = tribal_kingdom
 			primary_culture = paiute
 			religion = dreamer
-			capital = 3245
+			capital = 1636
 
 			own_control_core = {
-				3245 1636 3246 3247 6195 8857 8858 1628 1626
+				1636 3246 3247 6195 8857 8858 1628 1626
+			}
+		}
+		ELK = { #Elko
+			government = tribal_kingdom
+			primary_culture = battleborn
+			religion = loneranger
+			capital = 3245
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3245
 			}
 		}
 		WNN = { #Winnemuca

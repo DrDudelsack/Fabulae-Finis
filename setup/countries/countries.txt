@@ -261,6 +261,8 @@ GAD = "setup/countries/west_coast/gadsen.txt"
 DNH = "setup/countries/west_coast/dine_bikeyah.txt"
 APH = "setup/countries/west_coast/apacheria.txt"
 WNN = "setup/countries/west_coast/winnemuca.txt"
+ELK = "setup/countries/west_coast/elko.txt"
+MMT = "setup/countries/west_coast/mammoth_lakes.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

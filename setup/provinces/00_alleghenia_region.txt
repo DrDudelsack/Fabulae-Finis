@@ -642,7 +642,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="fruits"
+	trade_goods="beer"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -674,7 +674,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -690,7 +690,7 @@
 	terrain="forest"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="wood"
+	trade_goods="beer"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"

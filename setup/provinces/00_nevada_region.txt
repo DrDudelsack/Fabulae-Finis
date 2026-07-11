@@ -132,7 +132,7 @@
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -515,7 +515,7 @@
 	terrain="hills"
 	culture="socaleno"
 	religion="loneranger"
-	trade_goods="cattle"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -567,7 +567,7 @@
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -697,7 +697,7 @@
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -710,7 +710,7 @@
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

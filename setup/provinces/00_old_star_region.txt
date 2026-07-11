@@ -106,7 +106,7 @@
 	terrain="plains"
 	culture="texaner"
 	religion="colossalist"
-	trade_goods="earthware"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="plains"
 	culture="texanane"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="catholic"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1029,7 +1029,7 @@
 	terrain="plains"
 	culture="texanane"
 	religion="loneranger"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1042,7 +1042,7 @@
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

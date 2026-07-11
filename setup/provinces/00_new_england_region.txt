@@ -249,7 +249,7 @@
 	terrain="plains"
 	culture="bayfolk"
 	religion="fathomless"
-	trade_goods="fish"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="farmland"
 	culture="bayfolk"
 	religion="continental"
-	trade_goods="earthware"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -756,7 +756,7 @@
 	terrain="hills"
 	culture="bayfolk"
 	religion="gothic"
-	trade_goods="woad"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -184,7 +184,7 @@
 	terrain="steppes"
 	culture="wolgadeutsche"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="farmland"
 	culture="dakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="steppes"
 	culture="northlander"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="steppes"
 	culture="wolgadeutsche"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="farmland"
 	culture="wolgadeutsche"
 	religion="lutheran"
-	trade_goods="buffalo"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="plains"
 	culture="dakota"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -964,7 +964,7 @@
 	terrain="steppes"
 	culture="wolgadeutsche"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1055,7 +1055,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1133,7 +1133,7 @@
 	terrain="steppes"
 	culture="badlander"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

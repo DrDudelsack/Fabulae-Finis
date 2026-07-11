@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="cloth"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -239,7 +239,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -416,7 +416,7 @@
 	terrain="farmland"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="leather"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -720,7 +720,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="wild_game"
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
