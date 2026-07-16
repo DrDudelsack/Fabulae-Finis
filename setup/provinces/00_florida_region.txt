@@ -234,8 +234,8 @@
 
 3140={ #
 	terrain="plains"
-	culture="sofloano"
-	religion="americanist"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -247,8 +247,8 @@
 
 3141={ #
 	terrain="plains"
-	culture="sofloano"
-	religion="americanist"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3274={ #
 	terrain="jungle"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 3275={ #
 	terrain="flood_plain"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3965={ #
 	terrain="jungle"
 	culture="miccosukee"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3966={ #
 	terrain="jungle"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3967={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -429,8 +429,8 @@
 
 4818={ #
 	terrain="plains"
-	culture="sunshiner"
-	religion="shriner"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4819={ #
 	terrain="plains"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 5352={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -481,8 +481,8 @@
 
 5353={ #
 	terrain="marsh"
-	culture="sofloano"
-	religion="americanist"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -494,8 +494,8 @@
 
 5457={ #
 	terrain="plains"
-	culture="sunshiner"
-	religion="shriner"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -507,7 +507,7 @@
 
 5458={ #
 	terrain="plains"
-	culture="sunshiner"
+	culture="amerikaniotis"
 	religion="shriner"
 	trade_goods="leather"
 	civilization_value=10
@@ -560,7 +560,7 @@
 6612={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 6613={ #
 	terrain="jungle"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7314={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 7316={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 7643={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 7644={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 7645={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 7646={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 7647={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -819,8 +819,8 @@
 
 9491={ #
 	terrain="plains"
-	culture="sunshiner"
-	religion="americanist"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 9492={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -923,8 +923,8 @@
 
 11935={ #
 	terrain="plains"
-	culture="sunshiner"
-	religion="shriner"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 11940={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 11941={ #
 	terrain="marsh"
 	culture="sunshiner"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 11942={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 11943={ #
 	terrain="plains"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 11944={ #
 	terrain="jungle"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -1053,8 +1053,8 @@
 
 11945={ #
 	terrain="plains"
-	culture="sofloano"
-	religion="americanist"
+	culture="amerikaniotis"
+	religion="byzantine_americanists"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 11946={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="americanist"
+	religion="byzantine_americanists"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0

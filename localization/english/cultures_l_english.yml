@@ -53,6 +53,7 @@
  floridian:0 "Floridian"
  sunshiner:0 "Sunshiner"
  sofloano:0 "Sofloano"
+ amerikaniotis:0 "Amerikanióte" 
 
  ## Northlake ##
  northlake:0 "Northlake"
@@ -69,6 +70,7 @@
  heartlander:0 "Heartlander" 
  grangelander:0 "Grangelander"
  okie:0 "Okie" 
+ driftlander:0 "Driftlander"
 
  ## Laurentian ##
  laurentian:0 "Laurentian"
@@ -183,7 +185,7 @@
  hermanndeutsch:0 "Weinstrasser" #Named after prominent Missouri wine making corridor
  texaner:0 "Freidenker" #Free-Thinker
  wolgadeutsche:0 "Wolgadeutsche"
- wisconsindeutsch:0 "Wisconsindeutsch" #Wisconsin High German
+ wisconsindeutsch:0 "Grünbuchtlander" #Wisconsin High German
  
  ## Californian ##
  californian:0 "Californian"

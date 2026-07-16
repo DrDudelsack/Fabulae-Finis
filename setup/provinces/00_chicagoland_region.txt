@@ -881,7 +881,7 @@
 
 9511={ #Galena
 	terrain="flood_plain"
-	culture="heartlander"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="maize"
 	civilization_value=18
@@ -900,7 +900,7 @@
 
 9512={ #Freeport
 	terrain="plains"
-	culture="heartlander"
+	culture="driftlander"
 	religion="catholic"
 	trade_goods="tobacco"
 	civilization_value=18

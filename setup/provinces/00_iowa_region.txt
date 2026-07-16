@@ -65,7 +65,7 @@
 
 1182={ #
 	terrain="plains"
-	culture="minnesotan"
+	culture="driftlander"
 	religion="lutheran"
 	trade_goods="maize"
 	civilization_value=10
@@ -185,7 +185,7 @@
 
 4520={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="driftlander"
 	religion="lutheran"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -315,7 +315,7 @@
 
 6427={ #Hiromaha Nige
 	terrain="hills"
-	culture="heartlander"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="stone"
 	civilization_value=10
@@ -328,7 +328,7 @@
 
 6428={ #
 	terrain="hills"
-	culture="minnesotan"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="maple"
 	civilization_value=10
@@ -427,7 +427,7 @@
 
 8167={ #Hižukmąk'e
 	terrain="farmland"
-	culture="heartlander"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="earthware"
 	civilization_value=22
@@ -500,7 +500,7 @@
 
 8218={ #
 	terrain="flood_plain"
-	culture="heartlander"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="stone"
 	civilization_value=20

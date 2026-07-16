@@ -54,6 +54,17 @@ continental = { # Continental
 	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+byzantine_americanists = { # Neoellinismós
+	color = rgb { 64 44 143 }
+	modifier = {
+		global_citizen_happyness = 0.04
+		spearmen_discipline = 0.10
+		army_maintenance_cost = 0.15
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_penny
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Protestant ##
 evangelical = { # Evangelical
 	color = hsv { 0.5  0.25  0.7 }

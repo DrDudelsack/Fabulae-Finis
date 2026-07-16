@@ -1735,8 +1735,7 @@
 		Zouboukos
 	}
 	culture = {
-		sunshiner = {
-		}
+		sunshiner = {}
 		sofloano = {
 			male_names = {
 				A_act_ngelo Abner Abraham Adam Addison Adler Agust_i_act_n Alan Alberto Alejandro Alfredo Alessandro Alonso Alter Andr_e_act_s Anselmo Antonio Aramis Ariel Arnold Arturo Assane Asher Ashton Atl_a_act_ntico Axel
@@ -3511,6 +3510,7 @@
 				Zwilich
 			}
 		}
+		amerikaniotis = {} #Greeks
 	}
 	
 	barbarian_names = { 

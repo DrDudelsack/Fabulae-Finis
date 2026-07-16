@@ -195,7 +195,7 @@
 
 2082={ #Huuksac
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="earthware"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 2083={ #Nįoxawanį
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="viking"
 	trade_goods="beer"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2084={ #Sparta
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="viking"
 	trade_goods="tubers"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 2085={ #Mondovi
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="viking"
 	trade_goods="tubers"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 3407={ #Nįį'uic
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="lutheran"
 	trade_goods="stone"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3408={ #Hinųkwas
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="lutheran"
 	trade_goods="fish"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 3409={ #
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="lutheran"
 	trade_goods="clay"
 	civilization_value=10
@@ -717,7 +717,7 @@
 
 7520={ #Wanagoomįk
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="unitarian_universialism"
 	trade_goods="beer"
 	civilization_value=10
@@ -756,7 +756,7 @@
 
 7523={ #Xeešoc
 	terrain="hills"
-	culture="cheesehead"
+	culture="driftlander"
 	religion="unitarian_universialism"
 	trade_goods="base_metals"
 	civilization_value=10

@@ -165,7 +165,7 @@
 
 328={ #Wapaha ša
 	terrain="hills"
-	culture="minnesotan"
+	culture="driftlander"
 	religion="viking"
 	trade_goods="tubers"
 	civilization_value=22
@@ -220,7 +220,7 @@
 
 1183={ #Winona
 	terrain="hills"
-	culture="minnesotan"
+	culture="driftlander"
 	religion="twainist"
 	trade_goods="wild_game"
 	civilization_value=22
@@ -247,7 +247,7 @@
 
 1184={ #Stewartville
 	terrain="plains"
-	culture="minnesotan"
+	culture="driftlander"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=18
