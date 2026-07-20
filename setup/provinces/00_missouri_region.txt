@@ -345,7 +345,7 @@
 4001={ #
 	terrain="flood_plain"
 	culture="riverlander"
-	religion="egyptology"
+	religion="twainist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 5446={ #Kirksville
 	terrain="plains"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5537={ #
 	terrain="forest"
 	culture="riverlander"
-	religion="egyptology"
+	religion="twainist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 6798={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -1150,7 +1150,7 @@
 8646={ #Moberly
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0

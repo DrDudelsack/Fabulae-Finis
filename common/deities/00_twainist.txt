@@ -405,3 +405,105 @@ deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 
 		economy_apotheosis_province_improvement_effect = yes
 	}
 }
+deity_spirit_of_st_louis = { #Charles Lindbergh's famous airplane voyage
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = twainist
+				CULTURE = gatewayan
+			}
+			deity:omen_spirit_of_st_louis = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_cohort_start_experience = deity_global_cohort_start_experience_svalue }
+    omen = { land_morale_modifier = omen_land_morale_modifier_svalue }
+	religion = twainist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_manpower_effect = yes
+    }
+}
+deity_ulysses = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_ulysses = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_manpower_modifier = deity_global_manpower_modifier_svalue }
+	omen = { agressive_expansion_monthly_change = omen_aggressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        culture_apotheosis_capital_effect = yes
+    }
+}
+deity_garland = {
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = twainist
+				CULTURE = driftlander
+			}
+			deity:omen_garland = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_freemen_happyness = deity_global_freemen_happyness_svalue }
+	omen = { build_cost = omen_build_cost_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = culture #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_chopin = { #Kate Chopin, French St. Louisian author, early feminist author
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = twainist
+			}
+			deity:omen_chopin = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_citizen_happyness = omen_global_citizen_happiness_svalue } #Bonus from Omen
+	religion = twainist
+	deity_category = fertility #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        culture_apotheosis_capital_effect = yes
+    }
+}

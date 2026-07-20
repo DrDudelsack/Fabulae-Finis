@@ -499,7 +499,7 @@ country = {
 		TRU = { #Truman
 			government = oligarchic_republic
 			primary_culture = heartlander
-			religion = catholic
+			religion = twainist
 			capital = 5446
 
 			technology={
@@ -553,7 +553,7 @@ country = {
 		BTH = { #Bootheel
 			government = tribal_kingdom
 			primary_culture = riverlander
-			religion = egyptology
+			religion = twainist
 			capital = 5536
 
 			technology={
@@ -1799,8 +1799,8 @@ country = {
 		}
 		WNO = { #Winona
 			government = democratic_republic
-			primary_culture = minnesotan
-			religion = catholic
+			primary_culture = driftlander
+			religion = twainist
 			capital = 1183
 
 			technology={
@@ -1851,7 +1851,7 @@ country = {
 		}
 		DBQ = { #Dubuque
 			government = democratic_republic
-			primary_culture = heartlander
+			primary_culture = driftlander
 			religion = twainist
 			capital = 8167
 
@@ -2575,7 +2575,7 @@ country = {
 		}
 		DEC = { #Decorah
 			government = despotic_monarchy
-			primary_culture = heartlander
+			primary_culture = driftlander
 			religion = lutheran
 			capital = 6428
 
@@ -2893,7 +2893,7 @@ country = {
 		}
 		EAU = { #Eau Claire
 			government = tribal_kingdom
-			primary_culture = cheesehead
+			primary_culture = driftlander
 			religion = viking
 			capital = 2024 
 

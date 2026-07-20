@@ -64,5 +64,21 @@ deity_manager = {
 			key = omen_bellamy
 			deity = deity_bellamy
 		}
+		716 = {
+			key = omen_spirit_of_st_louis
+			deity = deity_spirit_of_st_louis
+		}
+		717 = {
+			key = omen_ulysses
+			deity = deity_ulysses
+		}
+		718 = {
+			key = omen_garland
+			deity = deity_garland
+		}
+		719 = {
+			key = omen_chopin
+			deity = deity_chopin
+		}
 	}
 }
