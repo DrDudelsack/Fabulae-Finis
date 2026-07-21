@@ -78,7 +78,7 @@
 
 1829={ #
 	terrain="flood_plain"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 1830={ #
 	terrain="forest"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 1831={ #
 	terrain="plains"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 2474={ #
 	terrain="mountain"
-	culture="ozark"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 2476={ #
 	terrain="mountain"
-	culture="ozark"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="woad"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3014={ #
 	terrain="forest"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3016={ #
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 3017={ #
 	terrain="forest"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 5487={ #
 	terrain="forest"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 5488={ #
 	terrain="forest"
-	culture="ozark"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 5489={ #
 	terrain="forest"
-	culture="ozark"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 5830={ #
 	terrain="flood_plain"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 5832={ #
 	terrain="forest"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 7827={ #
 	terrain="mountain"
-	culture="ozark"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="iron"
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 7828={ #
 	terrain="mountain"
-	culture="ozark"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 7829={ #
 	terrain="mountain"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 8291={ #
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -923,7 +923,7 @@
 
 8292={ #
 	terrain="hills"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 8294={ #
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="base_metals"
 	civilization_value=10

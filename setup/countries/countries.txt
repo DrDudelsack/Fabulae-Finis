@@ -263,6 +263,9 @@ APH = "setup/countries/west_coast/apacheria.txt"
 WNN = "setup/countries/west_coast/winnemuca.txt"
 ELK = "setup/countries/west_coast/elko.txt"
 MMT = "setup/countries/west_coast/mammoth_lakes.txt"
+VCI = "setup/countries/west_coast/victoria_canada.txt"
+BHL = "setup/countries/west_coast/bellingham.txt"
+
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"
@@ -303,3 +306,6 @@ INT = "setup/countries/west_canada/interlake.txt"
 PLP = "setup/countries/west_canada/portage_la_prairie.txt"
 KEN = "setup/countries/west_canada/kenora.txt"
 HDI = "setup/countries/west_canada/haida.txt"
+KTC = "setup/countries/west_canada/ketchikan.txt"
+CEN = "setup/countries/west_canada/central_coast.txt"
+UPT = "setup/countries/west_canada/upper_coast.txt"

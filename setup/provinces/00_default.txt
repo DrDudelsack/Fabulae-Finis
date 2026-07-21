@@ -94822,7 +94822,7 @@
 
 11376={ #
 	terrain="impassable_terrain"
-	culture="choctaw"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10

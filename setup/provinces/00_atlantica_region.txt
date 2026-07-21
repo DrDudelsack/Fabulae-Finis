@@ -39,7 +39,7 @@
 84={ #Bridgeport
 	terrain="farmland"
 	culture="gothamite"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -972,7 +972,7 @@
 3507={ #New Haven
 	terrain="farmland"
 	culture="bayfolk"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1246,7 +1246,7 @@
 5238={ #Manchester
 	terrain="plains"
 	culture="bayfolk"
-	religion="continental"
+	religion="americanist"
 	trade_goods="wine"
 	civilization_value=22
 	barbarian_power=0
@@ -1265,7 +1265,7 @@
 5239={ #Hartford
 	terrain="farmland"
 	culture="vermonter"
-	religion="continental"
+	religion="americanist"
 	trade_goods="clay"
 	civilization_value=22
 	barbarian_power=0

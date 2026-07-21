@@ -1632,6 +1632,7 @@
 	culture = {
 		louisianais = {} #culture group names are Louisianais
 		houma = {} #Houma People
+		isleno = {} #Spanish Louisianans
 		nolan = {
 			levy_template = levy_nolan
 			male_names = {

@@ -4638,6 +4638,7 @@
 				Zuzanyika
 			} 
 		}
+		arkansawyer = {}
 	}
 	
 	barbarian_names = { 

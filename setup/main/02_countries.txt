@@ -835,7 +835,7 @@ country = {
 			}
 
 			own_control_core = {
-				7604 7603 7602 4043 4044 9048 9051 4464 4045 9050 4868 1102 4869
+				7604 7603 7602 4043 4044 9048 9051 4464 4045 9050 4868 1102 4869 1388
 			}
 		}
 
@@ -1301,7 +1301,7 @@ country = {
 		HFT = { #Hartford
 			government = despotic_monarchy
 			primary_culture = vermonter
-			religion = americanist
+			religion = transcendentalist
 			capital = 5239
 
 			technology={
@@ -1834,7 +1834,7 @@ country = {
 		}
 		QDC = { #Quad Cities
 			government = democratic_republic
-			primary_culture = gatewayan
+			primary_culture = heartlander
 			religion = catholic
 			capital = 8219
 
@@ -1885,7 +1885,7 @@ country = {
 		}
 		BUR = { #Burlington
 			government = democratic_republic
-			primary_culture = gatewayan
+			primary_culture = heartlander
 			religion = twainist
 			capital = 7557
 
@@ -2335,7 +2335,7 @@ country = {
 		}
 		AKR = { # Arkansas
 			government = tribal_kingdom
-			primary_culture = arkalatexan
+			primary_culture = arkansawyer
 			religion = revelationist
 			capital = 8294
 
@@ -3066,7 +3066,7 @@ country = {
 		MDC = { # Midcountry
 			government = aristocratic_monarchy
 			primary_culture = piedmontese
-			religion = evangelical
+			religion = americanist
 			capital = 5456 
 
 			technology={
@@ -4358,7 +4358,43 @@ country = {
 			}
 
 			own_control_core = {
-				4871 4870 7734 4872 4462 4463 680 681 7732 7733 682
+				4871 4870 7734 4872 4462 681 7732 7733 682
+			}
+		}
+		VCI = { # Victoria Canada
+			government = theocratic_monarchy
+			primary_culture = canuck
+			religion = gaian
+			capital = 4602
+			succession_law = cognatic_succession_law
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4602 4601 4600 4599
+			}
+		}
+		BHL = { # Bellingham
+			government = theocratic_monarchy
+			primary_culture = coast_salish
+			religion = gaian
+			capital = 7864
+			succession_law = cognatic_succession_law
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7864 7866 7865 4463 680
 			}
 		}
 		ABL = { # Albany OR
@@ -4856,6 +4892,57 @@ country = {
 
 			own_control_core = {
 				1172 1173 1174 1175 1680 1682 1681 5764
+			}
+		}
+		KTC = { # Ketchikan
+			government = tribal_federation
+			primary_culture = tlingit
+			religion = raven_tales
+			capital = 22
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				22 21 
+			}
+		}
+		CEN = { # Central Coast
+			government = tribal_federation
+			primary_culture = wakashan
+			religion = gaian
+			capital = 9274
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9274 9275 53 6137 52
+			}
+		}
+		UPT = { # Upper Coast
+			government = tribal_kingdom
+			primary_culture = wakashan
+			religion = raven_tales
+			capital = 4465
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4465 4466 4467 2916 2918 2916 2917 5762 5763 604
 			}
 		}
 	}

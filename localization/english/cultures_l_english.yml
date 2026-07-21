@@ -23,6 +23,7 @@
  houma:0 "Houma"
  cadjin:0 "Cadjin"
  creole:0 "Creole"
+ isleno:0 "Isleño"
  
  ## Mid-Atlantic ##
  yankee:0 "Mid-Atlantic"
@@ -41,6 +42,7 @@
  dixie:0 "Dixie"
  gulfard:0 "Gulfard"
  tuskegean:0 "Tuskegean"
+ arkansawyer:0 "Arkansawyer"
 
  ## Old Southern ##
  old_southern:0 "Old Southern"

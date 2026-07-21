@@ -1046,7 +1046,7 @@
 
 8217={ #Fairview
 	terrain="marsh"
-	culture="nolan"
+	culture="isleno"
 	religion="vodou"
 	trade_goods="fish"
 	civilization_value=18

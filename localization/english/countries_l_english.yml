@@ -519,6 +519,10 @@
  MMT_ADJ:0 "Mammoth"
  ELK:0 "Elko"
  ELK_ADJ:0 "Elkonian"
+ VCI:0 "Victoria"
+ VCI_ADJ:0 "Victorian"
+ BHL:0 "Bellingham"
+ BHL_ADJ:0 "Bellinghammer"
 
  ## East Canada ##
  FRO:0 "Francontario"
@@ -595,6 +599,12 @@
  KEN_ADJ:0 "Kenoran"
  HDI:0 "Haida Gwaii"
  HDI_ADJ:0 "Haidan"
+ KTC:0 "Ketchikan"
+ KTC_ADJ:0 "Ketchikaner"
+ CEN:0 "Central Coast"
+ CEN_ADJ:0 "Central Coaster"
+ UPT:0 "Upper Coast"
+ UPT_ADJ:0 "Upper Coaster"
 
 # Gaelic #
  AUTINI:0 "Autinia"
