@@ -42,7 +42,7 @@
  turkeysDESC:0 "While domesticated livestock didn't exist for the most part, the exception was the turkey. The mix of red and white meat, as well as side-products like feathers and fertilizer make it quite a useful bird indeed."
  flowers:0 "Flowers"
  flowersDESC:0 "Considered a food of the gods by some, flowers, especially sunflowers, were used in many ways including creating flour, mush, and bread."
- rice:0 "Wild Rice"
+ rice:0 "Rice"
  riceDESC:0 "Wild rice is gathered from shallow lakes and slow-moving streams. Though not widely cultivated, it was harvested through time-honored methods and held both spiritual and subsistence importance."
  #Nobles (Category 2)
  amate:0 "Amate"
@@ -125,3 +125,5 @@
  hemp:0 "Fiber Crops"
  bodark:0 "Bodark"
  bodarkDESC:0 "Bodark, also known as Osage Orange, is a small, shrublike tree native to North America, whose tough, rot-resistant wood is excellent for bowmaking. Bodark produces a large inedible fruit, which is sometimes used for decorative purposes."
+ coffee:0 "Coffee"
+ coffeeDESC:0 ""

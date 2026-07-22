@@ -721,7 +721,7 @@ cacao = { #Cacao
 	}
 	color = rgb { 52 31 2 }
 }
-cofeee = { #Cofee
+coffee = { #Coffee
 	category = 2
 	gold = 0.5
 	province = {
