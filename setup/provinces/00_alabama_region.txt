@@ -28,7 +28,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
-	trade_goods="wood"
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods="cattle"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

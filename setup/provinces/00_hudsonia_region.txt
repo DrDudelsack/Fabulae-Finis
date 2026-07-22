@@ -15,7 +15,7 @@
 	terrain="farmland"
 	culture="hudsonian"
 	religion="clairvoyant"
-	trade_goods="clay"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -204,7 +204,7 @@
 	terrain="mountain"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -468,7 +468,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

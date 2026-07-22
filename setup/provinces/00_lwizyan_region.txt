@@ -971,7 +971,7 @@
 	terrain="forest"
 	culture="arkalatexan"
 	religion="traiteurism"
-	trade_goods="beans"
+	trade_goods="fish"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"

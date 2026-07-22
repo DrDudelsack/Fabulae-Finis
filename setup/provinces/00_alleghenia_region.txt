@@ -178,7 +178,7 @@
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods="iron"
+	trade_goods="wootz_steel"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="iron"
+	trade_goods="wootz_steel"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -658,7 +658,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="gunpowder"
+	trade_goods="wootz_steel"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"

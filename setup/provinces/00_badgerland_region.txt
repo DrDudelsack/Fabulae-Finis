@@ -53,7 +53,7 @@
 1095={ #Ladysmith
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 1098={ #Spooner
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -445,7 +445,7 @@
 4014={ #Kēwaeskam
 	terrain="plains"
 	culture="wisconsindeutsch"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -588,7 +588,7 @@
 5121={ #Oskas
 	terrain="marsh"
 	culture="wisconsindeutsch"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -601,7 +601,7 @@
 5122={ #Sakēmaewataenoh
 	terrain="marsh"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -614,7 +614,7 @@
 5123={ #Ahkōnemeh
 	terrain="marsh"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -627,7 +627,7 @@
 5124={ #Wanikaqmiw
 	terrain="plains"
 	culture="wisconsindeutsch"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -640,7 +640,7 @@
 6281={ #Texas
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -653,7 +653,7 @@
 6282={ #Rhinelander
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -666,7 +666,7 @@
 6283={ #Antigo
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -732,7 +732,7 @@
 	terrain="hills"
 	culture="cheesehead"
 	religion="unitarian_universialism"
-	trade_goods="beer"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -771,7 +771,7 @@
 	terrain="forest"
 	culture="cheesehead"
 	religion="viking"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -783,7 +783,7 @@
 7917={ #Tomahawk
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -796,7 +796,7 @@
 7918={ #Park Falls
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -809,7 +809,7 @@
 7919={ #Minocqua
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -822,7 +822,7 @@
 8847={ #Omīniahkan
 	terrain="marsh"
 	culture="menominee"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -835,7 +835,7 @@
 8848={ #Wāpanahkīw-Otaeskonekan
 	terrain="forest"
 	culture="menominee"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -848,7 +848,7 @@
 8849={ #
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -861,7 +861,7 @@
 8850={ #Sāwanoh
 	terrain="marsh"
 	culture="menominee"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -874,7 +874,7 @@
 8851={ #
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -900,7 +900,7 @@
 11889={ #Menominee
 	terrain="forest"
 	culture="menominee"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

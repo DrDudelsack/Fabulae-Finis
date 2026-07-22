@@ -288,7 +288,7 @@
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
-	trade_goods="fur"
+	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

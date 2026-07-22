@@ -444,7 +444,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -912,7 +912,7 @@
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods="leather"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

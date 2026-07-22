@@ -106,7 +106,7 @@
 	terrain="hills"
 	culture="socaleno"
 	religion="catholic"
-	trade_goods="fish"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -119,7 +119,7 @@
 	terrain="hills"
 	culture="socaleno"
 	religion="caesarist"
-	trade_goods="fish"
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
-	trade_goods="clay"
+	trade_goods="artifacts"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="farmland"
 	culture="socaleno"
 	religion="caesarist"
-	trade_goods="gems"
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1029,7 +1029,7 @@
 	terrain="plains"
 	culture="montereyan"
 	religion="romano_humanism"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

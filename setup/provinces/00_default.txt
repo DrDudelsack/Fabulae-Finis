@@ -1406,7 +1406,7 @@
 	terrain="plains"
 	culture="sierreno"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1926,7 +1926,7 @@
 	terrain="plains"
 	culture="sierreno"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -3564,7 +3564,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -3928,7 +3928,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -3941,7 +3941,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -3967,7 +3967,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -6580,7 +6580,7 @@
 	terrain="plains"
 	culture="lagunero"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8049,7 +8049,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10350,7 +10350,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10402,7 +10402,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -12352,7 +12352,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13483,7 +13483,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13912,7 +13912,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -14367,7 +14367,7 @@
 	terrain="plains"
 	culture=""
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -14965,7 +14965,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15446,7 +15446,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -16369,7 +16369,7 @@
 	terrain="dry_plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -25274,7 +25274,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28511,7 +28511,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28589,7 +28589,7 @@
 	terrain="desert"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28615,7 +28615,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -29070,7 +29070,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -32619,7 +32619,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -33516,7 +33516,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -38924,7 +38924,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41030,7 +41030,7 @@
 	terrain="farmland"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41758,7 +41758,7 @@
 	terrain="dry_plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41784,7 +41784,7 @@
 	terrain="dry_plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -42122,7 +42122,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -42252,7 +42252,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -43656,7 +43656,7 @@
 	terrain="jungle"
 	culture="jamaican"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -43760,7 +43760,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -43838,7 +43838,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -46191,7 +46191,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -46204,7 +46204,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -46919,7 +46919,7 @@
 	terrain="dry_plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -48752,7 +48752,7 @@
 	terrain="desert"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -48765,7 +48765,7 @@
 	terrain="desert"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -48778,7 +48778,7 @@
 	terrain="desert"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -48791,7 +48791,7 @@
 	terrain="desert"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50312,7 +50312,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50455,7 +50455,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -55915,7 +55915,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -55941,7 +55941,7 @@
 	terrain="plains"
 	culture="shiwawita"
 	religion="limpio"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -59308,7 +59308,7 @@
 	terrain="plains"
 	culture="lagunero"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60517,7 +60517,7 @@
 	terrain="plains"
 	culture="tapatio"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60530,7 +60530,7 @@
 	terrain="plains"
 	culture="tapatio"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -61401,7 +61401,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -63091,7 +63091,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -64612,7 +64612,7 @@
 	terrain="plains"
 	culture="sierreno"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -65600,7 +65600,7 @@
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71034,7 +71034,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71060,7 +71060,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71580,7 +71580,7 @@
 	terrain="dry_plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -94044,7 +94044,7 @@
 	terrain="impassable_terrain"
 	culture="utahn"
 	religion="mormon"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

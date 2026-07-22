@@ -28,7 +28,7 @@
 	terrain="impassable_terrain"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1055,7 +1055,7 @@
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

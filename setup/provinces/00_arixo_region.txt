@@ -2,7 +2,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="hills"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="artifacts"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="loneranger"
-	trade_goods="salt"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="mountain"
 	culture="hualapai"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="mountain"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="desert_hills"
 	culture="hopi"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="desert"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="desert_hills"
 	culture="hualapai"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="desert"
 	culture="oodham"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="hills"
 	culture="navajo"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,7 +587,7 @@
 	terrain="hills"
 	culture="navajo"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="desert"
 	culture="shiwawita"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -639,7 +639,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -756,7 +756,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -769,7 +769,7 @@
 	terrain="hills"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -782,7 +782,7 @@
 	terrain="desert_hills"
 	culture="hopi"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +795,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="desert_hills"
 	culture="hopi"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -847,7 +847,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,7 +873,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -886,7 +886,7 @@
 	terrain="desert_hills"
 	culture="hopi"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -899,7 +899,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -912,7 +912,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,7 +938,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,7 +951,7 @@
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -964,7 +964,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -977,7 +977,7 @@
 	terrain="desert_hills"
 	culture="oodham"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="desert_hills"
 	culture="oodham"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1016,7 +1016,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1029,7 +1029,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1042,7 +1042,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1055,7 +1055,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1068,7 +1068,7 @@
 	terrain="plains"
 	culture="zuni"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1081,7 +1081,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1094,7 +1094,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1120,7 +1120,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1133,7 +1133,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1146,7 +1146,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1159,7 +1159,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1172,7 +1172,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1185,7 +1185,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1198,7 +1198,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1211,7 +1211,7 @@
 	terrain="desert"
 	culture="navajo"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1224,7 +1224,7 @@
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1237,7 +1237,7 @@
 	terrain="desert"
 	culture="navajo"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1250,7 +1250,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1263,7 +1263,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1276,7 +1276,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1289,7 +1289,7 @@
 	terrain="desert"
 	culture="apache"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1302,7 +1302,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
-	trade_goods=""
+	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1315,7 +1315,7 @@
 	terrain="desert_hills"
 	culture="navajo"
 	religion="buddhism"
-	trade_goods=""
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1328,7 +1328,7 @@
 	terrain="desert"
 	culture="arixan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1341,7 +1341,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1354,7 +1354,7 @@
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

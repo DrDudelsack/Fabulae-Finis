@@ -429,7 +429,7 @@
 	terrain="farmland"
 	culture="driftlander"
 	religion="twainist"
-	trade_goods="earthware"
+	trade_goods="bodark"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="city"
@@ -707,7 +707,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
-	trade_goods="leather"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

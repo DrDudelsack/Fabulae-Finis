@@ -259,7 +259,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods="wine"
+	trade_goods="bodark"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods="wild_game"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -712,7 +712,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
-	trade_goods="wild_game"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1256,7 +1256,7 @@
 	terrain="forest"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods="fur"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

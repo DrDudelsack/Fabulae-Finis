@@ -14,7 +14,7 @@
 387={ #Lisbon
 	terrain="steppes"
 	culture="northlander"
-	religion="peyotist"
+	religion="lutheran"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 388={ #Webster
 	terrain="steppes"
 	culture="northlander"
-	religion="peyotist"
+	religion="lutheran"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 389={ #Wahpeton
 	terrain="plains"
 	culture="northlander"
-	religion="peyotist"
+	religion="lutheran"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -67,7 +67,7 @@
 	terrain="steppes"
 	culture="mandaree"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="steppes"
 	culture="badlander"
 	religion="sun_dance"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -119,7 +119,7 @@
 	terrain="steppes"
 	culture="badlander"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="mountain"
 	culture="badlander"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="steppes"
 	culture="northlander"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="steppes"
 	culture="northlander"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -261,7 +261,7 @@
 1646={ #Fargo
 	terrain="farmland"
 	culture="northlander"
-	religion="viking"
+	religion="lutheran"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -275,7 +275,7 @@
 	terrain="steppes"
 	culture="northlander"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="steppes"
 	culture="nakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="steppes"
 	culture="nakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="steppes"
 	culture="badlander"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="hills"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="hills"
 	culture="lakota"
 	religion="heartful"
-	trade_goods="vegetables"
+	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="steppes"
 	culture="badlander"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -847,7 +847,7 @@
 	terrain="steppes"
 	culture="northlander"
 	religion="viking"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -912,7 +912,7 @@
 	terrain="steppes"
 	culture="mandaree"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="steppes"
 	culture="mandaree"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,7 +938,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1042,7 +1042,7 @@
 	terrain="steppes"
 	culture="wolgadeutsche"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1094,7 +1094,7 @@
 	terrain="steppes"
 	culture="mandaree"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1146,7 +1146,7 @@
 	terrain="steppes"
 	culture="nakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1159,7 +1159,7 @@
 	terrain="steppes"
 	culture="badlander"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1185,7 +1185,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -405,7 +405,7 @@
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
-	trade_goods="horses"
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

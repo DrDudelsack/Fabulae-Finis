@@ -311,7 +311,7 @@
 	terrain="forest"
 	culture="youser"
 	religion="americanist"
-	trade_goods="wood"
+	trade_goods="artifacts"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -542,7 +542,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods="dye"
+	trade_goods="artifacts"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -679,7 +679,7 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods="dye"
+	trade_goods="artifacts"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
@@ -802,7 +802,7 @@
 	terrain="forest"
 	culture="youser"
 	religion="americanist"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="farmland"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="glass"
+	trade_goods="artifacts"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -840,7 +840,7 @@
 	terrain="farmland"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="marble"
+	trade_goods="artifacts"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
@@ -1323,7 +1323,7 @@
 	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="salt"
+	trade_goods="artifacts"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"

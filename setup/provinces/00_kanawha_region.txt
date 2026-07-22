@@ -223,7 +223,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
-	trade_goods="stone"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
-	trade_goods="vegetables"
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

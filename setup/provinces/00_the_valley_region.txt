@@ -15,7 +15,7 @@
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods="maize"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods="maize"
+	trade_goods="artifacts"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="hills"
 	culture="valleyan"
 	religion="la_hermandad"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="hills"
 	culture="valleyan"
 	religion="sikhism"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="forest"
 	culture="valleyan"
 	religion="sikhism"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="sikhism"
-	trade_goods=""
+	trade_goods="artifacts"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
-	trade_goods="grain"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1250,7 +1250,7 @@
 	terrain="forest"
 	culture="jeffersonian"
 	religion="theosophy"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

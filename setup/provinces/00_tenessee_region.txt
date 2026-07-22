@@ -223,7 +223,7 @@
 	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods="iron"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="hills"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="hills"
 	culture="riverlander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

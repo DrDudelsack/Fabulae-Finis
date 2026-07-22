@@ -1,7 +1,7 @@
 ﻿68={ #Willmar
 	terrain="plains"
 	culture="minnesotan"
-	religion="heartful"
+	religion="catholic"
 	trade_goods="tubers"
 	civilization_value=9
 	barbarian_power=0
@@ -14,7 +14,7 @@
 69={ #Mde Iyedan
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lutheran"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -104,7 +104,7 @@
 239={ #Long Prairie
 	terrain="plains"
 	culture="northlander"
-	religion="heartful"
+	religion="catholic"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -294,7 +294,7 @@
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
-	trade_goods="hallucinogenics"
+	trade_goods="bodark"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -323,7 +323,7 @@
 1752={ #Mdehdakinyan
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lutheran"
 	trade_goods="buffalo"
 	civilization_value=9
 	barbarian_power=0
@@ -336,7 +336,7 @@
 1753={ #Mde Inyan Tankinyanyan
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lutheran"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -349,7 +349,7 @@
 1754={ #Morris
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lutheran"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
@@ -362,7 +362,7 @@
 1755={ #Tin'ta
 	terrain="plains"
 	culture="northlander"
-	religion="viking"
+	religion="lutheran"
 	trade_goods="wild_game"
 	civilization_value=4
 	barbarian_power=0
@@ -925,8 +925,8 @@
 8149={ #Litchfield
 	terrain="plains"
 	culture="minnesotan"
-	religion="heartful"
-	trade_goods="tubers"
+	religion="catholic"
+	trade_goods="maize"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -965,7 +965,7 @@
 8151={ #St. Cloud
 	terrain="farmland"
 	culture="minnesotan"
-	religion="heartful"
+	religion="catholic"
 	trade_goods="maple"
 	civilization_value=13
 	barbarian_power=0

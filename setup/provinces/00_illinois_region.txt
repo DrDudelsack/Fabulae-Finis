@@ -273,7 +273,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods="wood"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -907,7 +907,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods="limestone"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

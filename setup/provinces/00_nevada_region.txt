@@ -567,7 +567,7 @@
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
-	trade_goods="salt"
+	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

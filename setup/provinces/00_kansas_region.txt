@@ -2,7 +2,7 @@
 	terrain="hills"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
-	trade_goods="leather"
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
-	trade_goods="woad"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="ozymandism"
-	trade_goods="fur"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="farmland"
 	culture="grangelander"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods="steppe_horses"
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="forest"
 	culture="dhegihan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods="cattle"
+	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,7 +587,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="hills"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods="leather"
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="forest"
 	culture="grangelander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -920,7 +920,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -959,7 +959,7 @@
 	terrain="plains"
 	culture="ioway"
 	religion="lutheran"
-	trade_goods="vegetables"
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1054,7 +1054,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -1215,7 +1215,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1228,7 +1228,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods="steppe_horses"
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1267,7 +1267,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="heartful"
-	trade_goods=""
+	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

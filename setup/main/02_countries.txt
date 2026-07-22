@@ -1616,7 +1616,7 @@ country = {
 		STC = { #Saint Cloud
 			government = tribal_kingdom
 			primary_culture = minnesotan
-			religion = heartful
+			religion = catholic
 			capital = 8151
 
 			technology={
@@ -2143,7 +2143,7 @@ country = {
 		LKK = { #Lakefront
 			government = tribal_kingdom
 			primary_culture = wisconsindeutsch
-			religion = viking
+			religion = lakeshore
 			capital = 5121 
 
 			technology={
@@ -3328,7 +3328,7 @@ country = {
 		MNE = { #Menominee
 			government = tribal_kingdom
 			primary_culture = menominee
-			religion = viking
+			religion = lakeshore
 			capital = 11889
 
 			technology={
@@ -3362,7 +3362,7 @@ country = {
 		NRT = { #Northwoods
 			government = tribal_chiefdom
 			primary_culture = cheesehead
-			religion = viking
+			religion = lakeshore
 			capital = 6283
 
 			own_control_core = {
@@ -3696,7 +3696,7 @@ country = {
 		KEN = { # Kenora
 			government = tribal_chiefdom
 			primary_culture = anisininew
-			religion = midewiwin
+			religion = rivertracer
 			capital = 9458
 
 			own_control_core = {
