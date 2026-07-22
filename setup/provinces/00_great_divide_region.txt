@@ -158,7 +158,7 @@
 	terrain="desert_hills"
 	culture="keres"
 	religion="buddhism"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="mountain"
 	culture="coloradan"
 	religion="buddhism"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -197,7 +197,7 @@
 	terrain="dry_hills"
 	culture="achomawi"
 	religion="dreamer"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="dry_hills"
 	culture="jeffersonian"
 	religion="caesarist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

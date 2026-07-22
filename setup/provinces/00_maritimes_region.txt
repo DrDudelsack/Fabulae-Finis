@@ -860,7 +860,7 @@
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
-	trade_goods="vegetables"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -860,7 +860,7 @@
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,7 +873,7 @@
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

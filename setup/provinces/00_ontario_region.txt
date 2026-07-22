@@ -891,7 +891,7 @@
 	terrain="plains"
 	culture="francontarien"
 	religion="ursuline"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

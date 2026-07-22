@@ -2,7 +2,7 @@
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
-	trade_goods="grain"
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
-	trade_goods="marble"
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
-	trade_goods=""
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -1041,7 +1041,7 @@
 	terrain="farmland"
 	culture="hudsonian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="marble"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="city"

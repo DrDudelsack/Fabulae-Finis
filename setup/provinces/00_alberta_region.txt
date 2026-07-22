@@ -457,7 +457,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="steppes"
 	culture="metis"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,7 +951,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -964,7 +964,7 @@
 	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="plains"
 	culture="prairielander"
 	religion="mennonite"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

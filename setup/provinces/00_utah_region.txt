@@ -28,7 +28,7 @@
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -353,7 +353,7 @@
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

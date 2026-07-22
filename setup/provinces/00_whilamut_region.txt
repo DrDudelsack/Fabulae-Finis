@@ -171,7 +171,7 @@
 	terrain="forest"
 	culture="chinook"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="plains"
 	culture="chinook"
 	religion="gaian"
-	trade_goods="fruits"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="farmland"
 	culture="kalapuya"
 	religion="gaian"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
