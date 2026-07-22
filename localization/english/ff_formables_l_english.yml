@@ -14,12 +14,6 @@
  LWZ_ADJ:0 "Lwizyanais"
  lwizyan_does_not_exist:0 "#Y Lwizyan#! does not exist."
  lwizyan_claims_tooltip:0 "Lwizyan will gain claims on the region of #Y Lwizyan#!."
- ## Formable Events ##
- ff_formable_event_1_t:0 "A New Capital?"
- ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."
- ff_formable_event_1.a:0 "I'm sure [GetProvince('(int32)6678').GetName] is nice, but I like [ROOT.GetCountry.GetCapital.GetName] more."
- ff_formable_event_1.b:0 "A new capital for a new kingdom!"
- ## Extra ##
 
  form_upper_louisiana:0 "Form Haute-Louisiane"
  form_upper_louisiana_desc:0 "Long ago, the lands of Missouri, Illinois, and Indiana were ruled by a mighty Emperor of the French, all united under the name of Haute-Louisiane.Times have changed, and few remember this long gone realm but ourselves. Let us restore this legendary land!"
@@ -58,3 +52,34 @@
  minnesota_claims_tooltip:0 "North Star will gain claims on the region of #Y North Star#!."
  MINNESOTA_NAME:0 "North Star"
  MINNESOTA_ADJECTIVE:0 "Minnesotan"
+
+ form_twainist_empire:0 "Form the Republic of the Mississippi"
+ form_twainist_empire_desc:0 "Once, the great philosphers and cities of the Great River were united under one banner, before being cast down by the perfidious rust cultists. It is only through sheer will and determination alone, that this once mighty republic can be restored, and balance be restored to Columbia."
+ formable_not_twainist_empire_exists:0 "#Y The Mississippi#! does not exist."
+ TWAINIST_EMPIRE_NAME:0 "The Mississippi"
+ TWAINIST_EMPIRE_ADJECTIVE:0 "Mississippian"
+ twainist_empire_modifier:0 "Mississippi Reborn"
+ desc_twainist_empire_modifier:0 "No longer a distant memory, the Grand Republic of The Mississippi has been reborn."
+ COLUMBIA_NAME:0 "Columbia"
+ COLUMBIA_ADJECTIVE:0 "Columbian"
+
+ ## Formable Events ##
+ ff_formable_event_1_t:0 "A New Capital?"
+ ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."
+ ff_formable_event_1.a:0 "I'm sure [GetProvince('(int32)6678').GetName] is nice, but I like [ROOT.GetCountry.GetCapital.GetName] more."
+ ff_formable_event_1.b:0 "A new capital for a new kingdom!"
+ 
+ ff_formable_event_2_t:0 "Mississippian Metroplises"
+ ff_formable_event_2_desc:0 "The coming of [ROOT.GetCountry.GetName] has been heralded with great vigor across the realms of the Mississippi and her tributaries. For the first time in many years, it seems as if peace will finally be brought to the land. The Mississippi has endowed many cities along her banks with great prosperity, [ROOT.GetCountry.GetCapital.GetName] being one of them. There is great talk of relocating our administration to a more suitable one - there is much merit in that argument." 
+ ff_formable_event_2.a:0 "Our home is here."
+ ff_formable_event_2.b:0 "[GetProvince('(int32)8025').GetName], the home of Author Fitzgerald."
+ ff_formable_event_2.c:0 "[GetProvince('(int32)6799').GetName], where Author Twain recieved divine guidance."
+ ff_formable_event_2.d:0 "[GetProvince('(int32)4206').GetName], our holiest of places, and the gateway to the West."
+ ff_formable_event_2.e:0 "[GetProvince('(int32)8216').GetName], the crown jewel of the Mississippi."
+ 
+ ff_formable_event_3_t:0 "The Age of Columbia"
+ ff_formable_event_3_desc:0 "Every well versed Twainist scholar knows of the great empire of old, America, which was led to greatness by Uncle Sam. Author Twain and many other Authors of great merit lived in this golden age, an age which surely must have contained wonders beyond any of our wildest dreams.\n\nAnd yet, I cannot help but find myself reminiscing on this age long since gone. Many claim it to be but a distant dream, nothing more than the musings and imaginings of some select men. It is understood that Uncle Sam has passed on, and Columbia has taken his place. But what if the dream of America were to be pursued...." 
+ twainist_columbia_tt:0 "We will take on the task of restoring #Y America#!."
+ ff_formable_event_3.a:0 "The age of America has passed."
+ ff_formable_event_3.b:0 "The age of America has passed, but Columbia's time has just begun!"
+ ## Extra ##

@@ -1,0 +1,120 @@
+﻿country_decisions = {
+	
+	# Form Misissippi
+	form_twainist_empire = {
+		
+		potential = {
+			NOT = { has_variable = formed_twainist_empire }
+			num_of_cities >= 1
+			OR = {
+				religion = twainist
+			}
+			is_monarchy = no
+			NOT = {
+				tag = TW1
+			}
+			OR = {
+				is_ai = no
+				num_of_cities >= 40
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 8025
+					province_id = 8024
+					province_id = 1183
+					province_id = 8219
+					province_id = 6035
+					province_id = 6799
+					province_id = 4206
+					province_id = 4000
+					province_id = 3651
+					province_id = 4001
+					province_id = 335
+					province_id = 594
+					province_id = 7231
+					province_id = 8216
+					province_id = 5710
+					province_id = 2695
+					province_id = 1829
+					province_id = 323
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_twainist_empire_exists
+				NOT = {
+					any_country = {
+						tag = TW1
+					}
+				}
+			}
+			is_monarchy = no
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 8025
+			owns_or_subject_owns = 8024
+			owns_or_subject_owns = 1183
+			owns_or_subject_owns = 8219
+			owns_or_subject_owns = 6035
+			owns_or_subject_owns = 6799
+			owns_or_subject_owns = 4206
+			owns_or_subject_owns = 4000
+			owns_or_subject_owns = 3651
+			owns_or_subject_owns = 4001
+			owns_or_subject_owns = 335
+			owns_or_subject_owns = 594
+			owns_or_subject_owns = 7231
+			owns_or_subject_owns = 8216
+			owns_or_subject_owns = 5710
+			owns_or_subject_owns = 2695
+			owns_or_subject_owns = 1829
+			owns_or_subject_owns = 323
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "TWAINIST_EMPIRE_NAME"
+			change_government = grand_republic
+			set_country_heritage = mississippi_heritage
+			current_ruler = {
+				add_trait = scholar
+				add_nickname = "NICKNAME_TWAIN"
+			}
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+			}
+			add_country_modifier = {
+				name = twainist_empire_modifier
+				duration = -1
+			}
+			add_5_free_province_investments = yes
+			trigger_event = { id = ff_formable_event.2 }
+			trigger_event = { 
+				days = 10
+				id = ff_formable_event.3 
+			}
+			hidden_effect = {
+				set_variable = formed_twainist_empire
+				change_country_color = "twainist_blue"
+				change_country_adjective = "TWAINIST_EMPIRE_ADJECTIVE"
+				change_country_color =  "twainist_blue"
+				change_country_flag = TWAINIST_EMPIRE_FLAG
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

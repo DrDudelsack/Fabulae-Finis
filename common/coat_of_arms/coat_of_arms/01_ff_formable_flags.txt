@@ -143,3 +143,48 @@ NORTH_STAR_FLAG = {
 		instance = { position = { 0.25 0.25 } scale = { 0.55 0.55 }  }
 	}
 }
+
+COLUMBIA_TWAINIST_FLAG = { # Columbia Twainist Variant
+	pattern = "pattern_solid.tga"
+	color1 = "twainist_blue"
+	color2 = "twainist_blue"
+	colored_emblem = {
+		texture = "ce_stripes_horizontal_15.dds"
+		color1 = "offwhite"
+		color2 = "ck2_red"
+		instance = { rotation = 180 } 
+	}
+	colored_emblem = {
+		texture = "ce_starry_field.dds"
+		color1 = "roman_gold"
+		instance = { scale = { 1.4 1.4 }  }
+	}
+}
+
+TWAINIST_EMPIRE_FLAG = { #The Mississipi
+	pattern = "pattern_solid.tga"
+	color1 = "twainist_blue"
+	color2 = "ck2_red"
+	colored_emblem = {
+		texture = "ce_wavy_pall.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_04_single.dds"
+		color1 = "twainist_blue"
+		instance = { position = { 0.5 1.0 } scale = { 1.2 1.2 } rotation = 90  }
+		instance = { position = { 0.1 0.1 } scale = { 1.2 1.2 } rotation = 45  }
+		instance = { position = { 0.9 0.1 } scale = { 1.2 -1.2 } rotation = -45  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.45 } scale = { 0.65 0.65 }  }
+	}
+	colored_emblem = {
+		texture = "ce_fleur_missouri.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.45 } scale = { 0.5 0.5 }  }
+	}
+}

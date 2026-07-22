@@ -1,0 +1,5 @@
+﻿twainist_empire_modifier = {
+	research_points_modifier = 0.15
+	global_commerce_modifier = 0.10
+	omen_power = 0.05
+}

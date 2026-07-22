@@ -1,6 +1,6 @@
 ﻿namespace = ff_formable_event
 
-ff_formable_event.1 = {
+ff_formable_event.1 = { #Hudsonia Capital Event
 	type = country_event
 	title = "ff_formable_event_1_t"
 	desc = "ff_formable_event_1_desc"
@@ -39,6 +39,151 @@ ff_formable_event.1 = {
 		p:6678 = {
 			capital_formable_medium_effect = yes
 			formable_capital_modifier_normal_effect = yes
+		}
+	} 
+}
+
+ff_formable_event.2 = {
+	type = country_event
+	title = "ff_formable_event_2_t"
+	desc = "ff_formable_event_2_desc"
+	
+	left_portrait = current_ruler
+	
+	picture = great_city
+	
+	fire_only_once = yes
+	
+	option = { #Don't move capital
+		name = "ff_formable_event_2.a"
+		add_stability_effect = yes
+		capital_scope = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}
+	option = { #Minneapolis
+		name = "ff_formable_event_2.b"
+		if = {
+			limit = {
+				p:8025 = { is_capital = no }
+			}
+			set_capital = 8025
+			hidden_effect = {
+				p:8025.state = {
+					set_state_capital = 8025
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:8025 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}
+	option = { #Hannibal
+		name = "ff_formable_event_2.c"
+		if = {
+			limit = {
+				p:6799 = { is_capital = no }
+			}
+			set_capital = 6799
+			hidden_effect = {
+				p:6799.state = {
+					set_state_capital = 6799
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:6799 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	} 
+	option = { #St. Louis
+		name = "ff_formable_event_2.d"
+		if = {
+			limit = {
+				p:4206 = { is_capital = no }
+			}
+			set_capital = 4206
+			hidden_effect = {
+				p:4206.state = {
+					set_state_capital = 4206
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:4206 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}
+	option = { #New Orleans
+		name = "ff_formable_event_2.e"
+		if = {
+			limit = {
+				p:8216 = { is_capital = no }
+			}
+			set_capital = 8216
+			hidden_effect = {
+				p:8216.state = {
+					set_state_capital = 8216
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:8216 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}  
+}
+
+ff_formable_event.3 = {
+	type = country_event
+	title = "ff_formable_event_3_t"
+	desc = "ff_formable_event_3_desc"
+	
+	left_portrait = current_ruler
+	
+	picture = Event_roman_triumph
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "ff_formable_event_3.a"
+		add_political_influence = 100
+		add_stability = 20
+		current_ruler = {
+			add_zeal = 2
+			add_finesse = 2
+			add_trait = zealous
+		}
+	}
+	option = {
+		name = "ff_formable_event_3.b"
+		custom_tooltip = "twainist_columbia_tt"
+		change_country_name = "COLUMBIA_NAME"
+		change_government = federal
+		change_law = fdr_terms
+		add_political_influence = 100
+		remove_country_modifier = twainist_empire_modifier
+		current_ruler = {
+			add_trait = ambitious
+			add_nickname = "COMMANDER_IN_CHIEF"
+		}
+		hidden_effect = {
+			change_country_adjective = "COLUMBIA_ADJECTIVE"
+			change_country_flag = "COLUMBIA_TWAINIST_FLAG"
 		}
 	} 
 }
