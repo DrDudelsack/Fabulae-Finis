@@ -117,7 +117,7 @@
 
 1013={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="egyptology"
 	trade_goods="wood"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 6151={ #
 	terrain="plains"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="egyptology"
 	trade_goods="cattle"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 6154={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="egyptology"
 	trade_goods="cotton"
 	civilization_value=10

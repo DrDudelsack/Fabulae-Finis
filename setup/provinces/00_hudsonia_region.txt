@@ -125,7 +125,7 @@
 999={ #Granville
 	terrain="forest"
 	culture="vermonter"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -610,7 +610,7 @@
 3469={ #Clifton Park
 	terrain="farmland"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -636,7 +636,7 @@
 3471={ #Saratoga Springs
 	terrain="plains"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -712,7 +712,7 @@
 5192={ #Wilna
 	terrain="plains"
 	culture="upstater"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=23
 	barbarian_power=0
@@ -785,7 +785,7 @@
 5619={ #Clayton
 	terrain="plains"
 	culture="upstater"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -798,7 +798,7 @@
 5620={ #Le Ray
 	terrain="plains"
 	culture="upstater"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -811,7 +811,7 @@
 5712={ #Queensbury
 	terrain="forest"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -1014,7 +1014,7 @@
 6538={ #Greenwich
 	terrain="forest"
 	culture="vermonter"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1027,7 +1027,7 @@
 6539={ #Troy
 	terrain="forest"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1040,7 +1040,7 @@
 6678={ #Albany
 	terrain="farmland"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=35
 	barbarian_power=0
@@ -1074,7 +1074,7 @@
 6679={ #Coeymans
 	terrain="plains"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=25
 	barbarian_power=0
@@ -1102,7 +1102,7 @@
 6680={ #Schenectady
 	terrain="farmland"
 	culture="hudsonian"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
@@ -1474,7 +1474,7 @@
 9360={ #Canton
 	terrain="forest"
 	culture="upstater"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -1487,7 +1487,7 @@
 9361={ #Ogdensburg
 	terrain="plains"
 	culture="upstater"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1500,7 +1500,7 @@
 9362={ #Potsdam
 	terrain="hills"
 	culture="upstater"
-	religion="bostonian"
+	religion="catholic"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0

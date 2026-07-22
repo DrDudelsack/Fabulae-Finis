@@ -265,7 +265,7 @@ country = {
 		BOS = { #New England
 			government = tribal_federation
 			primary_culture = bayfolk
-			religion = fathomless
+			religion = gothic
 			capital = 6535
 
 			technology={
@@ -445,7 +445,7 @@ country = {
 		}
 		IRN = { #Ironton
 			government = tribal_federation
-			primary_culture = ozark
+			primary_culture = bootheeler
 			religion = catholic
 			capital = 2958
 			centralization = 30
@@ -552,7 +552,7 @@ country = {
 		}
 		BTH = { #Bootheel
 			government = tribal_kingdom
-			primary_culture = riverlander
+			primary_culture = bootheeler
 			religion = twainist
 			capital = 5536
 
@@ -1319,7 +1319,7 @@ country = {
 		PCN = { #Poconia
 			government = tribal_federation
 			primary_culture = pocono
-			religion = catholic
+			religion = quaker
 			capital = 8565
 
 			technology={

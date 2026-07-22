@@ -5466,6 +5466,7 @@
 			}
 		}
 		riverlander = {}
+		bootheeler = {}
 	}
 	
 	barbarian_names = { 

@@ -741,7 +741,7 @@
 
 6261={ #
 	terrain="plains"
-	culture="ozark"
+	culture="bootheeler"
 	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10

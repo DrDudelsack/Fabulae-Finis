@@ -104,7 +104,7 @@
  chicagoan:0 "Chicagoan"
  hoosier:0 "Hoosier"
  yinzic:0 "Yinzic"
- susquehannan:0 "Susquehannan"
+ susquehannan:0 "Pennsyltuckian"
 
  ## Upland ##
  upland:0 "Upland"
@@ -112,6 +112,7 @@
  ozark:0 "Ozark"
  butternutter:0 "Butternutter"
  riverlander:0 "Riverlander"
+ bootheeler:0 "Bootheeler"
 
  ## Missourien ##
  missourien:0 "Haute-Louisianais"

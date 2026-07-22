@@ -120,7 +120,7 @@
 312={ #Brookhaven
 	terrain="forest"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
@@ -136,7 +136,7 @@
 313={ #Southhampton
 	terrain="plains"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
@@ -156,7 +156,7 @@
 314={ #Riverhead
 	terrain="plains"
 	culture="bayfolk"
-	religion="fathomless"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
