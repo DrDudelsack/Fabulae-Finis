@@ -177,6 +177,7 @@ ff_formable_event.3 = {
 		change_law = fdr_terms
 		add_political_influence = 100
 		remove_country_modifier = twainist_empire_modifier
+		set_country_heritage = columbia_twainist_heritage
 		current_ruler = {
 			add_trait = ambitious
 			add_nickname = "COMMANDER_IN_CHIEF"

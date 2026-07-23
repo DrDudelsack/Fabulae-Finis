@@ -1,5 +1,5 @@
 ﻿#For all heritages added through events/missions/decisions etc
-columbia_heritage = {
+columbia_twainist_heritage = {
    	modifier = {
         #good
         global_citizen_happyness = 0.10

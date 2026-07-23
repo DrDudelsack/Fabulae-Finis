@@ -467,6 +467,58 @@ ranger_heritage = {
        primary_culture = copperhead
      }
 }
+cascadian_heritage = {
+   	modifier = {
+        #good
+        happiness_for_same_religion_modifier = 0.03
+        light_infantry_morale = 0.10
+      #bad
+        global_manpower_modifier = -0.05
+   }
+
+   trigger = {
+         primary_culture = cascadian
+     }
+}
+mojavean_heritage = {
+   	modifier = {
+        #good
+        improve_relation_cost_modifier = -0.2
+        global_import_commerce_modifier = 0.10
+       #bad
+        global_population_capacity_modifier = -0.05
+   }
+
+   trigger = {
+         primary_culture = mojavean
+     }
+}
+battleborn_heritage = {
+   	modifier = {
+        #good
+        desert_hills_combat_bonus = 0.10
+        mercenary_land_maintenance_cost = -0.15
+       #bad
+        war_exhaustion = 0.04
+   }
+
+   trigger = {
+         primary_culture = battleborn
+     }
+}
+arixan_heritage = {
+   	modifier = {
+        #good
+        global_capital_trade_routes = 1
+        omen_power = 0.05
+       #bad
+        civic_tech_investment = -0.10
+   }
+
+   trigger = {
+         primary_culture = arixan
+     }
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {
@@ -492,19 +544,6 @@ californian_heritage = {
 
    trigger = {
         country_culture_group = californian
-	}
-}
-frontieran_heritage = {
-   	modifier = {
-        #good
-        desert_hills_combat_bonus = 0.10
-        global_import_commerce_modifier = 0.05
-       #bad
-        global_population_capacity_modifier = -0.05
-   }
-
-   trigger = {
-        country_culture_group = frontieran
 	}
 }
 yankee_heritage = {

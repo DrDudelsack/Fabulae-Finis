@@ -62,6 +62,10 @@
  desc_twainist_empire_modifier:0 "No longer a distant memory, the Grand Republic of The Mississippi has been reborn."
  COLUMBIA_NAME:0 "Columbia"
  COLUMBIA_ADJECTIVE:0 "Columbian"
+ mississippi_heritage:0 "Heritage of the Grand Republic of The Mississippi"
+ mississippi_heritage_desc:0 "Twainist tradition holds that shortly after the event, the Twainists were among the first groups to emerge out of the fires of The Event. Their realm, the Grand Republic of The Mississippi, held sway over the Great River and her tributaries, ushering in a new golden age. But in time, this great republic was cast down, destroyed by the rust cultists and other enemies of Columbia. Now, this mighty realm has been restored, once again bringing balance to the center of America."
+ columbia_twainist_heritage:0 "Heritage of the Age of Columbia"
+ columbia_twainist_heritage_desc:0 "In times of yore, Old America was governed by the wise and stern Uncle Sam. However, he succumbed to the ravages of time, destroying the old world in the chaos of The Event. After his death, Columbia and her daughters came to populate the land that was once the United States. Now it seems, Columbia has been reborn, led by the prosperous and entreprising Twainists."
 
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"
