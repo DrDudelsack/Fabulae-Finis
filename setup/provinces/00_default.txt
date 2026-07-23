@@ -2667,7 +2667,7 @@
 	terrain="plains"
 	culture="interiano"
 	religion="platinean"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -4149,7 +4149,7 @@
 	terrain="plains"
 	culture="quisqueyano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -7152,7 +7152,7 @@
 	terrain="plains"
 	culture="interiano"
 	religion="parodia"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -7165,7 +7165,7 @@
 	terrain="plains"
 	culture="guaderio"
 	religion="parodia"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -8036,7 +8036,7 @@
 	terrain="plains"
 	culture="quisqueyano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -9583,7 +9583,7 @@
 	terrain="plains"
 	culture="yorugua"
 	religion="parodia"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -13561,7 +13561,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -16174,7 +16174,7 @@
 	terrain="plains"
 	culture="yorugua"
 	religion="platinean"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -19060,7 +19060,7 @@
 	terrain="hills"
 	culture="jamaican"
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -19567,7 +19567,7 @@
 	terrain="plains"
 	culture="interiano"
 	religion="parodia"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28524,7 +28524,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -29733,7 +29733,7 @@
 	terrain="plains"
 	culture="yorugua"
 	religion="platinean"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -31215,7 +31215,7 @@
 	terrain="plains"
 	culture="interiano"
 	religion="parodia"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -31514,7 +31514,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -34361,7 +34361,7 @@
 	terrain="plains"
 	culture="haitian"
 	religion="vodou"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -40328,7 +40328,7 @@
 	terrain="plains"
 	culture="haitian"
 	religion="vodou"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41043,7 +41043,7 @@
 	terrain="farmland"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -45398,7 +45398,7 @@
 	terrain="plains"
 	culture="boricua"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67888,7 +67888,7 @@
 	terrain="plains"
 	culture="cubano"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -97905,7 +97905,7 @@
 	terrain="plains"
 	culture="interiano"
 	religion="parodia"
-	trade_goods=""
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -548,7 +548,7 @@
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
-	trade_goods="maize"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="egyptology"
-	trade_goods="cotton"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

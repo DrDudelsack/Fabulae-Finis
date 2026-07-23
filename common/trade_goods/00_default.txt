@@ -665,7 +665,7 @@ rice = { #Wild Rice
 	gold = 0.2
 	
 	province = { 
-		local_monthly_food = 5
+		local_monthly_food = 7
 	}
 	
 	country = { 
@@ -756,7 +756,7 @@ maple = { #Maple
 }
 marijuana = { #Marijuana
 	category = 4
-	gold = 0.25
+	gold = 0.3
 	province = {
 		local_freemen_happyness = happiness_small_svalue
 	}
@@ -778,7 +778,7 @@ cotton = { #Cotton
 }
 tobacco = { #Tobacco
 	category = 3
-	gold = 0.3
+	gold = 0.35
 	province = {
 		local_citizen_happyness = happiness_small_svalue
 	}
@@ -789,7 +789,7 @@ tobacco = { #Tobacco
 }
 buffalo = { #Buffalo
 	category = 0
-	gold = 0.3
+	gold = 0.25
 	province = {
 		local_tribesmen_happyness = happiness_small_svalue
 	}

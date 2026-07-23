@@ -1107,7 +1107,7 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods="spices"
+	trade_goods="marble"
 	civilization_value=40
 	barbarian_power=0
 	province_rank="city_metropolis"
@@ -1129,12 +1129,10 @@
 		amount=15
 	}
 	freemen={
-		#culture="aybidi"
 		religion="ahl_al_qibla"
 		amount=4
 	}
 	freemen={
-		#culture="aybidi"
 		religion="hindu"
 		amount=3
 	}
@@ -1146,7 +1144,6 @@
 		amount=15
 	}
 	holy_site=omen_lady_liberty
-	port_building=1
 }
 
 4490={ #Cherry Hill
