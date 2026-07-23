@@ -1110,33 +1110,37 @@
 	trade_goods="spices"
 	civilization_value=40
 	barbarian_power=0
-	province_rank="metropolis"
+	province_rank="city_metropolis"
 	nobles={
-		amount=5
+		amount=10
 	}
 	nobles={
 		religion="catholic"
-		amount=1
+		amount=3
 	}
 	citizen={
 		religion="catholic"
-		amount=2
+		amount=3
 	}
 	citizen={
-		amount=6
+		amount=10
 	}
 	freemen={
 		amount=15
 	}
 	freemen={
-		culture="aybidi"
+		#culture="aybidi"
 		religion="ahl_al_qibla"
 		amount=4
 	}
 	freemen={
-		culture="aybidi"
+		#culture="aybidi"
 		religion="hindu"
 		amount=3
+	}
+	slaves={
+		religion="gothic"
+		amount=4
 	}
 	slaves={
 		amount=15

@@ -115,27 +115,27 @@
 			Materials={
 				Material={
 					MaterialId="plains_01_dry"
-					Value=104
+					Value=89
 				}
 
 				Material={
 					MaterialId="boulders_sandstone"
-					Value=41
+					Value=52
 				}
 
 				Material={
 					MaterialId="desert_02"
-					Value=28
+					Value=26
 				}
 
 				Material={
 					MaterialId="desert_rocky"
-					Value=41
+					Value=35
 				}
 
 				Material={
 					MaterialId="gravel_02"
-					Value=41
+					Value=53
 				}
 
 			}
@@ -146,17 +146,17 @@
 			Materials={
 				Material={
 					MaterialId="forest_pine_01"
-					Value=136
+					Value=114
 				}
 
 				Material={
 					MaterialId="northern_plains_01"
-					Value=55
+					Value=85
 				}
 
 				Material={
 					MaterialId="boulders_grassy_02"
-					Value=55
+					Value=47
 				}
 
 				Material={
@@ -177,22 +177,22 @@
 			Materials={
 				Material={
 					MaterialId="plains_01"
-					Value=114
+					Value=56
 				}
 
 				Material={
 					MaterialId="steppe_grass"
-					Value=45
+					Value=150
 				}
 
 				Material={
 					MaterialId="northern_plains_01"
-					Value=83
+					Value=41
 				}
 
 				Material={
 					MaterialId="beach_02"
-					Value=9
+					Value=4
 				}
 
 				Material={
@@ -894,6 +894,68 @@
 				Material={
 					MaterialId="india_farmlands"
 					Value=11
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 774, 563"
+			Materials={
+				Material={
+					MaterialId="drylands_01_grassy"
+					Value=167
+				}
+
+				Material={
+					MaterialId="steppe_grass"
+					Value=45
+				}
+
+				Material={
+					MaterialId="steppe_bushes"
+					Value=30
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=7
+				}
+
+				Material={
+					MaterialId="beach_02"
+					Value=6
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 918, 209"
+			Materials={
+				Material={
+					MaterialId="desert_02"
+					Value=112
+				}
+
+				Material={
+					MaterialId="boulders_sandstone"
+					Value=49
+				}
+
+				Material={
+					MaterialId="rock_sandstone"
+					Value=46
+				}
+
+				Material={
+					MaterialId="desert_rocky"
+					Value=34
+				}
+
+				Material={
+					MaterialId="snow"
+					Value=14
 				}
 
 			}
