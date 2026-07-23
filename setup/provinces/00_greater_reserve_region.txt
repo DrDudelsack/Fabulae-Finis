@@ -11,7 +11,7 @@
 	}
 }
 
-1521={ #
+1521={ #Mansfield
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -24,7 +24,7 @@
 	}
 }
 
-1522={ #
+1522={ #Marion
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -37,7 +37,7 @@
 	}
 }
 
-1523={ #
+1523={ #Delaware
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -50,7 +50,7 @@
 	}
 }
 
-2954={ #
+2954={ #Zanesville
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
@@ -63,7 +63,7 @@
 	}
 }
 
-2955={ #
+2955={ #Newark
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -76,7 +76,7 @@
 	}
 }
 
-2956={ #
+2956={ #Logan
 	terrain="forest"
 	culture="buckeye"
 	religion="hearthtender"
@@ -89,7 +89,7 @@
 	}
 }
 
-3348={ #
+3348={ #Decatur
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
@@ -102,7 +102,7 @@
 	}
 }
 
-3462={ #
+3462={ #New Philadelphia
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -115,7 +115,7 @@
 	}
 }
 
-3463={ #
+3463={ #Wooster
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -128,7 +128,7 @@
 	}
 }
 
-3464={ #
+3464={ #Akron
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -141,7 +141,7 @@
 	}
 }
 
-3465={ #
+3465={ #Ashland
 	terrain="hills"
 	culture="buckeye"
 	religion="promethean"
@@ -154,7 +154,7 @@
 	}
 }
 
-4275={ #
+4275={ #Troy
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -206,7 +206,7 @@
 	}
 }
 
-5274={ #
+5274={ #Bowling Green
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -219,7 +219,7 @@
 	}
 }
 
-6583={ #
+6583={ #Westerville
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -232,7 +232,7 @@
 	}
 }
 
-6584={ #
+6584={ #Reynoldsburg
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -245,7 +245,7 @@
 	}
 }
 
-6585={ #
+6585={ #Columbus
 	terrain="farmland"
 	culture="buckeye"
 	religion="galvanist"
@@ -258,7 +258,7 @@
 	}
 }
 
-6586={ #
+6586={ #Lancaster
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -271,7 +271,7 @@
 	}
 }
 
-6629={ #
+6629={ #Defiance
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
@@ -297,7 +297,7 @@
 	}
 }
 
-6631={ #
+6631={ #Van Wert
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
@@ -310,7 +310,7 @@
 	}
 }
 
-6632={ #
+6632={ #Findlay
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
@@ -375,7 +375,7 @@
 	}
 }
 
-7840={ #
+7840={ #Marietta
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -388,7 +388,7 @@
 	}
 }
 
-8611={ #
+8611={ #Uhrichsville
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
@@ -401,7 +401,7 @@
 	}
 }
 
-8612={ #
+8612={ #New Martinsville
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
@@ -414,7 +414,7 @@
 	}
 }
 
-8613={ #
+8613={ #Caldwell
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
@@ -427,7 +427,7 @@
 	}
 }
 
-8614={ #
+8614={ #Martins Ferry
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
@@ -440,7 +440,7 @@
 	}
 }
 
-8615={ #
+8615={ #Duncan Falls
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
@@ -453,7 +453,7 @@
 	}
 }
 
-8616={ #
+8616={ #Cambridge
 	terrain="forest"
 	culture="yinzic"
 	religion="hearthtender"
@@ -540,7 +540,7 @@
 	}
 }
 
-8969={ #
+8969={ #London
 	terrain="forest"
 	culture="buckeye"
 	religion="galvanist"
@@ -553,7 +553,7 @@
 	}
 }
 
-8970={ #
+8970={ #Springfield
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -566,7 +566,7 @@
 	}
 }
 
-8971={ #
+8971={ #Marysville
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -579,7 +579,7 @@
 	}
 }
 
-9168={ #
+9168={ #Lima
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -592,7 +592,7 @@
 	}
 }
 
-9169={ #
+9169={ #Ada
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -605,7 +605,7 @@
 	}
 }
 
-9170={ #
+9170={ #Sidney
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -618,7 +618,7 @@
 	}
 }
 
-9171={ #
+9171={ #Bellefontaine
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -631,7 +631,7 @@
 	}
 }
 
-11642={ #
+11642={ #Canton
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -644,7 +644,7 @@
 	}
 }
 
-11643={ #
+11643={ #Massillon
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -657,7 +657,7 @@
 	}
 }
 
-11657={ #
+11657={ #Mount Vernon
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
@@ -670,7 +670,7 @@
 	}
 }
 
-11658={ #
+11658={ #Ottawa
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"

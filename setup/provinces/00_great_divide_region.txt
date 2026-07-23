@@ -1,4 +1,4 @@
-﻿131={ #
+﻿131={ #Dove Creek
 	terrain="mountain"
 	culture="utahn"
 	religion="atomicist"
@@ -11,7 +11,7 @@
 	}
 }
 
-132={ #
+132={ #Telluride
 	terrain="mountain"
 	culture="utahn"
 	religion="atomicist"
@@ -24,7 +24,7 @@
 	}
 }
 
-309={ #
+309={ #Pinedale
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -37,7 +37,7 @@
 	}
 }
 
-310={ #
+310={ #Marbleton
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -50,7 +50,7 @@
 	}
 }
 
-311={ #
+311={ #Atlantic City
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -63,7 +63,7 @@
 	}
 }
 
-324={ #
+324={ #Basin
 	terrain="forest"
 	culture="arapaho"
 	religion="sun_dance"
@@ -76,7 +76,7 @@
 	}
 }
 
-325={ #
+325={ #Thermopolis
 	terrain="forest"
 	culture="arapaho"
 	religion="sun_dance"
@@ -89,7 +89,7 @@
 	}
 }
 
-326={ #
+326={ #Worland
 	terrain="mountain"
 	culture="arapaho"
 	religion="sun_dance"
@@ -102,7 +102,7 @@
 	}
 }
 
-1307={ #
+1307={ #Longmont
 	terrain="mountain"
 	culture="coloradan"
 	religion="buddhism"
@@ -115,7 +115,7 @@
 	}
 }
 
-1308={ #
+1308={ #Boulder
 	terrain="mountain"
 	culture="coloradan"
 	religion="buddhism"
@@ -128,7 +128,7 @@
 	}
 }
 
-1399={ #
+1399={ #Jackson
 	terrain="mountain"
 	culture="montaneer"
 	religion="mormon"
@@ -141,7 +141,7 @@
 	}
 }
 
-1400={ #
+1400={ #Kelly
 	terrain="mountain"
 	culture="montaneer"
 	religion="loneranger"
@@ -154,7 +154,7 @@
 	}
 }
 
-1431={ #
+1431={ #Lamadera
 	terrain="desert_hills"
 	culture="keres"
 	religion="buddhism"
@@ -167,7 +167,7 @@
 	}
 }
 
-1820={ #
+1820={ #Rawlins
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -180,7 +180,7 @@
 	}
 }
 
-1821={ #
+1821={ #Saratoga
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -193,7 +193,7 @@
 	}
 }
 
-1822={ #
+1822={ #Baggs
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -206,7 +206,7 @@
 	}
 }
 
-2158={ #
+2158={ #Newcastle
 	terrain="mountain"
 	culture="crow"
 	religion="heartful"
@@ -219,7 +219,7 @@
 	}
 }
 
-2159={ #
+2159={ #Wright
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -232,7 +232,7 @@
 	}
 }
 
-2160={ #
+2160={ #Sundance
 	terrain="mountain"
 	culture="crow"
 	religion="heartful"
@@ -245,7 +245,7 @@
 	}
 }
 
-2427={ #
+2427={ #Bessemer Bend
 	terrain="forest"
 	culture="coloradan"
 	religion="loneranger"
@@ -258,7 +258,7 @@
 	}
 }
 
-2428={ #
+2428={ #Casper
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -271,7 +271,7 @@
 	}
 }
 
-2429={ #
+2429={ #Midwest
 	terrain="mountain"
 	culture="crow"
 	religion="peyotist"
@@ -284,7 +284,7 @@
 	}
 }
 
-3777={ #
+3777={ #Elkhart
 	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
@@ -297,7 +297,7 @@
 	}
 }
 
-3778={ #
+3778={ #Pritchett
 	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
@@ -310,7 +310,7 @@
 	}
 }
 
-3810={ #
+3810={ #Lochbuie
 	terrain="plains"
 	culture="coloradan"
 	religion="buddhism"
@@ -323,7 +323,7 @@
 	}
 }
 
-3811={ #
+3811={ #Greeley
 	terrain="plains"
 	culture="coloradan"
 	religion="loneranger"
@@ -336,7 +336,7 @@
 	}
 }
 
-3812={ #
+3812={ #Fort Collins
 	terrain="mountain"
 	culture="coloradan"
 	religion="buddhism"
@@ -349,7 +349,7 @@
 	}
 }
 
-3813={ #
+3813={ #Wellington
 	terrain="plains"
 	culture="coloradan"
 	religion="loneranger"
@@ -362,7 +362,7 @@
 	}
 }
 
-4351={ #
+4351={ #Anaktuvuk Pass
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -375,7 +375,7 @@
 	}
 }
 
-4352={ #
+4352={ #Evansville
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -388,7 +388,7 @@
 	}
 }
 
-4362={ #
+4362={ #Grand Junction
 	terrain="mountain"
 	culture="utahn"
 	religion="atomicist"
@@ -401,7 +401,7 @@
 	}
 }
 
-4363={ #
+4363={ #Gunnison
 	terrain="mountain"
 	culture="hualapai"
 	religion="atomicist"
@@ -414,7 +414,7 @@
 	}
 }
 
-4364={ #
+4364={ #Montrose
 	terrain="mountain"
 	culture="coloradan"
 	religion="atomicist"
@@ -427,7 +427,7 @@
 	}
 }
 
-4531={ #
+4531={ #Buffalo
 	terrain="mountain"
 	culture="crow"
 	religion="peyotist"
@@ -440,7 +440,7 @@
 	}
 }
 
-4532={ #
+4532={ #Moorcroft
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -453,7 +453,7 @@
 	}
 }
 
-4533={ #
+4533={ #Gillette
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -466,7 +466,7 @@
 	}
 }
 
-4757={ #
+4757={ #Cooke City
 	terrain="mountain"
 	culture="montaneer"
 	religion="loneranger"
@@ -479,7 +479,7 @@
 	}
 }
 
-4758={ #
+4758={ #West Yellowstone
 	terrain="mountain"
 	culture="montaneer"
 	religion="loneranger"
@@ -492,7 +492,7 @@
 	}
 }
 
-4759={ #
+4759={ #Gardiner
 	terrain="mountain"
 	culture="montaneer"
 	religion="loneranger"
@@ -505,7 +505,7 @@
 	}
 }
 
-4776={ #
+4776={ #Woodland Park
 	terrain="mountain"
 	culture="coloradan"
 	religion="caesarist"
@@ -518,7 +518,7 @@
 	}
 }
 
-4777={ #
+4777={ #Walsenburg
 	terrain="mountain"
 	culture="coloradan"
 	religion="caesarist"
@@ -531,7 +531,7 @@
 	}
 }
 
-5048={ #
+5048={ #Wamsutter
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -544,7 +544,7 @@
 	}
 }
 
-5049={ #
+5049={ #Powder Wash
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-5050={ #
+5050={ #Superior
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -596,7 +596,7 @@
 	}
 }
 
-6126={ #
+6126={ #Lovell
 	terrain="forest"
 	culture="arapaho"
 	religion="sun_dance"
@@ -609,7 +609,7 @@
 	}
 }
 
-6127={ #
+6127={ #Red Lodge
 	terrain="mountain"
 	culture="arapaho"
 	religion="sun_dance"
@@ -622,7 +622,7 @@
 	}
 }
 
-6128={ #
+6128={ #Cody
 	terrain="forest"
 	culture="arapaho"
 	religion="sun_dance"
@@ -635,7 +635,7 @@
 	}
 }
 
-6197={ #
+6197={ #Burlington
 	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
@@ -648,7 +648,7 @@
 	}
 }
 
-6198={ #
+6198={ #Kit Carson
 	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
@@ -661,7 +661,7 @@
 	}
 }
 
-6199={ #
+6199={ #Limon
 	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
@@ -674,7 +674,7 @@
 	}
 }
 
-6381={ #
+6381={ #Riverton
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -687,7 +687,7 @@
 	}
 }
 
-6382={ #
+6382={ #Swaim Place
 	terrain="forest"
 	culture="arapaho"
 	religion="sun_dance"
@@ -700,7 +700,7 @@
 	}
 }
 
-6383={ #
+6383={ #Shoshoni
 	terrain="mountain"
 	culture="arapaho"
 	religion="sun_dance"
@@ -713,7 +713,7 @@
 	}
 }
 
-6837={ #
+6837={ #Island Park
 	terrain="forest"
 	culture="montaneer"
 	religion="loneranger"
@@ -726,7 +726,7 @@
 	}
 }
 
-6838={ #
+6838={ #Victor
 	terrain="forest"
 	culture="montaneer"
 	religion="loneranger"
@@ -739,7 +739,7 @@
 	}
 }
 
-6839={ #
+6839={ #Ashton
 	terrain="forest"
 	culture="montaneer"
 	religion="loneranger"
@@ -752,7 +752,7 @@
 	}
 }
 
-6847={ #
+6847={ #Center
 	terrain="mountain"
 	culture="hualapai"
 	religion="buddhism"
@@ -765,7 +765,7 @@
 	}
 }
 
-6848={ #
+6848={ #Questa
 	terrain="mountain"
 	culture="keres"
 	religion="buddhism"
@@ -778,7 +778,7 @@
 	}
 }
 
-6849={ #
+6849={ #Alamosa
 	terrain="mountain"
 	culture="keres"
 	religion="buddhism"
@@ -791,7 +791,7 @@
 	}
 }
 
-6987={ #
+6987={ #Columbus
 	terrain="mountain"
 	culture="montaneer"
 	religion="sun_dance"
@@ -804,7 +804,7 @@
 	}
 }
 
-7273={ #
+7273={ #Evansville
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -817,7 +817,7 @@
 	}
 }
 
-7274={ #
+7274={ #Laramie
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -830,7 +830,7 @@
 	}
 }
 
-7275={ #
+7275={ #Hanna
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -843,7 +843,7 @@
 	}
 }
 
-7356={ #
+7356={ #Ponderosa Park
 	terrain="plains"
 	culture="coloradan"
 	religion="buddhism"
@@ -856,7 +856,7 @@
 	}
 }
 
-7357={ #
+7357={ #Colorado Springs
 	terrain="plains"
 	culture="coloradan"
 	religion="caesarist"
@@ -869,7 +869,7 @@
 	}
 }
 
-7484={ #
+7484={ #Glenrock
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -882,7 +882,7 @@
 	}
 }
 
-7485={ #
+7485={ #Torrington
 	terrain="plains"
 	culture="grangelander"
 	religion="loneranger"
@@ -895,7 +895,7 @@
 	}
 }
 
-7487={ #
+7487={ #Cheyenne
 	terrain="plains"
 	culture="grangelander"
 	religion="loneranger"
@@ -908,7 +908,7 @@
 	}
 }
 
-7694={ #
+7694={ #Steamboat Springs
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -921,7 +921,7 @@
 	}
 }
 
-7695={ #
+7695={ #Rangely
 	terrain="hills"
 	culture="ute"
 	religion="loneranger"
@@ -934,7 +934,7 @@
 	}
 }
 
-7696={ #
+7696={ #Meeker
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -947,7 +947,7 @@
 	}
 }
 
-7697={ #
+7697={ #Craig
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -960,7 +960,7 @@
 	}
 }
 
-7714={ #
+7714={ #Adelaide
 	terrain="mountain"
 	culture="coloradan"
 	religion="caesarist"
@@ -973,7 +973,7 @@
 	}
 }
 
-7715={ #
+7715={ #Ordway
 	terrain="plains"
 	culture="coloradan"
 	religion="loneranger"
@@ -986,7 +986,7 @@
 	}
 }
 
-7716={ #
+7716={ #Pueblo
 	terrain="hills"
 	culture="coloradan"
 	religion="caesarist"
@@ -999,7 +999,7 @@
 	}
 }
 
-7717={ #
+7717={ #La Junta
 	terrain="plains"
 	culture="coloradan"
 	religion="loneranger"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-7814={ #
+7814={ #Aguilar
 	terrain="plains"
 	culture="coloradan"
 	religion="loneranger"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-8158={ #
+8158={ #Glenwood Springs
 	terrain="mountain"
 	culture="coloradan"
 	religion="atomicist"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-8159={ #
+8159={ #Salida
 	terrain="mountain"
 	culture="coloradan"
 	religion="caesarist"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-8160={ #
+8160={ #Edwards
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-8205={ #
+8205={ #Edgemont
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-8206={ #
+8206={ #Rolling Hills
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-8207={ #
+8207={ #Douglas
 	terrain="plains"
 	culture="crow"
 	religion="peyotist"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-8241={ #
+8241={ #Breckenridge
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-8242={ #
+8242={ #Walden
 	terrain="mountain"
 	culture="coloradan"
 	religion="loneranger"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-9107={ #
+9107={ #Lakewood
 	terrain="mountain"
 	culture="coloradan"
 	religion="buddhism"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-9108={ #
+9108={ #Denver
 	terrain="plains"
 	culture="coloradan"
 	religion="buddhism"
@@ -1181,7 +1181,7 @@
 	}
 }
 
-9109={ #
+9109={ #Bennett
 	terrain="plains"
 	culture="coloradan"
 	religion="buddhism"

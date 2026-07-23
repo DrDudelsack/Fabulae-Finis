@@ -130,8 +130,8 @@
  pocono_heritage_desc:0 "Unlike their more developed neighbors, the Pocono people do not live in cities, instead inhabiting the mountains that gave them their name. While they have not ventured much outside their home, they make it extremely difficult to control them. Many a bandit, exile, or revolutionary has hid out in the rough terrain of the Poconos."
  beltway_heritage:0 "Beltway Heritage"
  beltway_heritage_desc:0 "The lands of the Beltway are scarred by time, but many imposing and majestic buidlings still stand, remants of the old America. While Washington itself lay ruined, the Beltwayans can still the describe the city in her glory. They are a bureacratic, law-abiding people, placing faith in the practices of their forefathers."
- susquehannan_heritage:0 "Susquehannan Heritage"
- susquehannan_heritage_desc:0 "The Susquhannans reside by the river Susquehanna, which feeds their many farms. The rough and hilly terrain of their land has made them experts fighting in similar terrain, developing new ways to use horses to their advantage."
+ susquehannan_heritage:0 "Pennsyltuckian Heritage"
+ susquehannan_heritage_desc:0 "The Pennsyltuckian reside by the river Susquehanna, which feeds their many farms. The rough and hilly terrain of their land has made them experts fighting in similar terrain, developing new ways to use horses to their advantage."
  deitsch_heritage:0 "Deitsch Heritage"
  deitsch_heritage_desc:0 "The Deitsch, or Amish as they are also known, are for the most part, a deeply spiritual, isolationist people. They are not so much concerned with the goings on of the outside world, preferring to keep to themselves. But make no mistake - when threatened, the Deitsch can be a force in and of themselves. They speak a dialect of German, called 'Pennsilfaanisch', and are generally thought to be excellent carpenters and equestrians. "
  weinstrasser_heritage:0 "Weinstrasser Heritage"
@@ -156,6 +156,11 @@
  battleborn_heritage_desc:0 "A people forged in the fires of a great conflict, the Battleborn are employed as mercenaries all over the west. The most fearsome amongst them go into battle nearly naked, adorned only in their traditional headgear and body paint."
  arixan_heritage:0 "Arixan Heritage"
  arixan_heritage_desc:0 "Arixans are some of the most populous and widespread of all the Frontieran peoples, inhabiting a vast stretch of land from the Colorado in the west, to the Rio Grande in the east. They are rather fond of sun-worship, a practice not shared by neighboring nations. Like their kin in the Mojave, the Arixans also play an important role in the movement of goods along the Interstate."
+ walloon_heritage:0 "Walloon Heritage"
+ walloon_heritage_desc:0 "Walloons, or as they sometimes refer to themselves as just 'Belgians', reside in the Door Peninsula of Wisconsin. They have no great cities of their own, being a mostly rural and insular folk. Like their neighbors, they primarily make a living by tilling the land, and occasionally carrying our raids over the lakes. Their symbol is that of the cock, and they emblazon their banners with the animal."
+ grunbuschtlander_heritage:0 "Grünbuchtlander Heritage"
+ grunbuschtlander_heritage_desc:0 "At some point, the people of the Green Bay Country lived all over Wisconsin, although their numbers have since receded greatly. They hold that they are brothers not only with the Badgerlanders, but the Walloons and other people of Wisconsin. As for their culture, they are mostly farmers, but have a strong literary tradition passed on by their forefathers. In their cities, they are known to organize themselves into athletic and cultural clubs, called 'Turners'. Members of these clubs, called Turnvereiners, are often important political leaders in their local communities, as such activities are highly valued in Grünbuchtlander society."
+ 
  
  
  

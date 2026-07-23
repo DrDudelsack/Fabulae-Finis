@@ -1,4 +1,4 @@
-﻿678={ #
+﻿678={ #Franklin
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -11,7 +11,7 @@
 	}
 }
 
-679={ #
+679={ #Moorefield
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -24,7 +24,7 @@
 	}
 }
 
-834={ #
+834={ #Frostburg
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
@@ -37,7 +37,7 @@
 	}
 }
 
-835={ #
+835={ #Cumberland
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -76,7 +76,7 @@
 	}
 }
 
-2005={ #
+2005={ #Wheeling
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
@@ -89,7 +89,7 @@
 	}
 }
 
-2006={ #
+2006={ #Waynesburg
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"
@@ -102,7 +102,7 @@
 	}
 }
 
-2549={ #
+2549={ #Logan
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -115,7 +115,7 @@
 	}
 }
 
-2550={ #
+2550={ #Charleston
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -128,7 +128,7 @@
 	}
 }
 
-2551={ #
+2551={ #Teays Valley
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -141,7 +141,7 @@
 	}
 }
 
-2632={ #
+2632={ #Parkersburg
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
@@ -154,7 +154,7 @@
 	}
 }
 
-2633={ #
+2633={ #Cross Lanes
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
@@ -167,7 +167,7 @@
 	}
 }
 
-2634={ #
+2634={ #Spencer
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
@@ -180,7 +180,7 @@
 	}
 }
 
-2863={ #
+2863={ #Summersville
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
@@ -193,7 +193,7 @@
 	}
 }
 
-2864={ #
+2864={ #Glenville
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
@@ -206,7 +206,7 @@
 	}
 }
 
-2865={ #
+2865={ #Pinch
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
@@ -219,7 +219,7 @@
 	}
 }
 
-2866={ #
+2866={ #Webster Springs
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
@@ -232,7 +232,7 @@
 	}
 }
 
-6147={ #
+6147={ #Salem
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
@@ -245,7 +245,7 @@
 	}
 }
 
-6148={ #
+6148={ #Morgantown
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
@@ -258,7 +258,7 @@
 	}
 }
 
-6149={ #
+6149={ #Harrisville
 	terrain="hills"
 	culture="appalachian"
 	religion="sustainablist"
@@ -271,7 +271,7 @@
 	}
 }
 
-6150={ #
+6150={ #Buckhannon
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
@@ -310,7 +310,7 @@
 	}
 }
 
-6380={ #
+6380={ #Bluefield
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -323,7 +323,7 @@
 	}
 }
 
-6506={ #
+6506={ #Beckley
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -336,7 +336,7 @@
 	}
 }
 
-6507={ #
+6507={ #Oak Hill
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -349,7 +349,7 @@
 	}
 }
 
-6508={ #
+6508={ #Lewisburg
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -414,7 +414,7 @@
 	}
 }
 
-9249={ #
+9249={ #Marlinton
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
@@ -427,7 +427,7 @@
 	}
 }
 
-9250={ #
+9250={ #Elkins
 	terrain="mountain"
 	culture="appalachian"
 	religion="sustainablist"
@@ -440,7 +440,7 @@
 	}
 }
 
-11663={ #
+11663={ #Uniontown
 	terrain="hills"
 	culture="yinzic"
 	religion="sustainablist"

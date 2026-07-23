@@ -1,4 +1,4 @@
-﻿410={ #
+﻿410={ #De Le N
 	terrain="hills"
 	culture="socaleno"
 	religion="navegante"
@@ -11,7 +11,7 @@
 	}
 }
 
-412={ #
+412={ #Tijuana
 	terrain="hills"
 	culture="socaleno"
 	religion="navegante"
@@ -24,7 +24,7 @@
 	}
 }
 
-413={ #
+413={ #Francisco Zarco
 	terrain="hills"
 	culture="socaleno"
 	religion="navegante"
@@ -37,7 +37,7 @@
 	}
 }
 
-832={ #
+832={ #Bah A De Los Ngeles
 	terrain="hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -50,7 +50,7 @@
 	}
 }
 
-833={ #
+833={ #El Morro
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -63,7 +63,7 @@
 	}
 }
 
-2626={ #
+2626={ #Rodolfo S Nchez Taboada
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -76,7 +76,7 @@
 	}
 }
 
-2627={ #
+2627={ #Ensenada
 	terrain="hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -89,7 +89,7 @@
 	}
 }
 
-2628={ #
+2628={ #?de Enero
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -102,7 +102,7 @@
 	}
 }
 
-3134={ #
+3134={ #International Childrens Care
 	terrain="desert_hills"
 	culture="cachanchilla"
 	religion="navegante"
@@ -115,7 +115,7 @@
 	}
 }
 
-3135={ #
+3135={ #San Felipe
 	terrain="desert"
 	culture="cachanchilla"
 	religion="navegante"
@@ -128,7 +128,7 @@
 	}
 }
 
-3136={ #
+3136={ #Catavi A
 	terrain="hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -141,7 +141,7 @@
 	}
 }
 
-3867={ #
+3867={ #Chametla
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -154,7 +154,7 @@
 	}
 }
 
-3868={ #
+3868={ #Todos Santos
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -167,7 +167,7 @@
 	}
 }
 
-3869={ #
+3869={ #La Paz
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -180,7 +180,7 @@
 	}
 }
 
-4717={ #
+4717={ #Constituci N
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -193,7 +193,7 @@
 	}
 }
 
-4718={ #
+4718={ #Puerto Adolfo Lopez Mateos
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -206,7 +206,7 @@
 	}
 }
 
-4719={ #
+4719={ #Puerto San Carlos
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -219,7 +219,7 @@
 	}
 }
 
-4720={ #
+4720={ #Loreto
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -232,7 +232,7 @@
 	}
 }
 
-7164={ #
+7164={ #Bah A Asunci N
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -245,7 +245,7 @@
 	}
 }
 
-7165={ #
+7165={ #Bah A Tortugas
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -258,7 +258,7 @@
 	}
 }
 
-7166={ #
+7166={ #Guerrero Negro
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -271,7 +271,7 @@
 	}
 }
 
-7167={ #
+7167={ #Alberto Andr S Alvarado Ar Mburo
 	terrain="hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -284,7 +284,7 @@
 	}
 }
 
-7361={ #
+7361={ #Cabo San Lucas
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -297,7 +297,7 @@
 	}
 }
 
-7362={ #
+7362={ #San Jos Del Cabo
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -310,7 +310,7 @@
 	}
 }
 
-7363={ #
+7363={ #Los Barriles
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -323,7 +323,7 @@
 	}
 }
 
-7926={ #
+7926={ #San Lino
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -336,7 +336,7 @@
 	}
 }
 
-7927={ #
+7927={ #Santa Rosal A
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -349,7 +349,7 @@
 	}
 }
 
-7928={ #
+7928={ #Muleg
 	terrain="hills"
 	culture="choyero"
 	religion="navegante"
@@ -362,7 +362,7 @@
 	}
 }
 
-8732={ #
+8732={ #Mexicali
 	terrain="dry_plains"
 	culture="cachanchilla"
 	religion="quetzaltec"
@@ -375,7 +375,7 @@
 	}
 }
 
-8733={ #
+8733={ #Guadalupe Victoria
 	terrain="desert"
 	culture="cachanchilla"
 	religion="quetzaltec"
@@ -388,7 +388,7 @@
 	}
 }
 
-8734={ #
+8734={ #Golfo De Santa Clara
 	terrain="desert"
 	culture="cachanchilla"
 	religion="quetzaltec"
@@ -401,7 +401,7 @@
 	}
 }
 
-8735={ #
+8735={ #San Luis R O Colorado
 	terrain="desert"
 	culture="cachanchilla"
 	religion="quetzaltec"
@@ -414,7 +414,7 @@
 	}
 }
 
-9378={ #
+9378={ #L Zaro C Rdenas
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -427,7 +427,7 @@
 	}
 }
 
-9379={ #
+9379={ #Vicente Guerrero
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"
@@ -440,7 +440,7 @@
 	}
 }
 
-9380={ #
+9380={ #Guayaquil
 	terrain="desert_hills"
 	culture="fronterizo"
 	religion="navegante"

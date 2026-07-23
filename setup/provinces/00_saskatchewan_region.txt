@@ -1,4 +1,4 @@
-﻿170={ #
+﻿170={ #Macklin
 	terrain="steppes"
 	culture="metis"
 	religion="loneranger"
@@ -11,7 +11,7 @@
 	}
 }
 
-171={ #
+171={ #Unity
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
@@ -24,7 +24,7 @@
 	}
 }
 
-173={ #
+173={ #Cando
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
@@ -37,7 +37,7 @@
 	}
 }
 
-341={ #
+341={ #Weyburn
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -50,7 +50,7 @@
 	}
 }
 
-343={ #
+343={ #Gladmar
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -63,7 +63,7 @@
 	}
 }
 
-440={ #
+440={ #Lanigan
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -76,7 +76,7 @@
 	}
 }
 
-441={ #
+441={ #Humboldt
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -89,7 +89,7 @@
 	}
 }
 
-442={ #
+442={ #Watrous
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -102,7 +102,7 @@
 	}
 }
 
-526={ #
+526={ #Caldwell
 	terrain="plains"
 	culture="blackfoot"
 	religion="sun_dance"
@@ -115,7 +115,7 @@
 	}
 }
 
-527={ #
+527={ #Robsart
 	terrain="plains"
 	culture="blackfoot"
 	religion="sun_dance"
@@ -128,7 +128,7 @@
 	}
 }
 
-528={ #
+528={ #Shaunavon
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -141,7 +141,7 @@
 	}
 }
 
-529={ #
+529={ #Aneroid
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -154,7 +154,7 @@
 	}
 }
 
-688={ #
+688={ #St Isidore De Bellevue
 	terrain="steppes"
 	culture="prairielander"
 	religion="rivertracer"
@@ -167,7 +167,7 @@
 	}
 }
 
-689={ #
+689={ #Birch Hills
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
@@ -180,7 +180,7 @@
 	}
 }
 
-690={ #
+690={ #Melfort
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
@@ -193,7 +193,7 @@
 	}
 }
 
-919={ #
+919={ #Viceroy
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -206,7 +206,7 @@
 	}
 }
 
-920={ #
+920={ #Woodrow
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -219,7 +219,7 @@
 	}
 }
 
-921={ #
+921={ #Assiniboia
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -232,7 +232,7 @@
 	}
 }
 
-1004={ #
+1004={ #Hitchcock Bay
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -245,7 +245,7 @@
 	}
 }
 
-1005={ #
+1005={ #Eston
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -258,7 +258,7 @@
 	}
 }
 
-1006={ #
+1006={ #Kindersley
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -271,7 +271,7 @@
 	}
 }
 
-1638={ #
+1638={ #Davidson
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -284,7 +284,7 @@
 	}
 }
 
-2150={ #
+2150={ #Regina Beach
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -297,7 +297,7 @@
 	}
 }
 
-2151={ #
+2151={ #Fort Qu Appelle
 	terrain="steppes"
 	culture="frankaskois"
 	religion="sun_dance"
@@ -310,7 +310,7 @@
 	}
 }
 
-2152={ #
+2152={ #Regina
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -323,7 +323,7 @@
 	}
 }
 
-2153={ #
+2153={ #Arlington Beach
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -336,7 +336,7 @@
 	}
 }
 
-2154={ #
+2154={ #Kronau
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -349,7 +349,7 @@
 	}
 }
 
-3010={ #
+3010={ #Theodore
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -362,7 +362,7 @@
 	}
 }
 
-3011={ #
+3011={ #Yorkton
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -375,7 +375,7 @@
 	}
 }
 
-3012={ #
+3012={ #Melville
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -388,7 +388,7 @@
 	}
 }
 
-3013={ #
+3013={ #Esterhazy
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -401,7 +401,7 @@
 	}
 }
 
-4008={ #
+4008={ #North Weyburn
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -414,7 +414,7 @@
 	}
 }
 
-4009={ #
+4009={ #Estevan
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -427,7 +427,7 @@
 	}
 }
 
-4010={ #
+4010={ #Oxbow
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -440,7 +440,7 @@
 	}
 }
 
-4095={ #
+4095={ #Pelican Cove
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -453,7 +453,7 @@
 	}
 }
 
-4096={ #
+4096={ #Rosthern
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -466,7 +466,7 @@
 	}
 }
 
-4097={ #
+4097={ #Shellbrook
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -479,7 +479,7 @@
 	}
 }
 
-4305={ #
+4305={ #Mayfair
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -492,7 +492,7 @@
 	}
 }
 
-4306={ #
+4306={ #Spruce Bay
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -505,7 +505,7 @@
 	}
 }
 
-4307={ #
+4307={ #North Battleford
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -518,7 +518,7 @@
 	}
 }
 
-4334={ #
+4334={ #Claybank
 	terrain="steppes"
 	culture="nakota"
 	religion="sun_dance"
@@ -531,7 +531,7 @@
 	}
 }
 
-4335={ #
+4335={ #Moose Jaw
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -544,7 +544,7 @@
 	}
 }
 
-4336={ #
+4336={ #Valjean
 	terrain="steppes"
 	culture="frankaskois"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-4337={ #
+4337={ #Trewdale
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -570,7 +570,7 @@
 	}
 }
 
-5060={ #
+5060={ #Meadow Lake
 	terrain="steppes"
 	culture="metis"
 	religion="rivertracer"
@@ -583,7 +583,7 @@
 	}
 }
 
-5061={ #
+5061={ #Waterhen Lake
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -596,7 +596,7 @@
 	}
 }
 
-5062={ #
+5062={ #Phillips Grove
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -609,7 +609,7 @@
 	}
 }
 
-5848={ #
+5848={ #Delmas
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
@@ -622,7 +622,7 @@
 	}
 }
 
-5974={ #
+5974={ #Zala
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -635,7 +635,7 @@
 	}
 }
 
-5975={ #
+5975={ #Wynyard
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -648,7 +648,7 @@
 	}
 }
 
-5976={ #
+5976={ #Pasqua Lake
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -661,7 +661,7 @@
 	}
 }
 
-5980={ #
+5980={ #Langbank
 	terrain="steppes"
 	culture="dakota"
 	religion="loneranger"
@@ -674,7 +674,7 @@
 	}
 }
 
-5981={ #
+5981={ #Carlyle
 	terrain="mountain"
 	culture="nakota"
 	religion="sun_dance"
@@ -687,7 +687,7 @@
 	}
 }
 
-5982={ #
+5982={ #Grenfell
 	terrain="steppes"
 	culture="dakota"
 	religion="sun_dance"
@@ -700,7 +700,7 @@
 	}
 }
 
-5983={ #
+5983={ #Carnduff
 	terrain="steppes"
 	culture="frankaskois"
 	religion="sun_dance"
@@ -713,7 +713,7 @@
 	}
 }
 
-6155={ #
+6155={ #Whitecap
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -726,7 +726,7 @@
 	}
 }
 
-6157={ #
+6157={ #Martensville
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
@@ -739,7 +739,7 @@
 	}
 }
 
-6158={ #
+6158={ #Beaver Creek
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -752,7 +752,7 @@
 	}
 }
 
-6159={ #
+6159={ #Saskatoon
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -765,7 +765,7 @@
 	}
 }
 
-6293={ #
+6293={ #Rosetown
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -778,7 +778,7 @@
 	}
 }
 
-6294={ #
+6294={ #Kerrobert
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -791,7 +791,7 @@
 	}
 }
 
-6295={ #
+6295={ #Biggar
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="loneranger"
@@ -804,7 +804,7 @@
 	}
 }
 
-6633={ #
+6633={ #Gull Lake
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -817,7 +817,7 @@
 	}
 }
 
-6634={ #
+6634={ #Surprise
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -830,7 +830,7 @@
 	}
 }
 
-6635={ #
+6635={ #Swift Current
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -843,7 +843,7 @@
 	}
 }
 
-7340={ #
+7340={ #Stanley Mission
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -856,7 +856,7 @@
 	}
 }
 
-7341={ #
+7341={ #La Ronge
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -869,7 +869,7 @@
 	}
 }
 
-7442={ #
+7442={ #Nesslin Lake
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -882,7 +882,7 @@
 	}
 }
 
-7443={ #
+7443={ #Minowukaw Beach
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -895,7 +895,7 @@
 	}
 }
 
-7444={ #
+7444={ #Weyakwin
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -908,7 +908,7 @@
 	}
 }
 
-7524={ #
+7524={ #Melita
 	terrain="steppes"
 	culture="nakota"
 	religion="peyotist"
@@ -921,7 +921,7 @@
 	}
 }
 
-7525={ #
+7525={ #Virden
 	terrain="steppes"
 	culture="dakota"
 	religion="loneranger"
@@ -934,7 +934,7 @@
 	}
 }
 
-7526={ #
+7526={ #Moosomin
 	terrain="steppes"
 	culture="dakota"
 	religion="loneranger"
@@ -947,7 +947,7 @@
 	}
 }
 
-7595={ #
+7595={ #Maple Creek
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -960,7 +960,7 @@
 	}
 }
 
-7597={ #
+7597={ #Stone
 	terrain="mountain"
 	culture="nakota"
 	religion="sun_dance"
@@ -973,7 +973,7 @@
 	}
 }
 
-7682={ #
+7682={ #St George S Hill
 	terrain="forest"
 	culture="nihithaw"
 	religion="petrobaron"
@@ -986,7 +986,7 @@
 	}
 }
 
-7683={ #
+7683={ #Black Point
 	terrain="forest"
 	culture="metis"
 	religion="petrobaron"
@@ -999,7 +999,7 @@
 	}
 }
 
-7684={ #
+7684={ #Pine River
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-7685={ #
+7685={ #Sakamayack
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-7783={ #
+7783={ #Macdowall
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-7784={ #
+7784={ #Prince Albert
 	terrain="farmland"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-7785={ #
+7785={ #Nipawin
 	terrain="forest"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-8454={ #
+8454={ #Canora
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-8457={ #
+8457={ #Kamsack
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-8546={ #
+8546={ #Schuler
 	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-8745={ #
+8745={ #Whelan
 	terrain="steppes"
 	culture="metis"
 	religion="rivertracer"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-8746={ #
+8746={ #Sunset View Beach
 	terrain="steppes"
 	culture="nehiyaw"
 	religion="rivertracer"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-8747={ #
+8747={ #Spruce Lake
 	terrain="steppes"
 	culture="metis"
 	religion="rivertracer"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-9401={ #
+9401={ #Kelvington
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-9402={ #
+9402={ #Tisdale
 	terrain="steppes"
 	culture="preiryansky"
 	religion="rivertracer"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-9403={ #
+9403={ #Wadena
 	terrain="steppes"
 	culture="sztyeppefuto"
 	religion="loneranger"

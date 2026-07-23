@@ -212,6 +212,13 @@ CZH = "setup/countries/south/praha.txt"
 MTX = "setup/countries/south/metroplex.txt"
 NCH = "setup/countries/south/neches.txt"
 BGH = "setup/countries/south/big_country.txt"
+GLO = "setup/countries/south/goliad.txt"
+PNM = "setup/countries/south/panna_maria.txt"
+SAN = "setup/countries/south/san_antonio.txt"
+CRP = "setup/countries/south/corpus_christi.txt"
+ELD = "setup/countries/south/el_dorado.txt"
+RIO = "setup/countries/south/rio_bravo.txt"
+HRN = "setup/countries/south/hearne.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

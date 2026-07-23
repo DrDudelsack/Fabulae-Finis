@@ -1,4 +1,4 @@
-﻿241={ #
+﻿241={ #Naples
 	terrain="jungle"
 	culture="seminole"
 	religion="catholic"
@@ -11,7 +11,7 @@
 	}
 }
 
-242={ #
+242={ #Fort Meyers
 	terrain="jungle"
 	culture="sunshiner"
 	religion="shriner"
@@ -24,7 +24,7 @@
 	}
 }
 
-243={ #
+243={ #Bonita Springs
 	terrain="jungle"
 	culture="miccosukee"
 	religion="catholic"
@@ -37,7 +37,7 @@
 	}
 }
 
-244={ #
+244={ #Port Charlotte
 	terrain="jungle"
 	culture="sunshiner"
 	religion="shriner"
@@ -50,7 +50,7 @@
 	}
 }
 
-379={ #
+379={ #Port Saint Joe
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -63,7 +63,7 @@
 	}
 }
 
-380={ #
+380={ #Upper Grand Lagoon
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -76,7 +76,7 @@
 	}
 }
 
-381={ #
+381={ #Panama City
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -89,7 +89,7 @@
 	}
 }
 
-1189={ #
+1189={ #St Augustine
 	terrain="flood_plain"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -102,7 +102,7 @@
 	}
 }
 
-1190={ #
+1190={ #Palatka
 	terrain="forest"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -115,7 +115,7 @@
 	}
 }
 
-1191={ #
+1191={ #Lakeside
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -128,7 +128,7 @@
 	}
 }
 
-1667={ #
+1667={ #Navarre
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -141,7 +141,7 @@
 	}
 }
 
-1668={ #
+1668={ #Pensacola
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -154,7 +154,7 @@
 	}
 }
 
-1669={ #
+1669={ #Crestview
 	terrain="plains"
 	culture="dixie"
 	religion="revelationist"
@@ -167,7 +167,7 @@
 	}
 }
 
-1713={ #
+1713={ #Day
 	terrain="forest"
 	culture="gulfard"
 	religion="americanist"
@@ -180,7 +180,7 @@
 	}
 }
 
-1714={ #
+1714={ #Mayo
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -193,7 +193,7 @@
 	}
 }
 
-1715={ #
+1715={ #Cross City
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -206,7 +206,7 @@
 	}
 }
 
-2900={ #
+2900={ #Key West
 	terrain="marsh"
 	culture="sofloano"
 	religion="catholic"
@@ -219,7 +219,7 @@
 	}
 }
 
-2901={ #
+2901={ #Key Largo
 	terrain="marsh"
 	culture="sofloano"
 	religion="catholic"
@@ -232,7 +232,7 @@
 	}
 }
 
-3140={ #
+3140={ #Port Saint Lucie
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -245,7 +245,7 @@
 	}
 }
 
-3141={ #
+3141={ #Sebastian
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -258,7 +258,7 @@
 	}
 }
 
-3274={ #
+3274={ #Belle Glade
 	terrain="jungle"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -271,7 +271,7 @@
 	}
 }
 
-3275={ #
+3275={ #Fort Lauderdale
 	terrain="flood_plain"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -284,7 +284,7 @@
 	}
 }
 
-3965={ #
+3965={ #Clewiston
 	terrain="jungle"
 	culture="miccosukee"
 	religion="byzantine_americanists"
@@ -297,7 +297,7 @@
 	}
 }
 
-3966={ #
+3966={ #Placid Lakes
 	terrain="jungle"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -310,7 +310,7 @@
 	}
 }
 
-3967={ #
+3967={ #Sebring
 	terrain="marsh"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -323,7 +323,7 @@
 	}
 }
 
-4201={ #
+4201={ #Miami
 	terrain="flood_plain"
 	culture="sofloano"
 	religion="catholic"
@@ -336,7 +336,7 @@
 	}
 }
 
-4202={ #
+4202={ #Hialeah
 	terrain="flood_plain"
 	culture="sofloano"
 	religion="catholic"
@@ -349,7 +349,7 @@
 	}
 }
 
-4589={ #
+4589={ #Homestead
 	terrain="marsh"
 	culture="seminole"
 	religion="catholic"
@@ -362,7 +362,7 @@
 	}
 }
 
-4590={ #
+4590={ #Everglades City
 	terrain="jungle"
 	culture="seminole"
 	religion="catholic"
@@ -375,7 +375,7 @@
 	}
 }
 
-4814={ #
+4814={ #Bradenton
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -388,7 +388,7 @@
 	}
 }
 
-4815={ #
+4815={ #Sarasota
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -401,7 +401,7 @@
 	}
 }
 
-4816={ #
+4816={ #Tampa
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -414,7 +414,7 @@
 	}
 }
 
-4817={ #
+4817={ #St Petersburg
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -427,7 +427,7 @@
 	}
 }
 
-4818={ #
+4818={ #Wesley Chapel
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -440,7 +440,7 @@
 	}
 }
 
-4819={ #
+4819={ #Lakeland
 	terrain="plains"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -453,7 +453,7 @@
 	}
 }
 
-4955={ #
+4955={ #Daphne
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -466,7 +466,7 @@
 	}
 }
 
-5352={ #
+5352={ #West Palm Beach
 	terrain="marsh"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -479,7 +479,7 @@
 	}
 }
 
-5353={ #
+5353={ #Jupiter
 	terrain="marsh"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -492,7 +492,7 @@
 	}
 }
 
-5457={ #
+5457={ #Homosassa Springs
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -505,7 +505,7 @@
 	}
 }
 
-5458={ #
+5458={ #Pine Ridge
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="shriner"
@@ -518,7 +518,7 @@
 	}
 }
 
-6170={ #
+6170={ #Marianna
 	terrain="plains"
 	culture="gulfard"
 	religion="revelationist"
@@ -531,7 +531,7 @@
 	}
 }
 
-6171={ #
+6171={ #Defuniak Springs
 	terrain="farmland"
 	culture="dixie"
 	religion="revelationist"
@@ -544,7 +544,7 @@
 	}
 }
 
-6172={ #
+6172={ #Chipley
 	terrain="hills"
 	culture="dixie"
 	religion="revelationist"
@@ -557,7 +557,7 @@
 	}
 }
 
-6612={ #
+6612={ #Saint Cloud
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -570,7 +570,7 @@
 	}
 }
 
-6613={ #
+6613={ #Okeechobee
 	terrain="jungle"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -583,7 +583,7 @@
 	}
 }
 
-6756={ #
+6756={ #Alachua
 	terrain="forest"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -596,7 +596,7 @@
 	}
 }
 
-6757={ #
+6757={ #Newberry
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -609,7 +609,7 @@
 	}
 }
 
-6996={ #
+6996={ #Perry
 	terrain="forest"
 	culture="gulfard"
 	religion="americanist"
@@ -622,7 +622,7 @@
 	}
 }
 
-6997={ #
+6997={ #Woodville
 	terrain="marsh"
 	culture="gulfard"
 	religion="americanist"
@@ -635,7 +635,7 @@
 	}
 }
 
-6998={ #
+6998={ #Crawfordville
 	terrain="marsh"
 	culture="gulfard"
 	religion="evangelical"
@@ -648,7 +648,7 @@
 	}
 }
 
-6999={ #
+6999={ #Quincy
 	terrain="forest"
 	culture="gulfard"
 	religion="evangelical"
@@ -661,7 +661,7 @@
 	}
 }
 
-7000={ #
+7000={ #Tallahassee
 	terrain="plains"
 	culture="gulfard"
 	religion="americanist"
@@ -674,7 +674,7 @@
 	}
 }
 
-7314={ #
+7314={ #Daytona Beach
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -687,7 +687,7 @@
 	}
 }
 
-7315={ #
+7315={ #Palm Coast
 	terrain="flood_plain"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -700,7 +700,7 @@
 	}
 }
 
-7316={ #
+7316={ #Heart Island
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -713,7 +713,7 @@
 	}
 }
 
-7643={ #
+7643={ #Poinciana
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -726,7 +726,7 @@
 	}
 }
 
-7644={ #
+7644={ #Alafaya
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -739,7 +739,7 @@
 	}
 }
 
-7645={ #
+7645={ #Clermont
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -752,7 +752,7 @@
 	}
 }
 
-7646={ #
+7646={ #Apopka
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -765,7 +765,7 @@
 	}
 }
 
-7647={ #
+7647={ #Orlando
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -778,7 +778,7 @@
 	}
 }
 
-9100={ #
+9100={ #Lake City
 	terrain="forest"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -791,7 +791,7 @@
 	}
 }
 
-9101={ #
+9101={ #Jasper
 	terrain="plains"
 	culture="sunshiner"
 	religion="revelationist"
@@ -804,7 +804,7 @@
 	}
 }
 
-9102={ #
+9102={ #Watertown
 	terrain="forest"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -817,7 +817,7 @@
 	}
 }
 
-9491={ #
+9491={ #Melbourne
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -830,7 +830,7 @@
 	}
 }
 
-9492={ #
+9492={ #Merritt Island
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -843,7 +843,7 @@
 	}
 }
 
-9630={ #
+9630={ #Ocala
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -856,7 +856,7 @@
 	}
 }
 
-9631={ #
+9631={ #Nubys Corner
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -869,7 +869,7 @@
 	}
 }
 
-11931={ #
+11931={ #Atlantic Beach
 	terrain="flood_plain"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -882,7 +882,7 @@
 	}
 }
 
-11932={ #
+11932={ #Green Cove Spring
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -895,7 +895,7 @@
 	}
 }
 
-11933={ #
+11933={ #Crescent City
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
@@ -908,7 +908,7 @@
 	}
 }
 
-11934={ #
+11934={ #Chiefland
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -921,7 +921,7 @@
 	}
 }
 
-11935={ #
+11935={ #New Port Richey
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -934,7 +934,7 @@
 	}
 }
 
-11936={ #
+11936={ #Clearwater
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -947,7 +947,7 @@
 	}
 }
 
-11937={ #
+11937={ #Apollo Beach
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -960,7 +960,7 @@
 	}
 }
 
-11938={ #
+11938={ #Palmetto
 	terrain="plains"
 	culture="sunshiner"
 	religion="shriner"
@@ -973,7 +973,7 @@
 	}
 }
 
-11939={ #
+11939={ #Venice
 	terrain="marsh"
 	culture="sunshiner"
 	religion="shriner"
@@ -986,7 +986,7 @@
 	}
 }
 
-11940={ #
+11940={ #Cocoa
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -999,7 +999,7 @@
 	}
 }
 
-11941={ #
+11941={ #Kissimmee
 	terrain="marsh"
 	culture="sunshiner"
 	religion="byzantine_americanists"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-11942={ #
+11942={ #Lake Wales
 	terrain="marsh"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-11943={ #
+11943={ #Avon Park
 	terrain="plains"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-11944={ #
+11944={ #Archbold
 	terrain="jungle"
 	culture="sofloano"
 	religion="byzantine_americanists"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-11945={ #
+11945={ #Fort Pierce
 	terrain="plains"
 	culture="amerikaniotis"
 	religion="byzantine_americanists"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-11946={ #
+11946={ #Boca Raton
 	terrain="marsh"
 	culture="sofloano"
 	religion="byzantine_americanists"

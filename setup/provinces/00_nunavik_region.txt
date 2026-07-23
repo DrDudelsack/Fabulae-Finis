@@ -1,4 +1,4 @@
-﻿282={ #
+﻿282={ #Roulier
 	terrain="forest"
 	culture="algonquin"
 	religion="midewiwin"
@@ -11,7 +11,7 @@
 	}
 }
 
-283={ #
+283={ #Amos
 	terrain="forest"
 	culture="eeyou"
 	religion="midewiwin"
@@ -24,7 +24,7 @@
 	}
 }
 
-284={ #
+284={ #Rouyn Noranda
 	terrain="forest"
 	culture="algonquin"
 	religion="midewiwin"
@@ -37,7 +37,7 @@
 	}
 }
 
-317={ #
+317={ #Kuururjuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -50,7 +50,7 @@
 	}
 }
 
-318={ #
+318={ #Killiniq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -63,7 +63,7 @@
 	}
 }
 
-319={ #
+319={ #Kangiqsualujjuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -76,7 +76,7 @@
 	}
 }
 
-599={ #
+599={ #Senneterre
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -89,7 +89,7 @@
 	}
 }
 
-600={ #
+600={ #Chemin Du Lac Matchi Manitou
 	terrain="marsh"
 	culture="algonquin"
 	religion="midewiwin"
@@ -102,7 +102,7 @@
 	}
 }
 
-601={ #
+601={ #Val D Or
 	terrain="marsh"
 	culture="algonquin"
 	religion="midewiwin"
@@ -115,7 +115,7 @@
 	}
 }
 
-602={ #
+602={ #Barraute
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -128,7 +128,7 @@
 	}
 }
 
-909={ #
+909={ #Chapais
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -141,7 +141,7 @@
 	}
 }
 
-910={ #
+910={ #Mistissini
 	terrain="taiga"
 	culture="quebecois"
 	religion="midewiwin"
@@ -154,7 +154,7 @@
 	}
 }
 
-911={ #
+911={ #Chibougamau
 	terrain="taiga"
 	culture="quebecois"
 	religion="midewiwin"
@@ -167,7 +167,7 @@
 	}
 }
 
-1663={ #
+1663={ #Kangirsuq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -180,7 +180,7 @@
 	}
 }
 
-1664={ #
+1664={ #Kangiqsujuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -193,7 +193,7 @@
 	}
 }
 
-1716={ #
+1716={ #Ranoke
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -206,7 +206,7 @@
 	}
 }
 
-1717={ #
+1717={ #Hannah Bay
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -219,7 +219,7 @@
 	}
 }
 
-1718={ #
+1718={ #Moose Factory
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -232,7 +232,7 @@
 	}
 }
 
-2531={ #
+2531={ #Wemindji
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -245,7 +245,7 @@
 	}
 }
 
-2532={ #
+2532={ #Roggan River
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -258,7 +258,7 @@
 	}
 }
 
-2533={ #
+2533={ #Chisasibi
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -271,7 +271,7 @@
 	}
 }
 
-2534={ #
+2534={ #Radisson
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -284,7 +284,7 @@
 	}
 }
 
-4005={ #
+4005={ #Tasiujaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -297,7 +297,7 @@
 	}
 }
 
-4006={ #
+4006={ #Aupaluk
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -310,7 +310,7 @@
 	}
 }
 
-5120={ #
+5120={ #Nemiscau
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -323,7 +323,7 @@
 	}
 }
 
-5935={ #
+5935={ #Matagami
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -336,7 +336,7 @@
 	}
 }
 
-5936={ #
+5936={ #Lebel Sur Qu Villon
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -349,7 +349,7 @@
 	}
 }
 
-5937={ #
+5937={ #Waswanipi
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -362,7 +362,7 @@
 	}
 }
 
-6303={ #
+6303={ #Saint Bruno De Guigues
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -375,7 +375,7 @@
 	}
 }
 
-6304={ #
+6304={ #Belleterre
 	terrain="hills"
 	culture="algonquin"
 	religion="ursuline"
@@ -388,7 +388,7 @@
 	}
 }
 
-6596={ #
+6596={ #Sanikiluaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -401,7 +401,7 @@
 	}
 }
 
-6597={ #
+6597={ #Umiujaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -414,7 +414,7 @@
 	}
 }
 
-6598={ #
+6598={ #Kuujuaraapik
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -427,7 +427,7 @@
 	}
 }
 
-6769={ #
+6769={ #Inukjuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -440,7 +440,7 @@
 	}
 }
 
-6770={ #
+6770={ #Puvirnituq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -453,7 +453,7 @@
 	}
 }
 
-8014={ #
+8014={ #Ivujivik
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -466,7 +466,7 @@
 	}
 }
 
-8015={ #
+8015={ #Salluit
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -479,7 +479,7 @@
 	}
 }
 
-8367={ #
+8367={ #Ungava Kangiqluk
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -492,7 +492,7 @@
 	}
 }
 
-8368={ #
+8368={ #Kuujjuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="midewiwin"
@@ -505,7 +505,7 @@
 	}
 }
 
-8529={ #
+8529={ #Fort Albany
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -518,7 +518,7 @@
 	}
 }
 
-8530={ #
+8530={ #Attawapiskat
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -531,7 +531,7 @@
 	}
 }
 
-9242={ #
+9242={ #Waskaganish
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"
@@ -544,7 +544,7 @@
 	}
 }
 
-9243={ #
+9243={ #Eastmain
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -557,7 +557,7 @@
 	}
 }
 
-9244={ #
+9244={ #Waskaganish
 	terrain="marsh"
 	culture="eeyou"
 	religion="midewiwin"

@@ -1,4 +1,4 @@
-﻿1091={ #
+﻿1091={ #Newberry
 	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
@@ -11,7 +11,7 @@
 	}
 }
 
-1092={ #
+1092={ #Chester
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
@@ -24,7 +24,7 @@
 	}
 }
 
-1093={ #
+1093={ #Gaffney
 	terrain="farmland"
 	culture="piedmontese"
 	religion="evangelical"
@@ -37,7 +37,7 @@
 	}
 }
 
-1094={ #
+1094={ #Rock Hill
 	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
@@ -50,7 +50,7 @@
 	}
 }
 
-1363={ #
+1363={ #Lancaster
 	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
@@ -63,7 +63,7 @@
 	}
 }
 
-1364={ #
+1364={ #Bethune
 	terrain="forest"
 	culture="piedmontese"
 	religion="americanist"
@@ -76,7 +76,7 @@
 	}
 }
 
-1365={ #
+1365={ #Lugoff
 	terrain="plains"
 	culture="piedmontese"
 	religion="americanist"
@@ -89,7 +89,7 @@
 	}
 }
 
-1723={ #
+1723={ #Swansea
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
@@ -102,7 +102,7 @@
 	}
 }
 
-1724={ #
+1724={ #Barnwell
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
@@ -115,7 +115,7 @@
 	}
 }
 
-1780={ #
+1780={ #Boiling Springs
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
@@ -128,7 +128,7 @@
 	}
 }
 
-1781={ #
+1781={ #Hampton
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
@@ -141,7 +141,7 @@
 	}
 }
 
-1877={ #
+1877={ #Greenwood
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
@@ -154,7 +154,7 @@
 	}
 }
 
-1878={ #
+1878={ #Edgefield
 	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
@@ -167,7 +167,7 @@
 	}
 }
 
-1879={ #
+1879={ #Abbeville
 	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
@@ -180,7 +180,7 @@
 	}
 }
 
-2853={ #
+2853={ #Marion
 	terrain="forest"
 	culture="sandlapper"
 	religion="evangelical"
@@ -193,7 +193,7 @@
 	}
 }
 
-2854={ #
+2854={ #Bennettsville
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
@@ -206,7 +206,7 @@
 	}
 }
 
-2855={ #
+2855={ #Florence
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
@@ -219,7 +219,7 @@
 	}
 }
 
-2856={ #
+2856={ #Hartsville
 	terrain="forest"
 	culture="piedmontese"
 	religion="evangelical"
@@ -232,7 +232,7 @@
 	}
 }
 
-3540={ #
+3540={ #Beaufort
 	terrain="marsh"
 	culture="gullah"
 	religion="evangelical"
@@ -245,7 +245,7 @@
 	}
 }
 
-3541={ #
+3541={ #Hilton Head Island
 	terrain="marsh"
 	culture="gullah"
 	religion="evangelical"
@@ -258,7 +258,7 @@
 	}
 }
 
-3542={ #
+3542={ #Hollywood
 	terrain="marsh"
 	culture="tuskegean"
 	religion="evangelical"
@@ -271,7 +271,7 @@
 	}
 }
 
-5047={ #
+5047={ #Clemson
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
@@ -284,7 +284,7 @@
 	}
 }
 
-5453={ #
+5453={ #Gaston
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
@@ -297,7 +297,7 @@
 	}
 }
 
-5454={ #
+5454={ #Saint Andrews
 	terrain="flood_plain"
 	culture="piedmontese"
 	religion="evangelical"
@@ -310,7 +310,7 @@
 	}
 }
 
-5455={ #
+5455={ #Lexington
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
@@ -323,7 +323,7 @@
 	}
 }
 
-5456={ #
+5456={ #Columbia
 	terrain="farmland"
 	culture="piedmontese"
 	religion="americanist"
@@ -336,7 +336,7 @@
 	}
 }
 
-6544={ #
+6544={ #Summerville
 	terrain="forest"
 	culture="sandlapper"
 	religion="evangelical"
@@ -349,7 +349,7 @@
 	}
 }
 
-6545={ #
+6545={ #Goose Creek
 	terrain="forest"
 	culture="sandlapper"
 	religion="evangelical"
@@ -362,7 +362,7 @@
 	}
 }
 
-6546={ #
+6546={ #Awendaw
 	terrain="marsh"
 	culture="sandlapper"
 	religion="evangelical"
@@ -375,7 +375,7 @@
 	}
 }
 
-6547={ #
+6547={ #Charleston
 	terrain="marsh"
 	culture="sandlapper"
 	religion="evangelical"
@@ -388,7 +388,7 @@
 	}
 }
 
-6672={ #
+6672={ #Myrtle Beach
 	terrain="marsh"
 	culture="sandlapper"
 	religion="evangelical"
@@ -401,7 +401,7 @@
 	}
 }
 
-6673={ #
+6673={ #Georgetown
 	terrain="marsh"
 	culture="sandlapper"
 	religion="evangelical"
@@ -414,7 +414,7 @@
 	}
 }
 
-6674={ #
+6674={ #Conway
 	terrain="forest"
 	culture="sandlapper"
 	religion="evangelical"
@@ -427,7 +427,7 @@
 	}
 }
 
-7793={ #
+7793={ #Holly Hill
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
@@ -440,7 +440,7 @@
 	}
 }
 
-7794={ #
+7794={ #Orangeburg
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
@@ -453,7 +453,7 @@
 	}
 }
 
-7795={ #
+7795={ #Walterboro
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
@@ -466,7 +466,7 @@
 	}
 }
 
-7796={ #
+7796={ #Ridgeville
 	terrain="forest"
 	culture="sandlapper"
 	religion="evangelical"
@@ -479,7 +479,7 @@
 	}
 }
 
-8117={ #
+8117={ #New Ellenton
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
@@ -492,7 +492,7 @@
 	}
 }
 
-8118={ #
+8118={ #Aiken
 	terrain="forest"
 	culture="tuskegean"
 	religion="evangelical"
@@ -505,7 +505,7 @@
 	}
 }
 
-8316={ #
+8316={ #Sumter
 	terrain="plains"
 	culture="piedmontese"
 	religion="americanist"
@@ -518,7 +518,7 @@
 	}
 }
 
-8317={ #
+8317={ #Manning
 	terrain="forest"
 	culture="sandlapper"
 	religion="americanist"
@@ -531,7 +531,7 @@
 	}
 }
 
-8318={ #
+8318={ #Lake City
 	terrain="forest"
 	culture="sandlapper"
 	religion="evangelical"
@@ -544,7 +544,7 @@
 	}
 }
 
-8986={ #
+8986={ #Greenville
 	terrain="farmland"
 	culture="piedmontese"
 	religion="omenteller"
@@ -557,7 +557,7 @@
 	}
 }
 
-8987={ #
+8987={ #Spartanburg
 	terrain="farmland"
 	culture="piedmontese"
 	religion="omenteller"
@@ -570,7 +570,7 @@
 	}
 }
 
-8988={ #
+8988={ #Pickens
 	terrain="forest"
 	culture="piedmontese"
 	religion="omenteller"
@@ -583,7 +583,7 @@
 	}
 }
 
-8989={ #
+8989={ #Travelers Rest
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"

@@ -1,4 +1,4 @@
-﻿393={ #
+﻿393={ #Monroe
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -14,7 +14,7 @@
 	}
 }
 
-394={ #
+394={ #Lake Providence
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
@@ -30,7 +30,7 @@
 	}
 }
 
-395={ #
+395={ #Bastrop
 	terrain="forest"
 	culture="deltaic"
 	religion="revelationist"
@@ -46,7 +46,7 @@
 	}
 }
 
-396={ #
+396={ #Monticello
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"

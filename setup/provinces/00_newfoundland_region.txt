@@ -1,4 +1,4 @@
-﻿144={ #
+﻿144={ #Williams Harbour
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -11,7 +11,7 @@
 	}
 }
 
-145={ #
+145={ #West St Modeste
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -24,7 +24,7 @@
 	}
 }
 
-516={ #
+516={ #Schefferville
 	terrain="taiga"
 	culture="innu"
 	religion="midewiwin"
@@ -37,7 +37,7 @@
 	}
 }
 
-558={ #
+558={ #Nain
 	terrain="mountain"
 	culture="inuit"
 	religion="fogsong"
@@ -50,7 +50,7 @@
 	}
 }
 
-559={ #
+559={ #Natuashish
 	terrain="mountain"
 	culture="inuit"
 	religion="fogsong"
@@ -63,7 +63,7 @@
 	}
 }
 
-1200={ #
+1200={ #Harbour Breton
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -76,7 +76,7 @@
 	}
 }
 
-1201={ #
+1201={ #Grand Bank
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -89,7 +89,7 @@
 	}
 }
 
-1202={ #
+1202={ #Marystown
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -115,7 +115,7 @@
 	}
 }
 
-2186={ #
+2186={ #Corner Brook
 	terrain="hills"
 	culture="newfie"
 	religion="fogsong"
@@ -141,7 +141,7 @@
 	}
 }
 
-2188={ #
+2188={ #Deer Lake
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -154,7 +154,7 @@
 	}
 }
 
-2443={ #
+2443={ #Rigolat
 	terrain="taiga"
 	culture="inuit"
 	religion="fogsong"
@@ -167,7 +167,7 @@
 	}
 }
 
-2444={ #
+2444={ #Makkovik
 	terrain="taiga"
 	culture="inuit"
 	religion="fogsong"
@@ -180,7 +180,7 @@
 	}
 }
 
-2445={ #
+2445={ #Hopedale
 	terrain="taiga"
 	culture="inuit"
 	religion="fogsong"
@@ -193,7 +193,7 @@
 	}
 }
 
-2520={ #
+2520={ #Jaic S
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -206,7 +206,7 @@
 	}
 }
 
-3034={ #
+3034={ #Pyramiden
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -219,7 +219,7 @@
 	}
 }
 
-3035={ #
+3035={ #Ny Lesund
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -245,7 +245,7 @@
 	}
 }
 
-3335={ #
+3335={ #Springdale
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -258,7 +258,7 @@
 	}
 }
 
-3336={ #
+3336={ #Lewisporte
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -271,7 +271,7 @@
 	}
 }
 
-3518={ #
+3518={ #Bay Roberts
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -284,7 +284,7 @@
 	}
 }
 
-3519={ #
+3519={ #Witless Bay
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -323,7 +323,7 @@
 	}
 }
 
-4414={ #
+4414={ #Labrador City
 	terrain="taiga"
 	culture="innu"
 	religion="midewiwin"
@@ -336,7 +336,7 @@
 	}
 }
 
-4415={ #
+4415={ #Harlands Landing
 	terrain="marsh"
 	culture="innu"
 	religion="midewiwin"
@@ -349,7 +349,7 @@
 	}
 }
 
-4933={ #
+4933={ #Clarenville
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -362,7 +362,7 @@
 	}
 }
 
-4934={ #
+4934={ #Bonavista
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -375,7 +375,7 @@
 	}
 }
 
-4935={ #
+4935={ #Gambo
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -388,7 +388,7 @@
 	}
 }
 
-5395={ #
+5395={ #Burgeo
 	terrain="forest"
 	culture="mikmaw"
 	religion="ursuline"
@@ -401,7 +401,7 @@
 	}
 }
 
-5396={ #
+5396={ #Francois
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -427,7 +427,7 @@
 	}
 }
 
-5582={ #
+5582={ #Sheshatshiu
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -440,7 +440,7 @@
 	}
 }
 
-5583={ #
+5583={ #Happy Valley Goose Bay
 	terrain="forest"
 	culture="innu"
 	religion="fogsong"
@@ -453,7 +453,7 @@
 	}
 }
 
-5714={ #
+5714={ #Trepassey
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -466,7 +466,7 @@
 	}
 }
 
-5715={ #
+5715={ #Ferryland
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -479,7 +479,7 @@
 	}
 }
 
-5716={ #
+5716={ #Placentia
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -492,7 +492,7 @@
 	}
 }
 
-5717={ #
+5717={ #Whitbourne
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -505,7 +505,7 @@
 	}
 }
 
-6866={ #
+6866={ #Gander
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -518,7 +518,7 @@
 	}
 }
 
-6867={ #
+6867={ #Gayside
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -531,7 +531,7 @@
 	}
 }
 
-6868={ #
+6868={ #Twillingate
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -544,7 +544,7 @@
 	}
 }
 
-6869={ #
+6869={ #Musgrave Harbour
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -570,7 +570,7 @@
 	}
 }
 
-7033={ #
+7033={ #Roddickton
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -583,7 +583,7 @@
 	}
 }
 
-7034={ #
+7034={ #Port Au Choix
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -596,7 +596,7 @@
 	}
 }
 
-7035={ #
+7035={ #Rocky Harbour
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -609,7 +609,7 @@
 	}
 }
 
-7036={ #
+7036={ #St Anthony
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -622,7 +622,7 @@
 	}
 }
 
-7037={ #
+7037={ #Baie Vert
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
@@ -655,7 +655,7 @@
 	}
 }
 
-7472={ #
+7472={ #Salmon Bight
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -668,7 +668,7 @@
 	}
 }
 
-7473={ #
+7473={ #Crooks Lake Lodge
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -681,7 +681,7 @@
 	}
 }
 
-9301={ #
+9301={ #Fermont
 	terrain="marsh"
 	culture="innu"
 	religion="midewiwin"

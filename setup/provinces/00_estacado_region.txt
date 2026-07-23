@@ -1,4 +1,4 @@
-﻿9={ #
+﻿9={ #Big Spring
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -11,7 +11,7 @@
 	}
 }
 
-10={ #
+10={ #Andrews
 	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
@@ -24,7 +24,7 @@
 	}
 }
 
-11={ #
+11={ #Hobbs
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -37,7 +37,7 @@
 	}
 }
 
-12={ #
+12={ #Lamesa
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -50,7 +50,7 @@
 	}
 }
 
-17={ #
+17={ #Plainview
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -63,7 +63,7 @@
 	}
 }
 
-18={ #
+18={ #Dimmitt
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -76,7 +76,7 @@
 	}
 }
 
-20={ #
+20={ #Floydada
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -89,7 +89,7 @@
 	}
 }
 
-37={ #
+37={ #Shamrock
 	terrain="steppes"
 	culture="comanche"
 	religion="loneranger"
@@ -102,7 +102,7 @@
 	}
 }
 
-38={ #
+38={ #Clarendon
 	terrain="steppes"
 	culture="comanche"
 	religion="loneranger"
@@ -115,7 +115,7 @@
 	}
 }
 
-39={ #
+39={ #Canadian
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -128,7 +128,7 @@
 	}
 }
 
-484={ #
+484={ #Amarillo
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -141,7 +141,7 @@
 	}
 }
 
-485={ #
+485={ #Pampa
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -154,7 +154,7 @@
 	}
 }
 
-486={ #
+486={ #Hereford
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -167,7 +167,7 @@
 	}
 }
 
-684={ #
+684={ #Tulia
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -180,7 +180,7 @@
 	}
 }
 
-685={ #
+685={ #Lubbock
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -193,7 +193,7 @@
 	}
 }
 
-686={ #
+686={ #Brownfield
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -206,7 +206,7 @@
 	}
 }
 
-687={ #
+687={ #Levelland
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -219,7 +219,7 @@
 	}
 }
 
-812={ #
+812={ #Las Cruces
 	terrain="desert"
 	culture="arixan"
 	religion="limpio"
@@ -232,7 +232,7 @@
 	}
 }
 
-813={ #
+813={ #Elephant Butte
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -245,7 +245,7 @@
 	}
 }
 
-814={ #
+814={ #Santa Teresa
 	terrain="desert"
 	culture="arixan"
 	religion="limpio"
@@ -258,7 +258,7 @@
 	}
 }
 
-822={ #
+822={ #Roswell
 	terrain="steppes"
 	culture="arixan"
 	religion="zetanologist"
@@ -271,7 +271,7 @@
 	}
 }
 
-823={ #
+823={ #Artesia
 	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
@@ -284,7 +284,7 @@
 	}
 }
 
-824={ #
+824={ #Cloudcroft
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -297,7 +297,7 @@
 	}
 }
 
-1384={ #
+1384={ #Mountainair
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
@@ -310,7 +310,7 @@
 	}
 }
 
-1385={ #
+1385={ #Tecolotito
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
@@ -323,7 +323,7 @@
 	}
 }
 
-1386={ #
+1386={ #Edgewood
 	terrain="desert"
 	culture="zuni"
 	religion="aphite"
@@ -336,7 +336,7 @@
 	}
 }
 
-1430={ #
+1430={ #Chimayo
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
@@ -349,7 +349,7 @@
 	}
 }
 
-1432={ #
+1432={ #Taos
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
@@ -362,7 +362,7 @@
 	}
 }
 
-3727={ #
+3727={ #Variadero
 	terrain="steppes"
 	culture="neomexicano"
 	religion="aphite"
@@ -375,7 +375,7 @@
 	}
 }
 
-3728={ #
+3728={ #House
 	terrain="steppes"
 	culture="neomexicano"
 	religion="aphite"
@@ -388,7 +388,7 @@
 	}
 }
 
-3729={ #
+3729={ #Tucumcari
 	terrain="steppes"
 	culture="estacadan"
 	religion="aphite"
@@ -401,7 +401,7 @@
 	}
 }
 
-3989={ #
+3989={ #Dumas
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -414,7 +414,7 @@
 	}
 }
 
-3990={ #
+3990={ #Perryton
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -427,7 +427,7 @@
 	}
 }
 
-3991={ #
+3991={ #Dalhart
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -440,7 +440,7 @@
 	}
 }
 
-4564={ #
+4564={ #Loco Hills
 	terrain="dry_plains"
 	culture="arixan"
 	religion="petrobaron"
@@ -453,7 +453,7 @@
 	}
 }
 
-4565={ #
+4565={ #Carlsbad
 	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
@@ -466,7 +466,7 @@
 	}
 }
 
-4566={ #
+4566={ #Lea
 	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
@@ -479,7 +479,7 @@
 	}
 }
 
-4956={ #
+4956={ #Los Lunas
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
@@ -492,7 +492,7 @@
 	}
 }
 
-4957={ #
+4957={ #Albuquerque
 	terrain="desert"
 	culture="zuni"
 	religion="aphite"
@@ -505,7 +505,7 @@
 	}
 }
 
-5866={ #
+5866={ #Val Verde
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
@@ -518,7 +518,7 @@
 	}
 }
 
-5867={ #
+5867={ #Tokay
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
@@ -531,7 +531,7 @@
 	}
 }
 
-6566={ #
+6566={ #Santa Fe
 	terrain="desert_hills"
 	culture="neomexicano"
 	religion="aphite"
@@ -544,7 +544,7 @@
 	}
 }
 
-6567={ #
+6567={ #Angel Fire
 	terrain="desert_hills"
 	culture="neomexicano"
 	religion="aphite"
@@ -557,7 +557,7 @@
 	}
 }
 
-6568={ #
+6568={ #Las Vegas
 	terrain="desert_hills"
 	culture="neomexicano"
 	religion="aphite"
@@ -570,7 +570,7 @@
 	}
 }
 
-6992={ #
+6992={ #Elida
 	terrain="steppes"
 	culture="neomexicano"
 	religion="petrobaron"
@@ -583,7 +583,7 @@
 	}
 }
 
-6993={ #
+6993={ #Clovis
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -596,7 +596,7 @@
 	}
 }
 
-6994={ #
+6994={ #Dora
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -609,7 +609,7 @@
 	}
 }
 
-6995={ #
+6995={ #Vest Wells
 	terrain="steppes"
 	culture="arixan"
 	religion="petrobaron"
@@ -622,7 +622,7 @@
 	}
 }
 
-7131={ #
+7131={ #Tinaja
 	terrain="steppes"
 	culture="neomexicano"
 	religion="aphite"
@@ -635,7 +635,7 @@
 	}
 }
 
-7132={ #
+7132={ #Nara Visa
 	terrain="steppes"
 	culture="neomexicano"
 	religion="loneranger"
@@ -648,7 +648,7 @@
 	}
 }
 
-7133={ #
+7133={ #Logan
 	terrain="steppes"
 	culture="neomexicano"
 	religion="aphite"
@@ -661,7 +661,7 @@
 	}
 }
 
-7134={ #
+7134={ #Des Moines
 	terrain="steppes"
 	culture="neomexicano"
 	religion="loneranger"
@@ -674,7 +674,7 @@
 	}
 }
 
-7260={ #
+7260={ #La Cienega
 	terrain="desert"
 	culture="zuni"
 	religion="aphite"
@@ -687,7 +687,7 @@
 	}
 }
 
-7815={ #
+7815={ #Trinidad
 	terrain="plains"
 	culture="neomexicano"
 	religion="loneranger"
@@ -700,7 +700,7 @@
 	}
 }
 
-8146={ #
+8146={ #Clayton
 	terrain="steppes"
 	culture="okie"
 	religion="loneranger"
@@ -713,7 +713,7 @@
 	}
 }
 
-8147={ #
+8147={ #Guymon
 	terrain="steppes"
 	culture="okie"
 	religion="loneranger"
@@ -726,7 +726,7 @@
 	}
 }
 
-8148={ #
+8148={ #Beaver
 	terrain="steppes"
 	culture="okie"
 	religion="loneranger"
@@ -739,7 +739,7 @@
 	}
 }
 
-8489={ #
+8489={ #Ruidoso
 	terrain="desert"
 	culture="neomexicano"
 	religion="zetanologist"
@@ -752,7 +752,7 @@
 	}
 }
 
-8490={ #
+8490={ #Alamogordo
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -765,7 +765,7 @@
 	}
 }
 
-8491={ #
+8491={ #Chaparral
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -778,7 +778,7 @@
 	}
 }
 
-8492={ #
+8492={ #Pi On
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -791,7 +791,7 @@
 	}
 }
 
-8716={ #
+8716={ #Buffalo
 	terrain="steppes"
 	culture="okie"
 	religion="peyotist"
@@ -804,7 +804,7 @@
 	}
 }
 
-8717={ #
+8717={ #Woodward
 	terrain="steppes"
 	culture="okie"
 	religion="peyotist"
@@ -817,7 +817,7 @@
 	}
 }
 
-8718={ #
+8718={ #Alva
 	terrain="steppes"
 	culture="okie"
 	religion="heartful"
@@ -830,7 +830,7 @@
 	}
 }
 
-8990={ #
+8990={ #Ruidoso Downs
 	terrain="desert"
 	culture="neomexicano"
 	religion="zetanologist"
@@ -843,7 +843,7 @@
 	}
 }
 
-8991={ #
+8991={ #Santa Rosa
 	terrain="steppes"
 	culture="neomexicano"
 	religion="aphite"
@@ -856,7 +856,7 @@
 	}
 }
 
-8992={ #
+8992={ #Mesa
 	terrain="steppes"
 	culture="neomexicano"
 	religion="zetanologist"
@@ -869,7 +869,7 @@
 	}
 }
 
-8993={ #
+8993={ #Vaughn
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"

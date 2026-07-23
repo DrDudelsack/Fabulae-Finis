@@ -297,6 +297,7 @@
  ## Czexan ##
  czexan:0 "Bergbewohner" #German for 'Hill-dweller'
  texanane:0 "Czexan"
+ silesian:0 "Silesian"
 
  ## Dene ##
  dene:0 "Dene"
@@ -435,3 +436,5 @@
  michigan_nederlander_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  basque_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  basque_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ normexa_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ normexa_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

@@ -1,4 +1,4 @@
-﻿113={ #
+﻿113={ #Wonowon
 	terrain="forest"
 	culture="dane_zaa"
 	religion="catholic"
@@ -11,7 +11,7 @@
 	}
 }
 
-114={ #
+114={ #Lynx Creek
 	terrain="plains"
 	culture="dane_zaa"
 	religion="catholic"
@@ -24,7 +24,7 @@
 	}
 }
 
-115={ #
+115={ #Fort St John
 	terrain="forest"
 	culture="dane_zaa"
 	religion="catholic"
@@ -37,7 +37,7 @@
 	}
 }
 
-116={ #
+116={ #Osborn
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -50,7 +50,7 @@
 	}
 }
 
-117={ #
+117={ #Worsley
 	terrain="forest"
 	culture="dane_zaa"
 	religion="catholic"
@@ -63,7 +63,7 @@
 	}
 }
 
-118={ #
+118={ #Peejay
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -76,7 +76,7 @@
 	}
 }
 
-555={ #
+555={ #Dawson Creek
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -89,7 +89,7 @@
 	}
 }
 
-556={ #
+556={ #Gordondale
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -102,7 +102,7 @@
 	}
 }
 
-557={ #
+557={ #Willow Valley
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -115,7 +115,7 @@
 	}
 }
 
-938={ #
+938={ #Faust
 	terrain="plains"
 	culture="prairielander"
 	religion="mennonite"
@@ -128,7 +128,7 @@
 	}
 }
 
-939={ #
+939={ #Swan Hills
 	terrain="plains"
 	culture="prairielander"
 	religion="mennonite"
@@ -141,7 +141,7 @@
 	}
 }
 
-940={ #
+940={ #Slave Lake
 	terrain="forest"
 	culture="metis"
 	religion="peyotist"
@@ -154,7 +154,7 @@
 	}
 }
 
-2175={ #
+2175={ #Paddle Prairie
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -167,7 +167,7 @@
 	}
 }
 
-2176={ #
+2176={ #Manning
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -180,7 +180,7 @@
 	}
 }
 
-2177={ #
+2177={ #Hawk Hills
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -193,7 +193,7 @@
 	}
 }
 
-2250={ #
+2250={ #Naylors Landing
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -206,7 +206,7 @@
 	}
 }
 
-2251={ #
+2251={ #Fort Simpson
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -219,7 +219,7 @@
 	}
 }
 
-2252={ #
+2252={ #Wrigley
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -232,7 +232,7 @@
 	}
 }
 
-2340={ #
+2340={ #Inner Whaleback Rocks
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -245,7 +245,7 @@
 	}
 }
 
-2341={ #
+2341={ #Yellowknife
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -258,7 +258,7 @@
 	}
 }
 
-2342={ #
+2342={ #Camlaren
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -271,7 +271,7 @@
 	}
 }
 
-2343={ #
+2343={ #Discovery
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -284,7 +284,7 @@
 	}
 }
 
-2356={ #
+2356={ #Quatre Fourches
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -297,7 +297,7 @@
 	}
 }
 
-2357={ #
+2357={ #Cluff Lake
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -310,7 +310,7 @@
 	}
 }
 
-2390={ #
+2390={ #Camsell Portage
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -323,7 +323,7 @@
 	}
 }
 
-2391={ #
+2391={ #Uranium City
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -336,7 +336,7 @@
 	}
 }
 
-2392={ #
+2392={ #Stony Rapids
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -349,7 +349,7 @@
 	}
 }
 
-2407={ #
+2407={ #Fort Liard
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -362,7 +362,7 @@
 	}
 }
 
-2408={ #
+2408={ #Noname
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -375,7 +375,7 @@
 	}
 }
 
-2409={ #
+2409={ #Netla
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -388,7 +388,7 @@
 	}
 }
 
-2752={ #
+2752={ #Taylor
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -401,7 +401,7 @@
 	}
 }
 
-2753={ #
+2753={ #Chetwynd
 	terrain="mountain"
 	culture=""
 	religion="mennonite"
@@ -414,7 +414,7 @@
 	}
 }
 
-2754={ #
+2754={ #Tumbler Ridge
 	terrain="mountain"
 	culture=""
 	religion="mennonite"
@@ -427,7 +427,7 @@
 	}
 }
 
-2891={ #
+2891={ #Tar Island
 	terrain="forest"
 	culture="nehiyaw"
 	religion="petrobaron"
@@ -440,7 +440,7 @@
 	}
 }
 
-3044={ #
+3044={ #Valleyview
 	terrain="plains"
 	culture="prairielander"
 	religion="mennonite"
@@ -453,7 +453,7 @@
 	}
 }
 
-3045={ #
+3045={ #Fox Creek
 	terrain="plains"
 	culture="prairielander"
 	religion="mennonite"
@@ -466,7 +466,7 @@
 	}
 }
 
-3046={ #
+3046={ #Pedley
 	terrain="mountain"
 	culture="prairielander"
 	religion="mennonite"
@@ -479,7 +479,7 @@
 	}
 }
 
-3047={ #
+3047={ #Grande Cache
 	terrain="mountain"
 	culture="prairielander"
 	religion="mennonite"
@@ -492,7 +492,7 @@
 	}
 }
 
-3091={ #
+3091={ #Noname
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -505,7 +505,7 @@
 	}
 }
 
-3092={ #
+3092={ #Toad River
 	terrain="mountain"
 	culture="deh_cho"
 	religion="catholic"
@@ -518,7 +518,7 @@
 	}
 }
 
-3191={ #
+3191={ #Bison Lake
 	terrain="forest"
 	culture=""
 	religion="peyotist"
@@ -531,7 +531,7 @@
 	}
 }
 
-3192={ #
+3192={ #Cadotte Lake
 	terrain="forest"
 	culture=""
 	religion="peyotist"
@@ -544,7 +544,7 @@
 	}
 }
 
-3193={ #
+3193={ #Gift Lake
 	terrain="forest"
 	culture=""
 	religion="peyotist"
@@ -557,7 +557,7 @@
 	}
 }
 
-3194={ #
+3194={ #Red Earth
 	terrain="forest"
 	culture=""
 	religion="peyotist"
@@ -570,7 +570,7 @@
 	}
 }
 
-4199={ #
+4199={ #Fort Enterprise
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -583,7 +583,7 @@
 	}
 }
 
-4200={ #
+4200={ #Wekwe T
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -596,7 +596,7 @@
 	}
 }
 
-4408={ #
+4408={ #High Prairie
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -609,7 +609,7 @@
 	}
 }
 
-4409={ #
+4409={ #Falher
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -622,7 +622,7 @@
 	}
 }
 
-4410={ #
+4410={ #St Isidore
 	terrain="forest"
 	culture=""
 	religion="peyotist"
@@ -635,7 +635,7 @@
 	}
 }
 
-6411={ #
+6411={ #Trutch
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -648,7 +648,7 @@
 	}
 }
 
-6412={ #
+6412={ #Sikanni Chief
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -661,7 +661,7 @@
 	}
 }
 
-6413={ #
+6413={ #Kahntah
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -674,7 +674,7 @@
 	}
 }
 
-6682={ #
+6682={ #Behchok
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -687,7 +687,7 @@
 	}
 }
 
-6683={ #
+6683={ #Rae
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -700,7 +700,7 @@
 	}
 }
 
-6684={ #
+6684={ #What
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -713,7 +713,7 @@
 	}
 }
 
-6685={ #
+6685={ #Gam Ti
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -726,7 +726,7 @@
 	}
 }
 
-7390={ #
+7390={ #Goldsboro
 	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
@@ -739,7 +739,7 @@
 	}
 }
 
-7426={ #
+7426={ #Grande Prairie
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -752,7 +752,7 @@
 	}
 }
 
-7427={ #
+7427={ #Ojay
 	terrain="mountain"
 	culture=""
 	religion="mennonite"
@@ -765,7 +765,7 @@
 	}
 }
 
-7428={ #
+7428={ #Beaverlodge
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -778,7 +778,7 @@
 	}
 }
 
-7429={ #
+7429={ #Wapiti
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -791,7 +791,7 @@
 	}
 }
 
-7430={ #
+7430={ #Goodwin
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -804,7 +804,7 @@
 	}
 }
 
-7499={ #
+7499={ #Kakisa
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -817,7 +817,7 @@
 	}
 }
 
-7500={ #
+7500={ #Noname
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -830,7 +830,7 @@
 	}
 }
 
-7929={ #
+7929={ #Fort Resolution
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -843,7 +843,7 @@
 	}
 }
 
-7930={ #
+7930={ #Pine Point
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -856,7 +856,7 @@
 	}
 }
 
-7931={ #
+7931={ #Rocher River
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -869,7 +869,7 @@
 	}
 }
 
-8073={ #
+8073={ #?utselk E
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -882,7 +882,7 @@
 	}
 }
 
-8074={ #
+8074={ #Thompson Landing
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -895,7 +895,7 @@
 	}
 }
 
-8138={ #
+8138={ #Sweetgrass Landing
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -908,7 +908,7 @@
 	}
 }
 
-8139={ #
+8139={ #Vermilion Chutes
 	terrain="forest"
 	culture="denesuline"
 	religion="peyotist"
@@ -921,7 +921,7 @@
 	}
 }
 
-8140={ #
+8140={ #Jean D Or
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -934,7 +934,7 @@
 	}
 }
 
-8255={ #
+8255={ #Fort Chipewyan
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -947,7 +947,7 @@
 	}
 }
 
-8256={ #
+8256={ #Carlson Landing
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -960,7 +960,7 @@
 	}
 }
 
-8257={ #
+8257={ #Fort Smith
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -973,7 +973,7 @@
 	}
 }
 
-8258={ #
+8258={ #Noname
 	terrain="taiga"
 	culture="denesuline"
 	religion="peyotist"
@@ -986,7 +986,7 @@
 	}
 }
 
-8475={ #
+8475={ #Old Fort Nelson
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -999,7 +999,7 @@
 	}
 }
 
-8476={ #
+8476={ #Steamboat
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-8477={ #
+8477={ #Fort Nelson
 	terrain="taiga"
 	culture="deh_cho"
 	religion="catholic"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-9011={ #
+9011={ #Peace River
 	terrain="forest"
 	culture="dane_zaa"
 	religion="catholic"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-9012={ #
+9012={ #Fairview
 	terrain="forest"
 	culture=""
 	religion="catholic"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-9013={ #
+9013={ #Spirit River
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-9014={ #
+9014={ #Eaglesham
 	terrain="plains"
 	culture=""
 	religion="mennonite"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-9384={ #
+9384={ #Indian Cabins
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-9385={ #
+9385={ #Hay River
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-9386={ #
+9386={ #Slavey Creek
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-9387={ #
+9387={ #Steen River
 	terrain="taiga"
 	culture="denesuline"
 	religion="catholic"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-9422={ #
+9422={ #Calling Lake
 	terrain="forest"
 	culture="metis"
 	religion="peyotist"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-9424={ #
+9424={ #Wabasca
 	terrain="forest"
 	culture="metis"
 	religion="peyotist"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-9425={ #
+9425={ #Chipewyan Lake
 	terrain="forest"
 	culture="nehiyaw"
 	religion="petrobaron"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-9610={ #
+9610={ #Fort Vermilion
 	terrain="forest"
 	culture="dane_zaa"
 	religion="peyotist"
@@ -1181,7 +1181,7 @@
 	}
 }
 
-9611={ #
+9611={ #High Level
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -1194,7 +1194,7 @@
 	}
 }
 
-9612={ #
+9612={ #Habay
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"
@@ -1207,7 +1207,7 @@
 	}
 }
 
-9613={ #
+9613={ #Rainbow Lake
 	terrain="taiga"
 	culture="dane_zaa"
 	religion="catholic"

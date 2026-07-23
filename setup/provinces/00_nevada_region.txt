@@ -1,4 +1,4 @@
-﻿245={ #
+﻿245={ #Ely
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="dreamer"
@@ -11,7 +11,7 @@
 	}
 }
 
-246={ #
+246={ #Baker
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="mormon"
@@ -24,7 +24,7 @@
 	}
 }
 
-344={ #
+344={ #Mammoth Lakes
 	terrain="dry_hills"
 	culture="paiute"
 	religion="dreamer"
@@ -37,7 +37,7 @@
 	}
 }
 
-345={ #
+345={ #Bridgeport
 	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
@@ -50,7 +50,7 @@
 	}
 }
 
-438={ #
+438={ #Twentynine Palms
 	terrain="desert"
 	culture="mojavean"
 	religion="loneranger"
@@ -63,7 +63,7 @@
 	}
 }
 
-439={ #
+439={ #Barstow
 	terrain="desert"
 	culture="mojavean"
 	religion="loneranger"
@@ -89,7 +89,7 @@
 	}
 }
 
-1300={ #
+1300={ #El Centro
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
@@ -102,7 +102,7 @@
 	}
 }
 
-1301={ #
+1301={ #Borrego Springs
 	terrain="desert_hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -115,7 +115,7 @@
 	}
 }
 
-1302={ #
+1302={ #East Hemet
 	terrain="desert_hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -128,7 +128,7 @@
 	}
 }
 
-1303={ #
+1303={ #Salton City
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
@@ -141,7 +141,7 @@
 	}
 }
 
-1578={ #
+1578={ #Needles
 	terrain="desert"
 	culture="mojavean"
 	religion="loneranger"
@@ -154,7 +154,7 @@
 	}
 }
 
-1579={ #
+1579={ #Big River
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
@@ -167,7 +167,7 @@
 	}
 }
 
-1635={ #
+1635={ #Winnemucca
 	terrain="desert_hills"
 	culture="euskal"
 	religion="loneranger"
@@ -180,7 +180,7 @@
 	}
 }
 
-1636={ #
+1636={ #Owyhee
 	terrain="desert_hills"
 	culture="paiute"
 	religion="loneranger"
@@ -193,7 +193,7 @@
 	}
 }
 
-1637={ #
+1637={ #Denio
 	terrain="mountain"
 	culture="euskal"
 	religion="loneranger"
@@ -206,7 +206,7 @@
 	}
 }
 
-1952={ #
+1952={ #Eureka
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="dreamer"
@@ -219,7 +219,7 @@
 	}
 }
 
-1953={ #
+1953={ #Fallon
 	terrain="impassable_terrain"
 	culture="battleborn"
 	religion="dreamer"
@@ -232,7 +232,7 @@
 	}
 }
 
-2814={ #
+2814={ #Gardnerville Ranchos
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
@@ -245,7 +245,7 @@
 	}
 }
 
-2815={ #
+2815={ #Carson City
 	terrain="oasis"
 	culture="battleborn"
 	religion="caesarist"
@@ -258,7 +258,7 @@
 	}
 }
 
-2816={ #
+2816={ #Reno
 	terrain="oasis"
 	culture="battleborn"
 	religion="caesarist"
@@ -271,7 +271,7 @@
 	}
 }
 
-3245={ #
+3245={ #Elko
 	terrain="desert_hills"
 	culture="paiute"
 	religion="dreamer"
@@ -284,7 +284,7 @@
 	}
 }
 
-3246={ #
+3246={ #Tuscarora
 	terrain="desert_hills"
 	culture="paiute"
 	religion="loneranger"
@@ -297,7 +297,7 @@
 	}
 }
 
-3247={ #
+3247={ #Wilkins
 	terrain="desert_hills"
 	culture="paiute"
 	religion="mormon"
@@ -330,7 +330,7 @@
 	}
 }
 
-5516={ #
+5516={ #Cucamonga
 	terrain="dry_plains"
 	culture="socaleno"
 	religion="colossalist"
@@ -343,7 +343,7 @@
 	}
 }
 
-5517={ #
+5517={ #Perris
 	terrain="dry_plains"
 	culture="socaleno"
 	religion="colossalist"
@@ -356,7 +356,7 @@
 	}
 }
 
-5518={ #
+5518={ #Redlands
 	terrain="desert_hills"
 	culture="socaleno"
 	religion="colossalist"
@@ -369,7 +369,7 @@
 	}
 }
 
-5519={ #
+5519={ #Riverside
 	terrain="dry_plains"
 	culture="socaleno"
 	religion="colossalist"
@@ -382,7 +382,7 @@
 	}
 }
 
-5520={ #
+5520={ #San Bernardino
 	terrain="oasis"
 	culture="socaleno"
 	religion="colossalist"
@@ -395,7 +395,7 @@
 	}
 }
 
-5521={ #
+5521={ #Temecula
 	terrain="dry_plains"
 	culture="socaleno"
 	religion="colossalist"
@@ -485,7 +485,7 @@
 	}
 }
 
-5660={ #
+5660={ #Crescent Valley
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="dreamer"
@@ -498,7 +498,7 @@
 	}
 }
 
-5729={ #
+5729={ #Victorville
 	terrain="desert"
 	culture="socaleno"
 	religion="loneranger"
@@ -511,7 +511,7 @@
 	}
 }
 
-5731={ #
+5731={ #Lancaster
 	terrain="hills"
 	culture="socaleno"
 	religion="loneranger"
@@ -524,7 +524,7 @@
 	}
 }
 
-5732={ #
+5732={ #California City
 	terrain="desert"
 	culture="mojavean"
 	religion="loneranger"
@@ -537,7 +537,7 @@
 	}
 }
 
-5871={ #
+5871={ #Winterhaven
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
@@ -550,7 +550,7 @@
 	}
 }
 
-5872={ #
+5872={ #Blythe
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
@@ -563,7 +563,7 @@
 	}
 }
 
-5873={ #
+5873={ #Slab City
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
@@ -576,7 +576,7 @@
 	}
 }
 
-5878={ #
+5878={ #Independence
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
@@ -589,7 +589,7 @@
 	}
 }
 
-5879={ #
+5879={ #Ridgecrest
 	terrain="desert"
 	culture="mojavean"
 	religion="atomicist"
@@ -602,7 +602,7 @@
 	}
 }
 
-6145={ #
+6145={ #Sun Valley
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
@@ -615,7 +615,7 @@
 	}
 }
 
-6146={ #
+6146={ #Lovelock
 	terrain="mountain"
 	culture="paiute"
 	religion="dreamer"
@@ -628,7 +628,7 @@
 	}
 }
 
-6195={ #
+6195={ #Spring Creek
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="mormon"
@@ -641,7 +641,7 @@
 	}
 }
 
-6196={ #
+6196={ #West Wendover
 	terrain="desert_hills"
 	culture="battleborn"
 	religion="mormon"
@@ -654,7 +654,7 @@
 	}
 }
 
-7903={ #
+7903={ #Fernley
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
@@ -667,7 +667,7 @@
 	}
 }
 
-7904={ #
+7904={ #Dayton
 	terrain="dry_hills"
 	culture="battleborn"
 	religion="caesarist"
@@ -680,7 +680,7 @@
 	}
 }
 
-7905={ #
+7905={ #Smith Valley
 	terrain="dry_hills"
 	culture="paiute"
 	religion="caesarist"
@@ -693,7 +693,7 @@
 	}
 }
 
-8050={ #
+8050={ #Indio
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
@@ -706,7 +706,7 @@
 	}
 }
 
-8051={ #
+8051={ #Coachella
 	terrain="desert"
 	culture="cahuilla"
 	religion="loneranger"
@@ -719,7 +719,7 @@
 	}
 }
 
-9059={ #
+9059={ #Pahrump
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"
@@ -732,7 +732,7 @@
 	}
 }
 
-9060={ #
+9060={ #Tonopah
 	terrain="desert_hills"
 	culture="mojavean"
 	religion="atomicist"

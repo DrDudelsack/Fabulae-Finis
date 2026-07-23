@@ -24,7 +24,7 @@
 	}
 }
 
-336={ #
+336={ #Collierville
 	terrain="plains"
 	culture="deltaic"
 	religion="egyptology"
@@ -37,7 +37,7 @@
 	}
 }
 
-337={ #
+337={ #Whiteville
 	terrain="plains"
 	culture="riverlander"
 	religion="revelationist"
@@ -50,7 +50,7 @@
 	}
 }
 
-641={ #
+641={ #Mount Juliet
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -63,7 +63,7 @@
 	}
 }
 
-642={ #
+642={ #Nashville
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -76,7 +76,7 @@
 	}
 }
 
-643={ #
+643={ #Smithville
 	terrain="forest"
 	culture="riverlander"
 	religion="omenteller"
@@ -89,7 +89,7 @@
 	}
 }
 
-644={ #
+644={ #Murfreesboro
 	terrain="forest"
 	culture="riverlander"
 	religion="omenteller"
@@ -102,7 +102,7 @@
 	}
 }
 
-1012={ #
+1012={ #Paducah
 	terrain="forest"
 	culture="riverlander"
 	religion="egyptology"
@@ -115,7 +115,7 @@
 	}
 }
 
-1013={ #
+1013={ #South Fulton
 	terrain="forest"
 	culture="bootheeler"
 	religion="egyptology"
@@ -128,7 +128,7 @@
 	}
 }
 
-1014={ #
+1014={ #Murray
 	terrain="hills"
 	culture="riverlander"
 	religion="revelationist"
@@ -141,7 +141,7 @@
 	}
 }
 
-1729={ #
+1729={ #Kingsport
 	terrain="mountain"
 	culture="appalachian"
 	religion="fissionist"
@@ -154,7 +154,7 @@
 	}
 }
 
-1730={ #
+1730={ #Morristown
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -167,7 +167,7 @@
 	}
 }
 
-1731={ #
+1731={ #Johnson City
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -180,7 +180,7 @@
 	}
 }
 
-1732={ #
+1732={ #La Follette
 	terrain="mountain"
 	culture="riverlander"
 	religion="omenteller"
@@ -193,7 +193,7 @@
 	}
 }
 
-1850={ #
+1850={ #Jasper
 	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
@@ -206,7 +206,7 @@
 	}
 }
 
-1851={ #
+1851={ #Chattanooga
 	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
@@ -219,7 +219,7 @@
 	}
 }
 
-1852={ #
+1852={ #Crossville
 	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
@@ -232,7 +232,7 @@
 	}
 }
 
-2072={ #
+2072={ #Maryville
 	terrain="mountain"
 	culture="appalachian"
 	religion="revelationist"
@@ -245,7 +245,7 @@
 	}
 }
 
-2073={ #
+2073={ #Sevierville
 	terrain="mountain"
 	culture="appalachian"
 	religion="revelationist"
@@ -258,7 +258,7 @@
 	}
 }
 
-2074={ #
+2074={ #Knoxville
 	terrain="mountain"
 	culture="riverlander"
 	religion="revelationist"
@@ -271,7 +271,7 @@
 	}
 }
 
-3249={ #
+3249={ #Dickson
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -284,7 +284,7 @@
 	}
 }
 
-3250={ #
+3250={ #Waverly
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -297,7 +297,7 @@
 	}
 }
 
-3251={ #
+3251={ #Centerville
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -310,7 +310,7 @@
 	}
 }
 
-4620={ #
+4620={ #Ledbetter
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -323,7 +323,7 @@
 	}
 }
 
-5329={ #
+5329={ #Meridianville
 	terrain="hills"
 	culture="riverlander"
 	religion="revelationist"
@@ -336,7 +336,7 @@
 	}
 }
 
-5330={ #
+5330={ #Florence
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -349,7 +349,7 @@
 	}
 }
 
-5331={ #
+5331={ #Huntsville
 	terrain="farmland"
 	culture="riverlander"
 	religion="revelationist"
@@ -362,7 +362,7 @@
 	}
 }
 
-5332={ #
+5332={ #Scottsboro
 	terrain="hills"
 	culture="riverlander"
 	religion="revelationist"
@@ -375,7 +375,7 @@
 	}
 }
 
-5667={ #
+5667={ #Hohenwald
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -388,7 +388,7 @@
 	}
 }
 
-5668={ #
+5668={ #Savannah
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -401,7 +401,7 @@
 	}
 }
 
-5669={ #
+5669={ #Lawrenceburg
 	terrain="hills"
 	culture="riverlander"
 	religion="revelationist"
@@ -414,7 +414,7 @@
 	}
 }
 
-5885={ #
+5885={ #Cookeville
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -427,7 +427,7 @@
 	}
 }
 
-5886={ #
+5886={ #Mcminnville
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -440,7 +440,7 @@
 	}
 }
 
-5887={ #
+5887={ #Livingston
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -453,7 +453,7 @@
 	}
 }
 
-6151={ #
+6151={ #Dyersburg
 	terrain="plains"
 	culture="bootheeler"
 	religion="egyptology"
@@ -466,7 +466,7 @@
 	}
 }
 
-6152={ #
+6152={ #Brownsville
 	terrain="plains"
 	culture="riverlander"
 	religion="egyptology"
@@ -479,7 +479,7 @@
 	}
 }
 
-6153={ #
+6153={ #Martin
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -492,7 +492,7 @@
 	}
 }
 
-6154={ #
+6154={ #Union City
 	terrain="forest"
 	culture="bootheeler"
 	religion="egyptology"
@@ -505,7 +505,7 @@
 	}
 }
 
-7027={ #
+7027={ #Columbia
 	terrain="forest"
 	culture="riverlander"
 	religion="omenteller"
@@ -518,7 +518,7 @@
 	}
 }
 
-7028={ #
+7028={ #Pulaski
 	terrain="forest"
 	culture="riverlander"
 	religion="omenteller"
@@ -531,7 +531,7 @@
 	}
 }
 
-7029={ #
+7029={ #Winchester
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -544,7 +544,7 @@
 	}
 }
 
-7030={ #
+7030={ #Shelbyville
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -557,7 +557,7 @@
 	}
 }
 
-9042={ #
+9042={ #Paris
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -570,7 +570,7 @@
 	}
 }
 
-9043={ #
+9043={ #Mount Carmel
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -583,7 +583,7 @@
 	}
 }
 
-9044={ #
+9044={ #Corinth
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -596,7 +596,7 @@
 	}
 }
 
-9045={ #
+9045={ #Jackson
 	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
@@ -609,7 +609,7 @@
 	}
 }
 
-9578={ #
+9578={ #Cleveland
 	terrain="mountain"
 	culture="appalachian"
 	religion="revelationist"
@@ -622,7 +622,7 @@
 	}
 }
 
-9579={ #
+9579={ #Athens
 	terrain="mountain"
 	culture="appalachian"
 	religion="revelationist"
@@ -635,7 +635,7 @@
 	}
 }
 
-9580={ #
+9580={ #East Chattanooga
 	terrain="hills"
 	culture="appalachian"
 	religion="revelationist"

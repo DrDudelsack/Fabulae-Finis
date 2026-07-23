@@ -1,4 +1,4 @@
-﻿271={ #
+﻿271={ #Novato
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
@@ -11,7 +11,7 @@
 	}
 }
 
-272={ #
+272={ #Inverness
 	terrain="forest"
 	culture="bayrean"
 	religion="buddhism"
@@ -24,7 +24,7 @@
 	}
 }
 
-273={ #
+273={ #San Rafael
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -37,7 +37,7 @@
 	}
 }
 
-289={ #
+289={ #Irvine
 	terrain="plains"
 	culture="socaleno"
 	religion="kinemite"
@@ -50,7 +50,7 @@
 	}
 }
 
-290={ #
+290={ #Santa Ana
 	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
@@ -63,7 +63,7 @@
 	}
 }
 
-291={ #
+291={ #Laguna Beach
 	terrain="plains"
 	culture="socaleno"
 	religion="kinemite"
@@ -76,7 +76,7 @@
 	}
 }
 
-292={ #
+292={ #Anaheim
 	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
@@ -89,7 +89,7 @@
 	}
 }
 
-411={ #
+411={ #Cereso Del Hongo
 	terrain="hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -102,7 +102,7 @@
 	}
 }
 
-1814={ #
+1814={ #Santa Rosa
 	terrain="hills"
 	culture="socaleno"
 	religion="catholic"
@@ -115,7 +115,7 @@
 	}
 }
 
-1815={ #
+1815={ #Avalon
 	terrain="hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -128,7 +128,7 @@
 	}
 }
 
-2128={ #
+2128={ #San Francisco
 	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -141,7 +141,7 @@
 	}
 }
 
-2335={ #
+2335={ #Livermore
 	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -154,7 +154,7 @@
 	}
 }
 
-2336={ #
+2336={ #Discovery Bay
 	terrain="plains"
 	culture="bayrean"
 	religion="caesarist"
@@ -167,7 +167,7 @@
 	}
 }
 
-2337={ #
+2337={ #Tracy
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="romano_humanism"
@@ -180,7 +180,7 @@
 	}
 }
 
-2338={ #
+2338={ #Antioch
 	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -193,7 +193,7 @@
 	}
 }
 
-2339={ #
+2339={ #Country Club
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -206,7 +206,7 @@
 	}
 }
 
-2994={ #
+2994={ #Mountain View
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -219,7 +219,7 @@
 	}
 }
 
-2995={ #
+2995={ #Gilroy
 	terrain="plains"
 	culture="montereyan"
 	religion="romano_humanism"
@@ -232,7 +232,7 @@
 	}
 }
 
-2996={ #
+2996={ #Alum Rock
 	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -245,7 +245,7 @@
 	}
 }
 
-2997={ #
+2997={ #San Jose
 	terrain="hills"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -258,7 +258,7 @@
 	}
 }
 
-2998={ #
+2998={ #Fremont
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -271,7 +271,7 @@
 	}
 }
 
-2999={ #
+2999={ #Sunnyvale
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -284,7 +284,7 @@
 	}
 }
 
-3526={ #
+3526={ #Santa Monica
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
@@ -297,7 +297,7 @@
 	}
 }
 
-3527={ #
+3527={ #Van Nuys
 	terrain="hills"
 	culture="socaleno"
 	religion="colossalist"
@@ -310,7 +310,7 @@
 	}
 }
 
-3528={ #
+3528={ #Malibu
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
@@ -323,7 +323,7 @@
 	}
 }
 
-3529={ #
+3529={ #Long Beach
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
@@ -336,7 +336,7 @@
 	}
 }
 
-3530={ #
+3530={ #Los Angeles
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
@@ -349,7 +349,7 @@
 	}
 }
 
-3531={ #
+3531={ #Inglewood
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
@@ -362,7 +362,7 @@
 	}
 }
 
-3532={ #
+3532={ #Ponoma
 	terrain="hills"
 	culture="socaleno"
 	religion="colossalist"
@@ -375,7 +375,7 @@
 	}
 }
 
-3533={ #
+3533={ #San Gabriel
 	terrain="farmland"
 	culture="socaleno"
 	religion="colossalist"
@@ -388,7 +388,7 @@
 	}
 }
 
-4286={ #
+4286={ #Ukiah
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -401,7 +401,7 @@
 	}
 }
 
-4288={ #
+4288={ #Boonville
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -414,7 +414,7 @@
 	}
 }
 
-5730={ #
+5730={ #Santa Clarita
 	terrain="hills"
 	culture="socaleno"
 	religion="colossalist"
@@ -427,7 +427,7 @@
 	}
 }
 
-5923={ #
+5923={ #Lakeport
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -440,7 +440,7 @@
 	}
 }
 
-5924={ #
+5924={ #Hidden Valley Lake
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -453,7 +453,7 @@
 	}
 }
 
-5925={ #
+5925={ #Clearlake
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -466,7 +466,7 @@
 	}
 }
 
-5926={ #
+5926={ #Lucerne
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -479,7 +479,7 @@
 	}
 }
 
-6599={ #
+6599={ #Pendleton
 	terrain="farmland"
 	culture="socaleno"
 	religion="caesarist"
@@ -492,7 +492,7 @@
 	}
 }
 
-6600={ #
+6600={ #Oceanside
 	terrain="farmland"
 	culture="socaleno"
 	religion="caesarist"
@@ -505,7 +505,7 @@
 	}
 }
 
-6601={ #
+6601={ #Escondido
 	terrain="plains"
 	culture="socaleno"
 	religion="caesarist"
@@ -518,7 +518,7 @@
 	}
 }
 
-6602={ #
+6602={ #Hidden Meadows
 	terrain="hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -531,7 +531,7 @@
 	}
 }
 
-6834={ #
+6834={ #Petaluma
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
@@ -544,7 +544,7 @@
 	}
 }
 
-6835={ #
+6835={ #Santa Rosa 
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -557,7 +557,7 @@
 	}
 }
 
-6836={ #
+6836={ #Cloverdale
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -570,7 +570,7 @@
 	}
 }
 
-7620={ #
+7620={ #Oakland
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -583,7 +583,7 @@
 	}
 }
 
-7621={ #
+7621={ #Berkeley
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -596,7 +596,7 @@
 	}
 }
 
-7622={ #
+7622={ #Hayward
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -609,7 +609,7 @@
 	}
 }
 
-7623={ #
+7623={ #Concord
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -622,7 +622,7 @@
 	}
 }
 
-8090={ #
+8090={ #Lonoak
 	terrain="plains"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -635,7 +635,7 @@
 	}
 }
 
-8091={ #
+8091={ #Soledad
 	terrain="hills"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -648,7 +648,7 @@
 	}
 }
 
-8092={ #
+8092={ #Seaside
 	terrain="plains"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -661,7 +661,7 @@
 	}
 }
 
-8093={ #
+8093={ #Salinas
 	terrain="hills"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -674,7 +674,7 @@
 	}
 }
 
-8094={ #
+8094={ #Big Sur
 	terrain="hills"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -687,7 +687,7 @@
 	}
 }
 
-8299={ #
+8299={ #Fairfield
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
@@ -700,7 +700,7 @@
 	}
 }
 
-8300={ #
+8300={ #Vallejo
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
@@ -713,7 +713,7 @@
 	}
 }
 
-8302={ #
+8302={ #Rio Vista
 	terrain="flood_plain"
 	culture="bayrean"
 	religion="caesarist"
@@ -726,7 +726,7 @@
 	}
 }
 
-8312={ #
+8312={ #Paso Robles
 	terrain="plains"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -739,7 +739,7 @@
 	}
 }
 
-8313={ #
+8313={ #El Paso De Robles
 	terrain="plains"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -752,7 +752,7 @@
 	}
 }
 
-8314={ #
+8314={ #San Luis Obispo
 	terrain="plains"
 	culture="montereyan"
 	religion="colossalist"
@@ -765,7 +765,7 @@
 	}
 }
 
-8315={ #
+8315={ #Cambria
 	terrain="plains"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -778,7 +778,7 @@
 	}
 }
 
-8560={ #
+8560={ #Lompoc
 	terrain="hills"
 	culture="montereyan"
 	religion="caesarist"
@@ -791,7 +791,7 @@
 	}
 }
 
-8561={ #
+8561={ #Santa Maria
 	terrain="plains"
 	culture="montereyan"
 	religion="colossalist"
@@ -804,7 +804,7 @@
 	}
 }
 
-8562={ #
+8562={ #Santa Barbara
 	terrain="hills"
 	culture="montereyan"
 	religion="colossalist"
@@ -817,7 +817,7 @@
 	}
 }
 
-8689={ #
+8689={ #Oxnard
 	terrain="plains"
 	culture="socaleno"
 	religion="colossalist"
@@ -830,7 +830,7 @@
 	}
 }
 
-8690={ #
+8690={ #Simi Valley
 	terrain="plains"
 	culture="socaleno"
 	religion="colossalist"
@@ -843,7 +843,7 @@
 	}
 }
 
-8691={ #
+8691={ #Fillmore
 	terrain="hills"
 	culture="socaleno"
 	religion="colossalist"
@@ -856,7 +856,7 @@
 	}
 }
 
-8692={ #
+8692={ #San Buenaventura
 	terrain="hills"
 	culture="socaleno"
 	religion="colossalist"
@@ -869,7 +869,7 @@
 	}
 }
 
-8829={ #
+8829={ #Napa
 	terrain="farmland"
 	culture="bayrean"
 	religion="buddhism"
@@ -882,7 +882,7 @@
 	}
 }
 
-8830={ #
+8830={ #Moskowite Corner
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -895,7 +895,7 @@
 	}
 }
 
-8831={ #
+8831={ #Saint Helena
 	terrain="hills"
 	culture="bayrean"
 	religion="buddhism"
@@ -908,7 +908,7 @@
 	}
 }
 
-9124={ #
+9124={ #El Cajon
 	terrain="plains"
 	culture="socaleno"
 	religion="caesarist"
@@ -921,7 +921,7 @@
 	}
 }
 
-9125={ #
+9125={ #Tecate
 	terrain="hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -934,7 +934,7 @@
 	}
 }
 
-9126={ #
+9126={ #Poway
 	terrain="plains"
 	culture="socaleno"
 	religion="caesarist"
@@ -947,7 +947,7 @@
 	}
 }
 
-9127={ #
+9127={ #San Diego
 	terrain="farmland"
 	culture="socaleno"
 	religion="caesarist"
@@ -960,7 +960,7 @@
 	}
 }
 
-9128={ #
+9128={ #Alpine
 	terrain="hills"
 	culture="socaleno"
 	religion="caesarist"
@@ -973,7 +973,7 @@
 	}
 }
 
-9253={ #
+9253={ #San Benito
 	terrain="hills"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -986,7 +986,7 @@
 	}
 }
 
-9254={ #
+9254={ #Hollister
 	terrain="hills"
 	culture="montereyan"
 	religion="la_hermandad"
@@ -999,7 +999,7 @@
 	}
 }
 
-9276={ #
+9276={ #Scotts Valley
 	terrain="hills"
 	culture="montereyan"
 	religion="romano_humanism"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-9277={ #
+9277={ #Interlaken
 	terrain="plains"
 	culture="montereyan"
 	religion="romano_humanism"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-9278={ #
+9278={ #Watsonville
 	terrain="plains"
 	culture="montereyan"
 	religion="romano_humanism"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-9279={ #
+9279={ #Santa Cruz
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-9280={ #
+9280={ #Redwood City
 	terrain="plains"
 	culture="bayrean"
 	religion="romano_humanism"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-11605={ #
+11605={ #Pasadena
 	terrain="hills"
 	culture="socaleno"
 	religion="colossalist"

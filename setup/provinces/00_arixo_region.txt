@@ -1,4 +1,4 @@
-﻿459={ #
+﻿459={ #Sonoita
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
@@ -11,7 +11,7 @@
 	}
 }
 
-460={ #
+460={ #Rio Rico
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
@@ -24,7 +24,7 @@
 	}
 }
 
-461={ #
+461={ #Sierra Vista
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
@@ -37,7 +37,7 @@
 	}
 }
 
-796={ #
+796={ #Beclabito
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -50,7 +50,7 @@
 	}
 }
 
-797={ #
+797={ #Farmington
 	terrain="hills"
 	culture="navajo"
 	religion="aphite"
@@ -63,7 +63,7 @@
 	}
 }
 
-798={ #
+798={ #Shiprock
 	terrain="hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -76,7 +76,7 @@
 	}
 }
 
-799={ #
+799={ #Sanostee
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -89,7 +89,7 @@
 	}
 }
 
-1154={ #
+1154={ #Los Alamos
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
@@ -102,7 +102,7 @@
 	}
 }
 
-1155={ #
+1155={ #Santa Teresa
 	terrain="desert_hills"
 	culture="keres"
 	religion="aphite"
@@ -115,7 +115,7 @@
 	}
 }
 
-1270={ #
+1270={ #Santa Rosa
 	terrain="desert"
 	culture="oodham"
 	religion="loneranger"
@@ -128,7 +128,7 @@
 	}
 }
 
-1271={ #
+1271={ #Sells
 	terrain="desert"
 	culture="oodham"
 	religion="loneranger"
@@ -141,7 +141,7 @@
 	}
 }
 
-1413={ #
+1413={ #Meadview
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -154,7 +154,7 @@
 	}
 }
 
-1414={ #
+1414={ #Seligman
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
@@ -167,7 +167,7 @@
 	}
 }
 
-1415={ #
+1415={ #Wikieup
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -180,7 +180,7 @@
 	}
 }
 
-1420={ #
+1420={ #Phoenix
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
@@ -193,7 +193,7 @@
 	}
 }
 
-1421={ #
+1421={ #Mesa
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -206,7 +206,7 @@
 	}
 }
 
-1422={ #
+1422={ #Hayden
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -219,7 +219,7 @@
 	}
 }
 
-1423={ #
+1423={ #Casa Grande
 	terrain="desert"
 	culture="arixan"
 	religion="caesarist"
@@ -232,7 +232,7 @@
 	}
 }
 
-2101={ #
+2101={ #Agua Caliente
 	terrain="desert"
 	culture="cachanchilla"
 	religion="atomicist"
@@ -245,7 +245,7 @@
 	}
 }
 
-2102={ #
+2102={ #Ajo
 	terrain="desert"
 	culture="arixan"
 	religion="loneranger"
@@ -258,7 +258,7 @@
 	}
 }
 
-2103={ #
+2103={ #Yuma
 	terrain="desert"
 	culture="cachanchilla"
 	religion="atomicist"
@@ -271,7 +271,7 @@
 	}
 }
 
-2204={ #
+2204={ #Aztec
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
@@ -284,7 +284,7 @@
 	}
 }
 
-2205={ #
+2205={ #Bayfield
 	terrain="mountain"
 	culture="hualapai"
 	religion="aphite"
@@ -297,7 +297,7 @@
 	}
 }
 
-2206={ #
+2206={ #Durango
 	terrain="mountain"
 	culture="navajo"
 	religion="aphite"
@@ -310,7 +310,7 @@
 	}
 }
 
-2615={ #
+2615={ #Lake Havasu City
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -323,7 +323,7 @@
 	}
 }
 
-2616={ #
+2616={ #New Kingman Butler
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -336,7 +336,7 @@
 	}
 }
 
-2644={ #
+2644={ #Show Low
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -349,7 +349,7 @@
 	}
 }
 
-2645={ #
+2645={ #Winslow
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -362,7 +362,7 @@
 	}
 }
 
-2646={ #
+2646={ #Sun Valley
 	terrain="desert"
 	culture="apache"
 	religion="peyotist"
@@ -375,7 +375,7 @@
 	}
 }
 
-2647={ #
+2647={ #Joseph City
 	terrain="desert"
 	culture="apache"
 	religion="peyotist"
@@ -388,7 +388,7 @@
 	}
 }
 
-2767={ #
+2767={ #Dilkon
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
@@ -401,7 +401,7 @@
 	}
 }
 
-2768={ #
+2768={ #Ganado
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
@@ -414,7 +414,7 @@
 	}
 }
 
-2769={ #
+2769={ #Fort Defiance
 	terrain="desert_hills"
 	culture="hopi"
 	religion="peyotist"
@@ -427,7 +427,7 @@
 	}
 }
 
-2770={ #
+2770={ #Houck
 	terrain="desert"
 	culture="apache"
 	religion="peyotist"
@@ -440,7 +440,7 @@
 	}
 }
 
-2826={ #
+2826={ #Page
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -453,7 +453,7 @@
 	}
 }
 
-2827={ #
+2827={ #Vista Encantada
 	terrain="desert"
 	culture="navajo"
 	religion="zetanologist"
@@ -466,7 +466,7 @@
 	}
 }
 
-2912={ #
+2912={ #Dulce
 	terrain="desert_hills"
 	culture="hualapai"
 	religion="aphite"
@@ -479,7 +479,7 @@
 	}
 }
 
-2913={ #
+2913={ #Cuba
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
@@ -492,7 +492,7 @@
 	}
 }
 
-2951={ #
+2951={ #Parker
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -505,7 +505,7 @@
 	}
 }
 
-2952={ #
+2952={ #Cibola
 	terrain="desert"
 	culture="cachanchilla"
 	religion="atomicist"
@@ -518,7 +518,7 @@
 	}
 }
 
-2953={ #
+2953={ #Quartzsite
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -531,7 +531,7 @@
 	}
 }
 
-3106={ #
+3106={ #Ak Chin Village
 	terrain="desert"
 	culture="oodham"
 	religion="loneranger"
@@ -544,7 +544,7 @@
 	}
 }
 
-3107={ #
+3107={ #Why
 	terrain="desert"
 	culture="oodham"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-3165={ #
+3165={ #Rock Point
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -570,7 +570,7 @@
 	}
 }
 
-3166={ #
+3166={ #Teec Nos Pos
 	terrain="hills"
 	culture="navajo"
 	religion="loneranger"
@@ -583,7 +583,7 @@
 	}
 }
 
-3167={ #
+3167={ #White Mesa
 	terrain="hills"
 	culture="navajo"
 	religion="loneranger"
@@ -596,7 +596,7 @@
 	}
 }
 
-3179={ #
+3179={ #Puerto Palomas
 	terrain="desert"
 	culture="shiwawita"
 	religion="zetanologist"
@@ -609,7 +609,7 @@
 	}
 }
 
-3180={ #
+3180={ #Duncan
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -622,7 +622,7 @@
 	}
 }
 
-3181={ #
+3181={ #Lordsburg
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -635,7 +635,7 @@
 	}
 }
 
-3182={ #
+3182={ #Cotton City
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -648,7 +648,7 @@
 	}
 }
 
-3317={ #
+3317={ #Williams
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
@@ -661,7 +661,7 @@
 	}
 }
 
-3318={ #
+3318={ #Grand Canyon Village
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -674,7 +674,7 @@
 	}
 }
 
-3319={ #
+3319={ #Flagstaff
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -687,7 +687,7 @@
 	}
 }
 
-3320={ #
+3320={ #Big Park
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -700,7 +700,7 @@
 	}
 }
 
-3321={ #
+3321={ #Payson
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -713,7 +713,7 @@
 	}
 }
 
-3537={ #
+3537={ #Zuni
 	terrain="desert"
 	culture="apache"
 	religion="zetanologist"
@@ -726,7 +726,7 @@
 	}
 }
 
-3538={ #
+3538={ #Quemado
 	terrain="desert"
 	culture="apache"
 	religion="zetanologist"
@@ -739,7 +739,7 @@
 	}
 }
 
-3539={ #
+3539={ #Black Rock
 	terrain="desert"
 	culture="apache"
 	religion="zetanologist"
@@ -752,7 +752,7 @@
 	}
 }
 
-4181={ #
+4181={ #Crownpoint
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -765,7 +765,7 @@
 	}
 }
 
-4182={ #
+4182={ #Nageezi
 	terrain="hills"
 	culture="navajo"
 	religion="aphite"
@@ -778,7 +778,7 @@
 	}
 }
 
-4183={ #
+4183={ #Gallup
 	terrain="desert_hills"
 	culture="hopi"
 	religion="zetanologist"
@@ -791,7 +791,7 @@
 	}
 }
 
-4338={ #
+4338={ #Rough Rock
 	terrain="desert_hills"
 	culture="navajo"
 	religion="peyotist"
@@ -804,7 +804,7 @@
 	}
 }
 
-4339={ #
+4339={ #Pinon
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
@@ -817,7 +817,7 @@
 	}
 }
 
-4411={ #
+4411={ #Scenic
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -830,7 +830,7 @@
 	}
 }
 
-4526={ #
+4526={ #Chinle
 	terrain="desert_hills"
 	culture="hopi"
 	religion="peyotist"
@@ -843,7 +843,7 @@
 	}
 }
 
-4527={ #
+4527={ #Lukachukai
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -856,7 +856,7 @@
 	}
 }
 
-4645={ #
+4645={ #Alamo
 	terrain="desert"
 	culture="apache"
 	religion="aphite"
@@ -869,7 +869,7 @@
 	}
 }
 
-4646={ #
+4646={ #Laguna
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
@@ -882,7 +882,7 @@
 	}
 }
 
-4647={ #
+4647={ #Grants
 	terrain="desert_hills"
 	culture="hopi"
 	religion="zetanologist"
@@ -895,7 +895,7 @@
 	}
 }
 
-4648={ #
+4648={ #Heber Overgaard
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -908,7 +908,7 @@
 	}
 }
 
-4649={ #
+4649={ #Clifton
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -921,7 +921,7 @@
 	}
 }
 
-4650={ #
+4650={ #Globe
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -934,7 +934,7 @@
 	}
 }
 
-4651={ #
+4651={ #Pinetop Lakeside
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -947,7 +947,7 @@
 	}
 }
 
-4766={ #
+4766={ #Socorro
 	terrain="desert"
 	culture="neomexicano"
 	religion="aphite"
@@ -960,7 +960,7 @@
 	}
 }
 
-4767={ #
+4767={ #Magdalena
 	terrain="desert"
 	culture="apache"
 	religion="aphite"
@@ -973,7 +973,7 @@
 	}
 }
 
-4939={ #
+4939={ #Tucson
 	terrain="desert_hills"
 	culture="oodham"
 	religion="caesarist"
@@ -986,7 +986,7 @@
 	}
 }
 
-4940={ #
+4940={ #Green Valley
 	terrain="desert_hills"
 	culture="oodham"
 	religion="loneranger"
@@ -999,7 +999,7 @@
 	}
 }
 
-4941={ #
+4941={ #Verde
 	terrain="desert_hills"
 	culture="arixan"
 	religion="caesarist"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-6910={ #
+6910={ #Winston
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-6911={ #
+6911={ #Silver City
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-6912={ #
+6912={ #Truth Or Consequences
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-6913={ #
+6913={ #Deming
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-7259={ #
+7259={ #Enchanted Hills
 	terrain="plains"
 	culture="zuni"
 	religion="aphite"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-7261={ #
+7261={ #Jemez
 	terrain="desert_hills"
 	culture="navajo"
 	religion="aphite"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-7434={ #
+7434={ #Peoria
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-7435={ #
+7435={ #Surprise
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-7436={ #
+7436={ #Wickenburg
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-7437={ #
+7437={ #Prescott Valley
 	terrain="desert"
 	culture="arixan"
 	religion="aphite"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-7538={ #
+7538={ #Sunizona
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-7539={ #
+7539={ #Bisbee
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-7540={ #
+7540={ #Elfrida
 	terrain="desert"
 	culture="arixan"
 	religion="zetanologist"
@@ -1181,7 +1181,7 @@
 	}
 }
 
-8030={ #
+8030={ #Kayenta
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -1194,7 +1194,7 @@
 	}
 }
 
-8031={ #
+8031={ #Shonto
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -1207,7 +1207,7 @@
 	}
 }
 
-8309={ #
+8309={ #Hotevilla Bacavi
 	terrain="desert"
 	culture="navajo"
 	religion="peyotist"
@@ -1220,7 +1220,7 @@
 	}
 }
 
-8310={ #
+8310={ #First Mesa
 	terrain="desert"
 	culture="hopi"
 	religion="peyotist"
@@ -1233,7 +1233,7 @@
 	}
 }
 
-8311={ #
+8311={ #Tuba City
 	terrain="desert"
 	culture="navajo"
 	religion="peyotist"
@@ -1246,7 +1246,7 @@
 	}
 }
 
-8437={ #
+8437={ #Reserve
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -1259,7 +1259,7 @@
 	}
 }
 
-8438={ #
+8438={ #Gila
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -1272,7 +1272,7 @@
 	}
 }
 
-8439={ #
+8439={ #Wilcox Peak
 	terrain="desert"
 	culture="arixan"
 	religion="atomicist"
@@ -1285,7 +1285,7 @@
 	}
 }
 
-8440={ #
+8440={ #Eagar
 	terrain="desert"
 	culture="apache"
 	religion="aphite"
@@ -1298,7 +1298,7 @@
 	}
 }
 
-9294={ #
+9294={ #Towaoc
 	terrain="desert_hills"
 	culture="navajo"
 	religion="zetanologist"
@@ -1311,7 +1311,7 @@
 	}
 }
 
-9295={ #
+9295={ #Cortez
 	terrain="desert_hills"
 	culture="navajo"
 	religion="buddhism"
@@ -1324,7 +1324,7 @@
 	}
 }
 
-9407={ #
+9407={ #Saddle Brooke
 	terrain="desert"
 	culture="arixan"
 	religion="caesarist"
@@ -1337,7 +1337,7 @@
 	}
 }
 
-9408={ #
+9408={ #Thatcher
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"
@@ -1350,7 +1350,7 @@
 	}
 }
 
-9409={ #
+9409={ #Safford
 	terrain="desert_hills"
 	culture="arixan"
 	religion="atomicist"

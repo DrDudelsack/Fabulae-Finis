@@ -1,4 +1,4 @@
-﻿1={ #
+﻿1={ #Skowhegan
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="viking"
@@ -11,7 +11,7 @@
 	}
 }
 
-2={ #
+2={ #Dover Foxcroft
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="viking"
@@ -24,7 +24,7 @@
 	}
 }
 
-3={ #
+3={ #Caratunk
 	terrain="impassable_terrain"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -37,7 +37,7 @@
 	}
 }
 
-4={ #
+4={ #Jackman
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -50,7 +50,7 @@
 	}
 }
 
-49={ #
+49={ #Ashland
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
@@ -63,7 +63,7 @@
 	}
 }
 
-50={ #
+50={ #Presque Isle
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
@@ -76,7 +76,7 @@
 	}
 }
 
-985={ #
+985={ #St Johnsbury
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
@@ -89,7 +89,7 @@
 	}
 }
 
-986={ #
+986={ #Barton
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -154,7 +154,7 @@
 	}
 }
 
-1053={ #
+1053={ #Derby
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -206,7 +206,7 @@
 	}
 }
 
-1406={ #
+1406={ #Farmington
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -219,7 +219,7 @@
 	}
 }
 
-1407={ #
+1407={ #Rangeley
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -232,7 +232,7 @@
 	}
 }
 
-1408={ #
+1408={ #Rumford
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -297,7 +297,7 @@
 	}
 }
 
-2040={ #
+2040={ #Patten
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -310,7 +310,7 @@
 	}
 }
 
-2041={ #
+2041={ #Houlton
 	terrain="hills"
 	culture="wolastoqiyik"
 	religion="ursuline"
@@ -388,7 +388,7 @@
 	}
 }
 
-2383={ #
+2383={ #Campton
 	terrain="hills"
 	culture="bayfolk"
 	religion="gothic"
@@ -401,7 +401,7 @@
 	}
 }
 
-2384={ #
+2384={ #Littleton
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -414,7 +414,7 @@
 	}
 }
 
-2740={ #
+2740={ #Augusta
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -427,7 +427,7 @@
 	}
 }
 
-2741={ #
+2741={ #Winslow
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -440,7 +440,7 @@
 	}
 }
 
-2742={ #
+2742={ #Lisbon
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -479,7 +479,7 @@
 	}
 }
 
-2782={ #
+2782={ #Morristown
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
@@ -531,7 +531,7 @@
 	}
 }
 
-3377={ #
+3377={ #Berlin
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -544,7 +544,7 @@
 	}
 }
 
-3378={ #
+3378={ #Colebrook
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -648,7 +648,7 @@
 	}
 }
 
-4294={ #
+4294={ #Poland
 	terrain="hills"
 	culture="bayfolk"
 	religion="gothic"
@@ -661,7 +661,7 @@
 	}
 }
 
-4295={ #
+4295={ #Brunswick
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -674,7 +674,7 @@
 	}
 }
 
-4296={ #
+4296={ #Lewiston
 	terrain="hills"
 	culture="bayfolk"
 	religion="gothic"
@@ -700,7 +700,7 @@
 	}
 }
 
-5184={ #
+5184={ #Dover
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -713,7 +713,7 @@
 	}
 }
 
-5185={ #
+5185={ #Portsmouth
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -726,7 +726,7 @@
 	}
 }
 
-5186={ #
+5186={ #Lawrence
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -739,7 +739,7 @@
 	}
 }
 
-5293={ #
+5293={ #Sanford
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -752,7 +752,7 @@
 	}
 }
 
-5294={ #
+5294={ #Conway
 	terrain="hills"
 	culture="bayfolk"
 	religion="gothic"
@@ -765,7 +765,7 @@
 	}
 }
 
-5295={ #
+5295={ #Portland
 	terrain="farmland"
 	culture="bayfolk"
 	religion="gothic"
@@ -778,7 +778,7 @@
 	}
 }
 
-5296={ #
+5296={ #Biddeford
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -817,7 +817,7 @@
 	}
 }
 
-6124={ #
+6124={ #Franklin
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -830,7 +830,7 @@
 	}
 }
 
-6125={ #
+6125={ #Lebanon
 	terrain="forest"
 	culture="vermonter"
 	religion="transcendentalist"
@@ -960,7 +960,7 @@
 	}
 }
 
-7161={ #
+7161={ #Lubec
 	terrain="forest"
 	culture="passamaquoddy"
 	religion="gothic"
@@ -973,7 +973,7 @@
 	}
 }
 
-7162={ #
+7162={ #Baileyville
 	terrain="hills"
 	culture="passamaquoddy"
 	religion="gothic"
@@ -986,7 +986,7 @@
 	}
 }
 
-7163={ #
+7163={ #Machias
 	terrain="forest"
 	culture="passamaquoddy"
 	religion="gothic"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-8772={ #
+8772={ #Ellsworth
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-8773={ #
+8773={ #Carroll
 	terrain="hills"
 	culture="passamaquoddy"
 	religion="gothic"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-8774={ #
+8774={ #Hancock
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-9567={ #
+9567={ #Bangor
 	terrain="hills"
 	culture="penobscot"
 	religion="gothic"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-9568={ #
+9568={ #Holden
 	terrain="forest"
 	culture="penobscot"
 	religion="gothic"
@@ -1181,7 +1181,7 @@
 	}
 }
 
-9569={ #
+9569={ #Millinocket
 	terrain="hills"
 	culture="penobscot"
 	religion="gothic"
@@ -1194,7 +1194,7 @@
 	}
 }
 
-9570={ #
+9570={ #Lincoln
 	terrain="hills"
 	culture="passamaquoddy"
 	religion="gothic"
@@ -1207,7 +1207,7 @@
 	}
 }
 
-9627={ #
+9627={ #Belfast
 	terrain="forest"
 	culture="bayfolk"
 	religion="gothic"
@@ -1220,7 +1220,7 @@
 	}
 }
 
-9628={ #
+9628={ #Rockland
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -1233,7 +1233,7 @@
 	}
 }
 
-9629={ #
+9629={ #North Bath
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"

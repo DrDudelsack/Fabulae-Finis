@@ -1,4 +1,4 @@
-﻿194={ #
+﻿194={ #Pendleton
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="caesarist"
@@ -11,7 +11,7 @@
 	}
 }
 
-195={ #
+195={ #Hermiston
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="caesarist"
@@ -24,7 +24,7 @@
 	}
 }
 
-196={ #
+196={ #Starkey
 	terrain="dry_hills"
 	culture="inlander"
 	religion="caesarist"
@@ -37,7 +37,7 @@
 	}
 }
 
-197={ #
+197={ #Pilot Rock
 	terrain="dry_hills"
 	culture="inlander"
 	religion="caesarist"
@@ -50,7 +50,7 @@
 	}
 }
 
-231={ #
+231={ #Bodie
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
@@ -63,7 +63,7 @@
 	}
 }
 
-293={ #
+293={ #Watson
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -76,7 +76,7 @@
 	}
 }
 
-294={ #
+294={ #Harper
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -89,7 +89,7 @@
 	}
 }
 
-295={ #
+295={ #Andrews
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -102,7 +102,7 @@
 	}
 }
 
-428={ #
+428={ #Sisters
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -115,7 +115,7 @@
 	}
 }
 
-429={ #
+429={ #Warm Springs
 	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -128,7 +128,7 @@
 	}
 }
 
-430={ #
+430={ #Bend
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -141,7 +141,7 @@
 	}
 }
 
-1054={ #
+1054={ #Colfax
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -154,7 +154,7 @@
 	}
 }
 
-1055={ #
+1055={ #Plummer
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -167,7 +167,7 @@
 	}
 }
 
-1056={ #
+1056={ #Pullman
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -180,7 +180,7 @@
 	}
 }
 
-1962={ #
+1962={ #Halfway
 	terrain="mountain"
 	culture="inlander"
 	religion="loneranger"
@@ -193,7 +193,7 @@
 	}
 }
 
-1963={ #
+1963={ #La Grande
 	terrain="mountain"
 	culture="inlander"
 	religion="loneranger"
@@ -206,7 +206,7 @@
 	}
 }
 
-1964={ #
+1964={ #Sumpter
 	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -219,7 +219,7 @@
 	}
 }
 
-1965={ #
+1965={ #Baker City
 	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -232,7 +232,7 @@
 	}
 }
 
-2104={ #
+2104={ #Goldendale
 	terrain="dry_hills"
 	culture="yakama"
 	religion="la_hermandad"
@@ -245,7 +245,7 @@
 	}
 }
 
-2105={ #
+2105={ #Trout Lake
 	terrain="dry_hills"
 	culture="yakama"
 	religion="la_hermandad"
@@ -258,7 +258,7 @@
 	}
 }
 
-2106={ #
+2106={ #Klickitat
 	terrain="dry_hills"
 	culture="yakama"
 	religion="la_hermandad"
@@ -271,7 +271,7 @@
 	}
 }
 
-2240={ #
+2240={ #Pasco
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -284,7 +284,7 @@
 	}
 }
 
-2241={ #
+2241={ #Lacrosse
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -297,7 +297,7 @@
 	}
 }
 
-2242={ #
+2242={ #Othello
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -310,7 +310,7 @@
 	}
 }
 
-2506={ #
+2506={ #Yakima
 	terrain="desert_hills"
 	culture="yakama"
 	religion="dreamer"
@@ -323,7 +323,7 @@
 	}
 }
 
-2507={ #
+2507={ #Ahtanum
 	terrain="dry_hills"
 	culture="yakama"
 	religion="dreamer"
@@ -336,7 +336,7 @@
 	}
 }
 
-2508={ #
+2508={ #Toppenish
 	terrain="dry_hills"
 	culture="yakama"
 	religion="dreamer"
@@ -349,7 +349,7 @@
 	}
 }
 
-2681={ #
+2681={ #John Day
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -362,7 +362,7 @@
 	}
 }
 
-2682={ #
+2682={ #Long Creek
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -375,7 +375,7 @@
 	}
 }
 
-2683={ #
+2683={ #Prairie City
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -388,7 +388,7 @@
 	}
 }
 
-2817={ #
+2817={ #Chewelah
 	terrain="hills"
 	culture="inlander"
 	religion="gaian"
@@ -401,7 +401,7 @@
 	}
 }
 
-2818={ #
+2818={ #Newport
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -414,7 +414,7 @@
 	}
 }
 
-2819={ #
+2819={ #Post Falls
 	terrain="hills"
 	culture="inlander"
 	religion="gaian"
@@ -427,7 +427,7 @@
 	}
 }
 
-2820={ #
+2820={ #Colville
 	terrain="mountain"
 	culture="doukhobor"
 	religion="gaian"
@@ -440,7 +440,7 @@
 	}
 }
 
-2964={ #
+2964={ #Condon
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -453,7 +453,7 @@
 	}
 }
 
-2965={ #
+2965={ #Fossil
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -466,7 +466,7 @@
 	}
 }
 
-2966={ #
+2966={ #Antelope
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -479,7 +479,7 @@
 	}
 }
 
-2967={ #
+2967={ #Wasco
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -492,7 +492,7 @@
 	}
 }
 
-3422={ #
+3422={ #Silver Lake
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -505,7 +505,7 @@
 	}
 }
 
-3423={ #
+3423={ #Wagontire
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -518,7 +518,7 @@
 	}
 }
 
-3424={ #
+3424={ #La Pine
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -531,7 +531,7 @@
 	}
 }
 
-4656={ #
+4656={ #Moses Lake
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -544,7 +544,7 @@
 	}
 }
 
-4657={ #
+4657={ #Grand Coulee
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-4658={ #
+4658={ #Ritzville
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -570,7 +570,7 @@
 	}
 }
 
-4950={ #
+4950={ #Mattawa
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -583,7 +583,7 @@
 	}
 }
 
-4951={ #
+4951={ #Ephrata
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -596,7 +596,7 @@
 	}
 }
 
-5141={ #
+5141={ #Burns
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -609,7 +609,7 @@
 	}
 }
 
-5142={ #
+5142={ #Crane
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -622,7 +622,7 @@
 	}
 }
 
-5143={ #
+5143={ #Voltage
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -635,7 +635,7 @@
 	}
 }
 
-5144={ #
+5144={ #Juntura
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -648,7 +648,7 @@
 	}
 }
 
-5423={ #
+5423={ #Dayton
 	terrain="dry_hills"
 	culture="umatilla"
 	religion="loneranger"
@@ -661,7 +661,7 @@
 	}
 }
 
-5424={ #
+5424={ #Waitsburg
 	terrain="dry_hills"
 	culture="umatilla"
 	religion="caesarist"
@@ -674,7 +674,7 @@
 	}
 }
 
-5425={ #
+5425={ #Walla Walla
 	terrain="dry_hills"
 	culture="umatilla"
 	religion="caesarist"
@@ -687,7 +687,7 @@
 	}
 }
 
-5426={ #
+5426={ #Clarkston
 	terrain="forest"
 	culture="umatilla"
 	religion="loneranger"
@@ -700,7 +700,7 @@
 	}
 }
 
-5530={ #
+5530={ #Omak
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
@@ -713,7 +713,7 @@
 	}
 }
 
-5531={ #
+5531={ #North Omak
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -726,7 +726,7 @@
 	}
 }
 
-5834={ #
+5834={ #Priest River
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -739,7 +739,7 @@
 	}
 }
 
-5836={ #
+5836={ #Coeur D Alene
 	terrain="hills"
 	culture="doukhobor"
 	religion="dreamer"
@@ -752,7 +752,7 @@
 	}
 }
 
-6079={ #
+6079={ #The Dalles
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -765,7 +765,7 @@
 	}
 }
 
-6470={ #
+6470={ #Kennewick
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -778,7 +778,7 @@
 	}
 }
 
-6471={ #
+6471={ #Prosser
 	terrain="dry_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -791,7 +791,7 @@
 	}
 }
 
-6784={ #
+6784={ #Wenatchee
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -804,7 +804,7 @@
 	}
 }
 
-6785={ #
+6785={ #Chelan
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -817,7 +817,7 @@
 	}
 }
 
-6786={ #
+6786={ #Twisp
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -830,7 +830,7 @@
 	}
 }
 
-7256={ #
+7256={ #Terrace Heights
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -843,7 +843,7 @@
 	}
 }
 
-7257={ #
+7257={ #Kittitas
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -856,7 +856,7 @@
 	}
 }
 
-7258={ #
+7258={ #Sunnyside
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -869,7 +869,7 @@
 	}
 }
 
-8085={ #
+8085={ #Inchelium
 	terrain="hills"
 	culture="inlander"
 	religion="gaian"
@@ -882,7 +882,7 @@
 	}
 }
 
-8086={ #
+8086={ #Nespelem
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -895,7 +895,7 @@
 	}
 }
 
-8421={ #
+8421={ #Waterville
 	terrain="desert_hills"
 	culture="meseteno"
 	religion="la_hermandad"
@@ -908,7 +908,7 @@
 	}
 }
 
-8422={ #
+8422={ #Bridgeport
 	terrain="desert_hills"
 	culture="inlander"
 	religion="gaian"
@@ -921,7 +921,7 @@
 	}
 }
 
-8516={ #
+8516={ #Redmond
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -934,7 +934,7 @@
 	}
 }
 
-8517={ #
+8517={ #Spray
 	terrain="dry_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -947,7 +947,7 @@
 	}
 }
 
-8518={ #
+8518={ #Seneca
 	terrain="desert_hills"
 	culture="inlander"
 	religion="dreamer"
@@ -960,7 +960,7 @@
 	}
 }
 
-8519={ #
+8519={ #Brothers
 	terrain="desert_hills"
 	culture="inlander"
 	religion="loneranger"
@@ -973,7 +973,7 @@
 	}
 }
 
-9429={ #
+9429={ #Sprague
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -986,7 +986,7 @@
 	}
 }
 
-9430={ #
+9430={ #Spokane
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -999,7 +999,7 @@
 	}
 }
 
-9431={ #
+9431={ #Airway Heights
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-9432={ #
+9432={ #Rosalia
 	terrain="desert"
 	culture="inlander"
 	religion="loneranger"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-9485={ #
+9485={ #Zumwalt
 	terrain="mountain"
 	culture="umatilla"
 	religion="loneranger"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-9486={ #
+9486={ #Elgin
 	terrain="dry_hills"
 	culture="umatilla"
 	religion="caesarist"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-9487={ #
+9487={ #Enterprise
 	terrain="mountain"
 	culture="inlander"
 	religion="loneranger"

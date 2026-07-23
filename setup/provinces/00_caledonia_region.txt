@@ -1,4 +1,4 @@
-﻿30={ #
+﻿30={ #Vidette
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -11,7 +11,7 @@
 	}
 }
 
-31={ #
+31={ #Logan Lake
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -24,7 +24,7 @@
 	}
 }
 
-32={ #
+32={ #Chase
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -37,7 +37,7 @@
 	}
 }
 
-33={ #
+33={ #Kamloops
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -50,7 +50,7 @@
 	}
 }
 
-71={ #
+71={ #Cline River
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -63,7 +63,7 @@
 	}
 }
 
-72={ #
+72={ #Banff
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -76,7 +76,7 @@
 	}
 }
 
-73={ #
+73={ #Canmore
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -89,7 +89,7 @@
 	}
 }
 
-74={ #
+74={ #Sparwood
 	terrain="impassable_terrain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -102,7 +102,7 @@
 	}
 }
 
-75={ #
+75={ #Cranbrook
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -115,7 +115,7 @@
 	}
 }
 
-76={ #
+76={ #Canal Flats
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -128,7 +128,7 @@
 	}
 }
 
-77={ #
+77={ #Kimberley
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -141,7 +141,7 @@
 	}
 }
 
-78={ #
+78={ #Fernie
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -154,7 +154,7 @@
 	}
 }
 
-230={ #
+230={ #Christina Lake
 	terrain="mountain"
 	culture="doukhobor"
 	religion="gaian"
@@ -167,7 +167,7 @@
 	}
 }
 
-232={ #
+232={ #Grand Forks
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -180,7 +180,7 @@
 	}
 }
 
-806={ #
+806={ #Revelstoke
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -193,7 +193,7 @@
 	}
 }
 
-807={ #
+807={ #Nakusp
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -206,7 +206,7 @@
 	}
 }
 
-808={ #
+808={ #Edgewood
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -219,7 +219,7 @@
 	}
 }
 
-1029={ #
+1029={ #Cawston
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -232,7 +232,7 @@
 	}
 }
 
-1030={ #
+1030={ #Princeton
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -245,7 +245,7 @@
 	}
 }
 
-1041={ #
+1041={ #Creston
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -258,7 +258,7 @@
 	}
 }
 
-1326={ #
+1326={ #Bear Lake
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -271,7 +271,7 @@
 	}
 }
 
-1327={ #
+1327={ #Fort St James
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
@@ -284,7 +284,7 @@
 	}
 }
 
-1328={ #
+1328={ #Vanderhoof
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
@@ -297,7 +297,7 @@
 	}
 }
 
-1381={ #
+1381={ #Trail
 	terrain="mountain"
 	culture="doukhobor"
 	religion="gaian"
@@ -310,7 +310,7 @@
 	}
 }
 
-1382={ #
+1382={ #Castlegar
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -323,7 +323,7 @@
 	}
 }
 
-1383={ #
+1383={ #Fruitvale
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -336,7 +336,7 @@
 	}
 }
 
-1447={ #
+1447={ #Vavenby
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
@@ -349,7 +349,7 @@
 	}
 }
 
-1448={ #
+1448={ #Barri Re
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -362,7 +362,7 @@
 	}
 }
 
-1449={ #
+1449={ #Blue River
 	terrain="mountain"
 	culture="dakelh"
 	religion="dreamer"
@@ -375,7 +375,7 @@
 	}
 }
 
-1545={ #
+1545={ #Penticton
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -388,7 +388,7 @@
 	}
 }
 
-1546={ #
+1546={ #West Kelowna
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -401,7 +401,7 @@
 	}
 }
 
-1547={ #
+1547={ #Summerland
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -414,7 +414,7 @@
 	}
 }
 
-1548={ #
+1548={ #Kelowna
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -427,7 +427,7 @@
 	}
 }
 
-1998={ #
+1998={ #Shutty Bench
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -440,7 +440,7 @@
 	}
 }
 
-1999={ #
+1999={ #Winlaw
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -453,7 +453,7 @@
 	}
 }
 
-2000={ #
+2000={ #Crawford Bay
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -466,7 +466,7 @@
 	}
 }
 
-2470={ #
+2470={ #Upper Fraser
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
@@ -479,7 +479,7 @@
 	}
 }
 
-2471={ #
+2471={ #Bear Lake
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
@@ -492,7 +492,7 @@
 	}
 }
 
-2472={ #
+2472={ #Prince George
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
@@ -505,7 +505,7 @@
 	}
 }
 
-2473={ #
+2473={ #Hixon
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -518,7 +518,7 @@
 	}
 }
 
-2977={ #
+2977={ #Golden
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -531,7 +531,7 @@
 	}
 }
 
-2978={ #
+2978={ #Mica Creek
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -544,7 +544,7 @@
 	}
 }
 
-2979={ #
+2979={ #Invermere
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -557,7 +557,7 @@
 	}
 }
 
-2980={ #
+2980={ #Kootenay
 	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
@@ -570,7 +570,7 @@
 	}
 }
 
-3279={ #
+3279={ #Ware
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -583,7 +583,7 @@
 	}
 }
 
-3280={ #
+3280={ #Old Hogem
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -596,7 +596,7 @@
 	}
 }
 
-3281={ #
+3281={ #Mackenzie
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -609,7 +609,7 @@
 	}
 }
 
-3356={ #
+3356={ #Stuie
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -622,7 +622,7 @@
 	}
 }
 
-3357={ #
+3357={ #Hanceville
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -635,7 +635,7 @@
 	}
 }
 
-3358={ #
+3358={ #Soda Creek
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -648,7 +648,7 @@
 	}
 }
 
-3644={ #
+3644={ #Nazko
 	terrain="hills"
 	culture="dakelh"
 	religion="gaian"
@@ -661,7 +661,7 @@
 	}
 }
 
-3645={ #
+3645={ #Quesnel
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -674,7 +674,7 @@
 	}
 }
 
-3646={ #
+3646={ #Wingdam
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
@@ -687,7 +687,7 @@
 	}
 }
 
-3653={ #
+3653={ #Smithers
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -700,7 +700,7 @@
 	}
 }
 
-3655={ #
+3655={ #Burns Lake
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -713,7 +713,7 @@
 	}
 }
 
-3968={ #
+3968={ #Vernon
 	terrain="hills"
 	culture="okanaganer"
 	religion="dreamer"
@@ -726,7 +726,7 @@
 	}
 }
 
-3969={ #
+3969={ #Salmon Arm
 	terrain="hills"
 	culture="okanaganer"
 	religion="dreamer"
@@ -739,7 +739,7 @@
 	}
 }
 
-3970={ #
+3970={ #Sicamous
 	terrain="mountain"
 	culture="doukhobor"
 	religion="dreamer"
@@ -752,7 +752,7 @@
 	}
 }
 
-3971={ #
+3971={ #Okanagan
 	terrain="hills"
 	culture="okanaganer"
 	religion="dreamer"
@@ -765,7 +765,7 @@
 	}
 }
 
-4148={ #
+4148={ #Kettle Valley
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -778,7 +778,7 @@
 	}
 }
 
-4149={ #
+4149={ #Oliver
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -791,7 +791,7 @@
 	}
 }
 
-4150={ #
+4150={ #Big White Ski
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -804,7 +804,7 @@
 	}
 }
 
-5220={ #
+5220={ #Loon Lake
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -817,7 +817,7 @@
 	}
 }
 
-5221={ #
+5221={ #Ashcroft
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -830,7 +830,7 @@
 	}
 }
 
-5222={ #
+5222={ #Lillooet
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -843,7 +843,7 @@
 	}
 }
 
-5223={ #
+5223={ #Kelly Lake
 	terrain="hills"
 	culture="okanaganer"
 	religion="gaian"
@@ -856,7 +856,7 @@
 	}
 }
 
-5233={ #
+5233={ #T Te Jaune
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -869,7 +869,7 @@
 	}
 }
 
-5234={ #
+5234={ #Jasper
 	terrain="mountain"
 	culture="dakelh"
 	religion="dreamer"
@@ -882,7 +882,7 @@
 	}
 }
 
-5235={ #
+5235={ #Valemount
 	terrain="mountain"
 	culture="dakelh"
 	religion="dreamer"
@@ -895,7 +895,7 @@
 	}
 }
 
-5236={ #
+5236={ #Sinclair Mills
 	terrain="mountain"
 	culture="dakelh"
 	religion="gaian"
@@ -908,7 +908,7 @@
 	}
 }
 
-7920={ #
+7920={ #Williams Lake
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -921,7 +921,7 @@
 	}
 }
 
-7921={ #
+7921={ #?mile House
 	terrain="hills"
 	culture="interior_salish"
 	religion="gaian"
@@ -934,7 +934,7 @@
 	}
 }
 
-7922={ #
+7922={ #Mount Timothy
 	terrain="mountain"
 	culture="interior_salish"
 	religion="gaian"
@@ -947,7 +947,7 @@
 	}
 }
 
-8626={ #
+8626={ #Westwold
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -960,7 +960,7 @@
 	}
 }
 
-8627={ #
+8627={ #Merritt
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"

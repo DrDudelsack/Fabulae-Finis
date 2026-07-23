@@ -1,4 +1,4 @@
-﻿21={ #
+﻿21={ #Metlakatla
 	terrain="mountain"
 	culture="tlingit"
 	religion="raven_tales"
@@ -11,7 +11,7 @@
 	}
 }
 
-22={ #
+22={ #Ketchikan
 	terrain="mountain"
 	culture="tlingit"
 	religion="raven_tales"
@@ -24,7 +24,7 @@
 	}
 }
 
-51={ #
+51={ #Gibsons
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -37,7 +37,7 @@
 	}
 }
 
-52={ #
+52={ #Gillies Bay
 	terrain="forest"
 	culture="canuck"
 	religion="gaian"
@@ -50,7 +50,7 @@
 	}
 }
 
-53={ #
+53={ #Powell River
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -63,7 +63,7 @@
 	}
 }
 
-603={ #
+603={ #Kitimat
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -76,7 +76,7 @@
 	}
 }
 
-604={ #
+604={ #Weewanie
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -89,7 +89,7 @@
 	}
 }
 
-605={ #
+605={ #Terrace
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -102,7 +102,7 @@
 	}
 }
 
-852={ #
+852={ #Pemberton
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -115,7 +115,7 @@
 	}
 }
 
-853={ #
+853={ #Squamish
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -128,7 +128,7 @@
 	}
 }
 
-854={ #
+854={ #Whistler
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -141,7 +141,7 @@
 	}
 }
 
-1172={ #
+1172={ #Gaw
 	terrain="forest"
 	culture="haida"
 	religion="raven_tales"
@@ -154,7 +154,7 @@
 	}
 }
 
-1173={ #
+1173={ #Yaku
 	terrain="forest"
 	culture="haida"
 	religion="raven_tales"
@@ -167,7 +167,7 @@
 	}
 }
 
-1174={ #
+1174={ #Tlell
 	terrain="forest"
 	culture="haida"
 	religion="raven_tales"
@@ -180,7 +180,7 @@
 	}
 }
 
-1175={ #
+1175={ #Hlgaagilda
 	terrain="hills"
 	culture="haida"
 	religion="raven_tales"
@@ -193,7 +193,7 @@
 	}
 }
 
-1387={ #
+1387={ #Salt Spring Island
 	terrain="forest"
 	culture="canuck"
 	religion="gaian"
@@ -206,7 +206,7 @@
 	}
 }
 
-1388={ #
+1388={ #Friday Harbor
 	terrain="plains"
 	culture="canuck"
 	religion="gaian"
@@ -219,7 +219,7 @@
 	}
 }
 
-1680={ #
+1680={ #Kil Kun
 	terrain="hills"
 	culture="haida"
 	religion="raven_tales"
@@ -232,7 +232,7 @@
 	}
 }
 
-1681={ #
+1681={ #Ninstints
 	terrain="hills"
 	culture="haida"
 	religion="raven_tales"
@@ -245,7 +245,7 @@
 	}
 }
 
-1682={ #
+1682={ #Thurston Harbour
 	terrain="hills"
 	culture="haida"
 	religion="raven_tales"
@@ -258,7 +258,7 @@
 	}
 }
 
-2180={ #
+2180={ #Lytton
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -271,7 +271,7 @@
 	}
 }
 
-2181={ #
+2181={ #Hope
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -284,7 +284,7 @@
 	}
 }
 
-2388={ #
+2388={ #Cumberland
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -297,7 +297,7 @@
 	}
 }
 
-2389={ #
+2389={ #Courtenay
 	terrain="mountain"
 	culture="wakashan"
 	religion="gaian"
@@ -310,7 +310,7 @@
 	}
 }
 
-2916={ #
+2916={ #Martin Valley
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -323,7 +323,7 @@
 	}
 }
 
-2917={ #
+2917={ #Klemtu
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -336,7 +336,7 @@
 	}
 }
 
-2918={ #
+2918={ #Waglisla
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -349,7 +349,7 @@
 	}
 }
 
-3122={ #
+3122={ #Yuquot
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -362,7 +362,7 @@
 	}
 }
 
-3123={ #
+3123={ #Kyuquot
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -375,7 +375,7 @@
 	}
 }
 
-3487={ #
+3487={ #Agassiz
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -388,7 +388,7 @@
 	}
 }
 
-3488={ #
+3488={ #Chilliwack
 	terrain="mountain"
 	culture="okanaganer"
 	religion="gaian"
@@ -401,7 +401,7 @@
 	}
 }
 
-3654={ #
+3654={ #New Hazelton
 	terrain="mountain"
 	culture="dakelh"
 	religion="raven_tales"
@@ -414,7 +414,7 @@
 	}
 }
 
-4144={ #
+4144={ #Vancouver
 	terrain="plains"
 	culture="surreyda"
 	religion="sikhism"
@@ -427,7 +427,7 @@
 	}
 }
 
-4465={ #
+4465={ #Kimsquit
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -440,7 +440,7 @@
 	}
 }
 
-4466={ #
+4466={ #Namu
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -453,7 +453,7 @@
 	}
 }
 
-4467={ #
+4467={ #Bella Coola
 	terrain="mountain"
 	culture="wakashan"
 	religion="raven_tales"
@@ -466,7 +466,7 @@
 	}
 }
 
-4599={ #
+4599={ #Lake Cowichan
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -479,7 +479,7 @@
 	}
 }
 
-4600={ #
+4600={ #Duncan
 	terrain="forest"
 	culture="canuck"
 	religion="gaian"
@@ -492,7 +492,7 @@
 	}
 }
 
-4601={ #
+4601={ #Sooke
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -505,7 +505,7 @@
 	}
 }
 
-4602={ #
+4602={ #Victoria
 	terrain="farmland"
 	culture="canuck"
 	religion="gaian"
@@ -518,7 +518,7 @@
 	}
 }
 
-5672={ #
+5672={ #Nanaimo
 	terrain="forest"
 	culture="coast_salish"
 	religion="gaian"
@@ -531,7 +531,7 @@
 	}
 }
 
-5673={ #
+5673={ #Parksville
 	terrain="mountain"
 	culture="coast_salish"
 	religion="gaian"
@@ -544,7 +544,7 @@
 	}
 }
 
-5674={ #
+5674={ #Ladysmith
 	terrain="forest"
 	culture="coast_salish"
 	religion="gaian"
@@ -557,7 +557,7 @@
 	}
 }
 
-5762={ #
+5762={ #Porcher Island
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -570,7 +570,7 @@
 	}
 }
 
-5763={ #
+5763={ #Prince Rupert
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -583,7 +583,7 @@
 	}
 }
 
-5764={ #
+5764={ #Lax Kw Alaams
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -596,7 +596,7 @@
 	}
 }
 
-6135={ #
+6135={ #Port Mcneill
 	terrain="forest"
 	culture="wakashan"
 	religion="raven_tales"
@@ -609,7 +609,7 @@
 	}
 }
 
-6136={ #
+6136={ #Port Hardy
 	terrain="forest"
 	culture="wakashan"
 	religion="raven_tales"
@@ -622,7 +622,7 @@
 	}
 }
 
-6137={ #
+6137={ #Campbell River
 	terrain="mountain"
 	culture="wakashan"
 	religion="gaian"
@@ -635,7 +635,7 @@
 	}
 }
 
-6395={ #
+6395={ #Abbotsford
 	terrain="hills"
 	culture="surreyda"
 	religion="sikhism"
@@ -648,7 +648,7 @@
 	}
 }
 
-6396={ #
+6396={ #White Rock
 	terrain="plains"
 	culture="surreyda"
 	religion="sikhism"
@@ -661,7 +661,7 @@
 	}
 }
 
-6397={ #
+6397={ #Surrey
 	terrain="plains"
 	culture="surreyda"
 	religion="sikhism"
@@ -674,7 +674,7 @@
 	}
 }
 
-7881={ #
+7881={ #North Vancouver
 	terrain="mountain"
 	culture="surreyda"
 	religion="sikhism"
@@ -687,7 +687,7 @@
 	}
 }
 
-7882={ #
+7882={ #Maple Ridge
 	terrain="mountain"
 	culture="surreyda"
 	religion="sikhism"
@@ -700,7 +700,7 @@
 	}
 }
 
-7883={ #
+7883={ #Coquitlam
 	terrain="mountain"
 	culture="columbien"
 	religion="sikhism"
@@ -713,7 +713,7 @@
 	}
 }
 
-8563={ #
+8563={ #Tofino
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -726,7 +726,7 @@
 	}
 }
 
-8564={ #
+8564={ #Port Alberni
 	terrain="mountain"
 	culture="canuck"
 	religion="gaian"
@@ -739,7 +739,7 @@
 	}
 }
 
-8884={ #
+8884={ #Stewart
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -752,7 +752,7 @@
 	}
 }
 
-8885={ #
+8885={ #New Aiyansh
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -765,7 +765,7 @@
 	}
 }
 
-8886={ #
+8886={ #Port Tongass Village
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -778,7 +778,7 @@
 	}
 }
 
-8887={ #
+8887={ #Mill Bay
 	terrain="mountain"
 	culture="tsimshianic"
 	religion="raven_tales"
@@ -791,7 +791,7 @@
 	}
 }
 
-9274={ #
+9274={ #Read Island
 	terrain="mountain"
 	culture="wakashan"
 	religion="gaian"
@@ -804,7 +804,7 @@
 	}
 }
 
-9275={ #
+9275={ #Hanson Island
 	terrain="mountain"
 	culture="wakashan"
 	religion="gaian"

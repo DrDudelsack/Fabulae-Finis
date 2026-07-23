@@ -1,4 +1,4 @@
-﻿346={ #
+﻿346={ #Ju Rez
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -11,7 +11,7 @@
 	}
 }
 
-347={ #
+347={ #Obreg N
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -24,7 +24,7 @@
 	}
 }
 
-348={ #
+348={ #Rosario
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -37,7 +37,7 @@
 	}
 }
 
-349={ #
+349={ #Av Cola Grande
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -50,7 +50,7 @@
 	}
 }
 
-373={ #
+373={ #Nacozari Viejo
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -63,7 +63,7 @@
 	}
 }
 
-374={ #
+374={ #Hidalgo
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -76,7 +76,7 @@
 	}
 }
 
-375={ #
+375={ #Tepache
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -89,7 +89,7 @@
 	}
 }
 
-502={ #
+502={ #Estaci N Llano
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -102,7 +102,7 @@
 	}
 }
 
-503={ #
+503={ #Pitiquito
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -115,7 +115,7 @@
 	}
 }
 
-504={ #
+504={ #Benjam N Hill
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -128,7 +128,7 @@
 	}
 }
 
-1137={ #
+1137={ #Josefa Ortiz De Dom Guez
 	terrain="hills"
 	culture="sonoro"
 	religion="limpio"
@@ -141,7 +141,7 @@
 	}
 }
 
-1138={ #
+1138={ #La Casa Grande
 	terrain="hills"
 	culture="sonoro"
 	religion="limpio"
@@ -154,7 +154,7 @@
 	}
 }
 
-1139={ #
+1139={ #Bah A De Kino
 	terrain="hills"
 	culture="sonoro"
 	religion="navegante"
@@ -167,7 +167,7 @@
 	}
 }
 
-1568={ #
+1568={ #Hermosillo
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -180,7 +180,7 @@
 	}
 }
 
-1569={ #
+1569={ #La Victoria
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -193,7 +193,7 @@
 	}
 }
 
-1570={ #
+1570={ #Miguel Alem N
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -206,7 +206,7 @@
 	}
 }
 
-2285={ #
+2285={ #Sonoita
 	terrain="desert"
 	culture="sonoro"
 	religion="loneranger"
@@ -219,7 +219,7 @@
 	}
 }
 
-2286={ #
+2286={ #Puerto Pe Asco
 	terrain="desert"
 	culture="sonoro"
 	religion="navegante"
@@ -232,7 +232,7 @@
 	}
 }
 
-4690={ #
+4690={ #Heroica Caborca
 	terrain="desert"
 	culture="sonoro"
 	religion="loneranger"
@@ -245,7 +245,7 @@
 	}
 }
 
-4691={ #
+4691={ #Altar
 	terrain="plains"
 	culture="sonoro"
 	religion="loneranger"
@@ -258,7 +258,7 @@
 	}
 }
 
-4692={ #
+4692={ #Plutarco El As Calles
 	terrain="desert"
 	culture="sonoro"
 	religion="loneranger"
@@ -271,7 +271,7 @@
 	}
 }
 
-5682={ #
+5682={ #Huatabampo
 	terrain="plains"
 	culture="sierreno"
 	religion="mayan_pantheon"
@@ -284,7 +284,7 @@
 	}
 }
 
-5683={ #
+5683={ #Masiaca
 	terrain="plains"
 	culture="sierreno"
 	religion="mayan_pantheon"
@@ -297,7 +297,7 @@
 	}
 }
 
-5684={ #
+5684={ #Etchojoa
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -310,7 +310,7 @@
 	}
 }
 
-6066={ #
+6066={ #Magdalena De Kino
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -323,7 +323,7 @@
 	}
 }
 
-6067={ #
+6067={ #Nogales
 	terrain="plains"
 	culture="sonoro"
 	religion="caesarist"
@@ -336,7 +336,7 @@
 	}
 }
 
-6068={ #
+6068={ #Imuris
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -349,7 +349,7 @@
 	}
 }
 
-6752={ #
+6752={ #Arizpe
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -362,7 +362,7 @@
 	}
 }
 
-6753={ #
+6753={ #San Patricio De La Mesa
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -375,7 +375,7 @@
 	}
 }
 
-6754={ #
+6754={ #Cumpas
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -388,7 +388,7 @@
 	}
 }
 
-6755={ #
+6755={ #Cananea
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -401,7 +401,7 @@
 	}
 }
 
-6781={ #
+6781={ #San Bernardo
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -414,7 +414,7 @@
 	}
 }
 
-6782={ #
+6782={ #Navojoa
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -427,7 +427,7 @@
 	}
 }
 
-6783={ #
+6783={ #T Moris
 	terrain="plains"
 	culture="sierreno"
 	religion="mayan_pantheon"
@@ -440,7 +440,7 @@
 	}
 }
 
-6854={ #
+6854={ #Esqueda
 	terrain="desert"
 	culture="sonoro"
 	religion="limpio"
@@ -453,7 +453,7 @@
 	}
 }
 
-6855={ #
+6855={ #Naco
 	terrain="desert"
 	culture="sonoro"
 	religion="limpio"
@@ -466,7 +466,7 @@
 	}
 }
 
-7015={ #
+7015={ #Heroica Guaymas
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -479,7 +479,7 @@
 	}
 }
 
-7016={ #
+7016={ #Vicam
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -492,7 +492,7 @@
 	}
 }
 
-7017={ #
+7017={ #Jos Mar A Morelos Y Pav N
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -505,7 +505,7 @@
 	}
 }
 
-7975={ #
+7975={ #San Pedro De La Cueva
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -518,7 +518,7 @@
 	}
 }
 
-7976={ #
+7976={ #Suaqui Grande
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -531,7 +531,7 @@
 	}
 }
 
-7977={ #
+7977={ #Ures
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -544,7 +544,7 @@
 	}
 }
 
-7978={ #
+7978={ #Mazat N
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -557,7 +557,7 @@
 	}
 }
 
-8402={ #
+8402={ #Nuri
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -570,7 +570,7 @@
 	}
 }
 
-8403={ #
+8403={ #N Cori Chico
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -583,7 +583,7 @@
 	}
 }
 
-8404={ #
+8404={ #Y Cora
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -596,7 +596,7 @@
 	}
 }
 
-8513={ #
+8513={ #Bavi Cora
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -609,7 +609,7 @@
 	}
 }
 
-8514={ #
+8514={ #Carbo
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
@@ -622,7 +622,7 @@
 	}
 }
 
-8515={ #
+8515={ #Pesqueira
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"

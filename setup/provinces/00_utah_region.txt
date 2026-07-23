@@ -1,4 +1,4 @@
-﻿404={ #
+﻿404={ #Cedar City
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -11,7 +11,7 @@
 	}
 }
 
-405={ #
+405={ #Enterprise
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -24,7 +24,7 @@
 	}
 }
 
-406={ #
+406={ #Parowan
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -37,7 +37,7 @@
 	}
 }
 
-842={ #
+842={ #Nephi
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -50,7 +50,7 @@
 	}
 }
 
-843={ #
+843={ #Levan
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -63,7 +63,7 @@
 	}
 }
 
-844={ #
+844={ #Eureka
 	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
@@ -76,7 +76,7 @@
 	}
 }
 
-1292={ #
+1292={ #East Carbon City
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -89,7 +89,7 @@
 	}
 }
 
-1293={ #
+1293={ #Price
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -102,7 +102,7 @@
 	}
 }
 
-1294={ #
+1294={ #Scofield
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -115,7 +115,7 @@
 	}
 }
 
-1295={ #
+1295={ #Green River
 	terrain="hills"
 	culture="utahn"
 	religion="mormon"
@@ -128,7 +128,7 @@
 	}
 }
 
-1309={ #
+1309={ #Emery
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -141,7 +141,7 @@
 	}
 }
 
-1310={ #
+1310={ #Huntington
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -154,7 +154,7 @@
 	}
 }
 
-1396={ #
+1396={ #Spanish Fork
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -167,7 +167,7 @@
 	}
 }
 
-1397={ #
+1397={ #Eagle Mountain
 	terrain="dry_plains"
 	culture="utahn"
 	religion="caesarist"
@@ -180,7 +180,7 @@
 	}
 }
 
-1398={ #
+1398={ #Provo
 	terrain="dry_plains"
 	culture="utahn"
 	religion="caesarist"
@@ -193,7 +193,7 @@
 	}
 }
 
-1673={ #
+1673={ #Lyman
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -206,7 +206,7 @@
 	}
 }
 
-1674={ #
+1674={ #Rock Springs
 	terrain="hills"
 	culture="coloradan"
 	religion="loneranger"
@@ -219,7 +219,7 @@
 	}
 }
 
-1675={ #
+1675={ #Green River
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -232,7 +232,7 @@
 	}
 }
 
-1676={ #
+1676={ #Manila
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -245,7 +245,7 @@
 	}
 }
 
-1756={ #
+1756={ #Fillmore
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -258,7 +258,7 @@
 	}
 }
 
-1757={ #
+1757={ #Delta
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -271,7 +271,7 @@
 	}
 }
 
-2155={ #
+2155={ #Moab
 	terrain="hills"
 	culture="utahn"
 	religion="atomicist"
@@ -284,7 +284,7 @@
 	}
 }
 
-2156={ #
+2156={ #Blanding
 	terrain="hills"
 	culture="utahn"
 	religion="atomicist"
@@ -297,7 +297,7 @@
 	}
 }
 
-2157={ #
+2157={ #Spanish Valley
 	terrain="hills"
 	culture="utahn"
 	religion="atomicist"
@@ -310,7 +310,7 @@
 	}
 }
 
-2500={ #
+2500={ #Beaver
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -323,7 +323,7 @@
 	}
 }
 
-2501={ #
+2501={ #Milford
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -336,7 +336,7 @@
 	}
 }
 
-2877={ #
+2877={ #Duchesne
 	terrain="mountain"
 	culture="ute"
 	religion="mormon"
@@ -349,7 +349,7 @@
 	}
 }
 
-2878={ #
+2878={ #Roosevelt
 	terrain="mountain"
 	culture="ute"
 	religion="loneranger"
@@ -362,7 +362,7 @@
 	}
 }
 
-2887={ #
+2887={ #Dugway
 	terrain="dry_plains"
 	culture="utahn"
 	religion="caesarist"
@@ -375,7 +375,7 @@
 	}
 }
 
-2888={ #
+2888={ #Vernon
 	terrain="dry_plains"
 	culture="utahn"
 	religion="caesarist"
@@ -388,7 +388,7 @@
 	}
 }
 
-2889={ #
+2889={ #Tooele
 	terrain="dry_plains"
 	culture="utahn"
 	religion="caesarist"
@@ -401,7 +401,7 @@
 	}
 }
 
-3168={ #
+3168={ #Bonanza
 	terrain="hills"
 	culture="ute"
 	religion="loneranger"
@@ -414,7 +414,7 @@
 	}
 }
 
-3169={ #
+3169={ #Vernal
 	terrain="mountain"
 	culture="ute"
 	religion="loneranger"
@@ -427,7 +427,7 @@
 	}
 }
 
-4412={ #
+4412={ #Tuweep
 	terrain="desert_hills"
 	culture="arixan"
 	religion="zetanologist"
@@ -440,7 +440,7 @@
 	}
 }
 
-4528={ #
+4528={ #West Valley City
 	terrain="farmland"
 	culture="utahn"
 	religion="caesarist"
@@ -453,7 +453,7 @@
 	}
 }
 
-4529={ #
+4529={ #Salt Lake City
 	terrain="farmland"
 	culture="utahn"
 	religion="caesarist"
@@ -466,7 +466,7 @@
 	}
 }
 
-4530={ #
+4530={ #West Jordan
 	terrain="farmland"
 	culture="utahn"
 	religion="caesarist"
@@ -479,7 +479,7 @@
 	}
 }
 
-4639={ #
+4639={ #Gunnison
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -492,7 +492,7 @@
 	}
 }
 
-4640={ #
+4640={ #Ephraim
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -505,7 +505,7 @@
 	}
 }
 
-4641={ #
+4641={ #Mount Pleasant
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -518,7 +518,7 @@
 	}
 }
 
-4811={ #
+4811={ #Afton
 	terrain="mountain"
 	culture="montaneer"
 	religion="mormon"
@@ -531,7 +531,7 @@
 	}
 }
 
-4812={ #
+4812={ #Montpelier
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -544,7 +544,7 @@
 	}
 }
 
-4813={ #
+4813={ #Evanston
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -557,7 +557,7 @@
 	}
 }
 
-5464={ #
+5464={ #Preston
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -570,7 +570,7 @@
 	}
 }
 
-5465={ #
+5465={ #Logan
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -583,7 +583,7 @@
 	}
 }
 
-5584={ #
+5584={ #Bountiful
 	terrain="desert"
 	culture="utahn"
 	religion="caesarist"
@@ -596,7 +596,7 @@
 	}
 }
 
-5585={ #
+5585={ #Ogden
 	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
@@ -609,7 +609,7 @@
 	}
 }
 
-5586={ #
+5586={ #Layton
 	terrain="dry_plains"
 	culture="utahn"
 	religion="caesarist"
@@ -622,7 +622,7 @@
 	}
 }
 
-5920={ #
+5920={ #Richfield
 	terrain="dry_hills"
 	culture="utahn"
 	religion="mormon"
@@ -635,7 +635,7 @@
 	}
 }
 
-5921={ #
+5921={ #Circleville
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -648,7 +648,7 @@
 	}
 }
 
-5922={ #
+5922={ #Koosharem
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -661,7 +661,7 @@
 	}
 }
 
-6731={ #
+6731={ #Hanksville
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -674,7 +674,7 @@
 	}
 }
 
-6732={ #
+6732={ #Loa
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -687,7 +687,7 @@
 	}
 }
 
-7797={ #
+7797={ #Morgan
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -700,7 +700,7 @@
 	}
 }
 
-7798={ #
+7798={ #Park City
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -713,7 +713,7 @@
 	}
 }
 
-7799={ #
+7799={ #Heber City
 	terrain="mountain"
 	culture="utahn"
 	religion="mormon"
@@ -726,7 +726,7 @@
 	}
 }
 
-8185={ #
+8185={ #Saint George
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -739,7 +739,7 @@
 	}
 }
 
-8186={ #
+8186={ #Hurricane
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -752,7 +752,7 @@
 	}
 }
 
-8342={ #
+8342={ #Brigham City
 	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
@@ -765,7 +765,7 @@
 	}
 }
 
-8343={ #
+8343={ #Tremonton
 	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
@@ -778,7 +778,7 @@
 	}
 }
 
-8344={ #
+8344={ #Howell
 	terrain="dry_plains"
 	culture="utahn"
 	religion="mormon"
@@ -791,7 +791,7 @@
 	}
 }
 
-8478={ #
+8478={ #Williamsburg
 	terrain="mountain"
 	culture="montaneer"
 	religion="mormon"
@@ -804,7 +804,7 @@
 	}
 }
 
-8479={ #
+8479={ #Soda Springs
 	terrain="desert_hills"
 	culture="montaneer"
 	religion="mormon"
@@ -817,7 +817,7 @@
 	}
 }
 
-8480={ #
+8480={ #Trailton
 	terrain="desert_hills"
 	culture="montaneer"
 	religion="mormon"
@@ -830,7 +830,7 @@
 	}
 }
 
-9530={ #
+9530={ #Kanab
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -843,7 +843,7 @@
 	}
 }
 
-9531={ #
+9531={ #Escalante
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -856,7 +856,7 @@
 	}
 }
 
-9532={ #
+9532={ #Panguitch
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -869,7 +869,7 @@
 	}
 }
 
-9533={ #
+9533={ #Ryan
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"
@@ -882,7 +882,7 @@
 	}
 }
 
-9534={ #
+9534={ #Tropic
 	terrain="desert_hills"
 	culture="utahn"
 	religion="mormon"

@@ -1,4 +1,4 @@
-﻿747={ #
+﻿747={ #Amqui
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -11,7 +11,7 @@
 	}
 }
 
-748={ #
+748={ #Matane
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -24,7 +24,7 @@
 	}
 }
 
-755={ #
+755={ #Saint Marc Des Carri Res
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -37,7 +37,7 @@
 	}
 }
 
-756={ #
+756={ #Portneuf
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -50,7 +50,7 @@
 	}
 }
 
-757={ #
+757={ #Saint Ubalde
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -63,7 +63,7 @@
 	}
 }
 
-845={ #
+845={ #Mann
 	terrain="forest"
 	culture="acadien"
 	religion="ursuline"
@@ -76,7 +76,7 @@
 	}
 }
 
-846={ #
+846={ #New Richmond
 	terrain="forest"
 	culture="acadien"
 	religion="ursuline"
@@ -89,7 +89,7 @@
 	}
 }
 
-847={ #
+847={ #Carleton Sur Mer
 	terrain="forest"
 	culture="acadien"
 	religion="ursuline"
@@ -102,7 +102,7 @@
 	}
 }
 
-916={ #
+916={ #Baie Trinit
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -115,7 +115,7 @@
 	}
 }
 
-917={ #
+917={ #Hauterive
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -128,7 +128,7 @@
 	}
 }
 
-918={ #
+918={ #Rivi Re Pentec Te
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -141,7 +141,7 @@
 	}
 }
 
-2400={ #
+2400={ #Saint Sim On
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -154,7 +154,7 @@
 	}
 }
 
-2401={ #
+2401={ #La Malbaie
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -167,7 +167,7 @@
 	}
 }
 
-2420={ #
+2420={ #Sainte Th R Se De Gasp
 	terrain="forest"
 	culture="acadien"
 	religion="ursuline"
@@ -180,7 +180,7 @@
 	}
 }
 
-2421={ #
+2421={ #Gasp
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -193,7 +193,7 @@
 	}
 }
 
-2422={ #
+2422={ #Chandler
 	terrain="forest"
 	culture="acadien"
 	religion="ursuline"
@@ -206,7 +206,7 @@
 	}
 }
 
-2893={ #
+2893={ #Rivi Re Du Loup
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -219,7 +219,7 @@
 	}
 }
 
-2894={ #
+2894={ #Saint Louis Du Ha Ha
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -232,7 +232,7 @@
 	}
 }
 
-2895={ #
+2895={ #Trois Pistoles
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -245,7 +245,7 @@
 	}
 }
 
-3051={ #
+3051={ #La Romaine
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -258,7 +258,7 @@
 	}
 }
 
-3052={ #
+3052={ #Kegaska
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -271,7 +271,7 @@
 	}
 }
 
-3647={ #
+3647={ #Saguenay
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -284,7 +284,7 @@
 	}
 }
 
-3648={ #
+3648={ #L Anse Saint Jean
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -297,7 +297,7 @@
 	}
 }
 
-3649={ #
+3649={ #Port Alfred Bagotville
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -310,7 +310,7 @@
 	}
 }
 
-3916={ #
+3916={ #Saint Michel De Bellechasse
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -323,7 +323,7 @@
 	}
 }
 
-3917={ #
+3917={ #Saint Damien De Buckland
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -336,7 +336,7 @@
 	}
 }
 
-3918={ #
+3918={ #Sainte Claire
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -349,7 +349,7 @@
 	}
 }
 
-3919={ #
+3919={ #Levis
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -362,7 +362,7 @@
 	}
 }
 
-4196={ #
+4196={ #Saint Urbain
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -375,7 +375,7 @@
 	}
 }
 
-4197={ #
+4197={ #Baie Saint Paul
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -388,7 +388,7 @@
 	}
 }
 
-4198={ #
+4198={ #Beaupre
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -401,7 +401,7 @@
 	}
 }
 
-4266={ #
+4266={ #Murdochville
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -414,7 +414,7 @@
 	}
 }
 
-4267={ #
+4267={ #Sainte Anne Des Monts
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -427,7 +427,7 @@
 	}
 }
 
-4268={ #
+4268={ #Saint Maxime Du Mont Louis
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -440,7 +440,7 @@
 	}
 }
 
-4368={ #
+4368={ #Sept Les
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -453,7 +453,7 @@
 	}
 }
 
-4369={ #
+4369={ #Port Cartier
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -466,7 +466,7 @@
 	}
 }
 
-4370={ #
+4370={ #Sheldrake
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -479,7 +479,7 @@
 	}
 }
 
-4887={ #
+4887={ #Mont Joli
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -492,7 +492,7 @@
 	}
 }
 
-4888={ #
+4888={ #Rimouski
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -505,7 +505,7 @@
 	}
 }
 
-4889={ #
+4889={ #Lac Humqui
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -518,7 +518,7 @@
 	}
 }
 
-5470={ #
+5470={ #Tadoussac
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -531,7 +531,7 @@
 	}
 }
 
-5471={ #
+5471={ #Sainte Rose Du Nord
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -544,7 +544,7 @@
 	}
 }
 
-5472={ #
+5472={ #Forestville
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -557,7 +557,7 @@
 	}
 }
 
-5633={ #
+5633={ #Saint Come Liniere
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
@@ -570,7 +570,7 @@
 	}
 }
 
-5634={ #
+5634={ #Lac Etchemin
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -583,7 +583,7 @@
 	}
 }
 
-5635={ #
+5635={ #Beauceville
 	terrain="farmland"
 	culture="quebecois"
 	religion="ursuline"
@@ -596,7 +596,7 @@
 	}
 }
 
-5636={ #
+5636={ #Saint Georges
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
@@ -609,7 +609,7 @@
 	}
 }
 
-5798={ #
+5798={ #Betsiamites
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -622,7 +622,7 @@
 	}
 }
 
-5799={ #
+5799={ #Labrieville
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -635,7 +635,7 @@
 	}
 }
 
-7047={ #
+7047={ #Saint Augustin
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -648,7 +648,7 @@
 	}
 }
 
-7048={ #
+7048={ #Lourdes De Blanc Sablon
 	terrain="taiga"
 	culture="innu"
 	religion="fogsong"
@@ -661,7 +661,7 @@
 	}
 }
 
-7639={ #
+7639={ #Quebec City
 	terrain="farmland"
 	culture="quebecois"
 	religion="ursuline"
@@ -674,7 +674,7 @@
 	}
 }
 
-7640={ #
+7640={ #Lac Blanc
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -687,7 +687,7 @@
 	}
 }
 
-7641={ #
+7641={ #Donnacona
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -700,7 +700,7 @@
 	}
 }
 
-7642={ #
+7642={ #Shannon
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -713,7 +713,7 @@
 	}
 }
 
-7816={ #
+7816={ #Havre Saint Pierre
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -726,7 +726,7 @@
 	}
 }
 
-7817={ #
+7817={ #Natashquan
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -739,7 +739,7 @@
 	}
 }
 
-7818={ #
+7818={ #Mingan
 	terrain="taiga"
 	culture="innu"
 	religion="ursuline"
@@ -752,7 +752,7 @@
 	}
 }
 
-7979={ #
+7979={ #Alma
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -765,7 +765,7 @@
 	}
 }
 
-7980={ #
+7980={ #Pont Rouge
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -778,7 +778,7 @@
 	}
 }
 
-7981={ #
+7981={ #Metabetchouan
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -791,7 +791,7 @@
 	}
 }
 
-8587={ #
+8587={ #La Dor
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -804,7 +804,7 @@
 	}
 }
 
-8588={ #
+8588={ #Dolbeau Mistassini
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -817,7 +817,7 @@
 	}
 }
 
-8589={ #
+8589={ #Roberval
 	terrain="taiga"
 	culture="quebecois"
 	religion="ursuline"
@@ -830,7 +830,7 @@
 	}
 }
 
-8904={ #
+8904={ #Disraeli
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -843,7 +843,7 @@
 	}
 }
 
-8905={ #
+8905={ #Thetford Mines
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -856,7 +856,7 @@
 	}
 }
 
-8906={ #
+8906={ #Sainte Marie
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -869,7 +869,7 @@
 	}
 }
 
-8907={ #
+8907={ #Plessisville
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -882,7 +882,7 @@
 	}
 }
 
-9462={ #
+9462={ #La Pocati Re
 	terrain="hills"
 	culture="quebecois"
 	religion="ursuline"
@@ -895,7 +895,7 @@
 	}
 }
 
-9463={ #
+9463={ #Montmagny
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -908,7 +908,7 @@
 	}
 }
 
-9464={ #
+9464={ #St Jean Port Joli
 	terrain="farmland"
 	culture="quebecois"
 	religion="ursuline"
@@ -921,7 +921,7 @@
 	}
 }
 
-9465={ #
+9465={ #Saint Andr
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -934,7 +934,7 @@
 	}
 }
 
-9516={ #
+9516={ #Pointe Sud
 	terrain="taiga"
 	culture="mikmaw"
 	religion="ursuline"

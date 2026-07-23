@@ -1,4 +1,4 @@
-﻿320={ #
+﻿320={ #Harrisburg
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
@@ -11,7 +11,7 @@
 	}
 }
 
-321={ #
+321={ #Vienna
 	terrain="forest"
 	culture="butternutter"
 	religion="egyptology"
@@ -24,7 +24,7 @@
 	}
 }
 
-322={ #
+322={ #Carbondale
 	terrain="plains"
 	culture="butternutter"
 	religion="twainist"
@@ -37,7 +37,7 @@
 	}
 }
 
-323={ #
+323={ #Anna
 	terrain="flood_plain"
 	culture="butternutter"
 	religion="twainist"
@@ -50,7 +50,7 @@
 	}
 }
 
-431={ #
+431={ #Paris
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -63,7 +63,7 @@
 	}
 }
 
-432={ #
+432={ #Champaign
 	terrain="farmland"
 	culture="hoosier"
 	religion="promethean"
@@ -76,7 +76,7 @@
 	}
 }
 
-433={ #
+433={ #Clinton
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -89,7 +89,7 @@
 	}
 }
 
-434={ #
+434={ #Danville
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -152,7 +152,7 @@
 	}
 }
 
-2736={ #
+2736={ #Litchfield
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
@@ -165,7 +165,7 @@
 	}
 }
 
-2796={ #
+2796={ #Abingdon
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -178,7 +178,7 @@
 	}
 }
 
-2797={ #
+2797={ #Princeton
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -191,7 +191,7 @@
 	}
 }
 
-2798={ #
+2798={ #Peoria
 	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"
@@ -204,7 +204,7 @@
 	}
 }
 
-2799={ #
+2799={ #Kewanee
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -217,7 +217,7 @@
 	}
 }
 
-2800={ #
+2800={ #Canton
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -230,7 +230,7 @@
 	}
 }
 
-4046={ #
+4046={ #Mount Vernon
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -243,7 +243,7 @@
 	}
 }
 
-4048={ #
+4048={ #Centralia
 	terrain="farmland"
 	culture="hoosier"
 	religion="catholic"
@@ -256,7 +256,7 @@
 	}
 }
 
-4049={ #
+4049={ #Salem
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -269,7 +269,7 @@
 	}
 }
 
-4050={ #
+4050={ #West Frankfort
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
@@ -282,7 +282,7 @@
 	}
 }
 
-4193={ #
+4193={ #Decatur
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -295,7 +295,7 @@
 	}
 }
 
-4194={ #
+4194={ #Mahomet
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -308,7 +308,7 @@
 	}
 }
 
-4195={ #
+4195={ #Bloomington
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -321,7 +321,7 @@
 	}
 }
 
-4682={ #
+4682={ #Springfield
 	terrain="farmland"
 	culture="hoosier"
 	religion="catholic"
@@ -334,7 +334,7 @@
 	}
 }
 
-4683={ #
+4683={ #Beardstown
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -347,7 +347,7 @@
 	}
 }
 
-4684={ #
+4684={ #Pekin
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -360,7 +360,7 @@
 	}
 }
 
-4685={ #
+4685={ #Lincoln
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -373,7 +373,7 @@
 	}
 }
 
-5125={ #
+5125={ #Robinson
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -386,7 +386,7 @@
 	}
 }
 
-5126={ #
+5126={ #Fairfield
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
@@ -399,7 +399,7 @@
 	}
 }
 
-5127={ #
+5127={ #Carmi
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
@@ -412,7 +412,7 @@
 	}
 }
 
-5128={ #
+5128={ #Olney
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
@@ -425,7 +425,7 @@
 	}
 }
 
-6033={ #
+6033={ #Galesburg
 	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
@@ -438,7 +438,7 @@
 	}
 }
 
-6034={ #
+6034={ #Aledo
 	terrain="farmland"
 	culture="heartlander"
 	religion="twainist"
@@ -469,7 +469,7 @@
 	}
 }
 
-6035={ #
+6035={ #Moline
 	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"
@@ -627,7 +627,7 @@
 	}
 }
 
-7545={ #
+7545={ #Pontiac
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -640,7 +640,7 @@
 	}
 }
 
-7546={ #
+7546={ #Eureka
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -653,7 +653,7 @@
 	}
 }
 
-7547={ #
+7547={ #Washington
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -666,7 +666,7 @@
 	}
 }
 
-7548={ #
+7548={ #Streator
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -679,7 +679,7 @@
 	}
 }
 
-7923={ #
+7923={ #Hamilton
 	terrain="flood_plain"
 	culture="heartlander"
 	religion="twainist"
@@ -692,7 +692,7 @@
 	}
 }
 
-7924={ #
+7924={ #Macomb
 	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
@@ -705,7 +705,7 @@
 	}
 }
 
-7925={ #
+7925={ #Oquawka
 	terrain="flood_plain"
 	culture="heartlander"
 	religion="twainist"
@@ -718,7 +718,7 @@
 	}
 }
 
-8334={ #
+8334={ #Charleston
 	terrain="forest"
 	culture="hoosier"
 	religion="promethean"
@@ -731,7 +731,7 @@
 	}
 }
 
-8335={ #
+8335={ #Taylorville
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -744,7 +744,7 @@
 	}
 }
 
-8336={ #
+8336={ #Shelbyville
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -757,7 +757,7 @@
 	}
 }
 
-8337={ #
+8337={ #Pana
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -770,7 +770,7 @@
 	}
 }
 
-8338={ #
+8338={ #Effingham
 	terrain="forest"
 	culture="hoosier"
 	religion="promethean"
@@ -837,7 +837,7 @@
 	}
 }
 
-9205={ #
+9205={ #Rushville
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
@@ -864,7 +864,7 @@
 	}
 }
 
-9482={ #
+9482={ #Gibson City
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -877,7 +877,7 @@
 	}
 }
 
-9483={ #
+9483={ #Rossville
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -890,7 +890,7 @@
 	}
 }
 
-11649={ #
+11649={ #Vandalia
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -903,7 +903,7 @@
 	}
 }
 
-11651={ #
+11651={ #Clinton
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"

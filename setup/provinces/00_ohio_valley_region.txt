@@ -1,4 +1,4 @@
-﻿180={ #
+﻿180={ #Seymour
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -11,7 +11,7 @@
 	}
 }
 
-181={ #
+181={ #Salem
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -24,7 +24,7 @@
 	}
 }
 
-183={ #
+183={ #Jeffersonville
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -37,7 +37,7 @@
 	}
 }
 
-184={ #
+184={ #Bedford
 	terrain="forest"
 	culture="butternutter"
 	religion="americanist"
@@ -50,7 +50,7 @@
 	}
 }
 
-185={ #
+185={ #New Albany
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -76,7 +76,7 @@
 	}
 }
 
-414={ #
+414={ #Oxford
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -89,7 +89,7 @@
 	}
 }
 
-415={ #
+415={ #Hamilton
 	terrain="farmland"
 	culture="butternutter"
 	religion="hearthtender"
@@ -102,7 +102,7 @@
 	}
 }
 
-416={ #
+416={ #Cincinnati
 	terrain="farmland"
 	culture="butternutter"
 	religion="americanist"
@@ -115,7 +115,7 @@
 	}
 }
 
-2402={ #
+2402={ #Georgetown
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -128,7 +128,7 @@
 	}
 }
 
-2403={ #
+2403={ #Portsmouth
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -141,7 +141,7 @@
 	}
 }
 
-2404={ #
+2404={ #Wilmington
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -154,7 +154,7 @@
 	}
 }
 
-2405={ #
+2405={ #Chillicothe
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -167,7 +167,7 @@
 	}
 }
 
-2406={ #
+2406={ #Washington Court House
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -180,7 +180,7 @@
 	}
 }
 
-3349={ #
+3349={ #Muncie
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -193,7 +193,7 @@
 	}
 }
 
-3350={ #
+3350={ #Richmond
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -206,7 +206,7 @@
 	}
 }
 
-3760={ #
+3760={ #Tell City
 	terrain="plains"
 	culture="butternutter"
 	religion="hearthtender"
@@ -219,7 +219,7 @@
 	}
 }
 
-3761={ #
+3761={ #Jasper
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -232,7 +232,7 @@
 	}
 }
 
-3762={ #
+3762={ #Evansville
 	terrain="plains"
 	culture="butternutter"
 	religion="hearthtender"
@@ -245,7 +245,7 @@
 	}
 }
 
-3763={ #
+3763={ #Princeton
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -258,7 +258,7 @@
 	}
 }
 
-4273={ #
+4273={ #Eaton
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -271,7 +271,7 @@
 	}
 }
 
-4274={ #
+4274={ #Xenia
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -284,7 +284,7 @@
 	}
 }
 
-4276={ #
+4276={ #Dayton
 	terrain="farmland"
 	culture="butternutter"
 	religion="hearthtender"
@@ -297,7 +297,7 @@
 	}
 }
 
-4431={ #
+4431={ #Ellettsville
 	terrain="forest"
 	culture="hoosier"
 	religion="hearthtender"
@@ -310,7 +310,7 @@
 	}
 }
 
-4432={ #
+4432={ #Linton
 	terrain="forest"
 	culture="hoosier"
 	religion="hearthtender"
@@ -323,7 +323,7 @@
 	}
 }
 
-4433={ #
+4433={ #Vincennes
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -336,7 +336,7 @@
 	}
 }
 
-5476={ #
+5476={ #Kokomo
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -349,7 +349,7 @@
 	}
 }
 
-5477={ #
+5477={ #Marion
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -362,7 +362,7 @@
 	}
 }
 
-5478={ #
+5478={ #Frankfort
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -375,7 +375,7 @@
 	}
 }
 
-5696={ #
+5696={ #Rising Sun
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -388,7 +388,7 @@
 	}
 }
 
-5697={ #
+5697={ #Columbus
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
@@ -401,7 +401,7 @@
 	}
 }
 
-5698={ #
+5698={ #Greensburg
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -414,7 +414,7 @@
 	}
 }
 
-6587={ #
+6587={ #Crawfordsville
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -427,7 +427,7 @@
 	}
 }
 
-6588={ #
+6588={ #Terre Haute
 	terrain="farmland"
 	culture="hoosier"
 	religion="promethean"
@@ -440,7 +440,7 @@
 	}
 }
 
-6589={ #
+6589={ #Covington
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -453,7 +453,7 @@
 	}
 }
 
-6758={ #
+6758={ #Franklin
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -466,7 +466,7 @@
 	}
 }
 
-6759={ #
+6759={ #Bloomington
 	terrain="hills"
 	culture="hoosier"
 	religion="hearthtender"
@@ -479,7 +479,7 @@
 	}
 }
 
-6760={ #
+6760={ #Martinsville
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -492,7 +492,7 @@
 	}
 }
 
-7748={ #
+7748={ #Carmel
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -505,7 +505,7 @@
 	}
 }
 
-7749={ #
+7749={ #Indianapolis
 	terrain="farmland"
 	culture="hoosier"
 	religion="promethean"
@@ -518,7 +518,7 @@
 	}
 }
 
-7750={ #
+7750={ #Plainfield
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -531,7 +531,7 @@
 	}
 }
 
-7751={ #
+7751={ #Greenfield
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -544,7 +544,7 @@
 	}
 }
 
-7838={ #
+7838={ #Point Pleasant
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -557,7 +557,7 @@
 	}
 }
 
-7839={ #
+7839={ #Athens
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -570,7 +570,7 @@
 	}
 }
 
-9549={ #
+9549={ #Wheelersburg
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -583,7 +583,7 @@
 	}
 }
 
-9550={ #
+9550={ #Jackson
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -596,7 +596,7 @@
 	}
 }
 
-9551={ #
+9551={ #Lesage
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -609,7 +609,7 @@
 	}
 }
 
-11636={ #
+11636={ #Goshen
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -622,7 +622,7 @@
 	}
 }
 
-11638={ #
+11638={ #Connersville
 	terrain="forest"
 	culture="buckeye"
 	religion="hearthtender"
@@ -635,7 +635,7 @@
 	}
 }
 
-11639={ #
+11639={ #Bluffton
 	terrain="plains"
 	culture="buckeye"
 	religion="catholic"
@@ -648,7 +648,7 @@
 	}
 }
 
-11640={ #
+11640={ #New Castle
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -661,7 +661,7 @@
 	}
 }
 
-11641={ #
+11641={ #Portland
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -674,7 +674,7 @@
 	}
 }
 
-11645={ #
+11645={ #Boonville
 	terrain="forest"
 	culture="butternutter"
 	religion="hearthtender"
@@ -687,7 +687,7 @@
 	}
 }
 
-11655={ #
+11655={ #Elwood
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -700,7 +700,7 @@
 	}
 }
 
-11660={ #
+11660={ #Zionsville
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -713,7 +713,7 @@
 	}
 }
 
-11661={ #
+11661={ #Fishers
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"

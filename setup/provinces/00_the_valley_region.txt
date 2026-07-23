@@ -1,4 +1,4 @@
-﻿1048={ #
+﻿1048={ #Roseville
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -11,7 +11,7 @@
 	}
 }
 
-1049={ #
+1049={ #El Dorado Hills
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -24,7 +24,7 @@
 	}
 }
 
-1050={ #
+1050={ #Gold River
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -37,7 +37,7 @@
 	}
 }
 
-1356={ #
+1356={ #Wilbur Springs
 	terrain="hills"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -50,7 +50,7 @@
 	}
 }
 
-1357={ #
+1357={ #Dunnigan
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -63,7 +63,7 @@
 	}
 }
 
-1358={ #
+1358={ #Colusa
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -76,7 +76,7 @@
 	}
 }
 
-1359={ #
+1359={ #Arbuckle
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -89,7 +89,7 @@
 	}
 }
 
-1588={ #
+1588={ #Davis
 	terrain="plains"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -102,7 +102,7 @@
 	}
 }
 
-1589={ #
+1589={ #Woodland
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -115,7 +115,7 @@
 	}
 }
 
-1590={ #
+1590={ #Cottonwood
 	terrain="hills"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -128,7 +128,7 @@
 	}
 }
 
-1617={ #
+1617={ #Willows
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -141,7 +141,7 @@
 	}
 }
 
-1618={ #
+1618={ #Orland
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -154,7 +154,7 @@
 	}
 }
 
-1619={ #
+1619={ #Lodoga
 	terrain="hills"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -167,7 +167,7 @@
 	}
 }
 
-1771={ #
+1771={ #Diablo Grande
 	terrain="hills"
 	culture="valleyan"
 	religion="romano_humanism"
@@ -180,7 +180,7 @@
 	}
 }
 
-1772={ #
+1772={ #Patterson
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -193,7 +193,7 @@
 	}
 }
 
-1773={ #
+1773={ #Newman
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -206,7 +206,7 @@
 	}
 }
 
-2320={ #
+2320={ #Riverbank
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -219,7 +219,7 @@
 	}
 }
 
-2321={ #
+2321={ #Turlock
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -232,7 +232,7 @@
 	}
 }
 
-2322={ #
+2322={ #Warnerville
 	terrain="plains"
 	culture="valleyan"
 	religion="caesarist"
@@ -245,7 +245,7 @@
 	}
 }
 
-2323={ #
+2323={ #Modesto
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -258,7 +258,7 @@
 	}
 }
 
-2844={ #
+2844={ #Grass Valley
 	terrain="hills"
 	culture="valleyan"
 	religion="sikhism"
@@ -271,7 +271,7 @@
 	}
 }
 
-2845={ #
+2845={ #Live Oak
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="sikhism"
@@ -284,7 +284,7 @@
 	}
 }
 
-2846={ #
+2846={ #Linda
 	terrain="forest"
 	culture="valleyan"
 	religion="sikhism"
@@ -297,7 +297,7 @@
 	}
 }
 
-2847={ #
+2847={ #Alta Sierra
 	terrain="forest"
 	culture="valleyan"
 	religion="sikhism"
@@ -310,7 +310,7 @@
 	}
 }
 
-2848={ #
+2848={ #Yuba City
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="sikhism"
@@ -323,7 +323,7 @@
 	}
 }
 
-3061={ #
+3061={ #Yosemite Lakes
 	terrain="forest"
 	culture="joaquino"
 	religion="caesarist"
@@ -336,7 +336,7 @@
 	}
 }
 
-3062={ #
+3062={ #Chowchilla
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -349,7 +349,7 @@
 	}
 }
 
-3063={ #
+3063={ #Madera
 	terrain="farmland"
 	culture="joaquino"
 	religion="caesarist"
@@ -362,7 +362,7 @@
 	}
 }
 
-3064={ #
+3064={ #Oakhurst
 	terrain="mountain"
 	culture="joaquino"
 	religion="caesarist"
@@ -375,7 +375,7 @@
 	}
 }
 
-3267={ #
+3267={ #Hanford
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -388,7 +388,7 @@
 	}
 }
 
-3268={ #
+3268={ #Kettleman City
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -401,7 +401,7 @@
 	}
 }
 
-3269={ #
+3269={ #Coalinga
 	terrain="plains"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -414,7 +414,7 @@
 	}
 }
 
-3270={ #
+3270={ #Corcoran
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -427,7 +427,7 @@
 	}
 }
 
-3337={ #
+3337={ #Kerman
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -440,7 +440,7 @@
 	}
 }
 
-3338={ #
+3338={ #Jamesan
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -453,7 +453,7 @@
 	}
 }
 
-3339={ #
+3339={ #Fresno
 	terrain="forest"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -466,7 +466,7 @@
 	}
 }
 
-3340={ #
+3340={ #Selma
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -479,7 +479,7 @@
 	}
 }
 
-3978={ #
+3978={ #Kirkwood
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -492,7 +492,7 @@
 	}
 }
 
-3979={ #
+3979={ #Buckhorn
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -505,7 +505,7 @@
 	}
 }
 
-3980={ #
+3980={ #Diamond Springs
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -518,7 +518,7 @@
 	}
 }
 
-4301={ #
+4301={ #Ione
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -531,7 +531,7 @@
 	}
 }
 
-4302={ #
+4302={ #Arnold
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -544,7 +544,7 @@
 	}
 }
 
-4303={ #
+4303={ #Copperopolis
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -557,7 +557,7 @@
 	}
 }
 
-4304={ #
+4304={ #Calaveras
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -570,7 +570,7 @@
 	}
 }
 
-4468={ #
+4468={ #West Sacramento
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -583,7 +583,7 @@
 	}
 }
 
-4469={ #
+4469={ #Sacramento
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -596,7 +596,7 @@
 	}
 }
 
-4470={ #
+4470={ #Arden Arcade
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -609,7 +609,7 @@
 	}
 }
 
-4880={ #
+4880={ #Sunnyside
 	terrain="hills"
 	culture=""
 	religion="caesarist"
@@ -622,7 +622,7 @@
 	}
 }
 
-4881={ #
+4881={ #Nevada City
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -635,7 +635,7 @@
 	}
 }
 
-4882={ #
+4882={ #Cool
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -648,7 +648,7 @@
 	}
 }
 
-4883={ #
+4883={ #Sierra City
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -661,7 +661,7 @@
 	}
 }
 
-4908={ #
+4908={ #Oildale
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -674,7 +674,7 @@
 	}
 }
 
-4909={ #
+4909={ #Taft
 	terrain="plains"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -687,7 +687,7 @@
 	}
 }
 
-4910={ #
+4910={ #Lost Hills
 	terrain="plains"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -700,7 +700,7 @@
 	}
 }
 
-4911={ #
+4911={ #Bakersfield
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -713,7 +713,7 @@
 	}
 }
 
-4912={ #
+4912={ #Arvin
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -726,7 +726,7 @@
 	}
 }
 
-5366={ #
+5366={ #Three Rivers
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -739,7 +739,7 @@
 	}
 }
 
-5367={ #
+5367={ #Auberry
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -752,7 +752,7 @@
 	}
 }
 
-5368={ #
+5368={ #Orange Cove
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -765,7 +765,7 @@
 	}
 }
 
-5927={ #
+5927={ #White Wolf
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -778,7 +778,7 @@
 	}
 }
 
-5928={ #
+5928={ #Sonora
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -791,7 +791,7 @@
 	}
 }
 
-5929={ #
+5929={ #Twain Harte
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -804,7 +804,7 @@
 	}
 }
 
-5930={ #
+5930={ #Tuolumne City
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -817,7 +817,7 @@
 	}
 }
 
-5977={ #
+5977={ #Yosemite Valley
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -830,7 +830,7 @@
 	}
 }
 
-5978={ #
+5978={ #Greeley Hill
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -843,7 +843,7 @@
 	}
 }
 
-5979={ #
+5979={ #Mariposa
 	terrain="forest"
 	culture="joaquino"
 	religion="caesarist"
@@ -856,7 +856,7 @@
 	}
 }
 
-6040={ #
+6040={ #Corning
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -869,7 +869,7 @@
 	}
 }
 
-6041={ #
+6041={ #Westend Galatin Place
 	terrain="forest"
 	culture="valleyan"
 	religion="caesarist"
@@ -882,7 +882,7 @@
 	}
 }
 
-6042={ #
+6042={ #Red Bluff
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -895,7 +895,7 @@
 	}
 }
 
-6043={ #
+6043={ #Paskenta
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -908,7 +908,7 @@
 	}
 }
 
-6893={ #
+6893={ #Panoche Junction
 	terrain="hills"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -921,7 +921,7 @@
 	}
 }
 
-6894={ #
+6894={ #Mendota
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -934,7 +934,7 @@
 	}
 }
 
-6895={ #
+6895={ #San Joaquin
 	terrain="farmland"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -947,7 +947,7 @@
 	}
 }
 
-7100={ #
+7100={ #Galt
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -960,7 +960,7 @@
 	}
 }
 
-7101={ #
+7101={ #Lodi
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -973,7 +973,7 @@
 	}
 }
 
-7102={ #
+7102={ #Lincoln Village
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -986,7 +986,7 @@
 	}
 }
 
-7103={ #
+7103={ #Manteca
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -999,7 +999,7 @@
 	}
 }
 
-7104={ #
+7104={ #Stockton
 	terrain="farmland"
 	culture="valleyan"
 	religion="caesarist"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-7150={ #
+7150={ #Durham
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="sikhism"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-7151={ #
+7151={ #Oroville East
 	terrain="marsh"
 	culture="valleyan"
 	religion="sikhism"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-7152={ #
+7152={ #Berry Creek
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-7153={ #
+7153={ #Oroville
 	terrain="marsh"
 	culture="valleyan"
 	religion="sikhism"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-7802={ #
+7802={ #Paradise
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-7803={ #
+7803={ #Paynes Creek
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-7804={ #
+7804={ #Chico
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-7805={ #
+7805={ #Mineral
 	terrain="mountain"
 	culture="valleyan"
 	religion="caesarist"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-7806={ #
+7806={ #Vina
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-8301={ #
+8301={ #Dixon
 	terrain="plains"
 	culture="valleyan"
 	religion="la_hermandad"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-8458={ #
+8458={ #Snelling
 	terrain="plains"
 	culture="valleyan"
 	religion="caesarist"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-8459={ #
+8459={ #Livingston
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-8460={ #
+8460={ #Atwater
 	terrain="plains"
 	culture="valleyan"
 	religion="caesarist"
@@ -1181,7 +1181,7 @@
 	}
 }
 
-8461={ #
+8461={ #Merced
 	terrain="flood_plain"
 	culture="joaquino"
 	religion="caesarist"
@@ -1194,7 +1194,7 @@
 	}
 }
 
-9144={ #
+9144={ #Porterville
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -1207,7 +1207,7 @@
 	}
 }
 
-9145={ #
+9145={ #Visalia
 	terrain="plains"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -1220,7 +1220,7 @@
 	}
 }
 
-9146={ #
+9146={ #Delano
 	terrain="plains"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -1233,7 +1233,7 @@
 	}
 }
 
-9147={ #
+9147={ #Alta Sierra
 	terrain="mountain"
 	culture="joaquino"
 	religion="la_hermandad"
@@ -1246,7 +1246,7 @@
 	}
 }
 
-9172={ #
+9172={ #Redding
 	terrain="forest"
 	culture="jeffersonian"
 	religion="theosophy"
@@ -1259,7 +1259,7 @@
 	}
 }
 
-9174={ #
+9174={ #Shingletown
 	terrain="mountain"
 	culture="jeffersonian"
 	religion="caesarist"
@@ -1272,7 +1272,7 @@
 	}
 }
 
-9175={ #
+9175={ #Shasta Lake
 	terrain="mountain"
 	culture="jeffersonian"
 	religion="theosophy"
@@ -1285,7 +1285,7 @@
 	}
 }
 
-9302={ #
+9302={ #Los Banos
 	terrain="flood_plain"
 	culture="valleyan"
 	religion="caesarist"
@@ -1298,7 +1298,7 @@
 	}
 }
 
-9303={ #
+9303={ #Santa Nella Village
 	terrain="hills"
 	culture="valleyan"
 	religion="caesarist"
@@ -1311,7 +1311,7 @@
 	}
 }
 
-9304={ #
+9304={ #Dos Palos
 	terrain="flood_plain"
 	culture="joaquino"
 	religion="caesarist"

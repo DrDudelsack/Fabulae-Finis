@@ -1,4 +1,4 @@
-﻿475={ #
+﻿475={ #Lachute
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -11,7 +11,7 @@
 	}
 }
 
-476={ #
+476={ #Calumet
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -24,7 +24,7 @@
 	}
 }
 
-477={ #
+477={ #Saint Jerome
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -37,7 +37,7 @@
 	}
 }
 
-1051={ #
+1051={ #Coaticook
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -50,7 +50,7 @@
 	}
 }
 
-1052={ #
+1052={ #Magog
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -63,7 +63,7 @@
 	}
 }
 
-1135={ #
+1135={ #Le Plateau
 	terrain="plains"
 	culture="ontarian"
 	religion="ursuline"
@@ -76,7 +76,7 @@
 	}
 }
 
-1136={ #
+1136={ #Gatineau
 	terrain="farmland"
 	culture="francontarien"
 	religion="ursuline"
@@ -89,7 +89,7 @@
 	}
 }
 
-1742={ #
+1742={ #Lavaltrie
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -102,7 +102,7 @@
 	}
 }
 
-1743={ #
+1743={ #Mascouche
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -115,7 +115,7 @@
 	}
 }
 
-1744={ #
+1744={ #Saint Gabriel
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -128,7 +128,7 @@
 	}
 }
 
-1745={ #
+1745={ #Joliette
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -141,7 +141,7 @@
 	}
 }
 
-1746={ #
+1746={ #Repentigny
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -154,7 +154,7 @@
 	}
 }
 
-1927={ #
+1927={ #Sorel Tracy
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -167,7 +167,7 @@
 	}
 }
 
-1928={ #
+1928={ #Saint Hyacinthe
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -180,7 +180,7 @@
 	}
 }
 
-1929={ #
+1929={ #Acton Vale
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -193,7 +193,7 @@
 	}
 }
 
-1930={ #
+1930={ #Mont Saint Hilaire
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -206,7 +206,7 @@
 	}
 }
 
-1931={ #
+1931={ #Lac Simon
 	terrain="plains"
 	culture="francontarien"
 	religion="ursuline"
@@ -219,7 +219,7 @@
 	}
 }
 
-1932={ #
+1932={ #Saint Andr Avellin
 	terrain="plains"
 	culture="francontarien"
 	religion="ursuline"
@@ -232,7 +232,7 @@
 	}
 }
 
-1933={ #
+1933={ #Thurso
 	terrain="plains"
 	culture="francontarien"
 	religion="ursuline"
@@ -271,7 +271,7 @@
 	}
 }
 
-2226={ #
+2226={ #Saint Alexis Des Monts
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -284,7 +284,7 @@
 	}
 }
 
-2227={ #
+2227={ #Saint Tite
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -297,7 +297,7 @@
 	}
 }
 
-2228={ #
+2228={ #Shawinigan
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -401,7 +401,7 @@
 	}
 }
 
-3675={ #
+3675={ #Cowansville
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -414,7 +414,7 @@
 	}
 }
 
-3676={ #
+3676={ #Granby
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -427,7 +427,7 @@
 	}
 }
 
-3677={ #
+3677={ #Farnham
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -440,7 +440,7 @@
 	}
 }
 
-3881={ #
+3881={ #Maniwaki
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -453,7 +453,7 @@
 	}
 }
 
-3882={ #
+3882={ #Saint Boniface
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -492,7 +492,7 @@
 	}
 }
 
-5267={ #
+5267={ #Tolsta
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
@@ -505,7 +505,7 @@
 	}
 }
 
-5268={ #
+5268={ #Lac M Gantic
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -518,7 +518,7 @@
 	}
 }
 
-5269={ #
+5269={ #Cookshire Eaton
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
@@ -531,7 +531,7 @@
 	}
 }
 
-5270={ #
+5270={ #La Patrie
 	terrain="forest"
 	culture="nouvelle_angleterrais"
 	religion="gothic"
@@ -544,7 +544,7 @@
 	}
 }
 
-6320={ #
+6320={ #Leblanc
 	terrain="marsh"
 	culture="innu"
 	religion="ursuline"
@@ -557,7 +557,7 @@
 	}
 }
 
-6321={ #
+6321={ #La Tuque
 	terrain="forest"
 	culture="innu"
 	religion="ursuline"
@@ -570,7 +570,7 @@
 	}
 }
 
-6322={ #
+6322={ #Manawan
 	terrain="marsh"
 	culture="innu"
 	religion="ursuline"
@@ -583,7 +583,7 @@
 	}
 }
 
-6472={ #
+6472={ #B Cancour
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -596,7 +596,7 @@
 	}
 }
 
-6473={ #
+6473={ #Warwick
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -609,7 +609,7 @@
 	}
 }
 
-6474={ #
+6474={ #Victoriaville
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -622,7 +622,7 @@
 	}
 }
 
-7280={ #
+7280={ #Fort Coulonge
 	terrain="forest"
 	culture="algonquin"
 	religion="veteranic"
@@ -635,7 +635,7 @@
 	}
 }
 
-7281={ #
+7281={ #Sheen Esher Aberdeen Et Malakoff
 	terrain="forest"
 	culture="algonquin"
 	religion="viking"
@@ -648,7 +648,7 @@
 	}
 }
 
-7282={ #
+7282={ #Shawville
 	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
@@ -661,7 +661,7 @@
 	}
 }
 
-7345={ #
+7345={ #Lac Simon
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -674,7 +674,7 @@
 	}
 }
 
-7346={ #
+7346={ #Mont Tremblant
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -687,7 +687,7 @@
 	}
 }
 
-7347={ #
+7347={ #Sainte Agathe Des Monts
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -700,7 +700,7 @@
 	}
 }
 
-7510={ #
+7510={ #Chertsey
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -713,7 +713,7 @@
 	}
 }
 
-7511={ #
+7511={ #Saint Michel Des Saints
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -726,7 +726,7 @@
 	}
 }
 
-7512={ #
+7512={ #Rawdon
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -739,7 +739,7 @@
 	}
 }
 
-7513={ #
+7513={ #Saint Donat De Montcalm
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -752,7 +752,7 @@
 	}
 }
 
-7654={ #
+7654={ #Saint Eustache
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -765,7 +765,7 @@
 	}
 }
 
-7655={ #
+7655={ #Sainte Therese
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -778,7 +778,7 @@
 	}
 }
 
-7656={ #
+7656={ #Blainville
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -791,7 +791,7 @@
 	}
 }
 
-8303={ #
+8303={ #Trois Rivi Res
 	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
@@ -804,7 +804,7 @@
 	}
 }
 
-8304={ #
+8304={ #Louiseville
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -817,7 +817,7 @@
 	}
 }
 
-8305={ #
+8305={ #Village Sainte Marie
 	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
@@ -830,7 +830,7 @@
 	}
 }
 
-8913={ #
+8913={ #Windsor
 	terrain="forest"
 	culture="montrealais"
 	religion="ursuline"
@@ -843,7 +843,7 @@
 	}
 }
 
-8914={ #
+8914={ #Asbestos
 	terrain="forest"
 	culture="quebecois"
 	religion="ursuline"
@@ -856,7 +856,7 @@
 	}
 }
 
-8915={ #
+8915={ #East Angus
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
@@ -869,7 +869,7 @@
 	}
 }
 
-8916={ #
+8916={ #Sherbrooke
 	terrain="forest"
 	culture="quebecois"
 	religion="gothic"
@@ -882,7 +882,7 @@
 	}
 }
 
-9347={ #
+9347={ #Mont Laurier
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -895,7 +895,7 @@
 	}
 }
 
-9348={ #
+9348={ #Ferme Neuve
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -908,7 +908,7 @@
 	}
 }
 
-9349={ #
+9349={ #Rivi Re Rouge
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -921,7 +921,7 @@
 	}
 }
 
-9350={ #
+9350={ #Sainte Th R Se De La Gatineau
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -934,7 +934,7 @@
 	}
 }
 
-9505={ #
+9505={ #Drummondville
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -947,7 +947,7 @@
 	}
 }
 
-9506={ #
+9506={ #Pierreville
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
@@ -960,7 +960,7 @@
 	}
 }
 
-9507={ #
+9507={ #Nicolet
 	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"

@@ -1,4 +1,4 @@
-﻿801={ #
+﻿801={ #Osceola
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -11,7 +11,7 @@
 	}
 }
 
-866={ #
+866={ #Onawa
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -24,7 +24,7 @@
 	}
 }
 
-867={ #
+867={ #Storm Lake
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -37,7 +37,7 @@
 	}
 }
 
-868={ #
+868={ #Sioux City
 	terrain="plains"
 	culture="dakota"
 	religion="peyotist"
@@ -50,7 +50,7 @@
 	}
 }
 
-869={ #
+869={ #Cherokee
 	terrain="plains"
 	culture="dakota"
 	religion="peyotist"
@@ -63,7 +63,7 @@
 	}
 }
 
-1182={ #
+1182={ #Cresco
 	terrain="plains"
 	culture="driftlander"
 	religion="lutheran"
@@ -76,7 +76,7 @@
 	}
 }
 
-1855={ #
+1855={ #Ames
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -89,7 +89,7 @@
 	}
 }
 
-1856={ #
+1856={ #Perry
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -131,7 +131,7 @@
 	}
 }
 
-1945={ #
+1945={ #Ottumwa
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -144,7 +144,7 @@
 	}
 }
 
-1946={ #
+1946={ #Newton
 	terrain="forest"
 	culture="heartlander"
 	religion="lutheran"
@@ -157,7 +157,7 @@
 	}
 }
 
-1947={ #
+1947={ #Oskaloosa
 	terrain="forest"
 	culture="heartlander"
 	religion="lutheran"
@@ -170,7 +170,7 @@
 	}
 }
 
-4519={ #
+4519={ #Waterloo
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -183,7 +183,7 @@
 	}
 }
 
-4520={ #
+4520={ #Oelwein
 	terrain="plains"
 	culture="driftlander"
 	religion="lutheran"
@@ -196,7 +196,7 @@
 	}
 }
 
-4521={ #
+4521={ #Evansdale
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -209,7 +209,7 @@
 	}
 }
 
-4591={ #
+4591={ #Algona
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -222,7 +222,7 @@
 	}
 }
 
-4592={ #
+4592={ #Fort Dodge
 	terrain="farmland"
 	culture="heartlander"
 	religion="lutheran"
@@ -235,7 +235,7 @@
 	}
 }
 
-4593={ #
+4593={ #Sac City
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -248,7 +248,7 @@
 	}
 }
 
-5626={ #
+5626={ #Sioux Center
 	terrain="plains"
 	culture="dakota"
 	religion="peyotist"
@@ -261,7 +261,7 @@
 	}
 }
 
-5627={ #
+5627={ #Brandon
 	terrain="plains"
 	culture="dakota"
 	religion="lutheran"
@@ -274,7 +274,7 @@
 	}
 }
 
-5628={ #
+5628={ #Alta
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -287,7 +287,7 @@
 	}
 }
 
-6398={ #
+6398={ #Spencer
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -300,7 +300,7 @@
 	}
 }
 
-6399={ #
+6399={ #Estherville
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -326,7 +326,7 @@
 	}
 }
 
-6428={ #
+6428={ #Decorah
 	terrain="hills"
 	culture="driftlander"
 	religion="twainist"
@@ -339,7 +339,7 @@
 	}
 }
 
-7557={ #
+7557={ #Burlington
 	terrain="farmland"
 	culture="heartlander"
 	religion="twainist"
@@ -373,7 +373,7 @@
 	}
 }
 
-7558={ #
+7558={ #Fairfield
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -386,7 +386,7 @@
 	}
 }
 
-7559={ #
+7559={ #Fort Madison
 	terrain="flood_plain"
 	culture="heartlander"
 	religion="twainist"
@@ -412,7 +412,7 @@
 	}
 }
 
-8166={ #
+8166={ #Iowa City
 	terrain="farmland"
 	culture="heartlander"
 	religion="lutheran"
@@ -459,7 +459,7 @@
 	}
 }
 
-8171={ #
+8171={ #Webster City
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -472,7 +472,7 @@
 	}
 }
 
-8172={ #
+8172={ #Marshalltown
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -485,7 +485,7 @@
 	}
 }
 
-8173={ #
+8173={ #Hampton
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -498,7 +498,7 @@
 	}
 }
 
-8218={ #
+8218={ #Maquoketa
 	terrain="flood_plain"
 	culture="driftlander"
 	religion="twainist"
@@ -568,7 +568,7 @@
 	}
 }
 
-8220={ #
+8220={ #Muscatine
 	terrain="farmland"
 	culture="heartlander"
 	religion="twainist"
@@ -599,7 +599,7 @@
 	}
 }
 
-8329={ #
+8329={ #Red Oak
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -612,7 +612,7 @@
 	}
 }
 
-8330={ #
+8330={ #Carroll
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -625,7 +625,7 @@
 	}
 }
 
-8331={ #
+8331={ #Harlan
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -638,7 +638,7 @@
 	}
 }
 
-8332={ #
+8332={ #Council Bluffs
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -651,7 +651,7 @@
 	}
 }
 
-8567={ #
+8567={ #Forest City
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -664,7 +664,7 @@
 	}
 }
 
-8568={ #
+8568={ #Austin
 	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
@@ -677,7 +677,7 @@
 	}
 }
 
-8569={ #
+8569={ #Mason City
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -690,7 +690,7 @@
 	}
 }
 
-9367={ #
+9367={ #Greenfield
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -703,7 +703,7 @@
 	}
 }
 
-9368={ #
+9368={ #Corning
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -716,7 +716,7 @@
 	}
 }
 
-9369={ #
+9369={ #Creston
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"

@@ -1,4 +1,4 @@
-﻿1632={ #
+﻿1632={ #Iqaluit
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -11,7 +11,7 @@
 	}
 }
 
-1633={ #
+1633={ #Kipisa
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -24,7 +24,7 @@
 	}
 }
 
-1634={ #
+1634={ #Kimmirut
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -37,7 +37,7 @@
 	}
 }
 
-2197={ #
+2197={ #Pangniqtuuq
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -50,7 +50,7 @@
 	}
 }
 
-2198={ #
+2198={ #Koukdjuak
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -63,7 +63,7 @@
 	}
 }
 
-2199={ #
+2199={ #Paallavvik
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -76,7 +76,7 @@
 	}
 }
 
-2200={ #
+2200={ #Qikiqtarjuaq
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -89,7 +89,7 @@
 	}
 }
 
-2525={ #
+2525={ #Ah Veremos
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -102,7 +102,7 @@
 	}
 }
 
-2526={ #
+2526={ #Bella Vista
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -115,7 +115,7 @@
 	}
 }
 
-2860={ #
+2860={ #Mittimatalik
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -128,7 +128,7 @@
 	}
 }
 
-2861={ #
+2861={ #Tasiujaq
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -141,7 +141,7 @@
 	}
 }
 
-2862={ #
+2862={ #Ikpiarjuk
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -154,7 +154,7 @@
 	}
 }
 
-3218={ #
+3218={ #Arviat
 	terrain="taiga"
 	culture="nihithaw"
 	religion="catholic"
@@ -167,7 +167,7 @@
 	}
 }
 
-3219={ #
+3219={ #Ennadai
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -180,7 +180,7 @@
 	}
 }
 
-3220={ #
+3220={ #Tikiraqjuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -193,7 +193,7 @@
 	}
 }
 
-3271={ #
+3271={ #Umingmaktuuq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -206,7 +206,7 @@
 	}
 }
 
-3272={ #
+3272={ #Qingaut
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -219,7 +219,7 @@
 	}
 }
 
-3273={ #
+3273={ #Iqaluktuuttiaq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -232,7 +232,7 @@
 	}
 }
 
-3534={ #
+3534={ #Iglulik
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -245,7 +245,7 @@
 	}
 }
 
-3535={ #
+3535={ #Nuluyait
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -258,7 +258,7 @@
 	}
 }
 
-3536={ #
+3536={ #Sikosak
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -271,7 +271,7 @@
 	}
 }
 
-4899={ #
+4899={ #Isulijarnik
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -284,7 +284,7 @@
 	}
 }
 
-4900={ #
+4900={ #Amadjuak
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -297,7 +297,7 @@
 	}
 }
 
-4901={ #
+4901={ #Kinngait
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -310,7 +310,7 @@
 	}
 }
 
-7179={ #
+7179={ #Tariunnuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -323,7 +323,7 @@
 	}
 }
 
-7180={ #
+7180={ #Iluilik
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -336,7 +336,7 @@
 	}
 }
 
-7181={ #
+7181={ #Uqsuqtuuq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -349,7 +349,7 @@
 	}
 }
 
-8055={ #
+8055={ #Sanirajak
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -362,7 +362,7 @@
 	}
 }
 
-8056={ #
+8056={ #Tusjujak
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -375,7 +375,7 @@
 	}
 }
 
-8057={ #
+8057={ #Shartu
 	terrain="mountain"
 	culture="inuit"
 	religion="catholic"
@@ -388,7 +388,7 @@
 	}
 }
 
-8058={ #
+8058={ #Naujaat
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -401,7 +401,7 @@
 	}
 }
 
-8333={ #
+8333={ #Salliq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -414,7 +414,7 @@
 	}
 }
 
-8462={ #
+8462={ #Qamanituaq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -427,7 +427,7 @@
 	}
 }
 
-8463={ #
+8463={ #Amaruq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -440,7 +440,7 @@
 	}
 }
 
-9004={ #
+9004={ #Igluligaarjuk
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -453,7 +453,7 @@
 	}
 }
 
-9005={ #
+9005={ #Ukkusiksalik
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -466,7 +466,7 @@
 	}
 }
 
-9006={ #
+9006={ #Kangiqiniq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -479,7 +479,7 @@
 	}
 }
 
-9585={ #
+9585={ #Talurjuaq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"
@@ -492,7 +492,7 @@
 	}
 }
 
-9586={ #
+9586={ #Kugaaruq
 	terrain="taiga"
 	culture="inuit"
 	religion="catholic"

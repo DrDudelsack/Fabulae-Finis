@@ -1,4 +1,4 @@
-﻿800={ #
+﻿800={ #Mercer
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -11,7 +11,7 @@
 	}
 }
 
-802={ #
+802={ #Bethany
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -24,7 +24,7 @@
 	}
 }
 
-1088={ #
+1088={ #Mountain Grove
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -37,7 +37,7 @@
 	}
 }
 
-1089={ #
+1089={ #Mountain View
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -50,7 +50,7 @@
 	}
 }
 
-1090={ #
+1090={ #West Plains
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -63,7 +63,7 @@
 	}
 }
 
-1490={ #
+1490={ #Nixa
 	terrain="hills"
 	culture="ozark"
 	religion="revelationist"
@@ -76,7 +76,7 @@
 	}
 }
 
-1491={ #
+1491={ #Monett
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -89,7 +89,7 @@
 	}
 }
 
-1492={ #
+1492={ #Springfield
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -130,7 +130,7 @@
 	}
 }
 
-2958={ #
+2958={ #Ironton
 	terrain="hills"
 	culture="bootheeler"
 	religion="catholic"
@@ -255,7 +255,7 @@
 	}
 }
 
-3873={ #
+3873={ #Carrollton
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -275,7 +275,7 @@
 	}
 }
 
-3874={ #
+3874={ #Chillicothe
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -295,7 +295,7 @@
 	}
 }
 
-3875={ #
+3875={ #Marceline
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -342,7 +342,7 @@
 	}
 }
 
-4001={ #
+4001={ #Charleston
 	terrain="flood_plain"
 	culture="bootheeler"
 	religion="twainist"
@@ -355,7 +355,7 @@
 	}
 }
 
-4002={ #
+4002={ #Sikeston
 	terrain="plains"
 	culture="bootheeler"
 	religion="twainist"
@@ -518,7 +518,7 @@
 	}
 }
 
-5250={ #
+5250={ #Fort Leonard Wood
 	terrain="hills"
 	culture="ozark"
 	religion="heartful"
@@ -531,7 +531,7 @@
 	}
 }
 
-5251={ #
+5251={ #Ava
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -544,7 +544,7 @@
 	}
 }
 
-5252={ #
+5252={ #Lebanon
 	terrain="forest"
 	culture="ozark"
 	religion="heartful"
@@ -557,7 +557,7 @@
 	}
 }
 
-5445={ #
+5445={ #Centerville
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -583,7 +583,7 @@
 	}
 }
 
-5447={ #
+5447={ #Terre Haute
 	terrain="farmland"
 	culture="heartlander"
 	religion="lutheran"
@@ -596,7 +596,7 @@
 	}
 }
 
-5536={ #
+5536={ #Kennett
 	terrain="farmland"
 	culture="bootheeler"
 	religion="egyptology"
@@ -609,7 +609,7 @@
 	}
 }
 
-5537={ #
+5537={ #Dexter
 	terrain="forest"
 	culture="bootheeler"
 	religion="twainist"
@@ -622,7 +622,7 @@
 	}
 }
 
-5538={ #
+5538={ #Malden
 	terrain="plains"
 	culture="bootheeler"
 	religion="revelationist"
@@ -682,7 +682,7 @@
 	}
 }
 
-5602={ #
+5602={ #Osage Beach
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
@@ -695,7 +695,7 @@
 	}
 }
 
-5951={ #
+5951={ #Bolivar
 	terrain="forest"
 	culture="ozark"
 	religion="heartful"
@@ -708,7 +708,7 @@
 	}
 }
 
-5952={ #
+5952={ #Warsaw
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
@@ -721,7 +721,7 @@
 	}
 }
 
-5953={ #
+5953={ #El Dorado Springs
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
@@ -869,7 +869,7 @@
 	}
 }
 
-6798={ #
+6798={ #Memphis
 	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
@@ -917,7 +917,7 @@
 	holy_site=omen_twain
 }
 
-6800={ #
+6800={ #Canton
 	terrain="flood_plain"
 	culture="heartlander"
 	religion="twainist"
@@ -994,7 +994,7 @@
 	}
 }
 
-7611={ #
+7611={ #Winona
 	terrain="hills"
 	culture="ozark"
 	religion="catholic"
@@ -1007,7 +1007,7 @@
 	}
 }
 
-7612={ #
+7612={ #Van Buren
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -1020,7 +1020,7 @@
 	}
 }
 
-7613={ #
+7613={ #Ellington
 	terrain="hills"
 	culture="bootheeler"
 	religion="catholic"
@@ -1193,7 +1193,7 @@
 	}
 }
 
-9450={ #
+9450={ #Clarinda
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -1206,7 +1206,7 @@
 	}
 }
 
-9451={ #
+9451={ #Saint Joseph
 	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"
@@ -1226,7 +1226,7 @@
 	}
 }
 
-9452={ #
+9452={ #Maryville
 	terrain="plains"
 	culture="heartlander"
 	religion="lutheran"
@@ -1239,7 +1239,7 @@
 	}
 }
 
-9508={ #
+9508={ #Pocahontas
 	terrain="forest"
 	culture="bootheeler"
 	religion="revelationist"
@@ -1252,7 +1252,7 @@
 	}
 }
 
-9509={ #
+9509={ #Piedmont
 	terrain="forest"
 	culture="bootheeler"
 	religion="catholic"
@@ -1265,7 +1265,7 @@
 	}
 }
 
-9510={ #
+9510={ #Poplar Bluff
 	terrain="forest"
 	culture="bootheeler"
 	religion="revelationist"

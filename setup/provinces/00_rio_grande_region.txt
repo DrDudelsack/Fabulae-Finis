@@ -1,4 +1,4 @@
-﻿79={ #
+﻿79={ #Alpine
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -11,7 +11,7 @@
 	}
 }
 
-80={ #
+80={ #Study Butte
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -24,7 +24,7 @@
 	}
 }
 
-81={ #
+81={ #Marfa
 	terrain="desert"
 	culture="tejano"
 	religion="limpio"
@@ -37,7 +37,7 @@
 	}
 }
 
-139={ #
+139={ #Odessa
 	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
@@ -50,7 +50,7 @@
 	}
 }
 
-140={ #
+140={ #Crane
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
@@ -63,7 +63,7 @@
 	}
 }
 
-141={ #
+141={ #Monahans
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
@@ -76,7 +76,7 @@
 	}
 }
 
-142={ #
+142={ #Kermit
 	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
@@ -89,7 +89,7 @@
 	}
 }
 
-143={ #
+143={ #Big Lake
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
@@ -102,7 +102,7 @@
 	}
 }
 
-385={ #
+385={ #Juarez
 	terrain="desert"
 	culture="shiwawita"
 	religion="limpio"
@@ -115,7 +115,7 @@
 	}
 }
 
-386={ #
+386={ #El Paso
 	terrain="desert"
 	culture="tejano"
 	religion="limpio"
@@ -128,7 +128,7 @@
 	}
 }
 
-3201={ #
+3201={ #Eldorado
 	terrain="steppes"
 	culture="tejano"
 	religion="petrobaron"
@@ -141,7 +141,7 @@
 	}
 }
 
-3202={ #
+3202={ #Junction
 	terrain="steppes"
 	culture="tejano"
 	religion="colossalist"
@@ -154,9 +154,9 @@
 	}
 }
 
-3203={ #
+3203={ #Mertzon
 	terrain="steppes"
-	culture="estacadan"
+	culture="tejano"
 	religion="petrobaron"
 	trade_goods="cattle"
 	civilization_value=10
@@ -167,7 +167,7 @@
 	}
 }
 
-3204={ #
+3204={ #Sonora
 	terrain="steppes"
 	culture="tejano"
 	religion="petrobaron"
@@ -180,9 +180,9 @@
 	}
 }
 
-3205={ #
+3205={ #San Angelo
 	terrain="steppes"
-	culture="estacadan"
+	culture="tejano"
 	religion="petrobaron"
 	trade_goods="beans"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 5024={ #Mason
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 5026={ #Brady
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 5030={ #Kerrville
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 5032={ #Ingram
 	terrain="steppes"
-	culture="tejano"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 5095={ #Kenedy
 	terrain="steppes"
-	culture="tejano"
+	culture="silesian"
 	religion="colossalist"
 	trade_goods="spices"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 5098={ #Floresville
 	terrain="hills"
-	culture="tejano"
+	culture="silesian"
 	religion="colossalist"
 	trade_goods="horses"
 	civilization_value=10
@@ -505,7 +505,7 @@
 	}
 }
 
-5099={ #
+5099={ #Ozona
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
@@ -518,7 +518,7 @@
 	}
 }
 
-5100={ #
+5100={ #Vinegarone
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
@@ -531,7 +531,7 @@
 	}
 }
 
-5101={ #
+5101={ #Rubboard Crossing
 	terrain="dry_plains"
 	culture="tejano"
 	religion="petrobaron"
@@ -544,7 +544,7 @@
 	}
 }
 
-5102={ #
+5102={ #Midland
 	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
@@ -557,7 +557,7 @@
 	}
 }
 
-6569={ #
+6569={ #Corpus Christi
 	terrain="marsh"
 	culture="tejano"
 	religion="colossalist"
@@ -570,7 +570,7 @@
 	}
 }
 
-6571={ #
+6571={ #Alice
 	terrain="plains"
 	culture="tejano"
 	religion="colossalist"
@@ -583,7 +583,7 @@
 	}
 }
 
-6572={ #
+6572={ #Kingsville
 	terrain="plains"
 	culture="tejano"
 	religion="colossalist"
@@ -596,7 +596,7 @@
 	}
 }
 
-6573={ #
+6573={ #Pearsall
 	terrain="hills"
 	culture="tejano"
 	religion="colossalist"
@@ -609,7 +609,7 @@
 	}
 }
 
-6574={ #
+6574={ #Sarita
 	terrain="plains"
 	culture="tejano"
 	religion="cristero"
@@ -622,7 +622,7 @@
 	}
 }
 
-6575={ #
+6575={ #Raymondville
 	terrain="plains"
 	culture="tejano"
 	religion="cristero"
@@ -635,7 +635,7 @@
 	}
 }
 
-6576={ #
+6576={ #Harlingen
 	terrain="plains"
 	culture="tejano"
 	religion="cristero"
@@ -648,7 +648,7 @@
 	}
 }
 
-6880={ #
+6880={ #G Mez Palacio
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -661,7 +661,7 @@
 	}
 }
 
-7906={ #
+7906={ #Iraan
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -674,7 +674,7 @@
 	}
 }
 
-7907={ #
+7907={ #Pecos
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -687,7 +687,7 @@
 	}
 }
 
-7908={ #
+7908={ #Fort Stockton
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -700,7 +700,7 @@
 	}
 }
 
-7909={ #
+7909={ #Sanderson
 	terrain="dry_plains"
 	culture="tejano"
 	religion="limpio"
@@ -713,7 +713,7 @@
 	}
 }
 
-8087={ #
+8087={ #Van Horn
 	terrain="desert"
 	culture="tejano"
 	religion="limpio"
@@ -726,7 +726,7 @@
 	}
 }
 
-8088={ #
+8088={ #Fort Hancock
 	terrain="desert"
 	culture="tejano"
 	religion="limpio"
@@ -739,7 +739,7 @@
 	}
 }
 
-8089={ #
+8089={ #Dell City
 	terrain="desert"
 	culture="tejano"
 	religion="limpio"
@@ -752,7 +752,7 @@
 	}
 }
 
-8677={ #
+8677={ #Sterling City
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -765,7 +765,7 @@
 	}
 }
 
-9208={ #
+9208={ #Escobares
 	terrain="dry_plains"
 	culture="tejano"
 	religion="cristero"
@@ -778,7 +778,7 @@
 	}
 }
 
-9209={ #
+9209={ #Falfurrias
 	terrain="plains"
 	culture="tejano"
 	religion="cristero"
@@ -791,7 +791,7 @@
 	}
 }
 
-9210={ #
+9210={ #Mcallen
 	terrain="dry_plains"
 	culture="tejano"
 	religion="cristero"
@@ -804,7 +804,7 @@
 	}
 }
 
-9211={ #
+9211={ #Hebbronville
 	terrain="dry_plains"
 	culture="tejano"
 	religion="cristero"
@@ -817,7 +817,7 @@
 	}
 }
 
-9222={ #
+9222={ #San Diego
 	terrain="plains"
 	culture="tejano"
 	religion="cristero"
@@ -830,7 +830,7 @@
 	}
 }
 
-9223={ #
+9223={ #Rio Bravo
 	terrain="dry_plains"
 	culture="tejano"
 	religion="cristero"
@@ -843,7 +843,7 @@
 	}
 }
 
-9224={ #
+9224={ #Encinal
 	terrain="dry_plains"
 	culture="tejano"
 	religion="cristero"
@@ -856,7 +856,7 @@
 	}
 }
 
-9225={ #
+9225={ #Zapata
 	terrain="dry_plains"
 	culture="tejano"
 	religion="cristero"
@@ -869,7 +869,7 @@
 	}
 }
 
-9226={ #
+9226={ #Christine
 	terrain="steppes"
 	culture="tejano"
 	religion="colossalist"
@@ -882,7 +882,7 @@
 	}
 }
 
-9228={ #
+9228={ #Fowlerton
 	terrain="steppes"
 	culture="tejano"
 	religion="colossalist"
@@ -895,7 +895,7 @@
 	}
 }
 
-9229={ #
+9229={ #George West
 	terrain="plains"
 	culture="tejano"
 	religion="colossalist"
@@ -908,7 +908,7 @@
 	}
 }
 
-11622={ #
+11622={ #Three Rivers
 	terrain="plains"
 	culture="tejano"
 	religion="colossalist"

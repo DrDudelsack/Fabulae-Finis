@@ -2209,7 +2209,7 @@ country = {
 			}
 
 			own_control_core = {
-				5059 6286 6287 9219 9221 9218 9220 6285 6284 7195 7196
+				5059 6286 6287 9219 9221 9218 9220 7195 7196
 			}
 		}
 		GAS = { #Galveston
@@ -2243,7 +2243,7 @@ country = {
 			}
 
 			own_control_core = {
-				9235 9234 7451 7542 7543 879 5753 7885 5756 5755 11618 7541 9238
+				9235 9238 9234 7541
 			}
 		}
 		WCO = { #Waco
@@ -3789,14 +3789,13 @@ country = {
 			}
 
 			own_control_core = {
-				5023 5025 5026 5024 3205 3201
-				5056 5042 5057 5055 5031 5022 5096
-				5073 6573 9228 9226 11622 5094 5098 5095
-				5088 5090 5032 5030 5092 5097 3202
-				6569 6571 9229 9222 6572 6574 9209
-				5039 7887 877 878 9236 9237 6570 9227 
-				3204 9223 9225 9211 9208 9210 6575 6576 9224 5074 5072 5091 8677 3203
-				5100 5101 5099 143
+				5056 5042 5057 5031 5022
+				5090 5032 5030 3202
+				5039 7887 
+			    5091
+				5100 5101
+				7885 879 5753 11618 7543 7542 5756 5755
+				7886 3398 6285 6284 5024 5026 5025 5023 3204
 			}
 		}
 		CZH = { # Praha
@@ -3813,7 +3812,7 @@ country = {
 			}
 
 			own_control_core = {
-				7884 5040 7886 3398 3401 3399 3344 2130 5043 5044 3342 2129 2132 2131
+				7884 5040 3401 3399 5043 5044
 			}
 		}
 		BGH = { # Big Country
@@ -4943,6 +4942,126 @@ country = {
 
 			own_control_core = {
 				4465 4466 4467 2916 2918 2916 2917 5762 5763 604
+			}
+		}
+		GLO = { #Goliad
+			government = aristocratic_republic
+			primary_culture = silesian
+			religion = colossalist
+			capital = 9236
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9227 9236 6570 9237 11622
+			}
+		}
+		PNM = { # Panna Maria
+			government = range_tribal_kingdom
+			primary_culture = silesian
+			religion = colossalist
+			capital = 5098
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5098 5095 878 877 5055
+			}
+		}
+		SAN = { #Hill Country
+			government = range_tribal_kingdom
+			primary_culture = tejano
+			religion = colossalist
+			capital = 5096
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5096 5094 5097 5088 5092
+				6573 9228 9226 5073
+			}
+		}
+		CRP = { #Corpus Christi
+			government = aristocratic_monarchy
+			primary_culture = tejano
+			religion = cristero
+			capital = 6569
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6569 6572 6574 6575 6576 9210 9209 9222 6571 9222 9229
+			}
+		}
+		ELD = { # El Dorado
+			government = range_tribal_kingdom
+			primary_culture = tejano
+			religion = petrobaron
+			capital = 3201
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3201 3205 8677 3203 143 5099
+			}
+		}
+		RIO = { # Rio Bravo
+			government = range_tribal_kingdom
+			primary_culture = tejano
+			religion = cristero
+			capital = 3201
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5072 5074 9224 9223 9225 9211 9208
+			}
+		}
+		HRN = { # Hearne
+			government = range_tribal_kingdom
+			primary_culture = texanane
+			religion = americanist
+			capital = 3342
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3342 3344 2130 2129 2132 2131
 			}
 		}
 	}

@@ -1,4 +1,4 @@
-﻿683={ #
+﻿683={ #Memphis
 	terrain="steppes"
 	culture="comanche"
 	religion="peyotist"
@@ -11,7 +11,7 @@
 	}
 }
 
-3954={ #
+3954={ #Weatherford
 	terrain="steppes"
 	culture="caddo"
 	religion="peyotist"
@@ -24,7 +24,7 @@
 	}
 }
 
-3955={ #
+3955={ #Elk City
 	terrain="steppes"
 	culture="caddo"
 	religion="peyotist"
@@ -37,7 +37,7 @@
 	}
 }
 
-4115={ #
+4115={ #Ponca City
 	terrain="steppes"
 	culture="pawnee"
 	religion="peyotist"
@@ -50,7 +50,7 @@
 	}
 }
 
-4756={ #
+4756={ #Ardmore
 	terrain="forest"
 	culture="chickasaw"
 	religion="peyotist"
@@ -63,7 +63,7 @@
 	}
 }
 
-4906={ #
+4906={ #Altus
 	terrain="steppes"
 	culture="comanche"
 	religion="peyotist"
@@ -76,7 +76,7 @@
 	}
 }
 
-4907={ #
+4907={ #Frederick
 	terrain="steppes"
 	culture="kiowa"
 	religion="peyotist"
@@ -89,7 +89,7 @@
 	}
 }
 
-6962={ #
+6962={ #Anson
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -102,7 +102,7 @@
 	}
 }
 
-6963={ #
+6963={ #Snyder
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -115,7 +115,7 @@
 	}
 }
 
-6964={ #
+6964={ #Haskell
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -128,7 +128,7 @@
 	}
 }
 
-6965={ #
+6965={ #Albany
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -141,7 +141,7 @@
 	}
 }
 
-7572={ #
+7572={ #Cherokee
 	terrain="steppes"
 	culture="okie"
 	religion="heartful"
@@ -154,7 +154,7 @@
 	}
 }
 
-7573={ #
+7573={ #Watonga
 	terrain="steppes"
 	culture="okie"
 	religion="peyotist"
@@ -167,7 +167,7 @@
 	}
 }
 
-7574={ #
+7574={ #Kingfisher
 	terrain="steppes"
 	culture="okie"
 	religion="peyotist"
@@ -180,7 +180,7 @@
 	}
 }
 
-7575={ #
+7575={ #Enid
 	terrain="steppes"
 	culture="otoe_missouria"
 	religion="peyotist"
@@ -193,7 +193,7 @@
 	}
 }
 
-7624={ #
+7624={ #Norman
 	terrain="forest"
 	culture="okie"
 	religion="peyotist"
@@ -206,7 +206,7 @@
 	}
 }
 
-7625={ #
+7625={ #Oklahoma City
 	terrain="forest"
 	culture="okie"
 	religion="peyotist"
@@ -219,7 +219,7 @@
 	}
 }
 
-7626={ #
+7626={ #Chickasha
 	terrain="steppes"
 	culture="chickasaw"
 	religion="peyotist"
@@ -232,7 +232,7 @@
 	}
 }
 
-7627={ #
+7627={ #Newcastle
 	terrain="forest"
 	culture="chickasaw"
 	religion="peyotist"
@@ -245,7 +245,7 @@
 	}
 }
 
-7790={ #
+7790={ #Duncan
 	terrain="steppes"
 	culture="chickasaw"
 	religion="peyotist"
@@ -258,7 +258,7 @@
 	}
 }
 
-7791={ #
+7791={ #Walters
 	terrain="steppes"
 	culture="kiowa"
 	religion="peyotist"
@@ -271,7 +271,7 @@
 	}
 }
 
-7792={ #
+7792={ #Lawton
 	terrain="hills"
 	culture="kiowa"
 	religion="peyotist"
@@ -284,7 +284,7 @@
 	}
 }
 
-8667={ #
+8667={ #Jacksboro
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -297,7 +297,7 @@
 	}
 }
 
-8668={ #
+8668={ #Graham
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -310,7 +310,7 @@
 	}
 }
 
-8669={ #
+8669={ #Bowie
 	terrain="steppes"
 	culture="texaner"
 	religion="loneranger"
@@ -323,7 +323,7 @@
 	}
 }
 
-8670={ #
+8670={ #Wichita Falls
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -336,7 +336,7 @@
 	}
 }
 
-8674={ #
+8674={ #Sweetwater
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -349,7 +349,7 @@
 	}
 }
 
-8675={ #
+8675={ #Winters
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -362,7 +362,7 @@
 	}
 }
 
-8676={ #
+8676={ #Abilene
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -375,7 +375,7 @@
 	}
 }
 
-8731={ #
+8731={ #Coleman
 	terrain="steppes"
 	culture="texan"
 	religion="petrobaron"
@@ -388,7 +388,7 @@
 	}
 }
 
-9150={ #
+9150={ #Breckenridge
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -401,7 +401,7 @@
 	}
 }
 
-9618={ #
+9618={ #Brownwood
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -414,7 +414,7 @@
 	}
 }
 
-9620={ #
+9620={ #Cisco
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -427,7 +427,7 @@
 	}
 }
 
-9621={ #
+9621={ #Quanah
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -440,7 +440,7 @@
 	}
 }
 
-9622={ #
+9622={ #Childress
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -453,7 +453,7 @@
 	}
 }
 
-9623={ #
+9623={ #Paducah
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -466,7 +466,7 @@
 	}
 }
 
-11612={ #
+11612={ #Benjamin
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -479,7 +479,7 @@
 	}
 }
 
-11613={ #
+11613={ #Spur
 	terrain="steppes"
 	culture="estacadan"
 	religion="loneranger"
@@ -492,7 +492,7 @@
 	}
 }
 
-11614={ #
+11614={ #Slaton
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -505,7 +505,7 @@
 	}
 }
 
-11615={ #
+11615={ #Aspermont
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -518,7 +518,7 @@
 	}
 }
 
-11620={ #
+11620={ #Henrietta
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -531,7 +531,7 @@
 	}
 }
 
-11621={ #
+11621={ #Colorado City
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"
@@ -544,7 +544,7 @@
 	}
 }
 
-11623={ #
+11623={ #Clyde
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-11624={ #
+11624={ #Vernon
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -570,7 +570,7 @@
 	}
 }
 
-11625={ #
+11625={ #Crosbyton
 	terrain="steppes"
 	culture="estacadan"
 	religion="petrobaron"

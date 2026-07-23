@@ -1,4 +1,4 @@
-﻿217={ #
+﻿217={ #Tobacco Lake
 	terrain="forest"
 	culture="odawa"
 	religion="midewiwin"
@@ -11,7 +11,7 @@
 	}
 }
 
-218={ #
+218={ #Little Current
 	terrain="forest"
 	culture="odawa"
 	religion="midewiwin"
@@ -24,7 +24,7 @@
 	}
 }
 
-219={ #
+219={ #Wikwemikong
 	terrain="forest"
 	culture="odawa"
 	religion="midewiwin"
@@ -37,7 +37,7 @@
 	}
 }
 
-638={ #
+638={ #Blind River
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -50,7 +50,7 @@
 	}
 }
 
-639={ #
+639={ #Searchmont
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -63,7 +63,7 @@
 	}
 }
 
-640={ #
+640={ #Sault Ste Marie
 	terrain="forest"
 	culture="michiganais"
 	religion="promethean"
@@ -76,7 +76,7 @@
 	}
 }
 
-771={ #
+771={ #Whitehouse Landing
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -89,7 +89,7 @@
 	}
 }
 
-772={ #
+772={ #Manistique
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -102,7 +102,7 @@
 	}
 }
 
-1036={ #
+1036={ #Missanabie
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -115,7 +115,7 @@
 	}
 }
 
-1037={ #
+1037={ #Wawa
 	terrain="forest"
 	culture="ojibwe"
 	religion="lakeshore"
@@ -128,7 +128,7 @@
 	}
 }
 
-1038={ #
+1038={ #White River
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -211,7 +211,7 @@
 	}
 }
 
-1316={ #
+1316={ #Terrace Bay
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
@@ -224,7 +224,7 @@
 	}
 }
 
-1317={ #
+1317={ #Orient Bay
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -237,7 +237,7 @@
 	}
 }
 
-1318={ #
+1318={ #Rossport
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
@@ -250,7 +250,7 @@
 	}
 }
 
-1390={ #
+1390={ #Red Lake
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -263,7 +263,7 @@
 	}
 }
 
-1739={ #
+1739={ #Houghton
 	terrain="forest"
 	culture="copperhead"
 	religion="lakeshore"
@@ -276,7 +276,7 @@
 	}
 }
 
-1740={ #
+1740={ #Ontonagon
 	terrain="forest"
 	culture="copperhead"
 	religion="lakeshore"
@@ -289,7 +289,7 @@
 	}
 }
 
-1741={ #
+1741={ #Baraga
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -302,7 +302,7 @@
 	}
 }
 
-2065={ #
+2065={ #Watcomb
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -315,7 +315,7 @@
 	}
 }
 
-2066={ #
+2066={ #Dryden
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -328,7 +328,7 @@
 	}
 }
 
-2067={ #
+2067={ #Steep Rock Lake
 	terrain="marsh"
 	culture="ojibwe"
 	religion="rivertracer"
@@ -341,7 +341,7 @@
 	}
 }
 
-2068={ #
+2068={ #Hudson
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -354,7 +354,7 @@
 	}
 }
 
-2075={ #
+2075={ #Sioux Lookout
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -367,7 +367,7 @@
 	}
 }
 
-2076={ #
+2076={ #Rat Rapids
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -380,7 +380,7 @@
 	}
 }
 
-2077={ #
+2077={ #Ear Falls
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -393,7 +393,7 @@
 	}
 }
 
-2078={ #
+2078={ #Slate Falls
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -406,7 +406,7 @@
 	}
 }
 
-2456={ #
+2456={ #Iron River
 	terrain="hills"
 	culture="yooper"
 	religion="lakeshore"
@@ -419,7 +419,7 @@
 	}
 }
 
-2457={ #
+2457={ #Ironwood
 	terrain="forest"
 	culture="copperhead"
 	religion="lakeshore"
@@ -432,7 +432,7 @@
 	}
 }
 
-2458={ #
+2458={ #Phelps
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -550,7 +550,7 @@
 	}
 }
 
-2908={ #
+2908={ #Killarney
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
@@ -563,7 +563,7 @@
 	}
 }
 
-2909={ #
+2909={ #Greater Sudbury
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
@@ -576,7 +576,7 @@
 	}
 }
 
-2910={ #
+2910={ #The Depot
 	terrain="forest"
 	culture="francontarien"
 	religion="veteranic"
@@ -589,7 +589,7 @@
 	}
 }
 
-2911={ #
+2911={ #Espanola
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
@@ -602,7 +602,7 @@
 	}
 }
 
-3030={ #
+3030={ #Hornepayne
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
@@ -615,7 +615,7 @@
 	}
 }
 
-3031={ #
+3031={ #Hearst
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -628,7 +628,7 @@
 	}
 }
 
-3032={ #
+3032={ #Oba
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
@@ -641,7 +641,7 @@
 	}
 }
 
-5109={ #
+5109={ #Pineal Lake
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
@@ -654,7 +654,7 @@
 	}
 }
 
-5110={ #
+5110={ #Gogama
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -667,7 +667,7 @@
 	}
 }
 
-5111={ #
+5111={ #Chapleau
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
@@ -680,7 +680,7 @@
 	}
 }
 
-5904={ #
+5904={ #Allanwater Bridge
 	terrain="taiga"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -693,7 +693,7 @@
 	}
 }
 
-5905={ #
+5905={ #Sorrell Lake
 	terrain="forest"
 	culture="ojibwe"
 	religion="lakeshore"
@@ -706,7 +706,7 @@
 	}
 }
 
-5906={ #
+5906={ #Armstrong
 	terrain="taiga"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -719,7 +719,7 @@
 	}
 }
 
-5907={ #
+5907={ #Mud River
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -732,7 +732,7 @@
 	}
 }
 
-6108={ #
+6108={ #Tunis
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -745,7 +745,7 @@
 	}
 }
 
-6109={ #
+6109={ #Island Falls
 	terrain="forest"
 	culture="eeyou"
 	religion="ursuline"
@@ -758,7 +758,7 @@
 	}
 }
 
-6110={ #
+6110={ #Timmins
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -771,7 +771,7 @@
 	}
 }
 
-6111={ #
+6111={ #Iroquois Falls
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -784,7 +784,7 @@
 	}
 }
 
-6115={ #
+6115={ #Manitouwadge
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -797,7 +797,7 @@
 	}
 }
 
-6116={ #
+6116={ #Regan
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -810,7 +810,7 @@
 	}
 }
 
-6117={ #
+6117={ #Marathon
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
@@ -823,7 +823,7 @@
 	}
 }
 
-6288={ #
+6288={ #Sault Sainte Marie
 	terrain="forest"
 	culture="michiganais"
 	religion="lakeshore"
@@ -836,7 +836,7 @@
 	}
 }
 
-6289={ #
+6289={ #Saint Ignace
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -849,7 +849,7 @@
 	}
 }
 
-6475={ #
+6475={ #Westree
 	terrain="forest"
 	culture="shieldshorer"
 	religion="promethean"
@@ -862,7 +862,7 @@
 	}
 }
 
-6476={ #
+6476={ #Spanish
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -875,7 +875,7 @@
 	}
 }
 
-6477={ #
+6477={ #Elliot Lake
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -888,7 +888,7 @@
 	}
 }
 
-6606={ #
+6606={ #The Cache
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -901,7 +901,7 @@
 	}
 }
 
-6607={ #
+6607={ #Kapuskasing
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -914,7 +914,7 @@
 	}
 }
 
-6608={ #
+6608={ #Cochrane
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -927,7 +927,7 @@
 	}
 }
 
-6647={ #
+6647={ #Aubrey
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -940,7 +940,7 @@
 	}
 }
 
-6648={ #
+6648={ #Ranger Lake
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -953,7 +953,7 @@
 	}
 }
 
-6649={ #
+6649={ #Montreal River
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -966,7 +966,7 @@
 	}
 }
 
-6727={ #
+6727={ #Greenstone
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -979,7 +979,7 @@
 	}
 }
 
-6728={ #
+6728={ #Tashota
 	terrain="marsh"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -992,7 +992,7 @@
 	}
 }
 
-6729={ #
+6729={ #Savoff
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
@@ -1005,7 +1005,7 @@
 	}
 }
 
-6730={ #
+6730={ #Longlac
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
@@ -1086,7 +1086,7 @@
 	}
 }
 
-7871={ #
+7871={ #Cache Bay
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
@@ -1099,7 +1099,7 @@
 	}
 }
 
-7873={ #
+7873={ #Wabi Kon
 	terrain="forest"
 	culture="francontarien"
 	religion="ursuline"
@@ -1112,7 +1112,7 @@
 	}
 }
 
-8059={ #
+8059={ #Marquette
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -1125,7 +1125,7 @@
 	}
 }
 
-8060={ #
+8060={ #Ishpeming
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -1138,7 +1138,7 @@
 	}
 }
 
-8323={ #
+8323={ #Munising
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -1151,7 +1151,7 @@
 	}
 }
 
-8324={ #
+8324={ #Chatham
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
@@ -1164,7 +1164,7 @@
 	}
 }
 
-8736={ #
+8736={ #Kirkland Lake
 	terrain="forest"
 	culture="algonquin"
 	religion="ursuline"
@@ -1177,7 +1177,7 @@
 	}
 }
 
-8737={ #
+8737={ #Tyranite
 	terrain="hills"
 	culture="francontarien"
 	religion="ursuline"
@@ -1190,7 +1190,7 @@
 	}
 }
 
-8738={ #
+8738={ #Temiskaming Shores
 	terrain="hills"
 	culture="algonquin"
 	religion="ursuline"
@@ -1203,7 +1203,7 @@
 	}
 }
 
-8739={ #
+8739={ #O Brien
 	terrain="hills"
 	culture="francontarien"
 	religion="ursuline"
@@ -1229,7 +1229,7 @@
 	}
 }
 
-9272={ #
+9272={ #Iron Mountain
 	terrain="hills"
 	culture="yooper"
 	religion="lakeshore"
@@ -1242,7 +1242,7 @@
 	}
 }
 
-9273={ #
+9273={ #Escanaba
 	terrain="hills"
 	culture="yooper"
 	religion="lakeshore"
@@ -1255,7 +1255,7 @@
 	}
 }
 
-9390={ #
+9390={ #Hurkett
 	terrain="forest"
 	culture="shieldshorer"
 	religion="lakeshore"
@@ -1268,7 +1268,7 @@
 	}
 }
 
-9391={ #
+9391={ #Windigo
 	terrain="forest"
 	culture="copperhead"
 	religion="lakeshore"
@@ -1281,7 +1281,7 @@
 	}
 }
 
-9392={ #
+9392={ #Neebing
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
@@ -1294,7 +1294,7 @@
 	}
 }
 
-9393={ #
+9393={ #Thunder Bay
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
@@ -1307,7 +1307,7 @@
 	}
 }
 
-9394={ #
+9394={ #Silver Islet
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
@@ -1320,7 +1320,7 @@
 	}
 }
 
-9458={ #
+9458={ #Kenora
 	terrain="forest"
 	culture="anisininew"
 	religion="midewiwin"
@@ -1333,7 +1333,7 @@
 	}
 }
 
-9459={ #
+9459={ #Whitefish Bay
 	terrain="forest"
 	culture="anisininew"
 	religion="rivertracer"
@@ -1346,7 +1346,7 @@
 	}
 }
 
-9460={ #
+9460={ #Fort Frances
 	terrain="marsh"
 	culture="ojibwe"
 	religion="rivertracer"
@@ -1359,7 +1359,7 @@
 	}
 }
 
-9461={ #
+9461={ #Windy Point
 	terrain="forest"
 	culture="ojibwe"
 	religion="rivertracer"
@@ -1372,7 +1372,7 @@
 	}
 }
 
-9517={ #
+9517={ #Atikokan
 	terrain="forest"
 	culture="ojibwe"
 	religion="rivertracer"
@@ -1385,7 +1385,7 @@
 	}
 }
 
-9518={ #
+9518={ #Kettle Falls
 	terrain="marsh"
 	culture="ojibwe"
 	religion="rivertracer"
@@ -1398,7 +1398,7 @@
 	}
 }
 
-9519={ #
+9519={ #Suomi
 	terrain="forest"
 	culture="ojibwe"
 	religion="lakeshore"

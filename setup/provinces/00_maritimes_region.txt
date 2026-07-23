@@ -1,4 +1,4 @@
-﻿48={ #
+﻿48={ #Saint L Onard
 	terrain="hills"
 	culture="nouvelle_angleterrais"
 	religion="ursuline"
@@ -11,7 +11,7 @@
 	}
 }
 
-174={ #
+174={ #Hampton
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
@@ -24,7 +24,7 @@
 	}
 }
 
-175={ #
+175={ #Saint John
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
@@ -37,7 +37,7 @@
 	}
 }
 
-176={ #
+176={ #Grand Bay Westfield
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
@@ -50,7 +50,7 @@
 	}
 }
 
-177={ #
+177={ #Norton
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
@@ -76,7 +76,7 @@
 	}
 }
 
-941={ #
+941={ #Saint Quentin
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -89,7 +89,7 @@
 	}
 }
 
-942={ #
+942={ #Dalhousie
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -102,7 +102,7 @@
 	}
 }
 
-943={ #
+943={ #Campbellton
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -115,7 +115,7 @@
 	}
 }
 
-1080={ #
+1080={ #Saint George
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -128,7 +128,7 @@
 	}
 }
 
-1081={ #
+1081={ #Mcadam
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -141,7 +141,7 @@
 	}
 }
 
-1082={ #
+1082={ #Grand Manan
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -154,7 +154,7 @@
 	}
 }
 
-1084={ #
+1084={ #St Stephen
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -167,7 +167,7 @@
 	}
 }
 
-1128={ #
+1128={ #Petitcodiac
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
@@ -180,7 +180,7 @@
 	}
 }
 
-1129={ #
+1129={ #Riverside
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
@@ -193,7 +193,7 @@
 	}
 }
 
-1130={ #
+1130={ #Sussex
 	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
@@ -206,7 +206,7 @@
 	}
 }
 
-1145={ #
+1145={ #Tatamagouche
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -219,7 +219,7 @@
 	}
 }
 
-1146={ #
+1146={ #Pictou
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -232,7 +232,7 @@
 	}
 }
 
-1147={ #
+1147={ #New Glasgow
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -245,7 +245,7 @@
 	}
 }
 
-1719={ #
+1719={ #Digby
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -258,7 +258,7 @@
 	}
 }
 
-1720={ #
+1720={ #Annapolis Royal
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -271,7 +271,7 @@
 	}
 }
 
-1721={ #
+1721={ #Meteghan
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -284,7 +284,7 @@
 	}
 }
 
-1722={ #
+1722={ #Greenwood
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -297,7 +297,7 @@
 	}
 }
 
-1880={ #
+1880={ #Caraquet
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -310,7 +310,7 @@
 	}
 }
 
-1881={ #
+1881={ #Bathurst
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -323,7 +323,7 @@
 	}
 }
 
-1882={ #
+1882={ #Tracadie Sheila
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -336,7 +336,7 @@
 	}
 }
 
-2133={ #
+2133={ #Halifax
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -349,7 +349,7 @@
 	}
 }
 
-2134={ #
+2134={ #Sheet Harbour
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -362,7 +362,7 @@
 	}
 }
 
-2135={ #
+2135={ #Musquodoboit Harbour
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -375,7 +375,7 @@
 	}
 }
 
-2136={ #
+2136={ #Dartmouth
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -388,7 +388,7 @@
 	}
 }
 
-2757={ #
+2757={ #Fredericton
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
@@ -401,7 +401,7 @@
 	}
 }
 
-2758={ #
+2758={ #Boiestown
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -414,7 +414,7 @@
 	}
 }
 
-2759={ #
+2759={ #Minto
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -427,7 +427,7 @@
 	}
 }
 
-2760={ #
+2760={ #Oromocto
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
@@ -440,7 +440,7 @@
 	}
 }
 
-2761={ #
+2761={ #St Marys
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -453,7 +453,7 @@
 	}
 }
 
-3162={ #
+3162={ #Woodstock
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -466,7 +466,7 @@
 	}
 }
 
-3163={ #
+3163={ #Grand Falls
 	terrain="hills"
 	culture="acadien"
 	religion="mervivant"
@@ -479,7 +479,7 @@
 	}
 }
 
-3164={ #
+3164={ #Florenceville Bristol
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -492,7 +492,7 @@
 	}
 }
 
-3236={ #
+3236={ #Newcastle
 	terrain="hills"
 	culture="acadien"
 	religion="mervivant"
@@ -505,7 +505,7 @@
 	}
 }
 
-3237={ #
+3237={ #Blackville
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -518,7 +518,7 @@
 	}
 }
 
-3238={ #
+3238={ #Neguac
 	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
@@ -531,7 +531,7 @@
 	}
 }
 
-3702={ #
+3702={ #Stratford
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -544,7 +544,7 @@
 	}
 }
 
-3703={ #
+3703={ #Charlottetown
 	terrain="farmland"
 	culture="maritimer"
 	religion="veteranic"
@@ -557,7 +557,7 @@
 	}
 }
 
-3704={ #
+3704={ #Montague
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -570,7 +570,7 @@
 	}
 }
 
-4859={ #
+4859={ #Sherbrooke
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -583,7 +583,7 @@
 	}
 }
 
-4860={ #
+4860={ #Antigonish
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -596,7 +596,7 @@
 	}
 }
 
-4861={ #
+4861={ #Guysborough
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -609,7 +609,7 @@
 	}
 }
 
-6391={ #
+6391={ #Baddeck
 	terrain="hills"
 	culture="maritimer"
 	religion="ursuline"
@@ -622,7 +622,7 @@
 	}
 }
 
-6392={ #
+6392={ #Whycocomagh
 	terrain="forest"
 	culture="maritimer"
 	religion="ursuline"
@@ -635,7 +635,7 @@
 	}
 }
 
-6393={ #
+6393={ #Cheticamp
 	terrain="forest"
 	culture="maritimer"
 	religion="ursuline"
@@ -648,7 +648,7 @@
 	}
 }
 
-6394={ #
+6394={ #Port Hawkesbury
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -661,7 +661,7 @@
 	}
 }
 
-6448={ #
+6448={ #Rogersville
 	terrain="plains"
 	culture="chiac"
 	religion="mervivant"
@@ -674,7 +674,7 @@
 	}
 }
 
-6449={ #
+6449={ #Baie Ste Anne
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
@@ -687,7 +687,7 @@
 	}
 }
 
-6450={ #
+6450={ #Chatham
 	terrain="plains"
 	culture="chiac"
 	religion="mervivant"
@@ -700,7 +700,7 @@
 	}
 }
 
-6451={ #
+6451={ #Bouctouche
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
@@ -713,7 +713,7 @@
 	}
 }
 
-6580={ #
+6580={ #Springhill
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -726,7 +726,7 @@
 	}
 }
 
-6581={ #
+6581={ #Amherst
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -739,7 +739,7 @@
 	}
 }
 
-6582={ #
+6582={ #Parrsboro
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -752,7 +752,7 @@
 	}
 }
 
-6670={ #
+6670={ #Truro
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -765,7 +765,7 @@
 	}
 }
 
-6671={ #
+6671={ #Stewiacke
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -778,7 +778,7 @@
 	}
 }
 
-6696={ #
+6696={ #Lunenburg
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -791,7 +791,7 @@
 	}
 }
 
-6697={ #
+6697={ #Bridgewater
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -804,7 +804,7 @@
 	}
 }
 
-6698={ #
+6698={ #Chester
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -817,7 +817,7 @@
 	}
 }
 
-7140={ #
+7140={ #Potlotek
 	terrain="forest"
 	culture="gaidheal"
 	religion="veteranic"
@@ -830,7 +830,7 @@
 	}
 }
 
-7141={ #
+7141={ #Louisbourg
 	terrain="hills"
 	culture="gaidheal"
 	religion="veteranic"
@@ -843,7 +843,7 @@
 	}
 }
 
-7142={ #
+7142={ #Sydney
 	terrain="hills"
 	culture="gaidheal"
 	religion="veteranic"
@@ -856,7 +856,7 @@
 	}
 }
 
-7286={ #
+7286={ #Shubenacadie
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -869,7 +869,7 @@
 	}
 }
 
-7287={ #
+7287={ #Kentville
 	terrain="farmland"
 	culture="maritimer"
 	religion="veteranic"
@@ -882,7 +882,7 @@
 	}
 }
 
-7288={ #
+7288={ #Berwick
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -895,7 +895,7 @@
 	}
 }
 
-7289={ #
+7289={ #Windsor
 	terrain="farmland"
 	culture="maritimer"
 	religion="veteranic"
@@ -908,7 +908,7 @@
 	}
 }
 
-7290={ #
+7290={ #Sackville
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
@@ -921,7 +921,7 @@
 	}
 }
 
-7291={ #
+7291={ #Moncton
 	terrain="plains"
 	culture="chiac"
 	religion="veteranic"
@@ -934,7 +934,7 @@
 	}
 }
 
-7292={ #
+7292={ #Salisbury
 	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
@@ -947,7 +947,7 @@
 	}
 }
 
-7367={ #
+7367={ #Edmundston
 	terrain="hills"
 	culture="acadien"
 	religion="ursuline"
@@ -960,7 +960,7 @@
 	}
 }
 
-7368={ #
+7368={ #Saint Leonard
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"
@@ -973,7 +973,7 @@
 	}
 }
 
-8067={ #
+8067={ #Kensington
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -986,7 +986,7 @@
 	}
 }
 
-8068={ #
+8068={ #Summerside
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -999,7 +999,7 @@
 	}
 }
 
-8069={ #
+8069={ #Alberton
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-8931={ #
+8931={ #Liverpool
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-8932={ #
+8932={ #Barrington
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-8933={ #
+8933={ #Shelburne
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-8934={ #
+8934={ #Yarmouth
 	terrain="forest"
 	culture="maritimer"
 	religion="veteranic"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-11928={ #
+11928={ #Ingonish
 	terrain="hills"
 	culture="maritimer"
 	religion="ursuline"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-11929={ #
+11929={ #Inverness
 	terrain="forest"
 	culture="maritimer"
 	religion="ursuline"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-11930={ #
+11930={ #New France
 	terrain="forest"
 	culture="acadien"
 	religion="mervivant"

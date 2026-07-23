@@ -389,6 +389,32 @@ weinstrasser_heritage = {
         primary_culture = hermanndeutsch
 	}
 }
+grunbuschtlander_heritage = {
+   	modifier = {
+        #good
+        light_infantry_discipline = 0.10
+        library_building_cost = -0.25
+      #bad
+        global_pop_assimilation_speed_modifier = -0.05
+   }
+
+   trigger = {
+        primary_culture = wisconsindeutsch
+	}
+}
+walloon_heritage = {
+   	modifier = {
+        #good
+        civic_tech_investment = 0.10
+        global_monthly_food_modifier = 0.05
+      #bad
+        global_nobles_city_desired_pop_ratio = -0.05
+   }
+
+   trigger = {
+        primary_culture = walloon
+	}
+}
 czexan_heritage = {
    	modifier = {
         #good

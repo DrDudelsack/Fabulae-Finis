@@ -1,4 +1,4 @@
-﻿363={ #
+﻿363={ #Kingfisher Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -11,7 +11,7 @@
 	}
 }
 
-364={ #
+364={ #Webequie
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -24,7 +24,7 @@
 	}
 }
 
-365={ #
+365={ #Big Trout Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -37,7 +37,7 @@
 	}
 }
 
-366={ #
+366={ #Summer Beaver
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -50,7 +50,7 @@
 	}
 }
 
-539={ #
+539={ #Lynn Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -63,7 +63,7 @@
 	}
 }
 
-540={ #
+540={ #The Two Rivers
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -76,7 +76,7 @@
 	}
 }
 
-541={ #
+541={ #Island Falls
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -89,7 +89,7 @@
 	}
 }
 
-542={ #
+542={ #Sherridon
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -102,7 +102,7 @@
 	}
 }
 
-543={ #
+543={ #York Factory
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -115,7 +115,7 @@
 	}
 }
 
-544={ #
+544={ #Kischiayamweekemow
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -128,7 +128,7 @@
 	}
 }
 
-545={ #
+545={ #Port Nelson
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -141,7 +141,7 @@
 	}
 }
 
-546={ #
+546={ #Wapawsik
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -154,7 +154,7 @@
 	}
 }
 
-547={ #
+547={ #Leaf Rapids
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -167,7 +167,7 @@
 	}
 }
 
-548={ #
+548={ #South Indian Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -180,7 +180,7 @@
 	}
 }
 
-549={ #
+549={ #Amisk
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -193,7 +193,7 @@
 	}
 }
 
-1026={ #
+1026={ #Cross Lake A
 	terrain="marsh"
 	culture="metis"
 	religion="midewiwin"
@@ -206,7 +206,7 @@
 	}
 }
 
-1027={ #
+1027={ #Wetikoweskwattam
 	terrain="marsh"
 	culture="metis"
 	religion="midewiwin"
@@ -219,7 +219,7 @@
 	}
 }
 
-1028={ #
+1028={ #Norway House
 	terrain="marsh"
 	culture="metis"
 	religion="midewiwin"
@@ -232,7 +232,7 @@
 	}
 }
 
-1159={ #
+1159={ #Warren Landing
 	terrain="forest"
 	culture="metis"
 	religion="rivertracer"
@@ -245,7 +245,7 @@
 	}
 }
 
-1160={ #
+1160={ #Moose Lake
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -258,7 +258,7 @@
 	}
 }
 
-1161={ #
+1161={ #Wabowden
 	terrain="marsh"
 	culture="metis"
 	religion="rivertracer"
@@ -271,7 +271,7 @@
 	}
 }
 
-1799={ #
+1799={ #St Theresa Point
 	terrain="marsh"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -284,7 +284,7 @@
 	}
 }
 
-1800={ #
+1800={ #Pakitahokansik
 	terrain="marsh"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -297,7 +297,7 @@
 	}
 }
 
-2220={ #
+2220={ #Carrot River
 	terrain="forest"
 	culture="preiryansky"
 	religion="rivertracer"
@@ -310,7 +310,7 @@
 	}
 }
 
-2221={ #
+2221={ #Smoky Burn
 	terrain="forest"
 	culture="preiryansky"
 	religion="rivertracer"
@@ -323,7 +323,7 @@
 	}
 }
 
-2222={ #
+2222={ #The Pas
 	terrain="forest"
 	culture="preiryansky"
 	religion="rivertracer"
@@ -336,7 +336,7 @@
 	}
 }
 
-2580={ #
+2580={ #Thompson
 	terrain="marsh"
 	culture="metis"
 	religion="rivertracer"
@@ -349,7 +349,7 @@
 	}
 }
 
-2581={ #
+2581={ #Thicket Portage
 	terrain="marsh"
 	culture="metis"
 	religion="rivertracer"
@@ -362,7 +362,7 @@
 	}
 }
 
-2582={ #
+2582={ #Osborne Lake
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -375,7 +375,7 @@
 	}
 }
 
-4659={ #
+4659={ #Weagamow Lake
 	terrain="taiga"
 	culture="anisininew"
 	religion="midewiwin"
@@ -388,7 +388,7 @@
 	}
 }
 
-4660={ #
+4660={ #Keewaywin
 	terrain="taiga"
 	culture="anisininew"
 	religion="midewiwin"
@@ -401,7 +401,7 @@
 	}
 }
 
-4661={ #
+4661={ #Cat Lake
 	terrain="marsh"
 	culture="anisininew"
 	religion="midewiwin"
@@ -414,7 +414,7 @@
 	}
 }
 
-4662={ #
+4662={ #Sandy Lake
 	terrain="taiga"
 	culture="anisininew"
 	religion="midewiwin"
@@ -427,7 +427,7 @@
 	}
 }
 
-5165={ #
+5165={ #Flin Flon
 	terrain="taiga"
 	culture="metis"
 	religion="rivertracer"
@@ -440,7 +440,7 @@
 	}
 }
 
-5166={ #
+5166={ #Sandy Narrows
 	terrain="forest"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -453,7 +453,7 @@
 	}
 }
 
-5167={ #
+5167={ #Sturgeon Landing
 	terrain="forest"
 	culture="metis"
 	religion="rivertracer"
@@ -466,7 +466,7 @@
 	}
 }
 
-5894={ #
+5894={ #Split Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -479,7 +479,7 @@
 	}
 }
 
-5895={ #
+5895={ #Weir River
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -492,7 +492,7 @@
 	}
 }
 
-5896={ #
+5896={ #Gillam
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -505,7 +505,7 @@
 	}
 }
 
-5897={ #
+5897={ #Ilford
 	terrain="taiga"
 	culture="nihithaw"
 	religion="rivertracer"
@@ -518,7 +518,7 @@
 	}
 }
 
-8174={ #
+8174={ #Omineeseenowenik
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -531,7 +531,7 @@
 	}
 }
 
-8175={ #
+8175={ #Weesakachak
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -544,7 +544,7 @@
 	}
 }
 
-8176={ #
+8176={ #Sachigo Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -557,7 +557,7 @@
 	}
 }
 
-8177={ #
+8177={ #Bearskin Lake
 	terrain="taiga"
 	culture="nihithaw"
 	religion="midewiwin"
@@ -570,7 +570,7 @@
 	}
 }
 
-8740={ #
+8740={ #Winisk
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"
@@ -583,7 +583,7 @@
 	}
 }
 
-8741={ #
+8741={ #Fort Severn
 	terrain="taiga"
 	culture="eeyou"
 	religion="midewiwin"

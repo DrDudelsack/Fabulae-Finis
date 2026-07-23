@@ -1,4 +1,4 @@
-﻿651={ #
+﻿651={ #Keizer
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -11,7 +11,7 @@
 	}
 }
 
-652={ #
+652={ #Molalla
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -24,7 +24,7 @@
 	}
 }
 
-653={ #
+653={ #Woodburn
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -37,7 +37,7 @@
 	}
 }
 
-680={ #
+680={ #Concrete
 	terrain="mountain"
 	culture="coast_salish"
 	religion="gaian"
@@ -50,7 +50,7 @@
 	}
 }
 
-681={ #
+681={ #Darrington
 	terrain="mountain"
 	culture="coast_salish"
 	religion="gaian"
@@ -63,7 +63,7 @@
 	}
 }
 
-682={ #
+682={ #Silverton
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -76,7 +76,7 @@
 	}
 }
 
-1102={ #
+1102={ #Graham
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -89,7 +89,7 @@
 	}
 }
 
-1103={ #
+1103={ #Morton
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -141,7 +141,7 @@
 	}
 }
 
-1612={ #
+1612={ #Chehalis
 	terrain="plains"
 	culture="cascadian"
 	religion="gaian"
@@ -154,7 +154,7 @@
 	}
 }
 
-1613={ #
+1613={ #Longview
 	terrain="plains"
 	culture="cascadian"
 	religion="gaian"
@@ -167,7 +167,7 @@
 	}
 }
 
-1683={ #
+1683={ #Raymond
 	terrain="forest"
 	culture="chinook"
 	religion="gaian"
@@ -180,7 +180,7 @@
 	}
 }
 
-1684={ #
+1684={ #Pe Ell
 	terrain="plains"
 	culture="chinook"
 	religion="gaian"
@@ -193,7 +193,7 @@
 	}
 }
 
-1685={ #
+1685={ #Skamokawa Valley
 	terrain="plains"
 	culture="chinook"
 	religion="gaian"
@@ -206,7 +206,7 @@
 	}
 }
 
-1750={ #
+1750={ #Ripplebrook
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -219,7 +219,7 @@
 	}
 }
 
-1751={ #
+1751={ #Government Camp
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -232,7 +232,7 @@
 	}
 }
 
-2237={ #
+2237={ #Tillamook
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -245,7 +245,7 @@
 	}
 }
 
-2238={ #
+2238={ #Cannon Beach
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -258,7 +258,7 @@
 	}
 }
 
-2239={ #
+2239={ #Timber
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -271,7 +271,7 @@
 	}
 }
 
-2691={ #
+2691={ #Saint Helens
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -284,7 +284,7 @@
 	}
 }
 
-2692={ #
+2692={ #Goble
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -297,7 +297,7 @@
 	}
 }
 
-2693={ #
+2693={ #Beaverton
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -310,7 +310,7 @@
 	}
 }
 
-2723={ #
+2723={ #Vernonia
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -323,7 +323,7 @@
 	}
 }
 
-2724={ #
+2724={ #Seaside
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -336,7 +336,7 @@
 	}
 }
 
-2725={ #
+2725={ #Astoria
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -349,7 +349,7 @@
 	}
 }
 
-2749={ #
+2749={ #Portland
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -362,7 +362,7 @@
 	}
 }
 
-2750={ #
+2750={ #Gresham
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -375,7 +375,7 @@
 	}
 }
 
-2751={ #
+2751={ #Boring
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -388,7 +388,7 @@
 	}
 }
 
-3148={ #
+3148={ #Aberdeen
 	terrain="forest"
 	culture="chinook"
 	religion="gaian"
@@ -401,7 +401,7 @@
 	}
 }
 
-3149={ #
+3149={ #Centralia
 	terrain="forest"
 	culture="chinook"
 	religion="caesarist"
@@ -414,7 +414,7 @@
 	}
 }
 
-3324={ #
+3324={ #Carson
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -427,7 +427,7 @@
 	}
 }
 
-3325={ #
+3325={ #Vancouver
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -440,7 +440,7 @@
 	}
 }
 
-3326={ #
+3326={ #Willard
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -453,7 +453,7 @@
 	}
 }
 
-3327={ #
+3327={ #Ridgefield
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -466,7 +466,7 @@
 	}
 }
 
-4043={ #
+4043={ #Brinnon
 	terrain="hills"
 	culture="cascadian"
 	religion="caesarist"
@@ -479,7 +479,7 @@
 	}
 }
 
-4044={ #
+4044={ #Port Townsend
 	terrain="hills"
 	culture="cascadian"
 	religion="caesarist"
@@ -505,7 +505,7 @@
 	}
 }
 
-4122={ #
+4122={ #Mill City
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -518,7 +518,7 @@
 	}
 }
 
-4123={ #
+4123={ #Cascadia
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -531,7 +531,7 @@
 	}
 }
 
-4124={ #
+4124={ #Sweet Home
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -544,7 +544,7 @@
 	}
 }
 
-4462={ #
+4462={ #Mount Vernon
 	terrain="hills"
 	culture="canuck"
 	religion="gaian"
@@ -557,7 +557,7 @@
 	}
 }
 
-4463={ #
+4463={ #Anacortes
 	terrain="hills"
 	culture="coast_salish"
 	religion="gaian"
@@ -570,7 +570,7 @@
 	}
 }
 
-4464={ #
+4464={ #Oak Harbor
 	terrain="plains"
 	culture="cascadian"
 	religion="gaian"
@@ -583,7 +583,7 @@
 	}
 }
 
-4778={ #
+4778={ #Salem
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -596,7 +596,7 @@
 	}
 }
 
-4779={ #
+4779={ #Lebanon
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -609,7 +609,7 @@
 	}
 }
 
-4780={ #
+4780={ #Albany
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -622,7 +622,7 @@
 	}
 }
 
-4781={ #
+4781={ #Marcola
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -635,7 +635,7 @@
 	}
 }
 
-4868={ #
+4868={ #Tacoma
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -648,7 +648,7 @@
 	}
 }
 
-4869={ #
+4869={ #East Hill Meridian
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -661,7 +661,7 @@
 	}
 }
 
-4870={ #
+4870={ #Bellevue
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -674,7 +674,7 @@
 	}
 }
 
-4871={ #
+4871={ #Seattle
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -687,7 +687,7 @@
 	}
 }
 
-4872={ #
+4872={ #Everett
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -700,7 +700,7 @@
 	}
 }
 
-4936={ #
+4936={ #Mcminnville
 	terrain="farmland"
 	culture="kalapuya"
 	religion="gaian"
@@ -713,7 +713,7 @@
 	}
 }
 
-4937={ #
+4937={ #Independence
 	terrain="farmland"
 	culture="kalapuya"
 	religion="gaian"
@@ -726,7 +726,7 @@
 	}
 }
 
-4938={ #
+4938={ #Dallas
 	terrain="hills"
 	culture="kalapuya"
 	religion="gaian"
@@ -752,7 +752,7 @@
 	}
 }
 
-5421={ #
+5421={ #Neilton
 	terrain="forest"
 	culture="wakashan"
 	religion="caesarist"
@@ -778,7 +778,7 @@
 	}
 }
 
-5427={ #
+5427={ #Veneta
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -791,7 +791,7 @@
 	}
 }
 
-5428={ #
+5428={ #Corvallis
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -804,7 +804,7 @@
 	}
 }
 
-5429={ #
+5429={ #Eugene
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -817,7 +817,7 @@
 	}
 }
 
-5580={ #
+5580={ #Oakridge
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -830,7 +830,7 @@
 	}
 }
 
-5581={ #
+5581={ #Hawthorne
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -843,7 +843,7 @@
 	}
 }
 
-5808={ #
+5808={ #Waldport
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -856,7 +856,7 @@
 	}
 }
 
-5809={ #
+5809={ #Newport
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -869,7 +869,7 @@
 	}
 }
 
-5810={ #
+5810={ #Lincoln City
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -882,7 +882,7 @@
 	}
 }
 
-6078={ #
+6078={ #Hood River
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -895,7 +895,7 @@
 	}
 }
 
-6459={ #
+6459={ #Reedsport
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -908,7 +908,7 @@
 	}
 }
 
-6460={ #
+6460={ #Florence
 	terrain="forest"
 	culture="cascadian"
 	religion="gaian"
@@ -921,7 +921,7 @@
 	}
 }
 
-6461={ #
+6461={ #Cottage Grove
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -934,7 +934,7 @@
 	}
 }
 
-7602={ #
+7602={ #Port Orchard
 	terrain="plains"
 	culture="cascadian"
 	religion="caesarist"
@@ -947,7 +947,7 @@
 	}
 }
 
-7603={ #
+7603={ #Shelton
 	terrain="plains"
 	culture="cascadian"
 	religion="caesarist"
@@ -960,7 +960,7 @@
 	}
 }
 
-7604={ #
+7604={ #Bremerton
 	terrain="plains"
 	culture="cascadian"
 	religion="caesarist"
@@ -973,7 +973,7 @@
 	}
 }
 
-7732={ #
+7732={ #Snoqualmie Pass
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -986,7 +986,7 @@
 	}
 }
 
-7733={ #
+7733={ #Skykomish
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -999,7 +999,7 @@
 	}
 }
 
-7734={ #
+7734={ #Creek
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-7864={ #
+7864={ #Bellingham
 	terrain="hills"
 	culture="coast_salish"
 	religion="gaian"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-7865={ #
+7865={ #Peaceful Valley
 	terrain="mountain"
 	culture="coast_salish"
 	religion="gaian"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-7866={ #
+7866={ #Ferndale
 	terrain="hills"
 	culture="coast_salish"
 	religion="gaian"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-8469={ #
+8469={ #Mossyrock
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-8470={ #
+8470={ #Woodland
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-8471={ #
+8471={ #Packwood
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-9048={ #
+9048={ #Mccleary
 	terrain="plains"
 	culture="cascadian"
 	religion="caesarist"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-9049={ #
+9049={ #Tenino
 	terrain="hills"
 	culture="cascadian"
 	religion="gaian"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-9050={ #
+9050={ #Spanaway
 	terrain="farmland"
 	culture="cascadian"
 	religion="gaian"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-9051={ #
+9051={ #Olympia
 	terrain="farmland"
 	culture="cascadian"
 	religion="caesarist"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-9438={ #
+9438={ #Mccredie Springs
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-9439={ #
+9439={ #Deerhorn
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-9440={ #
+9440={ #Rainbow
 	terrain="mountain"
 	culture="cascadian"
 	religion="gaian"

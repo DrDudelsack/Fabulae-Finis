@@ -1303,3 +1303,15 @@ ADS = { #Byzantine LARP
 	}
 }
 
+PNM = { #Panna Maria
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = offwhite
+	color2 = rgb { 185 26 55 }
+
+	colored_emblem = {
+		texture = "ce_flat_star.dds"
+		color1 = "epirus_yellow"
+		instance = { scale = { 0.7 0.7 } position = { 0.5 0.45 } }
+	}
+}
+

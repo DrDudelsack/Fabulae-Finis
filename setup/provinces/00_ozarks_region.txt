@@ -1,4 +1,4 @@
-﻿675={ #
+﻿675={ #Brinkley
 	terrain="plains"
 	culture="deltaic"
 	religion="revelationist"
@@ -11,7 +11,7 @@
 	}
 }
 
-676={ #
+676={ #Helena
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="egyptology"
@@ -24,7 +24,7 @@
 	}
 }
 
-677={ #
+677={ #Marianna
 	terrain="plains"
 	culture="deltaic"
 	religion="egyptology"
@@ -37,7 +37,7 @@
 	}
 }
 
-1583={ #
+1583={ #Seminole
 	terrain="forest"
 	culture="muscogee"
 	religion="peyotist"
@@ -50,7 +50,7 @@
 	}
 }
 
-1584={ #
+1584={ #Muskogee
 	terrain="plains"
 	culture="muscogee"
 	religion="peyotist"
@@ -63,7 +63,7 @@
 	}
 }
 
-1585={ #
+1585={ #Bixby
 	terrain="plains"
 	culture="muscogee"
 	religion="peyotist"
@@ -76,7 +76,7 @@
 	}
 }
 
-1829={ #
+1829={ #Dewitt
 	terrain="flood_plain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -89,7 +89,7 @@
 	}
 }
 
-1830={ #
+1830={ #Stuttgart
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -102,7 +102,7 @@
 	}
 }
 
-1831={ #
+1831={ #Hazen
 	terrain="plains"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -115,7 +115,7 @@
 	}
 }
 
-1853={ #
+1853={ #Wynne
 	terrain="plains"
 	culture="deltaic"
 	religion="revelationist"
@@ -128,7 +128,7 @@
 	}
 }
 
-1854={ #
+1854={ #Newport
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -141,7 +141,7 @@
 	}
 }
 
-1918={ #
+1918={ #Vinita
 	terrain="plains"
 	culture="cherokee"
 	religion="revelationist"
@@ -154,7 +154,7 @@
 	}
 }
 
-1919={ #
+1919={ #Grove
 	terrain="forest"
 	culture="cherokee"
 	religion="revelationist"
@@ -167,7 +167,7 @@
 	}
 }
 
-1920={ #
+1920={ #Tahlequah
 	terrain="plains"
 	culture="cherokee"
 	religion="unitarian_universialism"
@@ -206,7 +206,7 @@
 	}
 }
 
-2474={ #
+2474={ #Russellville
 	terrain="mountain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -219,7 +219,7 @@
 	}
 }
 
-2475={ #
+2475={ #Van Buren
 	terrain="mountain"
 	culture="cherokee"
 	religion="revelationist"
@@ -232,7 +232,7 @@
 	}
 }
 
-2476={ #
+2476={ #Clarksville
 	terrain="mountain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -245,7 +245,7 @@
 	}
 }
 
-2792={ #
+2792={ #Magnolia
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -258,7 +258,7 @@
 	}
 }
 
-2793={ #
+2793={ #El Dorado
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -271,7 +271,7 @@
 	}
 }
 
-2794={ #
+2794={ #Arkadelphia
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -284,7 +284,7 @@
 	}
 }
 
-2795={ #
+2795={ #Hope
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -297,7 +297,7 @@
 	}
 }
 
-3014={ #
+3014={ #Monticello
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -310,7 +310,7 @@
 	}
 }
 
-3015={ #
+3015={ #Hampton
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -323,7 +323,7 @@
 	}
 }
 
-3016={ #
+3016={ #Fordyce
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -336,7 +336,7 @@
 	}
 }
 
-3017={ #
+3017={ #Pine Bluff
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -349,7 +349,7 @@
 	}
 }
 
-4098={ #
+4098={ #Talihina
 	terrain="hills"
 	culture="choctaw"
 	religion="revelationist"
@@ -362,7 +362,7 @@
 	}
 }
 
-4099={ #
+4099={ #Hugo
 	terrain="forest"
 	culture="choctaw"
 	religion="revelationist"
@@ -375,7 +375,7 @@
 	}
 }
 
-4100={ #
+4100={ #Clayton
 	terrain="hills"
 	culture="choctaw"
 	religion="revelationist"
@@ -388,7 +388,7 @@
 	}
 }
 
-4113={ #
+4113={ #Cushing
 	terrain="forest"
 	culture="pawnee"
 	religion="peyotist"
@@ -401,7 +401,7 @@
 	}
 }
 
-4114={ #
+4114={ #Stillwater
 	terrain="forest"
 	culture="pawnee"
 	religion="peyotist"
@@ -414,7 +414,7 @@
 	}
 }
 
-4754={ #
+4754={ #Durant
 	terrain="plains"
 	culture="choctaw"
 	religion="peyotist"
@@ -427,7 +427,7 @@
 	}
 }
 
-4755={ #
+4755={ #Ada
 	terrain="forest"
 	culture="choctaw"
 	religion="peyotist"
@@ -440,7 +440,7 @@
 	}
 }
 
-5187={ #
+5187={ #Mena
 	terrain="hills"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -453,7 +453,7 @@
 	}
 }
 
-5188={ #
+5188={ #Idabel
 	terrain="hills"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -466,7 +466,7 @@
 	}
 }
 
-5189={ #
+5189={ #De Queen
 	terrain="hills"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -479,7 +479,7 @@
 	}
 }
 
-5190={ #
+5190={ #Nashville
 	terrain="hills"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -492,7 +492,7 @@
 	}
 }
 
-5404={ #
+5404={ #West Memphis
 	terrain="farmland"
 	culture="deltaic"
 	religion="egyptology"
@@ -505,7 +505,7 @@
 	}
 }
 
-5405={ #
+5405={ #Forrest City
 	terrain="plains"
 	culture="deltaic"
 	religion="egyptology"
@@ -518,7 +518,7 @@
 	}
 }
 
-5406={ #
+5406={ #Blytheville
 	terrain="plains"
 	culture="ozark"
 	religion="egyptology"
@@ -531,7 +531,7 @@
 	}
 }
 
-5487={ #
+5487={ #England
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -544,7 +544,7 @@
 	}
 }
 
-5488={ #
+5488={ #Conway
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -557,7 +557,7 @@
 	}
 }
 
-5489={ #
+5489={ #North Little Rock
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -570,7 +570,7 @@
 	}
 }
 
-5830={ #
+5830={ #Dumas
 	terrain="flood_plain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -583,7 +583,7 @@
 	}
 }
 
-5831={ #
+5831={ #Lake Village
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="revelationist"
@@ -596,7 +596,7 @@
 	}
 }
 
-5832={ #
+5832={ #Montrose
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -609,7 +609,7 @@
 	}
 }
 
-5833={ #
+5833={ #Crossett
 	terrain="forest"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -622,7 +622,7 @@
 	}
 }
 
-5837={ #
+5837={ #Imboden
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -635,7 +635,7 @@
 	}
 }
 
-5838={ #
+5838={ #Batesville
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -648,7 +648,7 @@
 	}
 }
 
-5839={ #
+5839={ #Cherokee Village
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -661,7 +661,7 @@
 	}
 }
 
-5856={ #
+5856={ #Mountain View
 	terrain="mountain"
 	culture="ozark"
 	religion="revelationist"
@@ -674,7 +674,7 @@
 	}
 }
 
-5857={ #
+5857={ #Searcy
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -687,7 +687,7 @@
 	}
 }
 
-5858={ #
+5858={ #Heber Springs
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -700,7 +700,7 @@
 	}
 }
 
-6180={ #
+6180={ #Bull Shoals
 	terrain="mountain"
 	culture="ozark"
 	religion="revelationist"
@@ -713,7 +713,7 @@
 	}
 }
 
-6181={ #
+6181={ #Harrison
 	terrain="mountain"
 	culture="ozark"
 	religion="revelationist"
@@ -726,7 +726,7 @@
 	}
 }
 
-6260={ #
+6260={ #Walnut Ridge
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -739,7 +739,7 @@
 	}
 }
 
-6261={ #
+6261={ #Paragould
 	terrain="plains"
 	culture="bootheeler"
 	religion="revelationist"
@@ -752,7 +752,7 @@
 	}
 }
 
-6262={ #
+6262={ #Jonesboro
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
@@ -765,7 +765,7 @@
 	}
 }
 
-6500={ #
+6500={ #Wilburton
 	terrain="mountain"
 	culture="muscogee"
 	religion="revelationist"
@@ -778,7 +778,7 @@
 	}
 }
 
-6501={ #
+6501={ #Mcalester
 	terrain="plains"
 	culture="choctaw"
 	religion="peyotist"
@@ -791,7 +791,7 @@
 	}
 }
 
-6502={ #
+6502={ #Stigler
 	terrain="plains"
 	culture="muscogee"
 	religion="revelationist"
@@ -804,7 +804,7 @@
 	}
 }
 
-6509={ #
+6509={ #Bartlesville
 	terrain="plains"
 	culture="dhegihan"
 	religion="unitarian_universialism"
@@ -817,7 +817,7 @@
 	}
 }
 
-6510={ #
+6510={ #Claremore
 	terrain="plains"
 	culture="cherokee"
 	religion="unitarian_universialism"
@@ -830,7 +830,7 @@
 	}
 }
 
-6511={ #
+6511={ #Tulsa
 	terrain="plains"
 	culture="cherokee"
 	religion="unitarian_universialism"
@@ -843,7 +843,7 @@
 	}
 }
 
-7398={ #
+7398={ #Fayetteville
 	terrain="hills"
 	culture="cherokee"
 	religion="revelationist"
@@ -856,7 +856,7 @@
 	}
 }
 
-7399={ #
+7399={ #Huntsville
 	terrain="mountain"
 	culture="ozark"
 	religion="revelationist"
@@ -869,7 +869,7 @@
 	}
 }
 
-7827={ #
+7827={ #Dardanelle
 	terrain="mountain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -882,7 +882,7 @@
 	}
 }
 
-7828={ #
+7828={ #Fort Smith
 	terrain="mountain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -895,7 +895,7 @@
 	}
 }
 
-7829={ #
+7829={ #Waldron
 	terrain="mountain"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -908,7 +908,7 @@
 	}
 }
 
-8291={ #
+8291={ #Hot Springs
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -921,7 +921,7 @@
 	}
 }
 
-8292={ #
+8292={ #Hot Springs Village
 	terrain="hills"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -934,7 +934,7 @@
 	}
 }
 
-8293={ #
+8293={ #Rockwell
 	terrain="hills"
 	culture="arkalatexan"
 	religion="revelationist"
@@ -947,7 +947,7 @@
 	}
 }
 
-8294={ #
+8294={ #Little Rock
 	terrain="forest"
 	culture="arkansawyer"
 	religion="revelationist"
@@ -960,7 +960,7 @@
 	}
 }
 
-8975={ #
+8975={ #Salem
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -973,7 +973,7 @@
 	}
 }
 
-8976={ #
+8976={ #Horseshoe Bend
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
@@ -986,7 +986,7 @@
 	}
 }
 
-8977={ #
+8977={ #Mountain Home
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"

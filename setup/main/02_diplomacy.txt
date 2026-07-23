@@ -39,6 +39,18 @@ diplomacy = {
 	dependency = { first = STL second = HRM subject_type = tributary }
 	dependency = { first = STL second = HAB subject_type = tributary }
 
+	## Holy Texan Empire ##
+	dependency = { first = TEX second = CZH subject_type = feudatory }
+	dependency = { first = TEX second = PNM subject_type = feudatory }
+	dependency = { first = TEX second = SAN subject_type = feudatory }
+	dependency = { first = TEX second = CRP subject_type = feudatory }
+	dependency = { first = TEX second = GAS subject_type = feudatory }
+	dependency = { first = TEX second = GLO subject_type = feudatory }
+	dependency = { first = TEX second = VIC subject_type = feudatory }
+	dependency = { first = TEX second = RIO subject_type = tributary }
+	dependency = { first = TEX second = ELD subject_type = tributary }
+	dependency = { first = TEX second = HRN subject_type = tributary }
+
 	## Oklahoman Tribes
 	defensive_league = {
 		member = TLS

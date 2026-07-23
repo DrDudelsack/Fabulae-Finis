@@ -37,7 +37,7 @@
 	}
 }
 
-773={ #
+773={ #Clarksville
 	terrain="plains"
 	culture="arkalatexan"
 	religion="loneranger"
@@ -104,7 +104,7 @@
 
 877={ #Gonzales
 	terrain="plains"
-	culture="texaner"
+	culture="silesian"
 	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 878={ #Cuero
 	terrain="plains"
-	culture="texan"
+	culture="silesian"
 	religion="colossalist"
 	trade_goods="beans"
 	civilization_value=10
@@ -141,7 +141,7 @@
 	}
 }
 
-1370={ #
+1370={ #West Livingston
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -154,7 +154,7 @@
 	}
 }
 
-1372={ #
+1372={ #Paris
 	terrain="plains"
 	culture="atlantean"
 	religion="loneranger"
@@ -167,7 +167,7 @@
 	}
 }
 
-1373={ #
+1373={ #Woodville
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -180,7 +180,7 @@
 	}
 }
 
-2129={ #
+2129={ #Madisonville
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -193,7 +193,7 @@
 	}
 }
 
-2130={ #
+2130={ #Navasota
 	terrain="forest"
 	culture="texanane"
 	religion="catholic"
@@ -206,7 +206,7 @@
 	}
 }
 
-2131={ #
+2131={ #Shepherd
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -219,7 +219,7 @@
 	}
 }
 
-2132={ #
+2132={ #Huntsville
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -232,7 +232,7 @@
 	}
 }
 
-3116={ #
+3116={ #Groveton
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -245,7 +245,7 @@
 	}
 }
 
-3117={ #
+3117={ #Crockett
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -258,7 +258,7 @@
 	}
 }
 
-3118={ #
+3118={ #Lufkin
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -271,7 +271,7 @@
 	}
 }
 
-3341={ #
+3341={ #Buffalo
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -284,7 +284,7 @@
 	}
 }
 
-3342={ #
+3342={ #Hearne
 	terrain="plains"
 	culture="texanane"
 	religion="americanist"
@@ -297,7 +297,7 @@
 	}
 }
 
-3343={ #
+3343={ #Tyler
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -310,7 +310,7 @@
 	}
 }
 
-3344={ #
+3344={ #Bryan
 	terrain="plains"
 	culture="texanane"
 	religion="catholic"
@@ -362,7 +362,7 @@
 	}
 }
 
-5014={ #
+5014={ #Hillsboro
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -375,7 +375,7 @@
 	}
 }
 
-5017={ #
+5017={ #Denton
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -388,7 +388,7 @@
 	}
 }
 
-5018={ #
+5018={ #Forney
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -401,7 +401,7 @@
 	}
 }
 
-5019={ #
+5019={ #Dallas
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -414,7 +414,7 @@
 	}
 }
 
-5020={ #
+5020={ #Navarro
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -427,7 +427,7 @@
 	}
 }
 
-5021={ #
+5021={ #Desoto
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -544,7 +544,7 @@
 	}
 }
 
-5078={ #
+5078={ #Weatherford
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -557,7 +557,7 @@
 	}
 }
 
-5080={ #
+5080={ #Fort Worth
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -570,7 +570,7 @@
 	}
 }
 
-5081={ #
+5081={ #Decatur
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -583,7 +583,7 @@
 	}
 }
 
-5082={ #
+5082={ #Cleburne
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -596,7 +596,7 @@
 	}
 }
 
-5083={ #
+5083={ #Teague
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -609,7 +609,7 @@
 	}
 }
 
-5084={ #
+5084={ #Marlin
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -622,7 +622,7 @@
 	}
 }
 
-5085={ #
+5085={ #Mexia
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -635,7 +635,7 @@
 	}
 }
 
-5087={ #
+5087={ #Waco
 	terrain="plains"
 	culture="texanane"
 	religion="loneranger"
@@ -687,7 +687,7 @@
 	}
 }
 
-5610={ #
+5610={ #Jacksonville
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -700,7 +700,7 @@
 	}
 }
 
-5611={ #
+5611={ #Palestine
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -713,7 +713,7 @@
 	}
 }
 
-5612={ #
+5612={ #Athens
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -726,7 +726,7 @@
 	}
 }
 
-5613={ #
+5613={ #Rusk
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -752,7 +752,7 @@
 	}
 }
 
-5754={ #
+5754={ #Canton
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -791,7 +791,7 @@
 	}
 }
 
-6284={ #
+6284={ #Alief
 	terrain="plains"
 	culture="texan"
 	religion="colossalist"
@@ -804,7 +804,7 @@
 	}
 }
 
-6285={ #
+6285={ #Hempstead
 	terrain="plains"
 	culture="texan"
 	religion="colossalist"
@@ -817,7 +817,7 @@
 	}
 }
 
-6286={ #
+6286={ #The Woodlands
 	terrain="forest"
 	culture="texan"
 	religion="colossalist"
@@ -830,7 +830,7 @@
 	}
 }
 
-6287={ #
+6287={ #Atascocita
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -843,7 +843,7 @@
 	}
 }
 
-6570={ #
+6570={ #Portland
 	terrain="marsh"
 	culture="tejano"
 	religion="colossalist"
@@ -986,7 +986,7 @@
 	}
 }
 
-7888={ #
+7888={ #San Augustine
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -999,7 +999,7 @@
 	}
 }
 
-7889={ #
+7889={ #Center
 	terrain="forest"
 	culture="texan"
 	religion="traiteurism"
@@ -1012,7 +1012,7 @@
 	}
 }
 
-7890={ #
+7890={ #Nacogdoches
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"
@@ -1025,7 +1025,7 @@
 	}
 }
 
-8277={ #
+8277={ #Sparks
 	terrain="plains"
 	culture="texanane"
 	religion="loneranger"
@@ -1038,7 +1038,7 @@
 	}
 }
 
-8278={ #
+8278={ #Killeen
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1051,7 +1051,7 @@
 	}
 }
 
-8279={ #
+8279={ #Hamilton
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1064,7 +1064,7 @@
 	}
 }
 
-8280={ #
+8280={ #Lampasas
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1077,7 +1077,7 @@
 	}
 }
 
-8281={ #
+8281={ #Copperas Cove
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1090,7 +1090,7 @@
 	}
 }
 
-8282={ #
+8282={ #Clifton
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1103,7 +1103,7 @@
 	}
 }
 
-8671={ #
+8671={ #Sulphur Springs
 	terrain="plains"
 	culture="arkalatexan"
 	religion="loneranger"
@@ -1116,7 +1116,7 @@
 	}
 }
 
-8672={ #
+8672={ #Mineola
 	terrain="forest"
 	culture="arkalatexan"
 	religion="loneranger"
@@ -1129,7 +1129,7 @@
 	}
 }
 
-8673={ #
+8673={ #Mount Pleasant
 	terrain="plains"
 	culture="arkalatexan"
 	religion="loneranger"
@@ -1142,7 +1142,7 @@
 	}
 }
 
-8728={ #
+8728={ #Greenville
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -1155,7 +1155,7 @@
 	}
 }
 
-8729={ #
+8729={ #Plano
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -1168,7 +1168,7 @@
 	}
 }
 
-8730={ #
+8730={ #Rockwall
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -1181,7 +1181,7 @@
 	}
 }
 
-9149={ #
+9149={ #Granbury
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1246,7 +1246,7 @@
 	}
 }
 
-9227={ #
+9227={ #Beeville
 	terrain="plains"
 	culture="tejano"
 	religion="colossalist"
@@ -1287,7 +1287,7 @@
 
 9236={ #Goliad
 	terrain="plains"
-	culture="tejano"
+	culture="silesian"
 	religion="colossalist"
 	trade_goods="horses"
 	civilization_value=10
@@ -1324,7 +1324,7 @@
 	}
 }
 
-9614={ #
+9614={ #Sherman
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -1337,7 +1337,7 @@
 	}
 }
 
-9615={ #
+9615={ #Gainesville
 	terrain="steppes"
 	culture="texaner"
 	religion="loneranger"
@@ -1350,7 +1350,7 @@
 	}
 }
 
-9616={ #
+9616={ #Bonham
 	terrain="plains"
 	culture="texan"
 	religion="loneranger"
@@ -1363,7 +1363,7 @@
 	}
 }
 
-9617={ #
+9617={ #Comanche
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1376,7 +1376,7 @@
 	}
 }
 
-9619={ #
+9619={ #Stephenville
 	terrain="steppes"
 	culture="texan"
 	religion="loneranger"
@@ -1402,7 +1402,7 @@
 	}
 }
 
-11611={ #
+11611={ #Mansfield
 	terrain="forest"
 	culture="texan"
 	religion="loneranger"

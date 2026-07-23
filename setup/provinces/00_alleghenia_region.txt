@@ -382,7 +382,7 @@
 	}
 }
 
-5912={ #
+5912={ #Northern Cambria
 	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
@@ -398,7 +398,7 @@
 	}
 }
 
-5913={ #
+5913={ #Somerset
 	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"
@@ -734,7 +734,7 @@
 	}
 }
 
-11656={ #
+11656={ #Johnstown
 	terrain="mountain"
 	culture="yinzic"
 	religion="sustainablist"

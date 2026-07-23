@@ -1,4 +1,4 @@
-﻿583={ #
+﻿583={ #Camden
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -11,7 +11,7 @@
 	}
 }
 
-584={ #
+584={ #Greenville
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -24,7 +24,7 @@
 	}
 }
 
-585={ #
+585={ #Monroeville
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -37,7 +37,7 @@
 	}
 }
 
-819={ #
+819={ #Gordo
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -50,7 +50,7 @@
 	}
 }
 
-820={ #
+820={ #Eutaw
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -63,7 +63,7 @@
 	}
 }
 
-821={ #
+821={ #Jasper
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -76,7 +76,7 @@
 	}
 }
 
-1549={ #
+1549={ #Hoover
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
@@ -89,7 +89,7 @@
 	}
 }
 
-1550={ #
+1550={ #Birmingham
 	terrain="hills"
 	culture="tuskegean"
 	religion="revelationist"
@@ -102,7 +102,7 @@
 	}
 }
 
-1551={ #
+1551={ #Alabaster
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
@@ -115,7 +115,7 @@
 	}
 }
 
-2717={ #
+2717={ #Troy
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
@@ -128,7 +128,7 @@
 	}
 }
 
-2718={ #
+2718={ #Montgomery
 	terrain="farmland"
 	culture="tuskegean"
 	religion="revelationist"
@@ -141,7 +141,7 @@
 	}
 }
 
-2719={ #
+2719={ #Luverne
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
@@ -154,7 +154,7 @@
 	}
 }
 
-4495={ #
+4495={ #Thomasville
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -167,7 +167,7 @@
 	}
 }
 
-4496={ #
+4496={ #Demopolis
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -180,7 +180,7 @@
 	}
 }
 
-4497={ #
+4497={ #Grove Hill
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -193,7 +193,7 @@
 	}
 }
 
-4642={ #
+4642={ #Decatur
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -206,7 +206,7 @@
 	}
 }
 
-4643={ #
+4643={ #Muscle Shoals
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -219,7 +219,7 @@
 	}
 }
 
-4644={ #
+4644={ #Haleyville
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -232,7 +232,7 @@
 	}
 }
 
-4715={ #
+4715={ #Tuskegee
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -245,7 +245,7 @@
 	}
 }
 
-4716={ #
+4716={ #Opelika
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -258,7 +258,7 @@
 	}
 }
 
-4952={ #
+4952={ #Tillmans Corner
 	terrain="marsh"
 	culture="gulfard"
 	religion="revelationist"
@@ -271,7 +271,7 @@
 	}
 }
 
-4953={ #
+4953={ #Mobile
 	terrain="flood_plain"
 	culture="gulfard"
 	religion="revelationist"
@@ -284,7 +284,7 @@
 	}
 }
 
-4954={ #
+4954={ #Bay Minette
 	terrain="forest"
 	culture="gulfard"
 	religion="revelationist"
@@ -297,7 +297,7 @@
 	}
 }
 
-5001={ #
+5001={ #Alexander City
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -310,7 +310,7 @@
 	}
 }
 
-5002={ #
+5002={ #Sylacauga
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -323,7 +323,7 @@
 	}
 }
 
-5003={ #
+5003={ #Dadeville
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -336,7 +336,7 @@
 	}
 }
 
-5004={ #
+5004={ #Talladega
 	terrain="farmland"
 	culture="tuskegean"
 	religion="revelationist"
@@ -349,7 +349,7 @@
 	}
 }
 
-5343={ #
+5343={ #Dalton
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
@@ -362,7 +362,7 @@
 	}
 }
 
-5344={ #
+5344={ #Fort Payne
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
@@ -375,7 +375,7 @@
 	}
 }
 
-5345={ #
+5345={ #Rainsville
 	terrain="hills"
 	culture="appalachian"
 	religion="revelationist"
@@ -388,7 +388,7 @@
 	}
 }
 
-6290={ #
+6290={ #Brewton
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -401,7 +401,7 @@
 	}
 }
 
-6291={ #
+6291={ #Andalusia
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -414,7 +414,7 @@
 	}
 }
 
-6292={ #
+6292={ #Opp
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -427,7 +427,7 @@
 	}
 }
 
-6462={ #
+6462={ #Oneonta
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -440,7 +440,7 @@
 	}
 }
 
-6463={ #
+6463={ #Gadsden
 	terrain="hills"
 	culture="appalachian"
 	religion="revelationist"
@@ -453,7 +453,7 @@
 	}
 }
 
-6464={ #
+6464={ #Guntersville
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -466,7 +466,7 @@
 	}
 }
 
-6724={ #
+6724={ #Fort Deposit
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
@@ -479,7 +479,7 @@
 	}
 }
 
-6725={ #
+6725={ #Selmont West Selmont
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -492,7 +492,7 @@
 	}
 }
 
-6726={ #
+6726={ #Prattville
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -505,7 +505,7 @@
 	}
 }
 
-7113={ #
+7113={ #Carrollton
 	terrain="forest"
 	culture="atlantean"
 	religion="revelationist"
@@ -518,7 +518,7 @@
 	}
 }
 
-7385={ #
+7385={ #Rome
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
@@ -531,7 +531,7 @@
 	}
 }
 
-7386={ #
+7386={ #Heflin
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
@@ -544,7 +544,7 @@
 	}
 }
 
-7387={ #
+7387={ #Anniston
 	terrain="hills"
 	culture="appalachian"
 	religion="revelationist"
@@ -557,7 +557,7 @@
 	}
 }
 
-7388={ #
+7388={ #Lineville
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -570,7 +570,7 @@
 	}
 }
 
-7469={ #
+7469={ #Red Bay
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -583,7 +583,7 @@
 	}
 }
 
-7470={ #
+7470={ #Columbus
 	terrain="farmland"
 	culture="tuskegean"
 	religion="revelationist"
@@ -596,7 +596,7 @@
 	}
 }
 
-7471={ #
+7471={ #Amory
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -609,7 +609,7 @@
 	}
 }
 
-7741={ #
+7741={ #Hartford
 	terrain="hills"
 	culture="dixie"
 	religion="revelationist"
@@ -622,7 +622,7 @@
 	}
 }
 
-7742={ #
+7742={ #Dothan
 	terrain="hills"
 	culture="dixie"
 	religion="revelationist"
@@ -635,7 +635,7 @@
 	}
 }
 
-7743={ #
+7743={ #Headland
 	terrain="marsh"
 	culture="dixie"
 	religion="revelationist"
@@ -648,7 +648,7 @@
 	}
 }
 
-7950={ #
+7950={ #Clanton
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -661,7 +661,7 @@
 	}
 }
 
-7951={ #
+7951={ #Tuscaloosa
 	terrain="farmland"
 	culture="tuskegean"
 	religion="revelationist"
@@ -674,7 +674,7 @@
 	}
 }
 
-7952={ #
+7952={ #Marion
 	terrain="forest"
 	culture="tuskegean"
 	religion="revelationist"
@@ -687,7 +687,7 @@
 	}
 }
 
-8348={ #
+8348={ #Y
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -700,7 +700,7 @@
 	}
 }
 
-8365={ #
+8365={ #Jackson
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -713,7 +713,7 @@
 	}
 }
 
-8935={ #
+8935={ #Columbus
 	terrain="plains"
 	culture="dixie"
 	religion="revelationist"
@@ -726,7 +726,7 @@
 	}
 }
 
-8936={ #
+8936={ #Eufaula
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -739,7 +739,7 @@
 	}
 }
 
-11627={ #
+11627={ #Trussville
 	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
@@ -752,7 +752,7 @@
 	}
 }
 
-11628={ #
+11628={ #Cullman
 	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
@@ -765,7 +765,7 @@
 	}
 }
 
-11629={ #
+11629={ #Auburn
 	terrain="forest"
 	culture="dixie"
 	religion="revelationist"
@@ -778,7 +778,7 @@
 	}
 }
 
-11630={ #
+11630={ #Enterprise
 	terrain="hills"
 	culture="tuskegean"
 	religion="revelationist"
