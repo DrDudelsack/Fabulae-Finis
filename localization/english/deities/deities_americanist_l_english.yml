@@ -45,6 +45,16 @@
  omen_lincoln:0 "Lincoln"
  omen_lincoln_desc:0 "#Y Americanist President#!\nA humble man, Lincoln was born to a poor family in Illinois. In his early years, he was a lawyer, boxer, and for a short time, a hunter of the supernatural. Showing much promise as a leader, Lincoln was elected President. He is worshipped as the somber god of unity, sacrifice, and the national family, who binds households together through shared suffering."
  omen_lincoln_desc_heartful:0 "#Y Heartful Founder#!\nLincoln is the guardian of the national household, who sanctified unity through suffering and bound the American family together with sacrifice and mercy."
+
+ deity_pulaski:0 "$omen_pulaski$"
+ omen_pulaski:0 "Pulaski"
+ omen_pulaski_desc:0 "#Y Americanist God#!\nCasimir Pulaski, a Polish nobleman, came from across the sea to assist the Founding Fathers in their fight against the Redcoats. His genius use of cavalry are well known, and he is celebrated every year in Chicago, on Casimir Pulaski Day. He famously said to Washington 'I came here, where freedom is being defended, to serve it, and to live or die for it.'"
+ omen_pulaski_catholic:0 "Saint Pulaski"
+ omen_pulaski_desc_catholic:0 "#Y Conclavian Saint#!\nSaint Pulaski, a Polish nobleman, came from across the sea to assist the Founding Fathers in their fight against the Redcoats. His genius use of cavalry are well known, and he is celebrated every year in Chicago, on Casimir Pulaski Day."
+ omen_pulaski_galvanist:0 "Titan Pulaski"
+ omen_pulaski_desc_galvanist:0 "#Y Industrialist Titan#!\nTitan Pulaski, a Polish nobleman, came from across the sea to assist the Laborers in their fight against the Robber Barons. His genius use of cavalry are well known, and he is celebrated every year in Chicago, on Casimir Pulaski Day."
+ omen_pulaski_arsenalist:0 "Titan Pulaski"
+ omen_pulaski_desc_arsenalist:0 "#Y Industrialist Titan#!\nTitan Pulaski, a Polish nobleman, came from across the sea to assist America in the Great War of the Gilded Age. His genius use of cavalry are well known, and he is celebrated every year in Chicago, on Casimir Pulaski Day."
  
  ## Heartful Deities ##
  deity_borlaug:0 "$omen_borlaug$"

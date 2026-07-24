@@ -235,6 +235,44 @@ deity_lincoln = {
 		culture_apotheosis_assimilate_effect = yes
 	}
 }
+deity_pulaski = {
+	trigger = {
+		#polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_culture_trigger = {
+				RELIGION = americanist
+				CULTURE = chicagoan
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = catholic
+				CULTURE = chicagoan
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = galvanist
+				CULTURE = chicagoan
+			}
+			rare_deity_culture_trigger = {
+				RELIGION = arsenalist
+				CULTURE = chicagoan
+			}
+			deity:omen_pulaski = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { light_cavalry_morale = 0.07 }
+	omen = { global_manpower_modifier = deity_global_manpower_modifier_svalue} #Bonus from Omen
+	religion = americanist
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
 ## Heartful Pantheon ##
 deity_borlaug = {
 	trigger = {

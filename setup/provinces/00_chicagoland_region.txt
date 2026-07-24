@@ -632,14 +632,14 @@
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="marble"
-	civilization_value=40
+	civilization_value=45
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=4
+		amount=8
 	}
 	citizen={
-		amount=3
+		amount=7
 	}
 	citizen={
 		religion="promethean"
@@ -651,7 +651,7 @@
 	}
 	citizen={
 		religion="arsenalist"
-		amount=4
+		amount=5
 	}
 	freemen={
 		amount=5
@@ -662,11 +662,11 @@
 	}
 	freemen={
 		religion="promethean"
-		amount=2
+		amount=4
 	}
 	freemen={
 		religion="galvanist"
-		amount=3
+		amount=4
 	}
 	freemen={
 		religion="fissionist"
@@ -677,12 +677,13 @@
 	}
 	slaves={
 		religion="lakeshore"
-		amount=3
+		amount=5
 	}
 	slaves={
 		religion="capitalist"
 		amount=2
 	}
+	holy_site=omen_pulaski
 }
 
 8755={ #Rockford

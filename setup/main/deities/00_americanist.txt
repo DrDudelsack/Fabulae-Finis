@@ -133,5 +133,9 @@ deity_manager = {
 			key = omen_steinbeck
 			deity = deity_steinbeck
 		}
+		333 = {
+			key = omen_pulaski
+			deity = deity_pulaski
+		}
 	}
 }

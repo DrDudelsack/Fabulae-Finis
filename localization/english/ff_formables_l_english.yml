@@ -41,6 +41,8 @@
  wisconsin_claims_tooltip:0 "Wisconsin will gain claims on the region of #Y Wisconsin#!."
  WISCONSIN_NAME:0 "Wisconsin"
  WISCONSIN_ADJECTIVE:0 "Wisconsinite"
+ WISCONSIN_GERMAN_NAME:0 "Grünbuchtland"
+ WISCONSIN_GERMAN_ADJECTIVE:0 "Grünbuchtlander"
  form_wisconsin_walloon:0 "Form Ouisconsin"
  form_wisconsin_walloon_desc:0 "Long ago, across the sea, the Walloons made their home in Ouisconsin. We have perservered throughout the ages - this is our home as it is any other's"
  WISCONSIN_WALLOON_NAME:0 "Ouisconsin"

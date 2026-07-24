@@ -3,7 +3,10 @@
 		
 		potential = {
 			num_of_cities >= 1
-			primary_culture = cheesehead
+			OR = {
+				primary_culture = cheesehead
+				primary_culture = wisconsindeutsch
+			}
 			OR = {
 				capital_scope = {
 					is_in_region = badgerland_region
@@ -61,12 +64,27 @@
 			custom_tooltip = "tier_2_formable_tooltip"
 			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
 			switch_government_type_event_clearup_effect = yes
-			change_country_name = "WISCONSIN_NAME"
+			#change_country_name = "WISCONSIN_NAME"
+			if = {
+				limit = { primary_culture = wisconsindeutsch }
+				change_country_name = "WISCONSIN_GERMAN_NAME"
+			}
+			else = {
+				change_country_name = "WISCONSIN_NAME"
+			}
 			hidden_effect = {
-				change_country_adjective = "WISCONSIN_ADJ"
-				change_country_color = "wisconsin_green"
 				change_country_tag = WSS
-				change_country_flag = BADGERLAND_FLAG
+				if = {
+					limit = { primary_culture = wisconsindeutsch }
+					change_country_adjective = "WISCONSIN_GERMAN_ADJECTIVE"
+					change_country_color = "wisconsin_green"
+					change_country_flag = BADGERLAND_FLAG
+				}
+				else = {
+					change_country_adjective = "WISCONSIN_ADJ"
+					change_country_color = "wisconsin_green"
+					change_country_flag = BADGERLAND_FLAG
+				}
 			}
 			capital_scope = {
 				capital_formable_medium_effect = yes
