@@ -8,7 +8,7 @@ south_jersey_area = { #12
 	provinces = { 4491 9524 9525 9523 744 745 746 4492 4490 2362 2361 1543 1544 }
 }
 delaware_area = { #6
-	provinces = { 2811 2812 2813 538 537 536 2089 2090 }
+	provinces = { 2811 2812 2813 538 537 536 2089 2090 3517 }
 }
 north_jersey_area = { #12
 	provinces = { 1845 5961 5960 7761 7760 6168 480 478 481 479 482 6167 }
@@ -1046,7 +1046,7 @@ avalon_area = {
 	provinces = { 6937 4935 4933 4934 11957 5715 5716 5714 1202 1201 3518}
 }
 southwest_labrador_area = { 
-	provinces = { 1200 5396 2520 5396 5397 3522 2185 7326 3520 5395 }
+	provinces = { 1200 5396 5396 5397 3522 2185 7326 3520 5395 }
 }
 winnipeg_area = { 
 	provinces = { 9282 1494 1497 1496 1493 3792 9281 1495 }
@@ -1094,7 +1094,7 @@ iqaluit_area = {
 	provinces = { 4901 4899 2198 2200 2197 1633 1632 1634 4900 2199 }
 }
 iglulik_area = { 
-	provinces = { 2860 2861 2862 2525 2526 3534 8055 8057 3536 3535 8058 }
+	provinces = { 2860 2861 2862 3534 8055 8057 3536 3535 8058 }
 }
 kivalliq_area = { 
 	provinces = { 8333 9005 9004 8462 9006 3218 3219 3220 8056 }
@@ -1323,4 +1323,52 @@ golden_area = {
 }
 blue_river_area = { 
 	provinces = { 2470 5236 5233 5235 5234 1449 2978 }
+}
+san_blas_area = { 
+	provinces = { 192 193 191 7867 7868 7869 1989 1987 1988 1986 7634 }
+}
+quila_area = { 
+	provinces = { 8596 8597 8594 8595 11973 11972 7633 7632 7631 }
+}
+elota_area = { 
+	provinces = { 11966 259 260 261 258 9074 9075 11965 }
+}
+kingston_area = { 
+	provinces = { 8113 8114 8112 8115 8116 5757 2636 }
+}
+christiana_area = { 
+	provinces = { 2638 2637 2639 2635 5761 5760 5758 5759 }
+}
+bahamas_area = { 
+	provinces = { 859 862 860 6966 1539 2542 2539 2540 2538 2541 }
+}
+turks_and_caicos_area = { 
+	provinces = { 6968 6967 6969 4033 4035 4034 1912 1913 1911 }
+}
+puerto_rico_area = { 
+	provinces = { 5304 5305 6014 8702 8703 6015 6013 5728 5727 }
+}
+lesser_antilles_1_area = { 
+	provinces = { 5351 5350 9061 7592 7124 7123 5168 5169 100 }
+}
+lesser_antilles_1_area = { 
+	provinces = { 2810 5609 5145 4219 7932 8999 8998 }
+}
+santo_domingo_area = { 
+	provinces = { 1141 2417 2418 5560 2419 5559 5561 2210 2212 2211 1140 }
+}
+port_de_paix_area = { 
+	provinces = { 6563 6565 6827 5318 6564 9269 9270 9268 5321 5319 5376 5377 5320 }
+}
+port_au_prince_area = { 
+	provinces = { 8948 3787 3789 3788 3791 5578 5579 }
+}
+les_cayes_area = { 
+	provinces = { 3790 5577 4535 865 864 4536 4534 863 }
+}
+pedernales_area = { 
+	provinces = { 3580 3577 3579 3578 3576 4761 4760 1142 1144 1143 }
+}
+vega_area = { 
+	provinces = { 3525 3524 3523 8839 8838 8840 2575 2574 2573 607 608 606 8841 }
 }
