@@ -53,7 +53,7 @@
 379={ #Port Saint Joe
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 381={ #Panama City
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1713={ #Day
 	terrain="forest"
 	culture="gulfard"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3140={ #Port Saint Lucie
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3141={ #Sebastian
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3274={ #Belle Glade
 	terrain="jungle"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 3275={ #Fort Lauderdale
 	terrain="flood_plain"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3965={ #Clewiston
 	terrain="jungle"
 	culture="miccosukee"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3966={ #Placid Lakes
 	terrain="jungle"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3967={ #Sebring
 	terrain="marsh"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4818={ #Wesley Chapel
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4819={ #Lakeland
 	terrain="plains"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 5352={ #West Palm Beach
 	terrain="marsh"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5353={ #Jupiter
 	terrain="marsh"
 	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -494,8 +494,8 @@
 
 5457={ #Homosassa Springs
 	terrain="plains"
-	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	culture="sunshiner"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -507,8 +507,8 @@
 
 5458={ #Pine Ridge
 	terrain="plains"
-	culture="amerikaniotis"
-	religion="shriner"
+	culture="sunshiner"
+	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 6170={ #Marianna
 	terrain="plains"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 6172={ #Chipley
 	terrain="hills"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 6612={ #Saint Cloud
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 6613={ #Okeechobee
 	terrain="jungle"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 6996={ #Perry
 	terrain="forest"
 	culture="gulfard"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 6997={ #Woodville
 	terrain="marsh"
 	culture="gulfard"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 6998={ #Crawfordville
 	terrain="marsh"
 	culture="gulfard"
-	religion="evangelical"
+	religion="springsearcher"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 6999={ #Quincy
 	terrain="forest"
 	culture="gulfard"
-	religion="evangelical"
+	religion="springsearcher"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 7000={ #Tallahassee
 	terrain="plains"
 	culture="gulfard"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7314={ #Daytona Beach
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 7316={ #Heart Island
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="springsearcher"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 7643={ #Poinciana
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 7644={ #Alafaya
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="springsearcher"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 7645={ #Clermont
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 7646={ #Apopka
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="springsearcher"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 7647={ #Orlando
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 9101={ #Jasper
 	terrain="plains"
 	culture="sunshiner"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -819,8 +819,8 @@
 
 9491={ #Melbourne
 	terrain="plains"
-	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	culture="sunshiner"
+	religion="springsearcher"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 9492={ #Merritt Island
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="springsearcher"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 11934={ #Chiefland
 	terrain="plains"
 	culture="sunshiner"
-	religion="shriner"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 11935={ #New Port Richey
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -936,7 +936,7 @@
 
 11936={ #Clearwater
 	terrain="plains"
-	culture="sunshiner"
+	culture="amerikaniotis"
 	religion="shriner"
 	trade_goods="leather"
 	civilization_value=10
@@ -989,7 +989,7 @@
 11940={ #Cocoa
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="springsearcher"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 11941={ #Kissimmee
 	terrain="marsh"
 	culture="sunshiner"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 11942={ #Lake Wales
 	terrain="marsh"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 11943={ #Avon Park
 	terrain="plains"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 11944={ #Archbold
 	terrain="jungle"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 11945={ #Fort Pierce
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 11946={ #Boca Raton
 	terrain="marsh"
 	culture="sofloano"
-	religion="byzantine_americanists"
+	religion="americanist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0

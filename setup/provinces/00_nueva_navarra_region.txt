@@ -1,4 +1,95 @@
-﻿346={ #Ju Rez
+﻿191={ #San Blas
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+192={ #Choix
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+193={ #El Fuerte
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+258={ #La Cruz
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+259={ #Cosal
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+260={ #Elota
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+261={ #Guadalupe Victoria
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+346={ #Ju Rez
 	terrain="plains"
 	culture="sonoro"
 	religion="mayan_pantheon"
@@ -206,6 +297,97 @@
 	}
 }
 
+1972={ #Concordia
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1973={ #La Petaca
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1974={ #El Rosario
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1986={ #Estacion Bamoa
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1987={ #Genaro Estrada
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1988={ #Sinaloa De Leyva
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1989={ #Guasave
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 2285={ #Sonoita
 	terrain="desert"
 	culture="sonoro"
@@ -224,6 +406,32 @@
 	culture="sonoro"
 	religion="navegante"
 	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3084={ #Escuinapa
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3085={ #Isla Del Bosque
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -505,6 +713,97 @@
 	}
 }
 
+7631={ #Pericos
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7632={ #Mocorito
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7633={ #Badiraguato
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7634={ #Angostura
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7867={ #Higuera De Zaragoza
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7868={ #Los Mochis
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7869={ #Juan Jos R Os
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 7975={ #San Pedro De La Cueva
 	terrain="plains"
 	culture="sonoro"
@@ -635,10 +934,205 @@
 	}
 }
 
+8594={ #General Ngel Flores
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods="shells"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8595={ #Tamazula De Victoria
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8596={ #Quila
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8597={ #Culiac N
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8824={ #Huajicori
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9073={ #Mazatl N
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9074={ #Tayoltita
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9075={ #El Quelite
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11963={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11964={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11965={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11966={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 11967={ #
 	terrain="plains"
 	culture="sonoro"
 	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11971={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11972={ #
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11973={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

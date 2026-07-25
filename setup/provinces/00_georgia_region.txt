@@ -339,7 +339,7 @@
 3807={ #Thomasville
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3808={ #Moultrie
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 6349={ #Blackshear
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 9433={ #Waycross
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 9434={ #Toledo
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 9435={ #Valdosta
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 9436={ #Statenville
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 9437={ #Homerville
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

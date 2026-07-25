@@ -625,7 +625,7 @@
 7742={ #Dothan
 	terrain="hills"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 7743={ #Headland
 	terrain="marsh"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0

@@ -274,10 +274,10 @@ greenland_region = { #7
 		east_greenland_area south_greenland_area southeast_greenland_area southwest_greenland_area
 	}
 }
-nueva_navarra_region = { #7
+nueva_navarra_region = { #9
 	color = rgb { 196 70 70 }
 	areas = {
-		cortes_area nogales_area sonora_area hiakim_area hiakim_south_area
+		cortes_area nogales_area sonora_area hiakim_area hiakim_south_area san_blas_area quila_area elota_area mazatlan_area
 	}
 }
 nunavik_region = { #5
@@ -362,5 +362,11 @@ caledonia_region = { #7
 	color = rgb { 44 113 143 }
 	areas = {
 		prince_george_area soda_creek_area mount_timothy_area blue_river_area okanagan_area golden_area banff_area kettle_valley_area
+	}
+}
+altiplano_region = { #10
+	color = rgb { 125 69 27 }
+	areas = {
+		el_bismarck_area campo_ocho_area tomochic_area camargo_area de_allende_area guanacev_area santa_teresa_area lerdo_area hercules_area la_madrid_area
 	}
 }
