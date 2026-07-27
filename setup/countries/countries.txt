@@ -159,6 +159,7 @@ BIL = "setup/countries/great_plains/billings.txt"
 CHY = "setup/countries/great_plains/cheyenne.txt"
 BTR = "setup/countries/great_plains/beartooth.txt"
 YEW = "setup/countries/great_plains/yellowstone.txt"
+RHH = "setup/countries/great_plains/rolling_hills.txt"
 
 
 #South
@@ -316,3 +317,4 @@ HDI = "setup/countries/west_canada/haida.txt"
 KTC = "setup/countries/west_canada/ketchikan.txt"
 CEN = "setup/countries/west_canada/central_coast.txt"
 UPT = "setup/countries/west_canada/upper_coast.txt"
+ETH = "setup/countries/west_canada/esterhazy.txt"

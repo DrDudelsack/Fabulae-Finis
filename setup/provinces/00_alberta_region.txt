@@ -806,7 +806,7 @@
 
 7596={ #Elkwater
 	terrain="mountain"
-	culture="nakota"
+	culture="prairielander"
 	religion="sun_dance"
 	trade_goods="stone"
 	civilization_value=10

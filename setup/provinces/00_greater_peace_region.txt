@@ -78,7 +78,7 @@
 
 555={ #Dawson Creek
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 556={ #Gordondale
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 557={ #Willow Valley
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 2752={ #Taylor
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="grain"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 2753={ #Chetwynd
 	terrain="mountain"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="wood"
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 2754={ #Tumbler Ridge
 	terrain="mountain"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="leather"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 3191={ #Bison Lake
 	terrain="forest"
-	culture=""
+	culture="nehiyaw"
 	religion="peyotist"
 	trade_goods="fur"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 3192={ #Cadotte Lake
 	terrain="forest"
-	culture=""
+	culture="nehiyaw"
 	religion="peyotist"
 	trade_goods="grain"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 3193={ #Gift Lake
 	terrain="forest"
-	culture=""
+	culture="metis"
 	religion="peyotist"
 	trade_goods="limestone"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 3194={ #Red Earth
 	terrain="forest"
-	culture=""
+	culture="nehiyaw"
 	religion="peyotist"
 	trade_goods="amber"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 4408={ #High Prairie
 	terrain="plains"
-	culture=""
+	culture="metis"
 	religion="mennonite"
 	trade_goods="grain"
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 4409={ #Falher
 	terrain="plains"
-	culture=""
+	culture="metis"
 	religion="mennonite"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 4410={ #St Isidore
 	terrain="forest"
-	culture=""
+	culture="metis"
 	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 7426={ #Grande Prairie
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="grain"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 7427={ #Ojay
 	terrain="mountain"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fur"
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 7428={ #Beaverlodge
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fur"
 	civilization_value=10
@@ -780,7 +780,7 @@
 
 7429={ #Wapiti
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -793,7 +793,7 @@
 
 7430={ #Goodwin
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 9011={ #Peace River
 	terrain="forest"
-	culture="dane_zaa"
+	culture="metis"
 	religion="catholic"
 	trade_goods="wood"
 	civilization_value=10
@@ -1040,7 +1040,7 @@
 
 9012={ #Fairview
 	terrain="forest"
-	culture=""
+	culture="metis"
 	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
@@ -1053,7 +1053,7 @@
 
 9013={ #Spirit River
 	terrain="plains"
-	culture=""
+	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
 	civilization_value=10
@@ -1066,7 +1066,7 @@
 
 9014={ #Eaglesham
 	terrain="plains"
-	culture=""
+	culture="metis"
 	religion="mennonite"
 	trade_goods="earthware"
 	civilization_value=10

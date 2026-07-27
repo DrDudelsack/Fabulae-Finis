@@ -3684,13 +3684,24 @@ country = {
 			}
 		}
 		PLP = { # Portage La Prairie
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = manitobain
 			religion = rivertracer
 			capital = 3792
 
 			own_control_core = {
 				3792 3793 3794 2350 2349
+			}
+		}
+		ETH = { # Esterhazy
+			government = tribal_chiefdom
+			primary_culture = sztyeppefuto
+			religion = loneranger
+			capital = 3013
+			centralization = -30
+
+			own_control_core = {
+				3013 3012 3011 8457 8454 3010 3012 5976 5974 5975 9403 8898 8897 2153 440 9401 441 9402
 			}
 		}
 		KEN = { # Kenora
@@ -3756,7 +3767,7 @@ country = {
 		}
 		DVL = { #Devil's Lake
 			government = tribal_chiefdom
-			primary_culture = northlander
+			primary_culture = dakota
 			religion = viking
 			capital = 1859
 		
@@ -4831,6 +4842,7 @@ country = {
 			primary_culture = arapaho
 			religion = sun_dance
 			capital = 324
+			centralization = -20
 		
 			own_control_core = {
 				324 6126 326 325 6128 6127
@@ -4844,6 +4856,17 @@ country = {
 		
 			own_control_core = {
 				9076 9077 7081 7080 7079 4402 4403
+			}
+		}
+		RHH = { #Rolling Hills
+			government = tribal_chiefdom
+			primary_culture = crow
+			religion = peyotist
+			capital = 8206
+			centralization = -20
+		
+			own_control_core = {
+				8206 4531 4533 4532 2429 2428 8207 8205 2159 2158
 			}
 		}
 		CHY = { #Cheyenne

@@ -260,7 +260,7 @@
 
 1326={ #Bear Lake
 	terrain="mountain"
-	culture="dakelh"
+	culture="plautdeitsch"
 	religion="gaian"
 	trade_goods="gems"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 1327={ #Fort St James
 	terrain="hills"
-	culture="dakelh"
+	culture="plautdeitsch"
 	religion="gaian"
 	trade_goods="precious_metals"
 	civilization_value=10

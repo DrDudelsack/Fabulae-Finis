@@ -187,8 +187,9 @@
  deutschamerikaner:0 "Deutschamerikaner"
  hermanndeutsch:0 "Weinstrasser" #Named after prominent Missouri wine making corridor
  texaner:0 "Freidenker" #Free-Thinker
- wolgadeutsche:0 "Wolgadeutsche"
+ wolgadeutsche:0 "Bismarcker" #North Dakota Russian Germans
  wisconsindeutsch:0 "Grünbuchtlander" #Wisconsin High German
+ plautdeitsch:0 "Plautsdeutsch"
  
  ## Californian ##
  californian:0 "Californian"

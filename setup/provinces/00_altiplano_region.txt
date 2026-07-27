@@ -1,229 +1,8 @@
-﻿131={ #Dove Creek
-	terrain="mountain"
-	culture="utahn"
-	religion="atomicist"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-132={ #Telluride
-	terrain="mountain"
-	culture="utahn"
-	religion="atomicist"
-	trade_goods="precious_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-309={ #Pinedale
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-310={ #Marbleton
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-311={ #Atlantic City
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-324={ #Basin
-	terrain="forest"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="fur"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-325={ #Thermopolis
-	terrain="forest"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-326={ #Worland
-	terrain="mountain"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1307={ #Longmont
-	terrain="mountain"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1308={ #Boulder
-	terrain="mountain"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1399={ #Jackson
-	terrain="mountain"
-	culture="montaneer"
-	religion="mormon"
-	trade_goods="base_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1400={ #Kelly
-	terrain="mountain"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1431={ #Lamadera
-	terrain="desert_hills"
-	culture="keres"
-	religion="buddhism"
-	trade_goods="earthware"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1820={ #Rawlins
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1821={ #Saratoga
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="honey"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1822={ #Baggs
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2158={ #Newcastle
-	terrain="mountain"
-	culture="crow"
-	religion="heartful"
-	trade_goods="vegetables"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2159={ #Wright
+﻿512={ #La Palma
 	terrain="plains"
-	culture="crow"
-	religion="peyotist"
-	trade_goods="leather"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -232,139 +11,9 @@
 	}
 }
 
-2160={ #Sundance
-	terrain="mountain"
-	culture="crow"
-	religion="heartful"
-	trade_goods="base_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2427={ #Bessemer Bend
-	terrain="forest"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="woad"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2428={ #Casper
+513={ #Meoqui
 	terrain="plains"
-	culture="crow"
-	religion="peyotist"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2429={ #Midwest
-	terrain="mountain"
-	culture="crow"
-	religion="sun_dance"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3777={ #Elkhart
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="buffalo"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3778={ #Pritchett
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3810={ #Lochbuie
-	terrain="plains"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="beans"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3811={ #Greeley
-	terrain="plains"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="leather"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3812={ #Fort Collins
-	terrain="mountain"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="vegetables"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3813={ #Wellington
-	terrain="plains"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="bodark"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4351={ #Anaktuvuk Pass
-	terrain="plains"
-	culture=""
+	culture="shiwawita"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -375,9 +24,9 @@
 	}
 }
 
-4352={ #Evansville
+514={ #Camargo
 	terrain="plains"
-	culture=""
+	culture="shiwawita"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -388,63 +37,11 @@
 	}
 }
 
-4362={ #Grand Junction
-	terrain="mountain"
-	culture="utahn"
-	religion="atomicist"
-	trade_goods="beans"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4363={ #Gunnison
-	terrain="mountain"
-	culture="hualapai"
-	religion="atomicist"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4364={ #Montrose
-	terrain="mountain"
-	culture="coloradan"
-	religion="atomicist"
-	trade_goods="earthware"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4531={ #Buffalo
-	terrain="mountain"
-	culture="crow"
-	religion="sun_dance"
-	trade_goods="woad"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4532={ #Moorcroft
+515={ #Jim Nez
 	terrain="plains"
-	culture="crow"
-	religion="sun_dance"
-	trade_goods="honey"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -453,11 +50,11 @@
 	}
 }
 
-4533={ #Gillette
+749={ #De Allende
 	terrain="plains"
-	culture="crow"
-	religion="sun_dance"
-	trade_goods="cattle"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -466,388 +63,11 @@
 	}
 }
 
-4757={ #Cooke City
-	terrain="mountain"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="vegetables"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4758={ #West Yellowstone
-	terrain="mountain"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="fur"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4759={ #Gardiner
-	terrain="mountain"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4776={ #Woodland Park
-	terrain="mountain"
-	culture="coloradan"
-	religion="caesarist"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4777={ #Walsenburg
-	terrain="mountain"
-	culture="coloradan"
-	religion="caesarist"
-	trade_goods="honey"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5048={ #Wamsutter
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="vegetables"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5049={ #Powder Wash
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5050={ #Superior
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5941={ #Cheyenne Wells
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5942={ #Lamar
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="tubers"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6126={ #Lovell
-	terrain="forest"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="beans"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6127={ #Red Lodge
-	terrain="mountain"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="vegetables"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6128={ #Cody
-	terrain="forest"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6197={ #Burlington
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6198={ #Kit Carson
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6199={ #Limon
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="earthware"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6381={ #Riverton
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6382={ #Swaim Place
-	terrain="forest"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6383={ #Shoshoni
-	terrain="mountain"
-	culture="arapaho"
-	religion="sun_dance"
-	trade_goods="precious_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6837={ #Island Park
-	terrain="forest"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6838={ #Victor
-	terrain="forest"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6839={ #Ashton
-	terrain="forest"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods="base_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6847={ #Center
-	terrain="mountain"
-	culture="hualapai"
-	religion="buddhism"
-	trade_goods="precious_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6848={ #Questa
-	terrain="mountain"
-	culture="keres"
-	religion="buddhism"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6849={ #Alamosa
-	terrain="mountain"
-	culture="keres"
-	religion="buddhism"
-	trade_goods="beans"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6987={ #Columbus
-	terrain="mountain"
-	culture="montaneer"
-	religion="sun_dance"
-	trade_goods="cloth"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7273={ #Evansville
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="woad"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7274={ #Laramie
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7275={ #Hanna
-	terrain="hills"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="precious_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7356={ #Ponderosa Park
+750={ #El Tule
 	terrain="plains"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="bodark"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,11 +76,11 @@
 	}
 }
 
-7357={ #Colorado Springs
+751={ #De Zaragoza
 	terrain="plains"
-	culture="coloradan"
-	religion="caesarist"
-	trade_goods="steppe_horses"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -869,24 +89,11 @@
 	}
 }
 
-7484={ #Glenrock
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="beans"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7485={ #Torrington
+752={ #Parral
 	terrain="plains"
-	culture="grangelander"
-	religion="loneranger"
-	trade_goods="steppe_horses"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -895,11 +102,11 @@
 	}
 }
 
-7487={ #Cheyenne
+912={ #Lerdo
 	terrain="plains"
-	culture="grangelander"
-	religion="loneranger"
-	trade_goods="cattle"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -908,76 +115,11 @@
 	}
 }
 
-7694={ #Steamboat Springs
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="woad"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7695={ #Rangely
-	terrain="hills"
-	culture="ute"
-	religion="loneranger"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7696={ #Meeker
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7697={ #Craig
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7714={ #Adelaide
-	terrain="mountain"
-	culture="coloradan"
-	religion="caesarist"
-	trade_goods="beans"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7715={ #Ordway
+914={ #Cuencam De Ceniceros
 	terrain="plains"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="cattle"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -986,24 +128,11 @@
 	}
 }
 
-7716={ #Pueblo
-	terrain="hills"
-	culture="coloradan"
-	religion="caesarist"
-	trade_goods="earthware"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7717={ #La Junta
+915={ #Cuauhtemoc
 	terrain="plains"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="tubers"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1012,11 +141,11 @@
 	}
 }
 
-7745={ #Kimball
+1074={ #Santiago Papasquiaro
 	terrain="plains"
-	culture="grangelander"
-	religion="loneranger"
-	trade_goods="cattle"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1025,24 +154,11 @@
 	}
 }
 
-7747={ #Fort Morgan
-	terrain="steppes"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="buffalo"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7814={ #Aguilar
+1075={ #Santa Catarina De Tepehuanes
 	terrain="plains"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="bodark"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1051,50 +167,11 @@
 	}
 }
 
-8158={ #Glenwood Springs
-	terrain="mountain"
-	culture="coloradan"
-	religion="atomicist"
-	trade_goods="salt"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8159={ #Salida
-	terrain="mountain"
-	culture="coloradan"
-	religion="caesarist"
-	trade_goods="earthware"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8160={ #Edwards
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="precious_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8205={ #Edgemont
+1076={ #Guanacev
 	terrain="plains"
-	culture="crow"
-	religion="peyotist"
-	trade_goods="fur"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1103,11 +180,11 @@
 	}
 }
 
-8206={ #Rolling Hills
+1883={ #Madera
 	terrain="plains"
-	culture="crow"
-	religion="peyotist"
-	trade_goods="leather"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1116,11 +193,11 @@
 	}
 }
 
-8207={ #Douglas
+1884={ #Tomochic
 	terrain="plains"
-	culture="crow"
-	religion="peyotist"
-	trade_goods="cattle"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1129,50 +206,11 @@
 	}
 }
 
-8241={ #Breckenridge
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="stone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8242={ #Walden
-	terrain="mountain"
-	culture="coloradan"
-	religion="loneranger"
-	trade_goods="bodark"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9107={ #Lakewood
-	terrain="mountain"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="precious_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9108={ #Denver
+1885={ #G Mez Far As
 	terrain="plains"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="precious_metals"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1181,11 +219,1012 @@
 	}
 }
 
-9109={ #Bennett
+1954={ #San Francisco De Borja
 	terrain="plains"
-	culture="coloradan"
-	religion="buddhism"
-	trade_goods="vegetables"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1955={ #Adolfo L Pez Mateos
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1956={ #Vaqueteros
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1957={ #San Francisco Javier De Satev
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2658={ #San Francisco Javier
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2659={ #Uni N
+	terrain="plains"
+	culture="sierreno"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2660={ #Vicente Guerrero
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3159={ #Concordia
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3160={ #El Lequeitio
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3161={ #San Esteban De Abajo
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3521={ #
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3870={ #Campo Ocho
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3871={ #La Constituci N
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3872={ #Miguel Ahumada
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3920={ #Reata
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4428={ #Cuatro Ci Negas De Carranza
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4429={ #Estanque De Norias
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4430={ #San Buenaventura
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5149={ #Chihuahua
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5150={ #Santa Eulalia
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5151={ #Aldama
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5275={ #San Miguel De Cruces
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5276={ #Victoria De Durango
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5277={ #Canatl N
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5278={ #Banderas Del Guila
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5567={ #Benito Ju Rez
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5568={ #La Quemada
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5569={ #An Huac
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5570={ #Valent N G Mez Far As
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5740={ #Coyame
+	terrain="dry_plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5741={ #Manuel Ojinaga
+	terrain="dry_plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5778={ #Minas De Barroter N
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5779={ #Palau
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5780={ #Lamadrid
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5788={ #Casta Os
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5789={ #Monclova
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5898={ #Guadalupe Victoria
+	terrain="plains"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5899={ #Pe N Blanco
+	terrain="plains"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5900={ #Rodeo
+	terrain="plains"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6095={ #Santa Mar A Del Oro
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6096={ #La Zarca
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6097={ #Ocampo
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6229={ #Parras De La Fuente
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6301={ #Jes S Mar A
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6440={ #San Buenaventura
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6441={ #Ascensi N
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6442={ #Nuevo Casas Grandes
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6443={ #El Bismarck
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="marijuana"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6658={ #Creel
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6659={ #Bahuichivo
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6660={ #Moris
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6661={ #Guachochi
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6675={ #Jos Mariano Jim Nez
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6676={ #Las Glorias
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6677={ #La Perla
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6856={ #Agua Prieta
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6878={ #Nazas
+	terrain="plains"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6879={ #Le N Guzm N
+	terrain="plains"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7381={ #Ocampo
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7382={ #General Gregorio A Garc A
+	terrain="plains"
+	culture="bravo"
+	religion="cristero"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7383={ #Laguna Del Rey
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7384={ #H Rcules
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7673={ #Tanc Taro
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8247={ #Matamoros
+	terrain="plains"
+	culture="lagunero"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8249={ #Guadalupe Y Calvo
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8250={ #Mariano Balleza
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8251={ #Baborigame
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8664={ #San Bernardino De Milpillas Chico
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8665={ #Nombre De Dios
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8666={ #Santa Teresa
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9165={ #Mapim
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9166={ #Ceballos
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9167={ #Tlahualilo De Zaragoza
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11960={ #
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11962={ #
+	terrain="plains"
+	culture="sierreno"
+	religion="cristero"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11968={ #
+	terrain="desert"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11979={ #
+	terrain="plains"
+	culture="shiwawita"
+	religion="limpio"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11980={ #
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

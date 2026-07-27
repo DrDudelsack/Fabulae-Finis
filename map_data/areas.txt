@@ -1337,10 +1337,10 @@ kingston_area = {
 	provinces = { 8113 8114 8112 8115 8116 5757 2636 }
 }
 christiana_area = { 
-	provinces = { 2638 2637 2639 2635 5761 5760 5758 5759 }
+	provinces = { 2638 2637 2639 2635 5761 5760 5758 5759 6134 }
 }
 bahamas_area = { 
-	provinces = { 859 862 860 6966 1539 2542 2539 2540 2538 2541 }
+	provinces = { 859 862 860 6966 2542 2539 2540 2538 2541 }
 }
 turks_and_caicos_area = { 
 	provinces = { 6968 6967 6969 4033 4035 4034 1912 1913 1911 }
@@ -1416,4 +1416,19 @@ santa_teresa_area = {
 }
 lerdo_area = { 
 	provinces = { 6878 5899 912 914 5898 915 6879 8247 }
+}
+palacios_area = { 
+	provinces = { 1889 1892 1891 1890 3477 3476 3475 1149 1148 4218 }
+}
+modelo_area = { 
+	provinces = { 3717 3716 577 5588 3714 5587 578 5590 5589 }
+}
+tampico_area = { 
+	provinces = { 2080 2079 3715 2081 2140 2138 2137 1595 1596 1594 }
+}
+candela_area = { 
+	provinces = { 5787 4435 4327 4434 4437 4328 7859 5603 5604 }
+}
+de_allende_area = { 
+	provinces = { 668 3958 669 2162 2161 5432 5431 5430 }
 }

@@ -3469,58 +3469,6 @@
 	}
 }
 
-512={ #La Palma
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-513={ #Meoqui
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-514={ #Camargo
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-515={ #Jim Nez
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 517={ #Adolfo
 	terrain="plains"
 	culture=""
@@ -5315,58 +5263,6 @@
 	}
 }
 
-749={ #De Allende
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-750={ #El Tule
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-751={ #De Zaragoza
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-752={ #Parral
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 758={ #Quito
 	terrain="plains"
 	culture=""
@@ -6446,50 +6342,11 @@
 	}
 }
 
-912={ #Lerdo
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 913={ #San Juan De Guadalupe
 	terrain="plains"
 	culture="lagunero"
 	religion="cristero"
 	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-914={ #Cuencam De Ceniceros
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-915={ #Cuauhtemoc
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -7528,45 +7385,6 @@
 1070={ #Vale Carib
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1074={ #Santiago Papasquiaro
-	terrain="plains"
-	culture="shiwawita"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1075={ #Santa Catarina De Tepehuanes
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1076={ #Guanacev
-	terrain="plains"
-	culture="shiwawita"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -13375,45 +13193,6 @@
 	}
 }
 
-1883={ #Madera
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1884={ #Tomochic
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1885={ #G Mez Far As
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 1886={ #Isla Independencia
 	terrain="plains"
 	culture=""
@@ -13781,58 +13560,6 @@
 1951={ #Ocotal
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1954={ #San Francisco De Borja
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1955={ #Adolfo L Pez Mateos
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1956={ #Vaqueteros
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1957={ #San Francisco Javier De Satev
-	terrain="plains"
-	culture="shiwawita"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -19082,45 +18809,6 @@
 	}
 }
 
-2658={ #San Francisco Javier
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2659={ #Uni N
-	terrain="plains"
-	culture="sierreno"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2660={ #Vicente Guerrero
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2661={ #Las Junturas
 	terrain="plains"
 	culture="cordobes"
@@ -22592,45 +22280,6 @@
 	}
 }
 
-3159={ #Concordia
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3160={ #El Lequeitio
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3161={ #San Esteban De Abajo
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3170={ #Chapulhuac N
 	terrain="plains"
 	culture="chilango"
@@ -25430,19 +25079,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3521={ #
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -28403,45 +28039,6 @@
 	}
 }
 
-3870={ #Campo Ocho
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3871={ #La Constituci N
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3872={ #Miguel Ahumada
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3878={ #Santa Rosa
 	terrain="plains"
 	culture=""
@@ -28862,19 +28459,6 @@
 	terrain="plains"
 	culture="litoraleno"
 	religion="platinean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3920={ #Reata
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -33256,45 +32840,6 @@
 	terrain="plains"
 	culture=""
 	religion="animist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4428={ #Cuatro Ci Negas De Carranza
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4429={ #Estanque De Norias
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4430={ #San Buenaventura
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -38738,45 +38283,6 @@
 	}
 }
 
-5149={ #Chihuahua
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5150={ #Santa Eulalia
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5151={ #Aldama
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5152={ #Olhos D Gua
 	terrain="plains"
 	culture=""
@@ -39768,58 +39274,6 @@
 5266={ #Zapotl N Del Rey
 	terrain="plains"
 	culture="tapatio"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5275={ #San Miguel De Cruces
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5276={ #Victoria De Durango
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5277={ #Canatl N
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5278={ #Banderas Del Guila
-	terrain="plains"
-	culture="sierreno"
 	religion="cristero"
 	trade_goods=""
 	civilization_value=10
@@ -41923,58 +41377,6 @@
 	}
 }
 
-5567={ #Benito Ju Rez
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5568={ #La Quemada
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5569={ #An Huac
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5570={ #Valent N G Mez Far As
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5574={ #Bell Ville
 	terrain="plains"
 	culture="cordobes"
@@ -43262,32 +42664,6 @@
 	}
 }
 
-5740={ #Coyame
-	terrain="dry_plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5741={ #Manuel Ojinaga
-	terrain="dry_plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5742={ #Tantoyuca
 	terrain="plains"
 	culture=""
@@ -43561,45 +42937,6 @@
 	}
 }
 
-5778={ #Minas De Barroter N
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5779={ #Palau
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5780={ #Lamadrid
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5784={ #Mateiros
 	terrain="plains"
 	culture=""
@@ -43640,32 +42977,6 @@
 }
 
 5787={ #Candela
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5788={ #Casta Os
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5789={ #Monclova
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
@@ -44371,45 +43682,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5898={ #Guadalupe Victoria
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5899={ #Pe N Blanco
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5900={ #Rodeo
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -46005,45 +45277,6 @@
 	}
 }
 
-6095={ #Santa Mar A Del Oro
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6096={ #La Zarca
-	terrain="plains"
-	culture="shiwawita"
-	religion="cristero"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6097={ #Ocampo
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6098={ #Aldeia Mapuera
 	terrain="plains"
 	culture=""
@@ -46889,19 +46122,6 @@
 	}
 }
 
-6229={ #Parras De La Fuente
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6230={ #General Cepeda
 	terrain="plains"
 	culture="bravo"
@@ -47540,19 +46760,6 @@
 }
 
 6300={ #Rosamorada
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6301={ #Jes S Mar A
 	terrain="plains"
 	culture="sierreno"
 	religion="cristero"
@@ -48558,58 +47765,6 @@
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6440={ #San Buenaventura
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6441={ #Ascensi N
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6442={ #Nuevo Casas Grandes
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6443={ #El Bismarck
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50113,58 +49268,6 @@
 	}
 }
 
-6658={ #Creel
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6659={ #Bahuichivo
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6660={ #Moris
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6661={ #Guachochi
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6662={ #R O Cuarto
 	terrain="plains"
 	culture="cordobes"
@@ -50260,45 +49363,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6675={ #Jos Mariano Jim Nez
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6676={ #Las Glorias
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6677={ #La Perla
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -51569,19 +50633,6 @@
 	}
 }
 
-6856={ #Agua Prieta
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6857={ #Cruz De Machacamarca
 	terrain="plains"
 	culture=""
@@ -51794,32 +50845,6 @@
 	terrain="plains"
 	culture=""
 	religion="particularist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6878={ #Nazas
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6879={ #Le N Guzm N
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -55716,58 +54741,6 @@
 	}
 }
 
-7381={ #Ocampo
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7382={ #General Gregorio A Garc A
-	terrain="plains"
-	culture="bravo"
-	religion="cristero"
-	trade_goods="cacti"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7383={ #Laguna Del Rey
-	terrain="plains"
-	culture="shiwawita"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7384={ #H Rcules
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods="hallucinogenics"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7393={ #Holanda
 	terrain="plains"
 	culture=""
@@ -57774,19 +56747,6 @@
 	terrain="plains"
 	culture="calentano"
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7673={ #Tanc Taro
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -61800,62 +60760,10 @@
 	}
 }
 
-8247={ #Matamoros
-	terrain="plains"
-	culture="lagunero"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 8248={ #Venustiano Carranza
 	terrain="plains"
 	culture="bravo"
 	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8249={ #Guadalupe Y Calvo
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8250={ #Mariano Balleza
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8251={ #Baborigame
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -64859,45 +63767,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8664={ #San Bernardino De Milpillas Chico
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8665={ #Nombre De Dios
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8666={ #Santa Teresa
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -68629,45 +67498,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9165={ #Mapim
-	terrain="plains"
-	culture="shiwawita"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9166={ #Ceballos
-	terrain="plains"
-	culture="shiwawita"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9167={ #Tlahualilo De Zaragoza
-	terrain="plains"
-	culture="shiwawita"
-	religion="cristero"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -101112,49 +99942,10 @@
 	}
 }
 
-11960={ #
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 11961={ #
 	terrain="plains"
 	culture="sierreno"
 	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-11962={ #
-	terrain="plains"
-	culture="sierreno"
-	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-11968={ #
-	terrain="desert"
-	culture="shiwawita"
-	religion="limpio"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -101220,32 +100011,6 @@
 	terrain="plains"
 	culture="chilango"
 	religion="cristero"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-11979={ #
-	terrain="plains"
-	culture="shiwawita"
-	religion="limpio"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-11980={ #
-	terrain="plains"
-	culture="shiwawita"
-	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

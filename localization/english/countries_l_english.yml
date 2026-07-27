@@ -317,6 +317,8 @@
  BTR_ADJ:0 "Beartoother"
  YEW:0 "Yellowstone"
  YEW_ADJ:0 "Yellowstoner"
+ RHH:0 "Rolling Hills"
+ RHH_ADJ:0 "Crow"
 
  ## South ##
  NOL:0 "New Orleans"
@@ -619,6 +621,8 @@
  CEN_ADJ:0 "Central Coaster"
  UPT:0 "Upper Coast"
  UPT_ADJ:0 "Upper Coaster"
+ ETH:0 "Esterhazy"
+ ETH_ADJ:0 "Esterhazyan"
 
 # Gaelic #
  AUTINI:0 "Autinia"

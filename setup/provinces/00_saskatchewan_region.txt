@@ -664,7 +664,7 @@
 5980={ #Langbank
 	terrain="steppes"
 	culture="dakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -832,7 +832,7 @@
 
 6635={ #Swift Current
 	terrain="steppes"
-	culture="prairielander"
+	culture="nakota"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
@@ -924,7 +924,7 @@
 7525={ #Virden
 	terrain="steppes"
 	culture="dakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 7526={ #Moosomin
 	terrain="steppes"
 	culture="dakota"
-	religion="loneranger"
+	religion="sun_dance"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -962,7 +962,7 @@
 
 7597={ #Stone
 	terrain="mountain"
-	culture="nakota"
+	culture="prairielander"
 	religion="sun_dance"
 	trade_goods="stone"
 	civilization_value=10

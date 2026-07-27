@@ -1,10 +1,10 @@
 ﻿l_english:
  ## Twainist ##
  deity_twain:0 "$omen_twain$"
- omen_twain:0 "Twain"
+ omen_twain:0 "Author Twain"
  omen_twain_desc:0 "#Y Twainist Author#!\nBorn in Hannibal, Missouri, Mark Twain was the first and most influential of the Authors. He traveled all over America, taking in all her sights and beauties. His many novels reflect the experiences he had while traveling. It is commonly understood that Author Twain recieved his writing prowess due to his close nature with the Mississippi."
  deity_muir:0 "$omen_muir$"
- omen_muir:0 "Muir"
+ omen_muir:0 "Author Muir"
  omen_muir_desc:0 "#Y Twainist Author#!\nAuthor Muir was an early advocate for nature, and through many years of careful contemplation and meditation in the wilderness, he came to understand some of the destructive tendencies of Man. His teachings of the unbridled free spirit of the wilderness, and the ways Man can coexist with it are still relevant to this day."
  deity_columbia:0 "$omen_columbia$"
  omen_columbia:0 "Columbia"
@@ -13,7 +13,7 @@
  omen_mississippi:0 "Mississippi"
  omen_mississippi_desc:0 "#Y Twainist Goddess#!\nKnown by many names, Mississippi is the greatest of all rivers, and is thus the most holy to Twainists. It is a common ritual to bathe and swim in her life-giving waters, as doing so is considered a way to not only cleanse oneself, but to further your connection to the Great River."
  deity_whitman:0 "$omen_whitman$"
- omen_whitman:0 "Whitman"
+ omen_whitman:0 "Author Whitman"
  omen_whitman_desc:0 "#Y Twainist Author#!\nKnown as 'the Great American Poet', Author Whitman's works touched the hearts and minds of every American. Through his poetry, Author Whitman strives to tell us of deism - the idea that every creed and faith holds value and legitimacy, no matter how foreign."
  deity_the_comet:0 "$omen_the_comet$"
  omen_the_comet:0 "The Comet"
@@ -31,7 +31,7 @@
  omen_sawyer:0 "Tom Sawyer and Huck Finn"
  omen_sawyer_desc:0 "#Y Twainist Aspect#!\nLesser spirits of the Mississippi, Tom Sawyer and Huck Finn are often seen traveling along the Mississippi and her tributaries, in search of adventure."
  deity_faulkner:0 "$omen_faulkner$"
- omen_faulkner:0 "Faulkner"
+ omen_faulkner:0 "Author Faulkner"
  omen_faulkner_desc:0 "#Y Twainist Author#!\nAuthor Faulkner campaigned for the equality of all men, and that we should not be divided by petty differences."
  deity_big_muddy:0 "$omen_big_muddy$"
  omen_big_muddy:0 "Big Muddy"
@@ -56,7 +56,7 @@
  omen_ulysses:0 "Ulysses"
  omen_ulysses_desc:0 "#Y Twainist God#!\nUlysses, the wisest of all men and a great warrior in his own right, fought in a terrible war, one that raged on for ten years. Unable to return home, he became trapped at a cabin named Hardscrabble, where he forgot the ongoing troubles in his house. In these seven years that Ulysses was trapped at Hardscrabble, various suitors had run amuck, trying to seek the hand of his wife Columbia, and thus gain the throne of America. Eventually Ulysses snapped out of his imposed solitude, and embarked on a great campaign, driving the suitors out and reuniting with his wife."
 
- deity_garland:0 "$omen_garland $"
+ deity_garland:0 "$omen_garland$"
  omen_garland:0 "Author Garland"
  omen_garland_desc:0 "#Y Twainist Author#!\nA native son of the Driftless, Author Garland was the first to write about this wondrous land of valleys and her people."
 

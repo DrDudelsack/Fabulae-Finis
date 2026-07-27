@@ -92,7 +92,7 @@
 990={ #Tioga
 	terrain="steppes"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 991={ #Grenora
 	terrain="steppes"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1329={ #Beach
 	terrain="mountain"
 	culture="badlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -273,7 +273,7 @@
 
 1858={ #Sheyenne
 	terrain="steppes"
-	culture="northlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 1859={ #Devils Lake
 	terrain="steppes"
-	culture="northlander"
+	culture="dakota"
 	religion="viking"
 	trade_goods="fish"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 1860={ #Carrington
 	terrain="steppes"
-	culture="northlander"
+	culture="dakota"
 	religion="lutheran"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -482,7 +482,7 @@
 3933={ #Bowbells
 	terrain="steppes"
 	culture="nakota"
-	religion="peyotist"
+	religion="sun_dance"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -533,7 +533,7 @@
 
 4159={ #Mandan
 	terrain="steppes"
-	culture="wolgadeutsche"
+	culture="badlander"
 	religion="lutheran"
 	trade_goods="beer"
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 6750={ #Bowman
 	terrain="steppes"
-	culture="lakota"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -923,7 +923,7 @@
 
 7149={ #Cando
 	terrain="steppes"
-	culture="mandaree"
+	culture="dakota"
 	religion="peyotist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -1145,7 +1145,7 @@
 9314={ #Powers Lake
 	terrain="steppes"
 	culture="nakota"
-	religion="peyotist"
+	religion="sun_dance"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0

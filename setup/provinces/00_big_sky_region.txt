@@ -1,7 +1,7 @@
 ﻿660={ #Lewistown
 	terrain="mountain"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 661={ #Winnett
 	terrain="plains"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 662={ #Denton
 	terrain="plains"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 663={ #Stanford
 	terrain="mountain"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1524={ #Watson Flats
 	terrain="plains"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1525={ #Jordan
 	terrain="plains"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -130,8 +130,8 @@
 
 1526={ #Sheffield
 	terrain="mountain"
-	culture="cheyenne"
-	religion="sun_dance"
+	culture="badlander"
+	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -195,7 +195,7 @@
 
 2649={ #Alzada
 	terrain="hills"
-	culture="cheyenne"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -235,7 +235,7 @@
 3566={ #Culbertson
 	terrain="steppes"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -299,7 +299,7 @@
 
 3838={ #Baker
 	terrain="steppes"
-	culture="cheyenne"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods="stone"
 	civilization_value=10
@@ -313,7 +313,7 @@
 3839={ #Wibaux
 	terrain="steppes"
 	culture="badlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -325,7 +325,7 @@
 
 3840={ #Terry
 	terrain="steppes"
-	culture="cheyenne"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -339,7 +339,7 @@
 4402={ #Colstrip
 	terrain="plains"
 	culture="cheyenne"
-	religion="peyotist"
+	religion="sun_dance"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -351,7 +351,7 @@
 
 4403={ #Vananda
 	terrain="plains"
-	culture="cheyenne"
+	culture="badlander"
 	religion="sun_dance"
 	trade_goods="grain"
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 4574={ #Harlowton
 	terrain="mountain"
-	culture="montaneer"
+	culture="badlander"
 	religion="sun_dance"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 4920={ #Harlem
 	terrain="plains"
-	culture=""
+	culture="badlander"
 	religion="sun_dance"
 	trade_goods="grain"
 	civilization_value=10
@@ -508,7 +508,7 @@
 7079={ #Sheridan
 	terrain="mountain"
 	culture="crow"
-	religion="peyotist"
+	religion="sun_dance"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 7080={ #Busby
 	terrain="plains"
 	culture="crow"
-	religion="peyotist"
+	religion="sun_dance"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 7081={ #Crow Agency
 	terrain="mountain"
 	culture="crow"
-	religion="peyotist"
+	religion="sun_dance"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 8972={ #Frazer
 	terrain="steppes"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 8973={ #Wolf Point
 	terrain="steppes"
 	culture="badlander"
-	religion="sun_dance"
+	religion="loneranger"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -650,7 +650,7 @@
 
 9078={ #Roundup
 	terrain="mountain"
-	culture="cheyenne"
+	culture="badlander"
 	religion="sun_dance"
 	trade_goods="fur"
 	civilization_value=10

@@ -16,9 +16,58 @@
     female_names = { Abby Adelheid Aganetha Albina Allison Alma Amanda Anna Arlene Augusta Barbara Becky Bettina Candice Caroline Cecilia Charlotte Cindy Claudia Clothilde Cornelia Dolores Dora Doris Dorothea Dotty Edna Elfriede Elizabeth Elvina Emma Erika Erna Esther Eva Franziska Fredericka Gertrude Gisela Greta Hannah Hannelore Harriet Hedwig Helena Henrietta Hilda Ingrid Irene Isabelle Jane Janice Jenny Josephine Judith Judy Julia Juliana Katherina Kathleen Lilly Lisa Lisette Lois Louise Ludmila Lynette Magdalena Maggy Marge Maria Martha Michelle Mina Miriam Monika Nancy Nicole Pauline Rachel Rebecca Robyn Rosa Ruth Sabine Sarah Sophie Stephanie Susan Trudy Victoria Wanda Wilhelmina Wilma }
 	family = { Aiken Alberthal Altgelt Amelung Aranda Arhelger Armbruster Arning Astran Attal Backofen Baecker Baethge Bajer Barnett Barrientez Barta Bartholomae Bartosh Bauer Baughman Bednorz Behrens Beran Berkmann Bertsch Beseda Beseler Besier Bieberstein Biedermann Bierschwale Biesele Bippert Bittner Blaschke Bludau Bluntzer Bock Bode Boehm Boehm Boerner Bohac Boldt Bombach Bomersbach Boos Borgfeld Boriack Bracht Brandenberger Brodbeck Brosch Bruckisch Bruns Bucanek Buchmeyer Buckholt Buehring Bueling-Herring Buesing Bujnoch Bunger Butterwick Cantu Cappes Capretta Casteel Castillo Cernosek Cervantes Cervenka Chapman Chovanec Chudej Chumchal Claren Coll Conzen Coufal Crenwelge Dallmeyer Dambach Dangers Dannheim Dankworth Darilek Degener Deichert Dekneef Dethard Diaz Diercks Dieterich Dietz Dlugosch Doebbler Doerfler Dohmann Domschula Dornak Dornburg Doskocil Draehn Dresel Drozd Duderstadt Dudik Duecker Durst Dutschmann Dvorak Dworaczyk Easterly Echtenkamp Eckhardt Ehrenberg Eiband Eilers Ellebracht Elstner Enderlin Erben Ernst Esmacher Etzel Ewald Fahrenhorst Fassel Faust Feller Felps Felsing Feuge Fischer Fishbeck Flach Flessner Flick Foerster Fogle Fojtik Foradory Frels French Friedrichs Friesenhahn Friesleben Fritsch Fritsche Furstenfeld Garcia Garza Gebert Geffert Gerik Gersdorff Giesecke Glau Goerig Goertz Gohlke Gohmert Gollwitzer Gonzalez Grasshoff Greilich Grobe Groff Groos Grote Gruene Gruetzmacher Grusendorf Guenther Guerrero Gundlach Gutierrez Haas Hackemack Hadeler Hafertepe Hahn Hajek Halamicek Hanus Harborth Hardberger Harring Hartmann Hasdorff Hatzfeld Hausenfluck Hausenfluke Havican Heger Heinen Heintschle Helbich Hellinger Hencerling Henneke Henning Herber Herbold Herff Hernandez Herrera Herridge Herring Hertzberg Herzik Heuermann Hickman Hightower Hilbrich Hill Hillje Hitzfeld Hlavaty Hoch Hoefer Hoelscher Hoerner Hohmann Holecek Holekamp Holubec Homeyer Hons Horak Hosek Hrna Hrncir Hromadka Hubby Hudson Huebel Hueske Human Hutyra Hykel Iltis Ingersoll Isenburg Itschner Jahns Jakubik Jalufka James Janak Janda Janecka Janek Jansing Jansky Janysek Jares Jarosek Jecmenek Jendrzey Jenschke Jezisek Jolly Jordan Juarez Junek Jurecka Kaderka Kahlden Kahlich Kahlig Kainer Kaiser Kallenberg Kallus Kalmus Kaltwasser Kaltwasser Kaluza Kambor Kammlah Kamphoefner Kansteiner Kapavik Kapp Kappelhoff Karlik Karnei Kaska Kasmiersky Kasparik Kattmann Kattner Keidel Kelm Kempf Kettler Kibby Kiehne Kiel Kieschnick Kilian Klaerner Kleberg Kleck Klein Klekar Klepac Klesel Klimitchek Klingelhoefer Kloesel Kloth Klotzbach Knapek Knebel Kneese Knesek Knopp Kocian Kocurek Koebig Koehler Kohout Kolar Konvicka Korenek Kostecka Kothe Kothmann Kotzur Kovar Kowalik Kownslar Koym Krauskopf Krenek Kresta Kriewitz Krueger Kubacak Kubala Kubena Kucera Kudelka Kuechler Kuehl Kuenemann Kulhanek Kurten Kutscherousky Lafuente Langehennig Lassmann Lecklitner Ledenham Lednicky Lehmann Lehmberg Leifeste Leiningen Leitko Lerch Leyendecker Lilljedahl Limmer Lindemann Lindheimer Loeffler Loehr Loesch Loest Luckenbach Luedecke Lueders Lungkwitz Maass Machacek Machemehl Macik Mahncke Maier Malota Mangold Marburger Marek Maresh Markwardt Marosko Marschall Martinez Marx Mascheck Matcek Matejek Matocha Mattiaschke Matula Matus Meckel Meerholz Meier Meinhardt Meinholdt Meiss Merding Merino Merkord Metting Metzger Meusebach Meuth Mezzetti Michalsky Miertschin Mikulin Miller Mills Mittasch Moczygemba Moeller Molter Monkerud Morde Morgenthaler Mosel Mozisek Mueller Munos Munsch Muska Mutscher Muzny Mynarcik Naumann Nechanitz Neese Neff Nemec Neskora Neuberger Neuendorff Neugebauer Ney Niestroy Nieuwoudt Nimitz Nohl Nordheim Nors Noska Novosad Nowicki Nutt Obergoenner Odom Oehlke Oeltjendiers Ofczarzak Ohnheiser Ondrasek Oosterveen Orr Orsak Ottmers Padalecki Pakebusch Palacios Pallmer Paniagua Pargmann Parker Patterson Pavelka Pavlicek Pekar Penland Persyn Petri Petsch Pfeil Pfenninger Pfluger Picha Piekarski Pietsch Pleasant Podsednik Pohl Pointeau Pokluda Polansky Polasek Potchernick Prachwitz Prasek Pratka Prazak Priess Proske Psencik Pustejovsky Pustka Raegner Rakowitz Ramirez Rangel Rangnow Ransleben Rathskeller Rausch Rauschenberg Regenbrecht Reichardt Reichenau Reininger Reitz Reitzel Rejcek Rekieta Rektorik Repek Ressmann Reyes Rickert Rivera Rodenbeck Rodriquez Roeder Roehling Roloff Romberg Rorig Rosenkranz Rother Roznos Roznovsky Rudloff Runge Safarik Salazar Sanchez Schaefer Schandua Scheel Schendel Schertz Schieffer Schielak Schierholz Schindler Schleicher Schlenning Schley Schmidt Schneider Schnobel Schoeneberg Schoeneman Schoener Schoppe Schroeder Schubert Schuessler Schuetze Schuhmann Schulenburg Schulmeier Schultz Schulze Schunk Schupp Schwantz Schwarz Sebesta Sefcik Segura Selig Selucky Sembera Sennhauser Shirocky Siemering Sievers Simcik Simmank Simpson Sklar Skloss Skrabanek Skrhak Slovak Smidovec Smolik Snider Snodgrass Snokhous Snyder Sodek Solis Solms Soto Soukup Southwell Spacek Specht Spiess Srubar Staacke Stahl Stancik Steffek Stefka Stehling Steihl Stieler Stockmar Stoever Stojanik Stolte Stonegate Striegler Strmiska Strubberg Sturm Sugarek Sulak Sultemeier Sultenfuss Sundermann Supak Surber Surovik Svetlik Sykora Talevich Tankersley Tatsch Tausch Tays Telgmann Tetzlaff Thielepape Thiltgen Thornton Tiemann Toepperwein Tomasek Tompkins Torzewski Traugott Trautwein Treibs Trevino Triesch Trigg Tristan Tschirhart Uhtenwoldt Ulbrich }
 	culture = {
-		hermanndeutsch = {}
-		wolgadeutsche = {}
-		wisconsindeutsch = {}
+		hermanndeutsch = {} #Weinstrasser, Missouri Germans
+		wolgadeutsche = {} #North Dakota Russian Germans
+		plautdeitsch = {} #Mennonites and other rural German groups
+		wisconsindeutsch = { #Wisconsin Germans - Rostmann names from Fan Fork
+			male_names = {
+				Abraham_Abraham Adalbert_Albert Armstrong Alfraed_Alfred Amalrick_Amalric Adalfuns_Alphonse Adam_Adam Aripert Anthony_Anthony Adalrost Aleksandar_Alexander
+				Berick Benjamin_Benjamin Burrill Bentley Benzene Bessemer Boris
+				Christian_Christian Christoph_Christohper Casimir
+				Daniel_Daniel David_David Dean Dodge Dexter Durant Dorrich Dominik_Dominic
+				Erik_Eric Etzel Eurich Edward_Edward Edmund Eugene_Eugene Erwin Elwood Edgar_Edgar Eisenwulf Eisenrich Eisenslaus
+				Frederich_Frederick Filadelph Florent Ferdinand_Ferdinand Franjo_Francis Filip_Philip
+				Gilberht_Gilbert Georg_George Gottfrid_Godfrey Gerolt_Gerald Gordon Gelbin
+				Hugo_Hugh Hammo Henrich_Henry Hudson Harley
+				Isaac_Isaac
+				Johannes_John Jakob_Jacob Justin_Justin Julian Jerome Jagiel
+				Karles_Charles Keifer Kasimir_Casimir
+				Lawrenz_Lawrence Ludewis_Louis Lumen Leonard_Leonard Ladislaus
+				Michael_Michael Morits_Maurice Martin_Martin Marklin Miles Maynard Marshall Marko_Mark
+				Nicholaus_Nicholas Nathan_Nathan
+				Otto_Otto Oliver_Oliver Orvil_Orville
+				Paul_Paul Peter_Peter Preston Payton
+				Rostwin Rohardt Roger Raymund Richardt_Richard Rainalt_Ronald Rustin
+				Steppen_Stephen Sidmund Stahlrich Stahlgar Stanislaus
+				Thomm_Thomas Theodor_Theodore Todrich
+				Vincentz_Vincent Viktor_Victor Virgil Velibor
+				Willelm_William Weyland Wayne Walther_Walter Woodward Wilbur Wernher_Werner Woitke
+				Zachary_Zachary Zwentibold
+			}
+
+			female_names = {
+				Adela_Adele Annelise Angelica Ann_Anne Amanda Antonia_Antonia Aurora_Aurora Alyssa Adina Aleksandra_Alexandra
+				Brunhilde Belaire
+				Corvette Courtney Chelsea Celia_Cecilia Cheryl
+				Daniela_Danielle Dawn Diane_Diana Deborah Dominika
+				Eleanor Erica Emma Ellen Eisenhilda Eisentrude Ester_Esther
+				Grimhilt Gladys Gabriella_Gabriele Georgeanna Gertrude
+				Hailey Helene_Helen Heather Hedwig
+				Isebella_Isabelle Idebelle Ivanna
+				Kathryn_Catherine Kristina_Christina Katerina_Catherine
+				Jennifer Julia_Julia Josefina_Josephine Jessa Janette
+				Lorelei Lenore
+				Mary_Mary Martha Margaret_Margaret Melissa Michelle Maxine
+				Nichole_Nicole Nannis Natalie
+				Paula
+				Rosa_Rose Rachel Rebecca_Rebecca Rita Regina Roxy_Roxanne
+				Sara_Sarah Susan_Susan Steffi_Stephanie Stahlhilda Sofia_Sophia
+				Todhilda Tamara
+				Violet Virginia Viktoria_Victoria
+				Willa
+				Yvette
+			}
+		}
 	}
 	
 	barbarian_names = { 
